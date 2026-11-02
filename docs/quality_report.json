@@ -1,0 +1,63 @@
+{
+  "observation_count": 300,
+  "unique_keyword_count": 300,
+  "unique_view_rows": 300,
+  "duplicate_keyword_groups": 0,
+  "conflict_groups": 0,
+  "volume_status_counts": {
+    "positive": 138,
+    "zero": 11,
+    "blank": 107,
+    "not_available": 44
+  },
+  "cpc_outlier_count": 4,
+  "sources": [
+    {
+      "source_id": "source_01",
+      "path": "data/raw/Pasted text(20261102-164123).txt",
+      "sha256": "b404b9f93a2d2e4afdd537f92a59a3d9c94e74b7d98294ff618121c0ddae2fb4",
+      "rows": 100,
+      "layout": "tab_separated",
+      "volume_status_counts": {
+        "positive": 48,
+        "zero": 4,
+        "blank": 48
+      }
+    },
+    {
+      "source_id": "source_02",
+      "path": "data/raw/Pasted text(20261102-164734).txt",
+      "sha256": "8691284c6662596e25770a56902231472aaacb9706d2ec26628c8a59b9dbfc63",
+      "rows": 100,
+      "layout": "tab_separated",
+      "volume_status_counts": {
+        "positive": 40,
+        "zero": 1,
+        "blank": 59
+      }
+    },
+    {
+      "source_id": "source_03",
+      "path": "data/raw/Pasted text (3).txt",
+      "sha256": "c1b4dc2f9bb264103820c9704e7c0cab42bcca159f184849775b6868bdf75182",
+      "rows": 100,
+      "layout": "vertical_page",
+      "volume_status_counts": {
+        "positive": 50,
+        "zero": 6,
+        "not_available": 44
+      }
+    }
+  ],
+  "missing_sources": [
+    "Pasted text (2)(1).txt"
+  ],
+  "validation": [
+    "7 fields per tab row",
+    "100 query inputs match 100 vertical result rows",
+    "KD range 0-100",
+    "nonnegative volume",
+    "no null-to-zero imputation",
+    "normalized keys retain spelling variants"
+  ]
+}

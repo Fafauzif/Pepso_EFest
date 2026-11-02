@@ -1,0 +1,100 @@
+pepsodent	Navigational	27100	31	362.54	Knowledge panel, Sitelinks, Video, People also ask, Related searches, People also search, AI Overview	Now
+odol	Informational	12100	33	1812.72	Image pack, Reviews, Video, People also ask, AI Overview	Now
+pasta gigi	Informational	12100	20	725.09	Image pack, Image, People also ask, Related searches, AI Overview	Now
+pepsodent whitening	Informational	4400	25	725.09	Image pack, Video carousel, People also ask, Related searches, Short videos, AI Overview	Now
+pepsodent sensitive expert	Informational	3600	19	543.81	Image pack, Video, Image, People also ask, Related searches, AI Overview	Now
+pepsodent herbal	Informational	2900	26	5216087.41	Image pack, Reviews, Image, People also ask, Popular products, Related searches, AI Overview	Now
+odol pepsodent	Informational	2400	30	362.54	Image pack, Video, Image, Video carousel, People also ask, Related searches, AI Overview	Now
+pasta gigi pepsodent	Informational	2400	24	362.54	Image pack, Video, People also ask, Related searches, AI Overview	Now
+pepsodent gum expert	Informational	1900	18	725.09	Image pack, Video, Image, People also ask, Related searches, AI Overview	Now
+pepsodent siwak	Informational	1600	30	0.00	Image pack, Image, People also ask, Related searches, AI Overview	Now
+pepsodent ultra white	Informational	1600	24	906.36	Image pack, Video, Image, Video carousel, People also ask, Related searches, AI Overview	Now
+merk odol	Informational	1000	20	0.00	People also ask, Related searches, AI Overview	Now
+pepsodent complete 8	Informational	1000	27	0.00	Image pack, Sitelinks, Reviews, Related searches, AI Overview	Now
+pasta gigi terbaik	Informational	880	29	725.09	Image pack, Image, People also ask, Related searches, AI Overview	Now
+pasta gigi yang bagus	Informational	880	30	725.09	Image pack, Image, People also ask, Related searches, AI Overview	Now
+pepsodent charcoal	Informational, Transactional	880	30	0.00	Image pack, Sitelinks, People also ask, Popular products, AI Overview	Now
+merek pasta gigi	Informational	720	17	1087.63	Sitelinks, People also ask, Related searches, AI Overview	Now
+merk pasta gigi	Informational	720	20	1087.63	People also ask, Related searches, AI Overview	Now
+pepsodent action 123	Informational	590	18	0.00	Image pack, Sitelinks, Reviews, Image, People also ask, Related searches, AI Overview	Now
+pepsodent sensitive expert whitening	Informational	590	18	906.36	Image pack, Video, Image, People also ask, Related searches, AI Overview	Now
+pepsodent pencegah gigi berlubang	Informational	480	27	5205573.67	Image pack, Sitelinks, Image, Video carousel, People also ask, Related searches, AI Overview	Now
+pepsodent sensitive mineral expert	Informational	480	20	993549.09	Image pack, Video, Image, People also ask, Related searches, AI Overview	Now
+pepsodent center fresh	Informational	390	24	0.00	Image pack, Sitelinks, Reviews, Video, People also ask, Related searches, AI Overview	Now
+odol yang bagus	Informational	320	24	543.81	Image pack, People also ask, Related searches, AI Overview	Now
+varian pepsodent	Informational	320	18	0.00	Image pack, People also ask, Related searches, AI Overview	Now
+pepsodent fresh cool mint	Informational	260	17	0.00	Image pack, Sitelinks, Reviews, Image, People also ask, Related searches, AI Overview	Now
+rekomendasi pasta gigi	Informational	260	19	362.54	Sitelinks, People also ask, Related searches, AI Overview	Now
+kandungan pasta gigi	Informational	210	24	0.00	Image pack, People also ask, Related searches, AI Overview	Now
+macam macam pasta gigi	Informational	210	34	0.00	Image pack, Image, People also ask, Related searches, AI Overview	Now
+manfaat pasta gigi	Informational	210	20	0.00	Image pack, Sitelinks, People also ask, Related searches, AI Overview	Now
+kandungan pepsodent	Informational	170	23	0.00	Image pack, Video, People also ask, Related searches, AI Overview	Now
+manfaat pepsodent	Informational	170	22	0.00	Image pack, Video, People also ask, Related searches, AI Overview	Now
+odol terbaik	Informational	170	33	906.36	Image pack, Image, People also ask, Related searches, AI Overview	Now
+jenis pasta gigi	Informational	140	23	0.00	Image pack, Image, People also ask, Related searches, AI Overview	Now
+macam macam pepsodent	Informational	140	29	0.00	Image pack, People also ask, Related searches, AI Overview	Now
+pepsodent sensitive expert original	Informational	140	23	0.00	Image pack, Reviews, People also ask, Related searches, AI Overview	Now
+pasta gigi yang aman	Informational	110	16	725.09	Image pack, People also ask, Related searches, AI Overview	Now
+pepsodent complete care	Informational	40	25	0.00	Image pack, Sitelinks, Reviews, People also ask, AI Overview	Now
+pepsodent sensitive expert fresh	Informational	40	19	0.00	Image pack, Sitelinks, Video, Image, People also ask, Related searches, AI Overview	Now
+pasta gigi halal	Informational	30	17	0.00	Image pack, People also ask, AI Overview	Now
+pepsodent biasa	Informational	30	26	0.00	Image pack, Video carousel, People also ask	Now
+bahan pasta gigi	Informational	20	25	0.00	Image pack, Image, People also ask, Related searches, AI Overview	Now
+fungsi pasta gigi	Informational	20	12	0.00	Image pack, People also ask, Related searches, AI Overview	Now
+jenis pepsodent	Informational	20	27	0.00	Image pack, Video, People also ask, Related searches, AI Overview	Now
+pasta gigi premium	Informational	20	23	0.00	Image pack, Related searches, AI Overview	Now
+pepsodent plus whitening	Informational	20	20	0.00	Image pack, Sitelinks, Video, Image, People also ask, Related searches, AI Overview	Now
+pasta gigi rekomendasi dokter gigi	Informational	10	16	3081.62	Sitelinks, People also ask, Related searches, AI Overview	Now
+review pepsodent	Informational, Transactional	10	20	0.00	Reviews, Video, Video carousel, People also ask, Related searches	Now
+cara memilih pasta gigi	Informational	0	9	0.00	Image pack, Video carousel, People also ask, Related searches, AI Overview	Now
+pasta gigi bpom	Informational	0	22	0.00	Image pack, Image, People also ask, Related searches	Now
+pepsodent sensitiv expert	Informational	0	19	0.00	Reviews, People also ask, Related searches, AI Overview	Now
+perbedaan pasta gigi	Informational	0	16	0.00	Sitelinks, Video, Video carousel, People also ask, Related searches	Now
+apakah semua odol sama	Informational		39		Video carousel, People also ask, Related searches	Now
+apakah semua pasta gigi sama	Informational, Transactional		27		Video carousel, People also ask, Related searches	Now
+cara memilih odol	Informational		24		People also ask, AI Overview	Now
+odol mahal vs murah	Informational		34		Video, Video carousel, People also ask	Now
+odol murah yang bagus	Informational, Transactional		29		Reviews, People also ask	Now
+odol premium	Informational		32		Video, Related searches, AI Overview	Now
+odol rekomendasi dokter gigi	Informational		33		Image pack, Video, People also ask, Related searches, AI Overview	Now
+pasta gigi biasa	Informational		31		People also ask	Now
+pasta gigi lokal	Informational		29		Image pack, Image, People also ask, Related searches	Now
+pasta gigi mahal apakah lebih bagus	Informational, Transactional		24		Video, Video carousel, People also ask	Now
+pasta gigi mahal vs murah	Informational		30		Video carousel, People also ask, Related searches	Now
+pasta gigi murah yang bagus	Informational, Transactional				People also ask, Related searches	Now
+pasta gigi paling banyak digunakan	Informational		32		People also ask, Related searches	Now
+pasta gigi paling laris	Informational		25		Video, People also ask, Related searches, AI Overview	Now
+pasta gigi perlindungan lengkap	Informational		34		Video carousel, Related searches	Now
+pasta gigi sesuai kebutuhan	Informational, Transactional		28		Video carousel, People also ask, Related searches	Now
+pasta gigi untuk anak kos	Informational		17		Video, People also ask	Now
+pasta gigi untuk dewasa	Informational		31		Image pack, People also ask, Related searches, AI Overview	Now
+pasta gigi untuk gigi dan gusi	Informational		22		Image pack, Video, People also ask, Related searches, AI Overview	Now
+pasta gigi untuk keluarga	Informational, Navigational		31		Video carousel, People also ask, Related searches	Now
+pasta gigi untuk kesehatan gigi	Informational		16		Sitelinks, People also ask, Related searches	Now
+pasta gigi untuk mahasiswa	Informational		21		People also ask, Related searches	Now
+pasta gigi untuk pekerja	Informational, Transactional		29		Reviews, People also ask	Now
+pasta gigi untuk remaja	Informational		30		Video, People also ask, Related searches	Now
+pasta gigi untuk sehari hari	Informational		17		Video, People also ask, Related searches	Now
+pepsodent complete 8 charcoal	Informational		28		Image pack, Video, People also ask, Popular products, Related searches, AI Overview	Now
+pepsodent complete 8 herbal	Informational		30		Image pack, Reviews, Image, People also ask, AI Overview	Now
+pepsodent complete 8 whitening	Informational, Navigational		30		Image pack, Sitelinks, People also ask, AI Overview	Now
+pepsodent gum expert fresh	Informational, Transactional		19		Image pack, Reviews, People also ask, Related searches, AI Overview	Now
+pepsodent gum expert whitening	Informational		22		Image pack, Video, Image, Video carousel, People also ask, Related searches, AI Overview	Now
+pepsodent multi protection	Informational		25		Image pack, Reviews, Video, Image, People also ask, Related searches, AI Overview	Now
+pepsodent premium	Informational		26		Video, Video carousel, People also ask, Related searches, AI Overview	Now
+pepsodent putih	Informational		32		Image pack, Image, People also ask, Related searches, AI Overview	Now
+pepsodent sensitive expert complete care	Informational		27		Image pack, Sitelinks, Video, People also ask, Related searches, AI Overview	Now
+pepsodent sensitive expert maxi repair	Informational, Transactional		27		Image pack, Video, People also ask, Related searches	Now
+pepsodent siwak habbatussauda	Informational		30		Image pack, Video, Image, People also ask, Related searches, AI Overview	Now
+pepsodent terbaik	Informational		31		Image pack, Sitelinks, People also ask, Related searches, AI Overview	Now
+pepsodent ultra white fresh shine	Informational		29		Image pack, Reviews, Image, People also ask, Related searches, AI Overview	Now
+pepsodent ultra white gentle radiance						
+pepsodent ultra white purified shine	Informational		18		Image pack, Sitelinks, Video, Image, People also ask, Related searches, AI Overview	Now
+pepsodent ultra white ultimate bright	Informational		24		Image pack, Video, Image, People also ask, Related searches, AI Overview	Now
+pepsodent untuk apa	Informational		33		Video, Video carousel, People also ask, Related searches, AI Overview	Now
+pepsodent yang bagus	Informational		30		Image pack, People also ask, Related searches, AI Overview	Now
+perbedaan odol	Informational		29		Sitelinks, Video, People also ask, Related searches	Now
+perbedaan varian pepsodent	Informational		35		Video, People also ask, Related searches	Now
+rekomendasi odol	Informational		32		Image pack, People also ask, Related searches, AI Overview	Now
+rekomendasi pepsodent	Informational				Sitelinks, Video, Related searches, AI Overview	Now
+ulasan pepsodent	Informational		33		Video carousel, People also ask, Related searches	Now

@@ -1,0 +1,202 @@
+observation_id,keyword,quality_flags,cpc_raw
+source_01_001,pepsodent,headers_inferred; cpc_currency_unconfirmed,362.54
+source_01_002,odol,headers_inferred; cpc_currency_unconfirmed,1812.72
+source_01_003,pasta gigi,headers_inferred; cpc_currency_unconfirmed,725.09
+source_01_004,pepsodent whitening,headers_inferred; cpc_currency_unconfirmed,725.09
+source_01_005,pepsodent sensitive expert,headers_inferred; cpc_currency_unconfirmed,543.81
+source_01_006,pepsodent herbal,headers_inferred; cpc_currency_unconfirmed; cpc_numeric_outlier_gt_100000,5216087.41
+source_01_007,odol pepsodent,headers_inferred; cpc_currency_unconfirmed,362.54
+source_01_008,pasta gigi pepsodent,headers_inferred; cpc_currency_unconfirmed,362.54
+source_01_009,pepsodent gum expert,headers_inferred; cpc_currency_unconfirmed,725.09
+source_01_010,pepsodent siwak,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_011,pepsodent ultra white,headers_inferred; cpc_currency_unconfirmed,906.36
+source_01_012,merk odol,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_013,pepsodent complete 8,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_014,pasta gigi terbaik,headers_inferred; cpc_currency_unconfirmed,725.09
+source_01_015,pasta gigi yang bagus,headers_inferred; cpc_currency_unconfirmed,725.09
+source_01_016,pepsodent charcoal,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_017,merek pasta gigi,headers_inferred; cpc_currency_unconfirmed,1087.63
+source_01_018,merk pasta gigi,headers_inferred; cpc_currency_unconfirmed,1087.63
+source_01_019,pepsodent action 123,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_020,pepsodent sensitive expert whitening,headers_inferred; cpc_currency_unconfirmed,906.36
+source_01_021,pepsodent pencegah gigi berlubang,headers_inferred; cpc_currency_unconfirmed; cpc_numeric_outlier_gt_100000,5205573.67
+source_01_022,pepsodent sensitive mineral expert,headers_inferred; cpc_currency_unconfirmed; cpc_numeric_outlier_gt_100000,993549.09
+source_01_023,pepsodent center fresh,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_024,odol yang bagus,headers_inferred; cpc_currency_unconfirmed,543.81
+source_01_025,varian pepsodent,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_026,pepsodent fresh cool mint,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_027,rekomendasi pasta gigi,headers_inferred; cpc_currency_unconfirmed,362.54
+source_01_028,kandungan pasta gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_029,macam macam pasta gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_030,manfaat pasta gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_031,kandungan pepsodent,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_032,manfaat pepsodent,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_033,odol terbaik,headers_inferred; cpc_currency_unconfirmed,906.36
+source_01_034,jenis pasta gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_035,macam macam pepsodent,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_036,pepsodent sensitive expert original,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_037,pasta gigi yang aman,headers_inferred; cpc_currency_unconfirmed,725.09
+source_01_038,pepsodent complete care,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_039,pepsodent sensitive expert fresh,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_040,pasta gigi halal,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_041,pepsodent biasa,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_042,bahan pasta gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_043,fungsi pasta gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_044,jenis pepsodent,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_045,pasta gigi premium,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_046,pepsodent plus whitening,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_047,pasta gigi rekomendasi dokter gigi,headers_inferred; cpc_currency_unconfirmed,3081.62
+source_01_048,review pepsodent,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_049,cara memilih pasta gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_050,pasta gigi bpom,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_051,pepsodent sensitiv expert,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_052,perbedaan pasta gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_01_053,apakah semua odol sama,headers_inferred; cpc_currency_unconfirmed,
+source_01_054,apakah semua pasta gigi sama,headers_inferred; cpc_currency_unconfirmed,
+source_01_055,cara memilih odol,headers_inferred; cpc_currency_unconfirmed,
+source_01_056,odol mahal vs murah,headers_inferred; cpc_currency_unconfirmed,
+source_01_057,odol murah yang bagus,headers_inferred; cpc_currency_unconfirmed,
+source_01_058,odol premium,headers_inferred; cpc_currency_unconfirmed,
+source_01_059,odol rekomendasi dokter gigi,headers_inferred; cpc_currency_unconfirmed,
+source_01_060,pasta gigi biasa,headers_inferred; cpc_currency_unconfirmed,
+source_01_061,pasta gigi lokal,headers_inferred; cpc_currency_unconfirmed,
+source_01_062,pasta gigi mahal apakah lebih bagus,headers_inferred; cpc_currency_unconfirmed,
+source_01_063,pasta gigi mahal vs murah,headers_inferred; cpc_currency_unconfirmed,
+source_01_064,pasta gigi murah yang bagus,headers_inferred; cpc_currency_unconfirmed,
+source_01_065,pasta gigi paling banyak digunakan,headers_inferred; cpc_currency_unconfirmed,
+source_01_066,pasta gigi paling laris,headers_inferred; cpc_currency_unconfirmed,
+source_01_067,pasta gigi perlindungan lengkap,headers_inferred; cpc_currency_unconfirmed,
+source_01_068,pasta gigi sesuai kebutuhan,headers_inferred; cpc_currency_unconfirmed,
+source_01_069,pasta gigi untuk anak kos,headers_inferred; cpc_currency_unconfirmed,
+source_01_070,pasta gigi untuk dewasa,headers_inferred; cpc_currency_unconfirmed,
+source_01_071,pasta gigi untuk gigi dan gusi,headers_inferred; cpc_currency_unconfirmed,
+source_01_072,pasta gigi untuk keluarga,headers_inferred; cpc_currency_unconfirmed,
+source_01_073,pasta gigi untuk kesehatan gigi,headers_inferred; cpc_currency_unconfirmed,
+source_01_074,pasta gigi untuk mahasiswa,headers_inferred; cpc_currency_unconfirmed,
+source_01_075,pasta gigi untuk pekerja,headers_inferred; cpc_currency_unconfirmed,
+source_01_076,pasta gigi untuk remaja,headers_inferred; cpc_currency_unconfirmed,
+source_01_077,pasta gigi untuk sehari hari,headers_inferred; cpc_currency_unconfirmed,
+source_01_078,pepsodent complete 8 charcoal,headers_inferred; cpc_currency_unconfirmed,
+source_01_079,pepsodent complete 8 herbal,headers_inferred; cpc_currency_unconfirmed,
+source_01_080,pepsodent complete 8 whitening,headers_inferred; cpc_currency_unconfirmed,
+source_01_081,pepsodent gum expert fresh,headers_inferred; cpc_currency_unconfirmed,
+source_01_082,pepsodent gum expert whitening,headers_inferred; cpc_currency_unconfirmed,
+source_01_083,pepsodent multi protection,headers_inferred; cpc_currency_unconfirmed,
+source_01_084,pepsodent premium,headers_inferred; cpc_currency_unconfirmed,
+source_01_085,pepsodent putih,headers_inferred; cpc_currency_unconfirmed,
+source_01_086,pepsodent sensitive expert complete care,headers_inferred; cpc_currency_unconfirmed,
+source_01_087,pepsodent sensitive expert maxi repair,headers_inferred; cpc_currency_unconfirmed,
+source_01_088,pepsodent siwak habbatussauda,headers_inferred; cpc_currency_unconfirmed,
+source_01_089,pepsodent terbaik,headers_inferred; cpc_currency_unconfirmed,
+source_01_090,pepsodent ultra white fresh shine,headers_inferred; cpc_currency_unconfirmed,
+source_01_091,pepsodent ultra white gentle radiance,headers_inferred; cpc_currency_unconfirmed; intent_missing,
+source_01_092,pepsodent ultra white purified shine,headers_inferred; cpc_currency_unconfirmed,
+source_01_093,pepsodent ultra white ultimate bright,headers_inferred; cpc_currency_unconfirmed,
+source_01_094,pepsodent untuk apa,headers_inferred; cpc_currency_unconfirmed,
+source_01_095,pepsodent yang bagus,headers_inferred; cpc_currency_unconfirmed,
+source_01_096,perbedaan odol,headers_inferred; cpc_currency_unconfirmed,
+source_01_097,perbedaan varian pepsodent,headers_inferred; cpc_currency_unconfirmed,
+source_01_098,rekomendasi odol,headers_inferred; cpc_currency_unconfirmed,
+source_01_099,rekomendasi pepsodent,headers_inferred; cpc_currency_unconfirmed,
+source_01_100,ulasan pepsodent,headers_inferred; cpc_currency_unconfirmed,
+source_02_001,cara memutihkan gigi,headers_inferred; cpc_currency_unconfirmed,906.36
+source_02_002,cara mengatasi gigi ngilu,headers_inferred; cpc_currency_unconfirmed,1087.63
+source_02_003,pasta gigi untuk gigi ngilu,headers_inferred; cpc_currency_unconfirmed,543.81
+source_02_004,penyebab gigi ngilu,headers_inferred; cpc_currency_unconfirmed,362.54
+source_02_005,cara memutihkan gigi secara alami,headers_inferred; cpc_currency_unconfirmed,543.81
+source_02_006,gigi kuning,headers_inferred; cpc_currency_unconfirmed,725.09
+source_02_007,cara menghilangkan gigi kuning,headers_inferred; cpc_currency_unconfirmed,725.09
+source_02_008,gigi ngilu,headers_inferred; cpc_currency_unconfirmed,362.54
+source_02_009,penyebab gigi kuning,headers_inferred; cpc_currency_unconfirmed,362.54
+source_02_010,pasta gigi pemutih,headers_inferred; cpc_currency_unconfirmed,725.09
+source_02_011,pasta gigi untuk gigi kuning,headers_inferred; cpc_currency_unconfirmed,906.36
+source_02_012,odol untuk gigi sensitif,headers_inferred; cpc_currency_unconfirmed,725.09
+source_02_013,gigi sensitif,headers_inferred; cpc_currency_unconfirmed,362.54
+source_02_014,pasta gigi untuk gigi sensitif,headers_inferred; cpc_currency_unconfirmed,725.09
+source_02_015,pasta gigi pemutih terbaik,headers_inferred; cpc_currency_unconfirmed,725.09
+source_02_016,gigi putih,headers_inferred; cpc_currency_unconfirmed,2537.80
+source_02_017,warna gigi normal,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_018,odol untuk gigi ngilu,headers_inferred; cpc_currency_unconfirmed,725.09
+source_02_019,rekomendasi pasta gigi pemutih,headers_inferred; cpc_currency_unconfirmed,543.81
+source_02_020,cara mengatasi gigi sensitif,headers_inferred; cpc_currency_unconfirmed,543.81
+source_02_021,pasta gigi charcoal,headers_inferred; cpc_currency_unconfirmed,725.09
+source_02_022,pepsodent untuk gigi ngilu,headers_inferred; cpc_currency_unconfirmed,543.81
+source_02_023,gigi ngilu saat makan manis,headers_inferred; cpc_currency_unconfirmed,362.54
+source_02_024,gigi ngilu saat minum dingin,headers_inferred; cpc_currency_unconfirmed,362.54
+source_02_025,penyebab gigi sensitif,headers_inferred; cpc_currency_unconfirmed,362.54
+source_02_026,pasta gigi sensitif terbaik,headers_inferred; cpc_currency_unconfirmed,543.81
+source_02_027,pepsodent untuk gigi kuning,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_028,pepsodent untuk gigi sensitif,headers_inferred; cpc_currency_unconfirmed,1631.44
+source_02_029,gigi kuning karena kopi,headers_inferred; cpc_currency_unconfirmed,543.81
+source_02_030,odol untuk gigi kuning,headers_inferred; cpc_currency_unconfirmed; cpc_numeric_outlier_gt_100000,536019.83
+source_02_031,gigi putih alami,headers_inferred; cpc_currency_unconfirmed,362.54
+source_02_032,odol pemutih,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_033,gigi ngilu saat sikat gigi,headers_inferred; cpc_currency_unconfirmed,543.81
+source_02_034,gigi ngilu setelah makan asam,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_035,gigi ngilu setelah sikat gigi,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_036,pasta gigi hydroxyapatite,headers_inferred; cpc_currency_unconfirmed,1450.17
+source_02_037,pepsodent charcoal review,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_038,pepsodent whitening review,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_039,whitening gigi tahan berapa lama,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_040,odol pemutih terbaik,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_041,gigi kuning karena teh,headers_inferred; cpc_currency_unconfirmed,0.00
+source_02_042,apakah odol bisa memutihkan gigi,headers_inferred; cpc_currency_unconfirmed,
+source_02_043,berapa lama pasta gigi memutihkan gigi,headers_inferred; cpc_currency_unconfirmed,
+source_02_044,berapa lama pasta gigi sensitif bekerja,headers_inferred; cpc_currency_unconfirmed,
+source_02_045,cara memutihkan gigi di rumah,headers_inferred; cpc_currency_unconfirmed,
+source_02_046,cara menghilangkan noda kopi di gigi,headers_inferred; cpc_currency_unconfirmed,
+source_02_047,cara menghilangkan noda rokok di gigi,headers_inferred; cpc_currency_unconfirmed,
+source_02_048,gigi kuning karena rokok,headers_inferred; cpc_currency_unconfirmed,
+source_02_049,gigi kuning padahal rajin sikat gigi,headers_inferred; cpc_currency_unconfirmed,
+source_02_050,gigi masih ngilu setelah pakai pasta gigi sensitif,headers_inferred; cpc_currency_unconfirmed,
+source_02_051,gigi ngilu saat minum panas,headers_inferred; cpc_currency_unconfirmed,
+source_02_052,gigi sensitif bisa sembuh,headers_inferred; cpc_currency_unconfirmed,
+source_02_053,gigi sensitif dan gigi berlubang,headers_inferred; cpc_currency_unconfirmed,
+source_02_054,noda kopi pada gigi,headers_inferred; cpc_currency_unconfirmed,
+source_02_055,pasta gigi charcoal apakah aman,headers_inferred; cpc_currency_unconfirmed,
+source_02_056,pasta gigi charcoal manfaat,headers_inferred; cpc_currency_unconfirmed,
+source_02_057,pasta gigi charcoal untuk gigi kuning,headers_inferred; cpc_currency_unconfirmed,
+source_02_058,pasta gigi hap,headers_inferred; cpc_currency_unconfirmed,
+source_02_059,pasta gigi memperkuat enamel,headers_inferred; cpc_currency_unconfirmed,
+source_02_060,pasta gigi pemutih apakah efektif,headers_inferred; cpc_currency_unconfirmed,
+source_02_061,pasta gigi pemutih bikin ngilu,headers_inferred; cpc_currency_unconfirmed,
+source_02_062,pasta gigi pemutih merusak enamel,headers_inferred; cpc_currency_unconfirmed,
+source_02_063,pasta gigi pemutih murah,headers_inferred; cpc_currency_unconfirmed,
+source_02_064,pasta gigi pemutih untuk gigi sensitif,headers_inferred; cpc_currency_unconfirmed,
+source_02_065,pasta gigi pemutih vs bleaching,headers_inferred; cpc_currency_unconfirmed,
+source_02_066,pasta gigi pemutih vs whitening strip,headers_inferred; cpc_currency_unconfirmed,
+source_02_067,pasta gigi pemutih yang aman,headers_inferred; cpc_currency_unconfirmed,
+source_02_068,pasta gigi sensitif apakah efektif,headers_inferred; cpc_currency_unconfirmed,
+source_02_069,pasta gigi sensitif boleh dipakai setiap hari,headers_inferred; cpc_currency_unconfirmed,
+source_02_070,pasta gigi sensitif murah,headers_inferred; cpc_currency_unconfirmed,
+source_02_071,pasta gigi sensitif tidak mempan,headers_inferred; cpc_currency_unconfirmed,
+source_02_072,pasta gigi sensitif untuk gigi normal,headers_inferred; cpc_currency_unconfirmed,
+source_02_073,pasta gigi sensitif untuk sehari hari,headers_inferred; cpc_currency_unconfirmed,
+source_02_074,pasta gigi untuk email gigi,headers_inferred; cpc_currency_unconfirmed,
+source_02_075,pasta gigi untuk enamel,headers_inferred; cpc_currency_unconfirmed,
+source_02_076,pepsodent biasa untuk gigi sensitif,headers_inferred; cpc_currency_unconfirmed,
+source_02_077,pepsodent charcoal vs whitening,headers_inferred; cpc_currency_unconfirmed,
+source_02_078,pepsodent maxi repair review,headers_inferred; cpc_currency_unconfirmed,
+source_02_079,pepsodent pemutih,headers_inferred; cpc_currency_unconfirmed,
+source_02_080,pepsodent sensitive expert apakah bagus,headers_inferred; cpc_currency_unconfirmed,
+source_02_081,pepsodent sensitive expert berapa lama,headers_inferred; cpc_currency_unconfirmed,
+source_02_082,pepsodent sensitive expert cara pakai,headers_inferred; cpc_currency_unconfirmed,
+source_02_083,pepsodent sensitive expert complete care manfaat,headers_inferred; cpc_currency_unconfirmed,
+source_02_084,pepsodent sensitive expert efek samping,headers_inferred; cpc_currency_unconfirmed,
+source_02_085,pepsodent sensitive expert kandungan,headers_inferred; cpc_currency_unconfirmed,
+source_02_086,pepsodent sensitive expert manfaat,headers_inferred; cpc_currency_unconfirmed,
+source_02_087,pepsodent sensitive expert original vs fresh,headers_inferred; cpc_currency_unconfirmed,
+source_02_088,pepsodent sensitive expert review,headers_inferred; cpc_currency_unconfirmed,
+source_02_089,pepsodent sensitive expert untuk sehari hari,headers_inferred; cpc_currency_unconfirmed,
+source_02_090,pepsodent sensitive expert whitening review,headers_inferred; cpc_currency_unconfirmed,
+source_02_091,pepsodent sensitive mineral expert review,headers_inferred; cpc_currency_unconfirmed,
+source_02_092,pepsodent ultra white apakah efektif,headers_inferred; cpc_currency_unconfirmed,
+source_02_093,pepsodent ultra white harga,headers_inferred; cpc_currency_unconfirmed,
+source_02_094,pepsodent ultra white review,headers_inferred; cpc_currency_unconfirmed,
+source_02_095,pepsodent whitening apakah memutihkan,headers_inferred; cpc_currency_unconfirmed,
+source_02_096,pepsodent whitening berapa lama,headers_inferred; cpc_currency_unconfirmed,
+source_02_097,pepsodent whitening efek samping,headers_inferred; cpc_currency_unconfirmed,
+source_02_098,pepsodent whitening manfaat,headers_inferred; cpc_currency_unconfirmed,
+source_02_099,perbedaan gigi sensitif dan gigi berlubang,headers_inferred; cpc_currency_unconfirmed,
+source_02_100,rekomendasi pasta gigi sensitif,headers_inferred; cpc_currency_unconfirmed,
+source_03_002,close up,ambiguous_generic_brand_term,543.81

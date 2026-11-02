@@ -1,0 +1,28 @@
+{
+  "status": "Not executed; verify live schema, pricing and limits before reuse",
+  "actor": "pnda/semrush-keyword",
+  "pilot": {
+    "mode": "keyword",
+    "q": "pepsodent",
+    "db": "id",
+    "type": "phrase",
+    "pages": 1
+  },
+  "main": {
+    "mode": "keyword",
+    "queries": [
+      "pasta gigi",
+      "odol",
+      "sensodyne",
+      "gigi sensitif",
+      "gigi kuning"
+    ],
+    "db": "id",
+    "type": "phrase",
+    "pages": 1
+  },
+  "suggested_run_option_cost_caps_usd": {
+    "pilot": 0.75,
+    "main": 3.25
+  }
+}
