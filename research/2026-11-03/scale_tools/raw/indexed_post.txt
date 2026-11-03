@@ -1,0 +1,1650 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=9">
+    <title>Rumail Abbas @Stakof, Twitter Profile | TwStalker</title>
+    <meta name="description" content="See tweets, replies, photos and videos from @Stakof Twitter profile.">
+    <meta name="author" content="TwStalker">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="TwStalker - Twitter Search Web Viewer" />
+    <meta name="twitter:description" content="TwStalker, Search twitter profiles and analyze trending topic hashtags.">
+    <meta name="twitter:image" content="/images/twicon.png" />
+    <link href="/css/responsive.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
+    <link href="/css/datepicker.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.5.3/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.carousel.min.css" rel="stylesheet">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/owl-carousel/1.3.3/owl.theme.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-social/4.12.0/bootstrap-social.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Material+Icons">
+    </head>
+
+<body>
+<header>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-md-12 col-sm-12">
+                <nav class="navbar navbar-expand-lg navbar-light bg-dark1 justify-content-sm-start">
+                    <a class="order-1 order-lg-0 ml-lg-0 ml-3 mr-auto" href="/"><img src="/images/TwStalker.svg" alt=""></a>
+                </nav>
+                <div class="overlay"></div>
+            </div>
+        </div>
+    </div>
+</header>
+
+
+<main class="Search-results">
+    <style>
+        .button {
+            background-color: #4caf50;
+            border: none;
+            color: #fff;
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer
+        }
+
+        .button3 {
+            background-color: #f44336
+        }
+
+        .main-posts {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            position: relative
+        }
+
+        .main-posts:before {
+            content: '';
+            position: absolute;
+            top: 5px;
+            bottom: 30px;
+            width: 5px;
+            background: #2d353c;
+            left: 10%;
+            margin-left: -2.5px
+        }
+
+        .main-posts>li {
+            position: relative;
+        }
+    </style>
+    <div class="container">
+        <div class="row justify-content-md-center">
+            <div class="col-lg-6">
+                <div class="form-group scl-icn" style="margin-top: 0px;">
+                    <input id="searchInput" class="social-input" onchange="submitForm();" type="text" placeholder="Search username">
+                    <button type="button" onclick="submitForm()" class="btn" style="background: #dd4b39;width: 40px;height: 40px;border-top-right-radius: 0px;border-bottom-right-radius: 0px;text-align: center;font-size: 16px;color: #fff;margin-top: -67px;">
+                        <i class="fas fa-search"></i></button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="dash-tab-links">
+        <div class="container">
+            <div class="row justify-content-md-center">
+                <div class="col-lg-6 col-md-7" id="nav-tabContent">
+                                        <div id="tweets-tabs" class="main-posts">
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/Stakof"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1973726531785838593/PJ2i_TYY.jpg" alt="Stakof Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/Stakof">
+                                                    <h4>Rumail Abbas<svg viewBox="0 0 22 22" aria-label="Verified" class="r-4qtqp9 r-yyyyoo r-1xvli5t r-bnwqim r-1plcrui r-lrvibr r-1cvl2hr r-f9ja8p r-og9te1 r-9cviqr" data-testid="icon-verified">
+<path d="M20.396 11a3.487 3.487 0 0 0-2.008-3.062 3.474 3.474 0 0 0-.742-3.584 3.474 3.474 0 0 0-3.584-.742A3.468 3.468 0 0 0 11 1.604a3.463 3.463 0 0 0-3.053 2.008 3.472 3.472 0 0 0-1.902-.14c-.635.13-1.22.436-1.69.882a3.461 3.461 0 0 0-.734 3.584A3.49 3.49 0 0 0 1.604 11a3.496 3.496 0 0 0 2.017 3.062 3.471 3.471 0 0 0 .733 3.584 3.49 3.49 0 0 0 3.584.742A3.487 3.487 0 0 0 11 20.396a3.476 3.476 0 0 0 3.062-2.007 3.335 3.335 0 0 0 4.326-4.327A3.487 3.487 0 0 0 20.396 11zM9.662 14.85l-3.429-3.428 1.293-1.302 2.072 2.072 4.4-4.794 1.347 1.246z"/>
+</svg>                                                        <span> @Stakof</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/Stakof/status/2068234900491129031">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p>Berdasarkan kategori kelas tahun 2024, bisa dibilang saya ini masuk kategori “Menuju Kelas Menengah” (Aspiring Middle Class). Dan sejak anak perempuan saya lahir dua tahun silam, saya berusaha men-downgrade kualitas hidup di rumah.
+
+Pertama, BPJS kami awalnya Kelas I, lantas saya downgrade menjadi Kelas III (kecuali ibu, masih di Kelas I).
+
+Kedua, token listrik per bulan biasanya saya isi 600rb, tapi saya kurangi pemakaian AC dan setamsilnya hingga setiap bulan saya isi 300rb (dan harus cukup sebulan, jangan sampai bunyi sebelum ngisi lagi!).
+
+Ketiga, saya pernah mau mengganti provider internet yang lebih murah, tapi secara kebetulan Indihome mendengar kegelisahan itu di X (dulu: Twitter) dan memberikan penawaran yang layak dipertahankan.
+
+Tahu kenapa saya masih bertahan dengan Indihome?
+
+Keempat, sebelumnya biaya langganan Indihome saya hampir 500rb, kemudian ada penawaran 300rb-an dengan bundled: Netflix, PrimeVideo, dan CatchPlay.
+
+Jadi, ketika dulu saya langganan Netflix, Viu, dan Disney+ Hotstar, sekarang saya sudah tidak lagi menikmatinya kecuali login dengan nomor Indihome saya saja.
+
+Kelima, pasta gigi saya, misalnya, harganya sampai 300rb. Tahu pasta gigi impor bernama Pasta Del Capitano? Sekarang, saya cukup pakai Pepsodent. Sabun mandi pun Sinzui yang saya beli di warung Mbak Ab atau Alfamart.
+
+Keenam, anak lanang saya sekolah di SDN, bukan sekolah swasta dengan guru (yang katanya) lebih ramah dan kurikulumnya lebih bagus itu.
+
+Ketujuh, saya sering jajan di luar bersama anak-istri sebelum musim paceklik seperti ini. Sekarang, hampir setahun di rumah. Ke luar kota pun di Semarang, beli Lunpia Cik Me Me atau RM Padang Sederhana, lantas pulang.
+
+Kedelapan, urusan ngopi pun ikut saya downgrade. Dulu masih sering beli kopi susu atau nongkrong sebentar di luar. Sekarang lebih sering seduh sendiri di rumah, betapa pun rasanya yang penting murah dan bikin melek.
+
+Kesembilan, hiburan keluarga juga saya sederhanakan. Dulu masih kepikiran jalan-jalan yang agak niat. Sekarang, kalau anak-istri ingin suasana lain, cukup muter sebentar di Purwogondo (banyak yang jualan jajanan kampung), beli jajanan secukupnya, lalu pulang.
+
+Tapi dari downgare itu semua, mobil LCGC saya dan dua motor yang saya dan istri miliki (PCX dan Scoopy), belum pernah mereka sekali pun menenggak setetes pertalite (pernah pun karena Pertamax habis).
+
+Selali Pertamax!
+
+Sekarang, ketika Pertamax naik ugal-ugalan, Ade Armando bilang “mahasiswa yang protes itu dangkal”. Alasannya, Pertamax itu untuk kelas menengah. Ada juga yang pernah jadi komisaris menyatakan bahwa orang yang protes Pertamax naik hanyalah kelas menengah ngehek.
+
+Seakan-akan, kelas menengah itu mereka anggap terlalu “enak hidupnya” untuk mengeluh. Seakan-akan, kelas menengah itu tidak cukup miskin untuk dikasihani. Seakan-akan, kelas menengah tidak layak bersuara hanya karena belum jatuh miskin.
+
+Pertanyaannya: sejak kapan status sebagai kelas menengah menggugurkan hak kewargaan untuk mengkritik kebijakan? Kelas menengah tetap warga negara, tetap pembayar pajak, dan tetap menjadi pihak yang menanggung efek berantai dari harga energi ini, bukan?
+
+Ataukah yang mereka maksud: seseorang itu baru boleh protes kalau dia sudah jadi gembel dulu, tinggal di bantaran kali dulu, rumahnya berdinding kayu dulu, bajunya compang-camping dulu, dan anak-anaknya putus sekolah dulu?
+
+Kelas miskin diberi subsidi, saya setuju. Kelas atas masih bisa hidup nyaman dengan korupsi MBG atau ngotot dapur SPPG harus ngepul meski liburan tiga minggu, itu pun kita sudah tahu.
+
+Tapi kelas menengah justru menjadi kelas sosial yang paling tergencet dan paling rentan terhadap tekanan biaya hidup yang merambat naik pelan-pelan begini.
+
+Masak harus menunggu kelas menengah remuk dulu baru boleh bersuara?
+
+Sinting.</p>
+                                        
+                                            <div class="card card-raised card-carousel">
+                                                <div id="carousel-2068234900491129031" class="carousel slide" data-ride="carousel" data-interval="999000">
+                                                                                                        <div class="carousel-inner">
+                                                        <div class="carousel-item active"><a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" data-image="https://ton-0.twimg.com/media/HLMt_NwaIAAj2Qw.jpg" data-target="#image-gallery"> <img class="d-block w-100" src="https://ton-0.twimg.com/media/HLMt_NwaIAAj2Qw.jpg" alt="Stakof tweet picture"> </a></div>                                                    </div>
+                                                                                                    </div>
+                                            </div>
+
+
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 27</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 83</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 218</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 13K</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 16 </span>
+                                            </a>
+                                        </div>
+
+                                                                                    <div class="right-comments">
+                                                <a rel="nofollow" href="https://ton-0.twimg.com/media/HLMt_NwaIAAj2Qw.jpg" class="like-item" title="Download"><i class="fas fa-download"></i>
+                                                    <span><ins>Download Image</ins></span>
+                                                </a>
+                                            </div>
+                                                                                </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/adisp04"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/847810407188144132/JehYYf5I.jpg" alt="adisp04 Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/adisp04">
+                                                    <h4>Wira                                                        <span> @adisp04</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/adisp04/status/2068375301453930765">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Sampai sekarang Indihome masih under 300k dan dapat bundled Netflix, prime dan catctplay ya? Keknya perlu ganti provider WiFi ini. Biarpun selama ini sangat jarang gangguan jaringan.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 2</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 639</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/_pandangsudut"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/2059304270403661824/y3Hb_a5Z.jpg" alt="_pandangsudut Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/_pandangsudut">
+                                                    <h4>Sudut Pandang<svg viewBox="0 0 22 22" aria-label="Verified" class="r-4qtqp9 r-yyyyoo r-1xvli5t r-bnwqim r-1plcrui r-lrvibr r-1cvl2hr r-f9ja8p r-og9te1 r-9cviqr" data-testid="icon-verified">
+<path d="M20.396 11a3.487 3.487 0 0 0-2.008-3.062 3.474 3.474 0 0 0-.742-3.584 3.474 3.474 0 0 0-3.584-.742A3.468 3.468 0 0 0 11 1.604a3.463 3.463 0 0 0-3.053 2.008 3.472 3.472 0 0 0-1.902-.14c-.635.13-1.22.436-1.69.882a3.461 3.461 0 0 0-.734 3.584A3.49 3.49 0 0 0 1.604 11a3.496 3.496 0 0 0 2.017 3.062 3.471 3.471 0 0 0 .733 3.584 3.49 3.49 0 0 0 3.584.742A3.487 3.487 0 0 0 11 20.396a3.476 3.476 0 0 0 3.062-2.007 3.335 3.335 0 0 0 4.326-4.327A3.487 3.487 0 0 0 20.396 11zM9.662 14.85l-3.429-3.428 1.293-1.302 2.072 2.072 4.4-4.794 1.347 1.246z"/>
+</svg>                                                        <span> @_pandangsudut</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/_pandangsudut/status/2068514228622045578">4 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p>Versi saya:
+
+Biasa masak pakai kompor listrik. Sekarang beli ke warteg. Masih diupayakan bayar listrik Rp200-300 ribu/bulan.
+
+AC nyala malam saja.
+
+Aqua galon ganti jadi isi ulang Biru Rp10.500. Kalau Aqua Rp21.000.
+
+Kenapa dilakukan? Biar mobil tetap minum Pertamax. Demi konsisten. Oli & spare part sudah naik juga. Jadi harus mikirin buat maintenance yang sudah naik.
+
+Motor terpaksa downgrade ke Pertalite. Alasan utama, lagi-lagi biar nutupin biaya maintenance yang naik.
+
+Selama ini kalau kerja keluar, pakai transum. Belum ada feeder ke stasiun, sering andelin motor.
+
+BPJS mandiri. Bayar masih Rp300 ribu/bulan (kelas I/2 orang). Ini lagi kepikiran buat downgrade ke kelas II/III.
+
+Weekend jalan keluar rumah yang terdekat kebetulan mal. Jarang beli. Kalau nonton bioskop di weekday. Hanya kalau film yang kiranya seru.
+
+Belanja bulanan? Ke Hari Hari Swalayan. Mata awas banget sama produk-produk promo.
+
+Punya rumah? Nggak. Masih ngontrak.
+
+Kesimpulannya, bingung mau dikategorikan kelas apaan ini hidup. Pengen mempertahankan kualitas, bujet mepet, harga naik. Ade Armando congornya emang bosoooookkkk</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 1</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 2</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 2K</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 1 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/ImminentAdi"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/2097019041634521088/UJ8DRRiQ.jpg" alt="ImminentAdi Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/ImminentAdi">
+                                                    <h4>PocongTerbang 🇵🇸🇺🇦🏴‍☠️🇮🇩<svg viewBox="0 0 22 22" aria-label="Verified" class="r-4qtqp9 r-yyyyoo r-1xvli5t r-bnwqim r-1plcrui r-lrvibr r-1cvl2hr r-f9ja8p r-og9te1 r-9cviqr" data-testid="icon-verified">
+<path d="M20.396 11a3.487 3.487 0 0 0-2.008-3.062 3.474 3.474 0 0 0-.742-3.584 3.474 3.474 0 0 0-3.584-.742A3.468 3.468 0 0 0 11 1.604a3.463 3.463 0 0 0-3.053 2.008 3.472 3.472 0 0 0-1.902-.14c-.635.13-1.22.436-1.69.882a3.461 3.461 0 0 0-.734 3.584A3.49 3.49 0 0 0 1.604 11a3.496 3.496 0 0 0 2.017 3.062 3.471 3.471 0 0 0 .733 3.584 3.49 3.49 0 0 0 3.584.742A3.487 3.487 0 0 0 11 20.396a3.476 3.476 0 0 0 3.062-2.007 3.335 3.335 0 0 0 4.326-4.327A3.487 3.487 0 0 0 20.396 11zM9.662 14.85l-3.429-3.428 1.293-1.302 2.072 2.072 4.4-4.794 1.347 1.246z"/>
+</svg>                                                        <span> @ImminentAdi</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/ImminentAdi/status/2068494661459792236">4 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Kelas atas dapet untung dgn usd naik, klo pengusaha bisa dpt tax holiday
+Kelas bawah dapet jaminan bansos, sekolah jalur afirmasi, dpt bedah rumah
+Kelas menengah? Mode survival. Digebugin pajak, listrik, air, BBM, harga barang jasa, semua tanpa support pemerintah. Sick.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 68</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/HandokoAnwar"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1705394420798160897/sTBnFoEH.jpg" alt="HandokoAnwar Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/HandokoAnwar">
+                                                    <h4>Han's<svg viewBox="0 0 22 22" aria-label="Verified" class="r-4qtqp9 r-yyyyoo r-1xvli5t r-bnwqim r-1plcrui r-lrvibr r-1cvl2hr r-f9ja8p r-og9te1 r-9cviqr" data-testid="icon-verified">
+<path d="M20.396 11a3.487 3.487 0 0 0-2.008-3.062 3.474 3.474 0 0 0-.742-3.584 3.474 3.474 0 0 0-3.584-.742A3.468 3.468 0 0 0 11 1.604a3.463 3.463 0 0 0-3.053 2.008 3.472 3.472 0 0 0-1.902-.14c-.635.13-1.22.436-1.69.882a3.461 3.461 0 0 0-.734 3.584A3.49 3.49 0 0 0 1.604 11a3.496 3.496 0 0 0 2.017 3.062 3.471 3.471 0 0 0 .733 3.584 3.49 3.49 0 0 0 3.584.742A3.487 3.487 0 0 0 11 20.396a3.476 3.476 0 0 0 3.062-2.007 3.335 3.335 0 0 0 4.326-4.327A3.487 3.487 0 0 0 20.396 11zM9.662 14.85l-3.429-3.428 1.293-1.302 2.072 2.072 4.4-4.794 1.347 1.246z"/>
+</svg>                                                        <span> @HandokoAnwar</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/HandokoAnwar/status/2068307443797668171">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Alhamdulillah terwakili njenengan</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 115</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/ArisPriyono_SPd"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1836272732943847429/x7QNLDKD.jpg" alt="ArisPriyono_SPd Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/ArisPriyono_SPd">
+                                                    <h4>cikgu rakjel                                                        <span> @ArisPriyono_SPd</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/ArisPriyono_SPd/status/2068341599856382023">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Apalagi PNS mas, 12th ini cuma naik 2x. Kalo ngeluh selalu dibenturkan dengan kata syukur dan bandingkan dgn yg nganggur. Anggap nya PNS gak boleh sejahtera, padahal kami pns jg ingin gaji kami ada kenaikan minimal setara inflasi seperti pak <a style="text-decoration: none;" href="/SBYudhoyono">@SBYudhoyono</a> .</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 3</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 7</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 646</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/andemha67"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1565708123176050693/uzOaYV8O.jpg" alt="andemha67 Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/andemha67">
+                                                    <h4>andmh                                                        <span> @andemha67</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/andemha67/status/2068287221157994737">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Kelas menengah bawah ki paling rekoso. Bpjs mbayar dewe. Anak kuliah melu KIP yo ra iso mergo kudu duwe surat miskin, enek bantuan opo ra tau oleh. Giliran pajek kon mbayar full.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 1</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 4</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 712</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/Mancingribut1"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/2056289101167710208/oHh2EN3-.jpg" alt="Mancingribut1 Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/Mancingribut1">
+                                                    <h4>Marbut artinya                                                        <span> @Mancingribut1</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/Mancingribut1/status/2068469985538871373">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p>Mau curhat juga bang, kami yg ASN di daerah ini juga mengenaskan, setiap ada berita efisiensi yg bikin ketar ketir adalah kalau sampe TPP kami juga sampai dipotong. Buat yang belum tahu, TPP ini lahir untuk menyetarakan pendapatan ASN karena dari aturan pusat itu gaji pokok tidak pernah dinaikan Jokowi apalagi Prabowo, padahal idealnya seperti jaman pak SBY dulu setiap tahun ada kenaikan gaji untuk mengimbangi inflasi 😢
+ 
+semenjak efisiensi ini juga kegiatan kantor berkurang drastis, anggaran operasional dipotong 56%, praktis sekarang kantor kami tidak ambruk saja sudah sebuah prestasi, masyarakat terus menanyakan kok sekarang jumlah kegiatan untuk masyarakat berkurang jauh, ya kami jawab apa adanya saja kalau itu pengaruh efisiensi yang berkepanjangan memotong separuh lebih anggaran</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 1</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 2</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 1</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 1K</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/aive99"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1719145686225317888/nYUPSyFS.jpg" alt="aive99 Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/aive99">
+                                                    <h4>Ayo moot, udh di follow yah 🫸                                                        <span> @aive99</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/aive99/status/2068508538029416633">4 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Emng kaum menegah ini serba salah, kegwncet sana sini tapi diperes sekering-kering nya dan tidak berhak mendapat bantuan apapun  😁
+
+<a style="text-decoration: none;" rel="nofollow" href="https://t.co/FfrasQj5Q6">x.com/i/status/20685…</a></p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 2</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 876</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/pallavafarm"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/2065783916523565056/HAhtW7HJ.jpg" alt="pallavafarm Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/pallavafarm">
+                                                    <h4>TaniMemulihkan                                                        <span> @pallavafarm</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/pallavafarm/status/2068239557326184668">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p>kelas menengah posisinya paling gaenak terlalu kaya buat dapat bantuan terlalu miskin untuk hidup nyaman dan jumlahnya paling banyak.. harusnya kita kelas menengah berkoalisi berorganisir at least dari sisi pengetahuan kita udah mendingan timbang kelas bawah. harus bisa protes yang lebih terorganisir biar didengarkan.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 1</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 885</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/TummyALot"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/971695017508007936/0UgEIdvj.jpg" alt="TummyALot Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/TummyALot">
+                                                    <h4>TummyBoy                                                        <span> @TummyALot</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/TummyALot/status/2068545014838480969">4 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> <a style="text-decoration: none;" rel="nofollow" href="https://t.co/pWFCkiVFMZ">x.com/TummyALot/stat…</a></p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 1</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 2</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/yogi_Halim"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/910153473/IMG0463A.jpg" alt="yogi_Halim Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/yogi_Halim">
+                                                    <h4>yogi Halim                                                        <span> @yogi_Halim</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/yogi_Halim/status/2068259506493239678">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Pertamax sebulan pakai berapa,
+kalau sebulan sejuta pun naik ini 30% 300rb tidak sebanding sikat gigi nya.
+
+Kelas menengah hitung parsial.
+Sinting.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 4</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 529</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/MartinFihimself"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/514337631119761409/Se6t8TaJ.jpeg" alt="MartinFihimself Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/MartinFihimself">
+                                                    <h4>Luthfi Ersyah                                                        <span> @MartinFihimself</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/MartinFihimself/status/2068889787906564470">4 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> kan minimal ron 92. dibawah itu kendaraan tipe apa dan tahun berapa sih? logika nya sesat. gak ada lagi amanah. partai isinya manusia atau jin? level bahsyar aja kagak!</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 17</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/ZakarmuAkbar"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/2069373114878980096/yVcgoap4.jpg" alt="ZakarmuAkbar Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/ZakarmuAkbar">
+                                                    <h4>Kahar                                                        <span> @ZakarmuAkbar</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/ZakarmuAkbar/status/2068945101779501547">4 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Kelas menengah remuk itu krn teknologi, khususnya internet, Android, AI.
+Fungsi mrk sudah diganti teknologi. Wajar kl secara ekonomi mrk jadi remuk.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 17</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/jarenekae11"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1706957113116041216/wOokZZGg.jpg" alt="jarenekae11 Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/jarenekae11">
+                                                    <h4>Didi Faizal                                                        <span> @jarenekae11</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/jarenekae11/status/2068490362520531073">4 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Boi <a style="text-decoration: none;" href="/gi7ang">@gi7ang</a></p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 98</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/Dark1Bot"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1925066734937243659/BbM8mglg.jpg" alt="Dark1Bot Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/Dark1Bot">
+                                                    <h4>Dark1Bot | ETHGas ⛽                                                        <span> @Dark1Bot</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/Dark1Bot/status/2068406843807010969">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Wih nice banget bang detail pemaparannya, ini mungkin yg perlu di pahami sama mereka2 yg gampang kena gocek opini setengah2. Izin retweet bang🙏</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 76</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/xtelmarine"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/2009661929753808896/PxULIeYf.jpg" alt="xtelmarine Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/xtelmarine">
+                                                    <h4>::catnip::                                                        <span> @xtelmarine</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/xtelmarine/status/2068314215535030706">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> tak repost mas...mantep bener ini.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 76</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/raynuriyanto"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1316671677967654913/jypSA57L.jpg" alt="raynuriyanto Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/raynuriyanto">
+                                                    <h4>bejo 🇮🇩                                                        <span> @raynuriyanto</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/raynuriyanto/status/2068423734663545209">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Kelas menengah dianggap kaya hingga melongo saat melihat tetangganya yang punya sawah dapat bantuan pangan, sementara untuk beli beras saja dia pake paylater.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 134</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/wedusgan"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1751461225945575424/f_jwHOsV.jpg" alt="wedusgan Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/wedusgan">
+                                                    <h4>wedusganteng                                                        <span> @wedusgan</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/wedusgan/status/2068262660794405237">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Bulan depan kayaknya saya harus bekal buat kerja</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 203</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/bg_mush"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/2104927816626380800/9oMPoUaV.jpg" alt="bg_mush Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/bg_mush">
+                                                    <h4>Dreizen                                                        <span> @bg_mush</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/bg_mush/status/2068246268892332233">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> </p>
+                                        
+                                            <div class="card card-raised card-carousel">
+                                                <div id="carousel-2068246268892332233" class="carousel slide" data-ride="carousel" data-interval="999000">
+                                                                                                        <div class="carousel-inner">
+                                                        <div class="carousel-item active"><a class="thumbnail" href="#" data-image-id="" data-toggle="modal" data-title="" data-image="https://ton-0.twimg.com/media/HLPjBTga0AAH2ko.jpg" data-target="#image-gallery"> <img class="d-block w-100" src="https://ton-0.twimg.com/media/HLPjBTga0AAH2ko.jpg" alt="bg_mush tweet picture"> </a></div>                                                    </div>
+                                                                                                    </div>
+                                            </div>
+
+
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 50</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                                    <div class="right-comments">
+                                                <a rel="nofollow" href="https://ton-0.twimg.com/media/HLPjBTga0AAH2ko.jpg" class="like-item" title="Download"><i class="fas fa-download"></i>
+                                                    <span><ins>Download Image</ins></span>
+                                                </a>
+                                            </div>
+                                                                                </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/istiqommasy"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1177767840041955329/SwTa69Gu.jpg" alt="istiqommasy Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/istiqommasy">
+                                                    <h4>Istiqom Masykurie                                                        <span> @istiqommasy</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/istiqommasy/status/2068250668520120625">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Bergondomu siseh ngendi kang ?</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 210</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/Ekasulisti88343"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1912337381061193728/fwIJf6PF.jpg" alt="Ekasulisti88343 Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/Ekasulisti88343">
+                                                    <h4>Eka sulistiono                                                        <span> @Ekasulisti88343</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/Ekasulisti88343/status/2068379638284648958">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Mungkin menurut hemat saya Hidup itu adalah perbandingan, klu dibandingkan ke bawah,orang yang ngga ada di internet misalnya, bagaimana? Misalnya Sedekah bagaimana ? Bukan berarti ngga boleh berpendapat,cuma, Kadang-kadang saya suka lupa dan alpha,&amp; perlu sekali sekali diingatkan</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 248</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/MiKocok78"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1677642812588957696/CVvQAz5N.jpg" alt="MiKocok78 Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/MiKocok78">
+                                                    <h4>Mikocok                                                        <span> @MiKocok78</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/MiKocok78/status/2068239702306558423">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Lengo wangi dadi Srimpi ta Yik?</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 279</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/ariefk_atmaja"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1311153230882074624/XVD6YCwA.jpg" alt="ariefk_atmaja Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/ariefk_atmaja">
+                                                    <h4>#PrayForIndonesia                                                        <span> @ariefk_atmaja</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/ariefk_atmaja/status/2068416885650284982">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Terimakasih Mas. Masih bersuara. Kondisi kita beda2 tipis. Saya sendiri kalau lihat manusia seperti abu janda atau ade armando, sudah di level : Tarik nafas, istighfar, baca sholawat asyghil.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 314</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/bacaanselena"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1742924612277846016/r0qrl_N1.jpg" alt="bacaanselena Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/bacaanselena">
+                                                    <h4>selena reads romance                                                        <span> @bacaanselena</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/bacaanselena/status/2068237337272910114">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Well said mas, baru setahun pemerintahan ini jalan wes juueengkelke tenan</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 260</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/muhammad_labib"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/2116573883176464385/C5IQeRqX.jpg" alt="muhammad_labib Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/muhammad_labib">
+                                                    <h4>ꦩꦸꦲꦩ꧀ꦩꦢ꧀​ ꦭꦧꦶꦧ꧀ محمد لبيب                                                        <span> @muhammad_labib</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/muhammad_labib/status/2068238395604939243">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Purwogondo jadi ingat pernah ziarah ke yik Shodiq</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 243</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/uncle_ahmadkhan"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/871364171115274240/WWltXdlx.jpg" alt="uncle_ahmadkhan Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/uncle_ahmadkhan">
+                                                    <h4>Uncle Ahmad Khan                                                        <span> @uncle_ahmadkhan</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/uncle_ahmadkhan/status/2068305470872560019">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Terimakasih sudah mewakili sebagian kegelisahan saya...
+Plus kendalikan harga bahan pokok yg naik ugal ugalan (sebagian masih wajar) beras, migor dan oli kendaraan...</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 340</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                                                    <li>
+                                <div class="activity-posts">
+                                    <div class="activity-group1">
+                                        <div class="main-user-dts1">
+                                            <a href="/acan9"><img rel="nofollow" src="https://ton-0.twimg.com/profile_images/1964852872451104769/9vZyY03x.jpg" alt="acan9 Profile Picture"></a>
+                                            <div class="user-text3">
+                                                <a href="/acan9">
+                                                    <h4>( acang )                                                        <span> @acan9</span>
+                                                    </h4>
+                                                </a>
+                                                <span><a href="/acan9/status/2068295961433309485">5 months ago</a></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="activity-descp">
+                                        <p><a style="text-decoration: none;" href="/Stakof">@Stakof</a> Padahal Pak <a style="text-decoration: none;" href="/ChatibBasri">@ChatibBasri</a> sudah mengingatkan Chilean Paradox. Berkali-kali.</p>
+                                                                                                                        </p>
+
+                                    </div>
+                                    <div class="like-comment-view">
+                                        <div class="left-comments">
+                                            <a href="#" disabled="disabled" class="like-item" title="Like"><i class="fas fa-comment"></i>
+                                                <span><ins></ins> 1</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-retweet"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="Like"><i class="fas fa-heart"></i>
+                                                <span><ins></ins> 0</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-chart-simple"></i>
+                                                <span><ins></ins> 397</span>
+                                            </a>
+                                            <a href="#" disabled="disabled" class="like-item lc-left" title="View"><i class="fas fa-bookmark"></i>
+                                                <span><ins></ins> 0 </span>
+                                            </a>
+                                        </div>
+
+                                                                            </div>
+                                </div>
+                            </li>
+                        
+
+                    </div>
+                    <div class="modal fade" id="image-gallery" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-lg">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h4 class="modal-title" id="image-gallery-title"></h4>
+                                    <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+                                </div>
+                                <div class="modal-body">
+                                    <img id="image-gallery-image" class="img-responsive col-md-12" src="">
+                                </div>
+                                <div class="modal-footer">
+                                    <button type="button" class="btn btn-secondary float-left" id="show-previous-image"><i class="fa fa-arrow-left"></i></button>
+                                    <button type="button" id="show-next-image" class="btn btn-secondary float-right"><i class="fa fa-arrow-right"></i></button>
+                                    <a href="#" target="_blank" class="btn btn-primary float-right " id="downloadButton">Download Image</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+</main>
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12">
+                <div class="footer-left">
+                    <ul>
+                        <li><a href="/pages/privacy">Privacy</a></li>
+                        <li><a href="/pages/terms">Term and Conditions</a></li>
+                        <li><a href="/pages/about">About</a></li>
+                        <li><a href="/pages/contactUs">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-12">
+                <div class="footer-right">
+                    <ul class="copyright-text">
+                        <li>
+                            <div class="ftr-1">TwStalker is not affiliated with X™. All Rights Reserved. <i class="far fa-copyright"></i> 2024 twstalker.com</div>
+                            <a class="type--fine-print" href="https://salvobet.com" title="salvobet">salvobet</a>
+                        </li>
+                    </ul>
+                    <p style="overflow: auto; position: fixed; height: 0pt; width: 0pt">
+                        <a class="type--fine-print" href="https://twstalker.com">twitter web viewer</a>
+                        <a class="type--fine-print" href="https://xstalk.com" title="x profile viewer">x profile viewer</a>
+                        <a class="type--fine-print" href="https://www.bayigram.com" title="takipçi satın al">takipçi satın al</a>
+                        <a class="type--fine-print" href="https://sosyalgram.com.tr/instagram-begeni-satin-al/" title="instagram beğeni satın al">instagram beğeni satın al</a>
+                        <a class="type--fine-print" href="https://metin2alerts.com" title="metin2">metin2</a>
+                        <a class="type--fine-print" href="https://metin2alerts.com" title="metin2 wiki">metin2 wiki</a>
+                        <a class="type--fine-print" href="https://metin2alerts.com" title="metin2 ep">metin2 ep</a>
+                        <a class="type--fine-print" href="https://metin2alerts.com" title="metin2 dragon coins">metin2 dragon coins</a>
+                        <a class="type--fine-print" href="https://metin2alerts.com" title="metin2 forum">metin2 forum</a>
+                        <a class="type--fine-print" href="https://metin2alerts.com" title="metin2 board">metin2 board</a>
+                        <a class="type--fine-print" href="https://popigram.com/instagram-ucretsiz-takipci/" title="instagram ücretsiz takipçi">instagram ücretsiz takipçi</a>
+                        <a class="type--fine-print" href="https://postinyo.com" title="postegro">postegro</a>
+                        <a class="type--fine-print" href="https://mersobahis.org" title="mersobahis">mersobahis</a>
+                        <a class="type--fine-print" href="https://postinyo.com" title="web postegro">web postegro</a>
+                        <a class="type--fine-print" href="https://piclur.com" title="x profile viewer">x profile viewer</a>
+                        <a class="type--fine-print" href="https://relatedin.com" title="relatedin">relatedin</a>
+                        <span style="overflow: hidden"></span>
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</footer>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JWW96NYGPP"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+    gtag('config', 'G-JWW96NYGPP');
+
+    function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+
+    function eraseCookie(name) {
+        document.cookie = name + '=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+    }
+
+    function cookieConsent() {
+        if (!getCookie('allowCookies')) {
+            $('.toast').toast('show')
+        }
+    }
+
+    $('#btnDeny').click(() => {
+        eraseCookie('allowCookies')
+        $('.toast').toast('hide')
+    })
+
+    $('#btnAccept').click(() => {
+        setCookie('allowCookies', '1', 7)
+        $('.toast').toast('hide')
+    })
+    // load
+    cookieConsent()
+    // for demo / testing only
+    $('#btnReset').click(() => {
+        // clear cookie to show toast after acceptance
+        eraseCookie('allowCookies')
+        $('.toast').toast('show')
+    })
+</script>
+</footer>
+<script>
+    function numberConvert(number) {
+        let format;
+        if (number < 10000) {
+            format = new Intl.NumberFormat().format(number);
+        } else if (number < 1000000) {
+            // Anything less than a million
+            format = (number / 1000).toFixed(1) + 'K';
+        } else if (number < 1000000000) {
+            // Anything less than a billion
+            format = (number / 1000000).toFixed(1) + 'M';
+        } else {
+            // At least a billion
+            format = (number / 1000000000).toFixed(2) + 'B';
+        }
+        return format;
+    }
+
+    function timeAgo(timeAgo) {
+        let time = (new Date() - new Date(timeAgo)) / 1000; // seconds
+        if (time <= 60) {
+            return 'less than a minute ago';
+        } else if (time >= 60 && time < 3600) {
+            const minutes = Math.round(time / 60);
+            return (minutes === 1) ? 'a minute ago' : minutes + ' minutes ago';
+        } else if (time >= 3600 && time < 86400) {
+            const hours = Math.round(time / 3600);
+            return (hours === 1) ? 'an hour ago' : hours + ' hours ago';
+        } else if (time >= 86400 && time < 604800) {
+            const days = Math.round(time / 86400);
+            return (days === 1) ? 'a day ago' : days + ' days ago';
+        } else if (time >= 604800 && time < 2600640) {
+            const weeks = Math.round(time / 604800);
+            return (weeks === 1) ? 'a week ago' : weeks + ' weeks ago';
+        } else if (time >= 2600640 && time < 31207680) {
+            const months = Math.round(time / 2600640);
+            return (months === 1) ? 'a month ago' : months + ' months ago';
+        } else if (time >= 31207680) {
+            const years = Math.round(time / 31207680);
+            return (years === 1) ? 'a year ago' : years + ' years ago';
+        }
+    }
+
+    $(document).ready(function() {
+        let modalId = $('#image-gallery');
+        loadGallery(true, 'a.thumbnail');
+
+        //This function disables buttons when needed
+        function disableButtons(counter_max, counter_current) {
+            $('#show-previous-image, #show-next-image')
+                .show();
+            if (counter_max === counter_current) {
+                $('#show-next-image')
+                    .hide();
+            } else if (counter_current === 1) {
+                $('#show-previous-image')
+                    .hide();
+            }
+        }
+
+        /**
+         *
+         * @param setIDs        Sets IDs when DOM is loaded. If using a PHP counter, set to false.
+         * @param setClickAttr  Sets the attribute for the click handler.
+         */
+        function loadGallery(setIDs, setClickAttr) {
+            let current_image,
+                selector,
+                counter = 0;
+
+            $('#show-next-image, #show-previous-image')
+                .click(function() {
+                    if ($(this)
+                        .attr('id') === 'show-previous-image') {
+                        current_image--;
+                    } else {
+                        current_image++;
+                    }
+
+                    selector = $('[data-image-id="' + current_image + '"]');
+                    updateGallery(selector);
+                });
+
+            function updateGallery(selector) {
+                let $sel = selector;
+                current_image = $sel.data('image-id');
+                $('#image-gallery-title')
+                    .text($sel.data('title'));
+                $('#image-gallery-image')
+                    .attr('src', $sel.data('image'));
+                $('#downloadButton')
+                    .attr('href', $sel.data('image'));
+                disableButtons(counter, $sel.data('image-id'));
+            }
+
+            if (setIDs == true) {
+                $('[data-image-id]')
+                    .each(function() {
+                        counter++;
+                        $(this)
+                            .attr('data-image-id', counter);
+                    });
+            }
+            $(setClickAttr)
+                .on('click', function() {
+                    updateGallery($(this));
+                });
+        }
+
+        $(document).keydown(function(e) {
+            switch (e.which) {
+                case 37: // left
+                    if ((modalId.data('bs.modal') || {})._isShown && $('#show-previous-image').is(":visible")) {
+                        $('#show-previous-image')
+                            .click();
+                    }
+                    break;
+
+                case 39: // right
+                    if ((modalId.data('bs.modal') || {})._isShown && $('#show-next-image').is(":visible")) {
+                        $('#show-next-image')
+                            .click();
+                    }
+                    break;
+
+                default:
+                    return; // exit this handler for other keys
+            }
+            e.preventDefault(); // prevent the default action (scroll / move caret)
+        });
+    });
+
+
+    function submitForm() {
+        var searchInputValue = document.getElementById("searchInput").value;
+        if (searchInputValue) {
+            window.location.href = "/search/" + encodeURIComponent(searchInputValue) + '#nav-users';
+        }
+    }
+
+
+    const url = new URL(window.location.href);
+    const anchor = url.hash.substring(1);
+    if (anchor) {
+        $(`#nav-tab a[href="#${anchor}"]`).tab('show');
+    }
+    $('#nav-tab a').on('click', function(e) {
+        e.preventDefault();
+        const tabId = $(this).attr('href').substring(1);
+        window.location.hash = tabId;
+    });
+</script>
+</body>
+
+</html>

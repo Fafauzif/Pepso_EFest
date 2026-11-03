@@ -1,0 +1,28 @@
+product,price_idr,grams,users,brushing_per_day,assumed_grams_per_brush,modeled_days_per_tube,modeled_30day_cost_idr,price_per_100g,source
+Basic case,24100,190,1,2,0.5,190.0,3805.2631578947367,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Basic case,24100,190,1,2,1.0,95.0,7610.526315789473,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Basic case,24100,190,1,2,1.5,63.333333333333336,11415.78947368421,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Basic case,24100,190,2,2,0.5,95.0,7610.526315789473,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Basic case,24100,190,2,2,1.0,47.5,15221.052631578947,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Basic case,24100,190,2,2,1.5,31.666666666666668,22831.57894736842,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Basic case,24100,190,4,2,0.5,47.5,15221.052631578947,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Basic case,24100,190,4,2,1.0,23.75,30442.105263157893,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Basic case,24100,190,4,2,1.5,15.833333333333334,45663.15789473684,12684.210526315788,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,1,2,0.5,100.0,12570.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,1,2,1.0,50.0,25140.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,1,2,1.5,33.333333333333336,37710.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,2,2,0.5,50.0,25140.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,2,2,1.0,25.0,50280.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,2,2,1.5,16.666666666666668,75420.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,4,2,0.5,25.0,50280.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,4,2,1.0,12.5,100560.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case regular,41900,100,4,2,1.5,8.333333333333334,150840.0,41900.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,1,2,0.5,100.0,7050.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,1,2,1.0,50.0,14100.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,1,2,1.5,33.333333333333336,21150.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,2,2,0.5,50.0,14100.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,2,2,1.0,25.0,28200.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,2,2,1.5,16.666666666666668,42300.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,4,2,0.5,25.0,28200.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,4,2,1.0,12.5,56400.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice
+Premium case promo,23500,100,4,2,1.5,8.333333333333334,84600.0,23500.0,organizer case for price/grams; assumed usage for illustration; NOT dosing advice

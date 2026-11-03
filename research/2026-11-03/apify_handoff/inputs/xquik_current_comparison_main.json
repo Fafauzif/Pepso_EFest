@@ -1,0 +1,14 @@
+{
+  "mode": "search",
+  "twitterContent": "(pepsodent OR sensodyne OR enzim) (\"sensitive\" OR whitening OR \"ultra white\") (mahal OR promo OR bersih OR segar OR \"beli lagi\")",
+  "maxItems": 300,
+  "queryType": "Latest",
+  "since": "2026-07-01",
+  "until": "2026-11-04",
+  "tweetTypes": {
+    "excludeRetweets": true
+  },
+  "outputVariant": "rich",
+  "fieldStyle": "snake_case",
+  "alwaysSaveRunRecords": true
+}

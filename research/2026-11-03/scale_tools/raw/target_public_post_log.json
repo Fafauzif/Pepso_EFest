@@ -1,0 +1,29 @@
+[
+  {
+    "name": "post_oembed",
+    "url": "https://publish.twitter.com/oembed?url=https%3A%2F%2Fx.com%2FStakof%2Fstatus%2F2068234900491129031&omit_script=true",
+    "final_url": "https://publish.x.com/oembed?url=https%3A%2F%2Fx.com%2FStakof%2Fstatus%2F2068234900491129031&omit_script=true",
+    "status": 200,
+    "bytes": 959,
+    "raw_file": "raw/post_oembed.txt",
+    "retrieved_at": "2026-11-03T10:51:43.322754+00:00"
+  },
+  {
+    "name": "brand_linked",
+    "url": "https://x.com/gigingilu",
+    "final_url": "https://x.com/gigingilu",
+    "status": 200,
+    "bytes": 153630,
+    "raw_file": "raw/brand_linked.txt",
+    "retrieved_at": "2026-11-03T10:51:51.567270+00:00"
+  },
+  {
+    "name": "indexed_post",
+    "url": "https://twstalker.com/Stakof/status/2068234900491129031",
+    "final_url": "https://twstalker.com/Stakof/status/2068234900491129031",
+    "status": 200,
+    "bytes": 120187,
+    "raw_file": "raw/indexed_post.txt",
+    "retrieved_at": "2026-11-03T10:52:00.198585+00:00"
+  }
+]

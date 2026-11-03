@@ -1,0 +1,10 @@
+{
+  "status": "complete",
+  "records": 1423,
+  "net_new_vs_baseline_TAR": 1323,
+  "source_pages": 286,
+  "all_target_counts_reconciled": true,
+  "checks": "source IDs, raw paths, SHA256, CSV/JSON counts, unique IDs, UTF8 correction, source totals",
+  "collection_cost_usd": 0,
+  "apify_runs": 0
+}

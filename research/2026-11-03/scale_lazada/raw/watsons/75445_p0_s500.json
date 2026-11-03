@@ -1,0 +1,113 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 8,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 8
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Meltrin Hutabarat",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-25T13:53:37+0000",
+      "headline" : "review-75445-WTCID20342317",
+      "id" : "9096672018481",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Afrilia Mayang Sari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-11T10:36:32+0000",
+      "headline" : "review-75445-WTCID21025001",
+      "id" : "9091063545905",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "apriana rahma",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barangnya bagus pengiriman cepat keren banget ",
+      "date" : "2026-07-30T08:15:29+0000",
+      "headline" : "review-75445-WTCID21047004",
+      "id" : "9084029599793",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "apriana rahma",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barangnya bagus pengiriman cepat keren banget ",
+      "date" : "2026-07-30T08:12:38+0000",
+      "headline" : "review-75445-WTCID21047005",
+      "id" : "9084029337649",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Hani Rahayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Dapet harga promo, emg selalu best deal kalo beli di Watsons\uD83D\uDE0D Pengirimannya cepet poll, barang dipacking dengan aman, trimakacii\uD83D\uDE4F\uD83D\uDC96",
+      "date" : "2026-07-20T12:09:24+0000",
+      "headline" : "review-75445-WTCID20467031",
+      "id" : "9075761348657",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Esti Nelisa Setiani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Coba coba aja sih, soalnya seriesnya baru",
+      "date" : "2026-07-02T16:20:52+0000",
+      "headline" : "review-75445-WTCID20233005",
+      "id" : "9060041785393",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Riky Saputra",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-06-26T15:13:48+0000",
+      "headline" : "review-75445-WTCID19708277",
+      "id" : "9056493207601",
+      "like" : 1,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jie",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi baru berwarna emas pastanya ,  memutihkan gigi , membersihkan , merawat gigi kuat dan sehat , rasanya juga enak , napas jadi segar",
+      "date" : "2026-06-18T01:46:22+0000",
+      "headline" : "review-75445-WTCID19717258",
+      "id" : "9048915804209",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

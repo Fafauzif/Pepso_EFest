@@ -1,0 +1,86 @@
+{
+  "seoMetadata": {
+    "otherData": null,
+    "description": "Kumpulan review dan pengalaman pengguna PEPSODENT HERBAL BELI 1 GRATIS 1  190G ×2  PASTA GIGI  PEPSODEN PAKET HEMAT B1G1 untuk membantu sebelum membeli.",
+    "robots": "index,follow",
+    "canonical": "https://www.lazada.co.id/product-reviews/?item_id=7982194304",
+    "title": "Review PEPSODENT HERBAL BELI 1 GRATIS 1  190G ×2  PASTA GIGI  PEPSODEN PAKET HEMAT B1G1 – Pengalaman Pengguna",
+    "class": "com.lazada.seo.dto.base.SeoBaseMetadataDTO",
+    "structuredData": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"PEPSODENT HERBAL BELI 1 GRATIS 1  190G ×2  PASTA GIGI  PEPSODEN PAKET HEMAT B1G1\",\"image\":\"https://filebroker-cdn.lazada.co.id/kf/S97126614257f438ab34004cf25233d4f9.jpg\",\"description\":\"Kumpulan review dan pengalaman pengguna PEPSODENT HERBAL BELI 1 GRATIS 1  190G ×2  PASTA GIGI  PEPSODEN PAKET HEMAT B1G1 untuk membantu sebelum membeli.\",\"sku\":\"14399828134\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Pepsodent\"},\"offers\":{\"@type\":\"AggregateOffer\",\"offerCount\":0,\"lowPrice\":24950.0,\"highPrice\":27950.0,\"priceCurrency\":\"IDR\",\"availability\":\"https://schema.org/OutOfStock\",\"seller\":{\"@type\":\"Organization\",\"name\":\"BERKAHSHOP_BS\"}},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.90\",\"reviewCount\":\"10\"},\"review\":[{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"P****h\"},\"datePublished\":\"2024-05-29\",\"reviewBody\":\"sesuai harapan \",\"name\":\"sesuai harapan \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"y****6\"},\"datePublished\":\"2024-11-07\",\"reviewBody\":\"alhmdllh paket sudah keterima sukses buat seler dn kurir dan lazada SMKN berkah \",\"name\":\"alhmdllh paket sudah keterima sukses buat seler dn kurir dan lazada SMKN berkah \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}}]}"
+    ],
+    "propertyData": "{\"og:title\":\"Review PEPSODENT HERBAL BELI 1 GRATIS 1  190G ×2  PASTA GIGI  PEPSODEN PAKET HEMAT B1G1 – Pengalaman Pengguna\",\"og:description\":\"Kumpulan review dan pengalaman pengguna PEPSODENT HERBAL BELI 1 GRATIS 1  190G ×2  PASTA GIGI  PEPSODEN PAKET HEMAT B1G1 untuk membantu sebelum membeli.\",\"og:image\":\"https://filebroker-cdn.lazada.co.id/kf/S97126614257f438ab34004cf25233d4f9.jpg\",\"og:url\":\"https://www.lazada.co.id/product-reviews/?item_id=7982194304\",\"og:type\":\"product\"}"
+  },
+  "innerLinks": null,
+  "reviewZone": {
+    "reviews": [
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "sesuai harapan ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "P****h",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1426534751694304,
+        "reviewTime": 1716946830992,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "alhmdllh paket sudah keterima sukses buat seler dn kurir dan lazada SMKN berkah ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "y****6",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1520681620594304,
+        "reviewTime": 1730974917923,
+        "reviewTitle": null
+      }
+    ],
+    "productId": "7982194304",
+    "ratingCnt": 10,
+    "ratingAvg": 4.9,
+    "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO",
+    "likeJumpUrl": "https://www.lazada.co.id/products/-i7982194304.html"
+  },
+  "class": "com.lazada.seo.dto.SeoReviewPageDTO",
+  "products": [
+    {
+      "currentPriceFormatted": "Rp24.950",
+      "shop": {
+        "sellerId": "******",
+        "shopLogo": "https://filebroker-cdn.lazada.co.id/kf/S63885cb369e5402ab8feb3192242267dG.jpg",
+        "sellerRating": 4.9,
+        "shopName": "BERKAHSHOP_BS",
+        "shopId": null,
+        "shopUrl": "https://www.lazada.co.id/shop/berkahshop-bs",
+        "class": "com.lazada.seo.dto.base.ProductShopDTO"
+      },
+      "productId": "7982194304",
+      "totalOrdersLast4Weeks": null,
+      "ratingCnt": 10,
+      "urlLazada": "https://www.lazada.co.id/products/-i7982194304.html",
+      "priceFormatted": "Rp27.950",
+      "currentPrice": "24950.0",
+      "currencySymbol": "Rp",
+      "urlImages": null,
+      "payUnitCntStd": 12,
+      "video": null,
+      "productName": "PEPSODENT HERBAL BELI 1 GRATIS 1  190G ×2  PASTA GIGI  PEPSODEN PAKET HEMAT B1G1",
+      "totalOrderL1y": null,
+      "urlMainImage": "https://filebroker-cdn.lazada.co.id/kf/S97126614257f438ab34004cf25233d4f9.jpg",
+      "price": "27950.0",
+      "ratingAvg": 4.9,
+      "class": "com.lazada.seo.dto.base.ProductSkuDTO",
+      "brand": null,
+      "currencyCode": "IDR",
+      "skuId": "14399828134"
+    }
+  ]
+}

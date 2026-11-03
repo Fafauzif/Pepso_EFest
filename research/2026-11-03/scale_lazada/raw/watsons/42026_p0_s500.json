@@ -1,0 +1,36 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 1,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 1
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Lia Marliyana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-22T09:01:58+0000",
+      "headline" : "review-42026-WTCID17948676",
+      "id" : "9095422836785",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

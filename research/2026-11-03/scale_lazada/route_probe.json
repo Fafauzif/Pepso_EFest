@@ -1,0 +1,57 @@
+[
+  {
+    "source_id": "lazada_public_reviewlist",
+    "url": "https://www.lazada.co.id/pdp/review/getReviewList?itemId=1473424890&pageSize=100&filter=0&sort=0&pageNo=2",
+    "retrieved_at": "2026-11-03T10:47:43.684834+00:00",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 1771,
+    "raw_file": "raw/lazada_public_reviewlist.body",
+    "sha256": "1fa1e05bf195c555d68c4a9881285ea8336d272287b4d668a0bfb5c12bcee34d",
+    "body_preview": "\r\n<script>sessionStorage.x5referer = window.location.href;var url = window.location.protocol + \"//www.lazada.co.id//pdp/review/getReviewList/_____tmd_____/punish?x5secdata=xfgrQQ11obqhG1XPeDBtAkQD9C-Uf45bQgJoPB6aGXWerpyscDE2KuiQ0NX7xz2eoH3XfB5Jk44HHfiwcbkh4CcDYbYcsUfpKNb7USXJmD0NDwqoSCZRdIEGX4MI_qV-"
+  },
+  {
+    "source_id": "lazada_public_reviewlist_www",
+    "url": "https://my.lazada.co.id/pdp/review/getReviewList?itemId=1473424890&pageSize=100&filter=0&sort=0&pageNo=2",
+    "retrieved_at": "2026-11-03T10:47:43.686070+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 273,
+    "raw_file": "raw/lazada_public_reviewlist_www.body",
+    "sha256": "c49a286664e6ba7043b68a258080f8ec52f5f4cbfdeb18d4afb4378049569582",
+    "body_preview": "{\"success\":true,\"model\":{\"items\":[],\"paging\":{\"totalItems\":0,\"totalPages\":0,\"currentPage\":2},\"item\":null,\"ratings\":null,\"mediaList\":null,\"showInfo\":null,\"pageVersion\":null},\"msgCode\":null,\"httpStatusCode\":200,\"msgInfo\":null,\"mappingCode\":null,\"headers\":{},\"bizExtMap\":null}"
+  },
+  {
+    "source_id": "lazada_seo_page2",
+    "url": "https://www.lazada.co.id/product-reviews/?item_id=1473424890&page=2",
+    "retrieved_at": "2026-11-03T10:47:43.686637+00:00",
+    "status": 200,
+    "content_type": "text/html;charset=UTF-8",
+    "bytes": 1779,
+    "raw_file": "raw/lazada_seo_page2.body",
+    "sha256": "f978a1d966400c875a0f0c818c073360b64ce5866680a416ee654f3a8d999104",
+    "body_preview": "\r\n<script>sessionStorage.x5referer = window.location.href;var url = window.location.protocol + \"//www.lazada.co.id//product-reviews//_____tmd_____/punish?x5secdata=xf4DV65keD4clDP_tlwbfrsx2uBJUsEudghEjQzPMjYUlJOjND-yzGGKNkRLeX621s6CGpXvG49RiDT60qhTyopK6D_3ZJbnJqVX4MCtN-IuGCyP0lsb4Mt_za_MZjpKflZp54uS"
+  },
+  {
+    "source_id": "watsons_reviews_20231",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/20231/reviews?fields=FULL&lang=id&curr=IDR&pageSize=100&currentPage=0",
+    "retrieved_at": "2026-11-03T10:47:56.525360+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 22,
+    "raw_file": "raw/watsons_reviews_20231.body",
+    "sha256": "93e2e65e618b6b481b8a0972fececb160af11f6f8ac3418f02cb0363de3b4519",
+    "body_preview": "{\n   \"reviews\" : [ ]\n}"
+  },
+  {
+    "source_id": "watsons_reviews_BP20231",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/BP_20231/reviews?fields=FULL&lang=id&curr=IDR&pageSize=100&currentPage=0",
+    "retrieved_at": "2026-11-03T10:47:57.557415+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 22,
+    "raw_file": "raw/watsons_reviews_BP20231.body",
+    "sha256": "93e2e65e618b6b481b8a0972fececb160af11f6f8ac3418f02cb0363de3b4519",
+    "body_preview": "{\n   \"reviews\" : [ ]\n}"
+  }
+]

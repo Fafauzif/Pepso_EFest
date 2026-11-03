@@ -1,0 +1,47 @@
+[
+  {
+    "source_id": "HIRO-PASTA-GIGI-ENZIM-MILD-124GRAM",
+    "url": "https://apotekhiro.com/products/pasta-gigi-enzim-mild-124gram.json",
+    "retrieved_at": "2026-11-03T10:34:45.285144+00:00",
+    "status": 200,
+    "raw_file": "raw/HIRO-PASTA-GIGI-ENZIM-MILD-124GRAM.json",
+    "sha256": "f8ae51432ba1165a4ed38e4fd275baccaf9edb7e7a4ee5994b728a7f5f4bd84c",
+    "outcome": "parsed"
+  },
+  {
+    "source_id": "HIRO-PASTA-GIGI-ENZIM-MIXDENT-93-GRAM",
+    "url": "https://apotekhiro.com/products/pasta-gigi-enzim-mixdent-93-gram.json",
+    "retrieved_at": "2026-11-03T10:34:45.309083+00:00",
+    "status": 200,
+    "raw_file": "raw/HIRO-PASTA-GIGI-ENZIM-MIXDENT-93-GRAM.json",
+    "sha256": "0eece75264c3aab1dcd294358dc163c58060d4c323dfbb128f6d81fe0e4f16ee",
+    "outcome": "parsed"
+  },
+  {
+    "source_id": "HIRO-PASTA-GIGI-ENZIM-40-PLUS",
+    "url": "https://apotekhiro.com/products/pasta-gigi-enzim-40-plus.json",
+    "retrieved_at": "2026-11-03T10:34:45.317095+00:00",
+    "status": 200,
+    "raw_file": "raw/HIRO-PASTA-GIGI-ENZIM-40-PLUS.json",
+    "sha256": "fc43fa3213a43a2c727389fb357c1c260fd8d01cdfd3e91f2881b73a72f33ce7",
+    "outcome": "parsed"
+  },
+  {
+    "source_id": "HIRO-PASTA-GIGI-ENZIM-40-PLUS-63GRAM",
+    "url": "https://apotekhiro.com/products/pasta-gigi-enzim-40-plus-63gram.json",
+    "retrieved_at": "2026-11-03T10:34:45.321157+00:00",
+    "status": 200,
+    "raw_file": "raw/HIRO-PASTA-GIGI-ENZIM-40-PLUS-63GRAM.json",
+    "sha256": "0c58489651177198b71c5d07167879a2539c3c03605c3c8bf941884a29411a5a",
+    "outcome": "parsed"
+  },
+  {
+    "source_id": "HYPERMART-ORALCARE-P1",
+    "url": "https://shop.hypermart.co.id/hypermart/category/C633-PERAWATAN-MULUT",
+    "retrieved_at": "2026-11-03T10:33:00.216683+00:00",
+    "raw_file": "raw/channelprobe-3.body",
+    "sha256": "dfbe939a9fc2a9d2fec2e379675a1a7e8a7d097e90a365c0e03142ffae03ea58",
+    "outcome": "parsed",
+    "notes": "Catalogue HTML page1 only; no selected branch or proof prices recently updated."
+  }
+]

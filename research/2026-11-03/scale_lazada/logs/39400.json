@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "39400",
+    "product_name": "Optic White Purple Toothpaste 100g",
+    "unique_review_ids": 219,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 219,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-39400-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/39400/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:03.089355+00:00",
+      "product_code": "39400",
+      "product_name": "Optic White Purple Toothpaste 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/39400_p0_s500.json",
+      "sha256": "6a493cd95fec4daf2e2a7482607e54e9c6ae2782387fb195a7eb6d60b09a657a",
+      "bytes": 77696,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 219,
+        "totalPages": 1
+      },
+      "rows": 219
+    }
+  ]
+}

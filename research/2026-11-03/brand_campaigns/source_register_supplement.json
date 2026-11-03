@@ -1,0 +1,68 @@
+[
+  {
+    "url": "https://oresa.id/produk-sampel/206/1053/pepsodent-ultra-white",
+    "collected_at_utc": "2026-11-03T10:33:08.406714+00:00",
+    "id": "BC-3698bac3a3fc",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://oresa.id/produk-sampel/206/1053/pepsodent-ultra-white",
+    "raw_file": "raw/http/3698bac3a3fc.html",
+    "sha256": "510335d3a019138c356193dbfdee16af6d52641c5b3c0d0ae3889e06c42c9f50",
+    "bytes": 169491
+  },
+  {
+    "url": "https://linktr.ee/TanyaPepsodent",
+    "collected_at_utc": "2026-11-03T10:33:08.407617+00:00",
+    "id": "BC-bf673901d02d",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://linktr.ee/TanyaPepsodent",
+    "raw_file": "raw/http/bf673901d02d.html",
+    "sha256": "6024a153238c310fe055e25cba34ba985e594b89c1f3744b2323fa2fb47697df",
+    "bytes": 249594
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/shadescanai.html",
+    "collected_at_utc": "2026-11-03T10:33:08.408098+00:00",
+    "id": "BC-fefe1dab4203",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/shadescanai.html",
+    "raw_file": "raw/http/fefe1dab4203.html",
+    "sha256": "119c881760fa280ceb162beeebc1bb7246a3aecfbcb45ca01452325656e10e21",
+    "bytes": 1465291
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/misi-kami.html",
+    "collected_at_utc": "2026-11-03T10:33:08.408567+00:00",
+    "id": "BC-d5e1419461d7",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/misi-kami.html",
+    "raw_file": "raw/http/d5e1419461d7.html",
+    "sha256": "a543e35cd7e9ac9fdbbe85749e1da08d9d076eca2afecc6f9eaa623eb2c33148",
+    "bytes": 1592129
+  },
+  {
+    "url": "https://www.close-up.com/id/p/closeup-white-now-purple-stain-corrector.html/08999999609467",
+    "collected_at_utc": "2026-11-03T10:33:14.410140+00:00",
+    "id": "BC-142f40ac677f",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.close-up.com/id/p/closeup-white-now-purple-stain-corrector.html/08999999609467",
+    "raw_file": "raw/http/142f40ac677f.html",
+    "sha256": "66b6ec952e38365937693e0545e3a2250c253abf58c503a47978ded54f34300e",
+    "bytes": 680536
+  },
+  {
+    "url": "https://www.sensodyne.co.id/about-sensodyne.html",
+    "collected_at_utc": "2026-11-03T10:33:14.652203+00:00",
+    "id": "BC-c6239572189f",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.sensodyne.co.id/about-sensodyne.html",
+    "raw_file": "raw/http/c6239572189f.html",
+    "sha256": "c8d97a16d5a2b50c137bcf067f811d5ecc8a318e7c5a7917196a56056d4d66d1",
+    "bytes": 46594
+  }
+]

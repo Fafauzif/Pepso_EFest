@@ -1,0 +1,30 @@
+{
+  "annotations_checked": 100,
+  "source_id_or_text_mismatches": [],
+  "reply_parents_present": 699,
+  "reply_count": 699,
+  "secondary_interpretation_review_sample_ids": [
+    5,
+    13,
+    16,
+    20,
+    22,
+    24,
+    25,
+    27,
+    36,
+    37,
+    40,
+    41,
+    65,
+    66,
+    73,
+    74,
+    76,
+    78,
+    79,
+    95
+  ],
+  "secondary_review_blinded": false,
+  "secondary_review_note": "Reviewed originals and existing interpretations for semantic overclaim; not a blind independent coder agreement statistic."
+}

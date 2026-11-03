@@ -1,0 +1,64 @@
+{
+  "checked_at_utc": "2026-11-03T11:02:00.725237+00:00",
+  "sqlite_integrity": [
+    [
+      "ok"
+    ]
+  ],
+  "unique_records": {
+    "amazon_external_context": 286706,
+    "lazada": 681,
+    "oresa": 2228,
+    "reddit": 389,
+    "tryandreview": 1423,
+    "watsons": 7419
+  },
+  "age_verified_count": 0,
+  "premium_to_basic_verified_count": 0,
+  "source_occurrences": 301526,
+  "excluded_nontext": 2970,
+  "ingestion_errors": 0,
+  "work_database_packaged": false,
+  "early_derived_database_issue": "An earlier WAL-mode derived database failed integrity checking. It was excluded and rebuilt entirely from unchanged canonical source inputs using DELETE journaling; this rebuilt database passes integrity_check. Failure cause not established.",
+  "export_checks": {
+    "records.jsonl.gz": {
+      "rows": 298846,
+      "bytes": 67676612,
+      "gzip_and_json_parse": "passed"
+    },
+    "observations.jsonl.gz": {
+      "rows": 301526,
+      "bytes": 85710074,
+      "gzip_and_json_parse": "passed"
+    },
+    "excluded_nontext_rows.jsonl.gz": {
+      "rows": 2970,
+      "bytes": 145065,
+      "gzip_and_json_parse": "passed"
+    },
+    "records.csv.gz": {
+      "rows": 298846,
+      "bytes": 63633349,
+      "gzip_and_csv_parse": "passed"
+    }
+  },
+  "maximum_export_file_below_90mb": true,
+  "amazon_written_product_scope_counts": {
+    "accessory_or_container": 20931,
+    "adjacent_powder_or_alternative": 35936,
+    "adult_human_toothpaste_title_candidate": 196872,
+    "brand_matched_type_unresolved": 1928,
+    "child_or_infant": 30698,
+    "pet_or_nonhuman": 341
+  },
+  "nontext_exclusions_by_input": [
+    {
+      "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/scale_amazon/health_household/clean/reviews_classified.jsonl.gz",
+      "rows": 198
+    },
+    {
+      "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/scale_lazada/clean/reviews.json",
+      "rows": 2772
+    }
+  ]
+}

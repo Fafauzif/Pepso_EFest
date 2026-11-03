@@ -1,0 +1,134 @@
+{
+  "data": {
+    "id": "Sgg7mCpNv1pMIivJE",
+    "userId": "KXpvttL6f6sVs4K4A",
+    "name": "shopee-reviews-scraper",
+    "username": "scrapewise",
+    "description": "Scrape Shopee reviews of any shop or product in Singapore, Brazil, Indonesia, Malaysia, Thailand, Philippines, Vietnam and Taiwan: stars, comment, variation, quality, service and delivery scores, seller reply, photo and video counts. Up to 5,000 per shop. No login. Error rows are free.",
+    "isPublic": true,
+    "createdAt": "2026-10-20T11:31:55.565Z",
+    "modifiedAt": "2026-11-02T19:38:08.661Z",
+    "taggedBuilds": {
+      "latest": {
+        "buildId": "pAH7zfa8YSUxCqdug",
+        "finishedAt": "2026-11-02T19:38:08.661Z",
+        "buildNumberInt": 100008,
+        "buildNumber": "0.1.8"
+      }
+    },
+    "stats": {
+      "totalBuilds": 8,
+      "totalRuns": 83,
+      "totalUsers": 6,
+      "totalUsers7Days": 2,
+      "totalUsers30Days": 3,
+      "totalUsers90Days": 3,
+      "lastRunStartedAt": "2026-11-03T10:26:53.497Z",
+      "actorReviewCount": 0,
+      "actorReviewRating": 0,
+      "bookmarkCount": 0,
+      "publicActorRunStats30Days": {
+        "ABORTED": 0,
+        "FAILED": 0,
+        "SUCCEEDED": 37,
+        "TIMED-OUT": 0,
+        "TOTAL": 37
+      }
+    },
+    "versions": [
+      {
+        "versionNumber": "0.1",
+        "sourceType": "SOURCE_FILES",
+        "buildTag": "latest"
+      }
+    ],
+    "defaultRunOptions": {
+      "build": "latest",
+      "timeoutSecs": 3600,
+      "memoryMbytes": 512
+    },
+    "exampleRunInput": {
+      "body": "{ \"helloWorld\": 123 }",
+      "contentType": "application/json; charset=utf-8"
+    },
+    "categories": [
+      "ECOMMERCE"
+    ],
+    "isDeprecated": false,
+    "title": "Shopee Reviews Scraper - Ratings & Comments in 8 Countries",
+    "pictureUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/KXpvttL6f6sVs4K4A-actor-Sgg7mCpNv1pMIivJE-d7jZGG25p0-shopee-reviews-scraper.png",
+    "seoTitle": "Shopee Reviews Scraper: Ratings, Comments & Seller Replies",
+    "seoDescription": "Shopee reviews of any shop or product in SG, BR, ID, MY, TH, PH, VN, TW: stars, comment, variation, scores, seller reply. Up to 5,000 per shop. No login.",
+    "pricingInfos": [
+      {
+        "pricingModel": "PAY_PER_EVENT",
+        "reasonForChange": "Launch price: Review delivered US$ 3 per 1,000 on Free, US$ 2.55 on Gold and above; Actor start US$ 5 per 1,000 on Free, US$ 4.25 on Gold and above.",
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "avaliacao-entregue": {
+              "eventTitle": "Review delivered",
+              "eventDescription": "Charged once per unique Shopee review delivered to the dataset: stars, comment, product and variation, quality / seller service / delivery scores, seller reply, photo and video counts, date. Error rows, shop summary rows, duplicates and reviews removed by your filters are never charged.",
+              "isPrimaryEvent": true,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.003
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.00285
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.0027
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.00255
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.00255
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.00255
+                }
+              }
+            },
+            "apify-actor-start": {
+              "eventTitle": "Actor Start",
+              "eventDescription": "Charged when the Actor starts running. Number of events charged depends on Actor memory (one event per GB, minimum one event).",
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.005
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.00475
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.0045
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.00425
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.00425
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.00425
+                }
+              }
+            }
+          }
+        },
+        "createdAt": "2026-10-20T11:32:19.456Z",
+        "startedAt": "2026-10-20T11:32:19.456Z",
+        "apifyMarginPercentage": 0.2
+      }
+    ],
+    "notice": "NONE",
+    "isCritical": false,
+    "isGeneric": false,
+    "hasNoDataset": false,
+    "isSourceCodeHidden": true,
+    "standbyUrl": null,
+    "actorPermissionLevel": "LIMITED_PERMISSIONS",
+    "readmeSummary": "## Shopee Reviews Scraper\n\nScrapes Shopee review content for shops or products across Singapore, Brazil, Indonesia, Malaysia, Thailand, the Philippines, Vietnam and Taiwan; extracts review stars, buyer comments, product and variation info, the three detailed scores (product quality, seller service, delivery), seller replies with timestamps, counts of attached photos and videos, helpful-vote counts and review dates; can also emit per-shop summary metrics such as overall rating breakdown, follower and product counts, response rate and shop join date. Operates by reading shop review pages and, for product links, filtering those shop reviews to keep only entries for the specified product. Supports full-text and semantic filtering (star-range, presence of comment or media, date window), incremental reads of new reviews, high-throughput scraping (thousands of reviews within seconds) and returns informative status/error rows for inputs that cannot be processed. Designed to collect structured review-level and shop-level metadata suitable for analysis and downstream processing.\n\n## Use cases\n\n- Product research before sourcing: surface 1–2 star complaints to identify defects, sizing, packaging and authenticity issues.  \n- Competitor monitoring: regularly track competitors’ new complaints, scores and seller replies.  \n- Brand protection: monitor official shops and reseller accounts across multiple countries from a single run.  \n- Sentiment and AI analysis: provide comment text, star ratings and the three detailed scores for LLMs or sentiment models; variation data links complaints to specific colors/sizes.  \n- Seller service audit: detect who replies, reply timestamps and seller-service scores to evaluate responsiveness.  \n- Cross-border vs local seller analysis: distinguish orders shipped from abroad versus local origin for cross-border insights.",
+    "deploymentKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDpVXuckBNUuQM3V1OUqfuRE6eSBy9H9tGOnEGBKQ4I6w5uhEh2Qa72ZRC9GPcoRDg5E4xQqMW4Zi3/jzXcfDfoBkPo7rQR1+c9jCuXS4MU6AKgcHN7qVBpdx8oVH44pUzQz8E0bxqZb0uAZP77Kf5UZbLdbvxi39kVLw4HJQG2yuGIOzKFxrBcnhjsAXSRrFNNmhJuNQRl2BAeL+w9PEcl3DH6aMw6eYYigu5SPLACgokhfyBRAMimxhrE0DyL1RlOIaeA7LYwUD/YWZN98kfy5PvjH60xzAed/PjKwRkizOwOYsxTP30hViTK+MX382yl7aN89Qtzg7WybrS2H1LEgButiRg+9FIcc9xjdAUvZsGjK3Z7DnM9QJMRykwxLFk+M8Xl08Wro/eFF39zq43kS8LJ7xqq6513AyZkQtc22BN4vuvrIEqAq7lDufEfFcUS7nEWcz+FAL3t1jGb5UKszk2XXNnyTp2G/E+PpnHIM9nKgOCV+M3B/prOBAOYrVEb6X7pU/fmRnsUPPazo8S0CHQ6bv8nhYgIoNLGq0h6uZyxspEKzyupgoee6jNqMqJ8L4t5t64+zSpdEtASFP/BcYBBez3MGOQ5PXPrD0eXecdEWUMo6x1kwmnJTaxz3wTDwXd0ODPmb0S7i4E7ZmgoVraOi2xU1JjY9xnhD6n4Uw== \n"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "archived_at": "2026-11-03",
+  "provenance": "User attachments from this conversation; originals unchanged; gzip decompresses to exact uploaded bytes. JSON locators are zero-based array indices unless source analysis states otherwise.",
+  "files": [
+    {
+      "original_filename": "Pasted text(20261103-114306).txt",
+      "original_bytes": 94444,
+      "original_sha256": "01ff09a8b7c0405545ccd7a147ea2fac1dd6fca3c9ed77bd339f54681dfe5bfd",
+      "archive_path": "raw/user_runs/Pasted text(20261103-114306).txt",
+      "archive_bytes": 94444,
+      "archive_sha256": "01ff09a8b7c0405545ccd7a147ea2fac1dd6fca3c9ed77bd339f54681dfe5bfd",
+      "encoding": "unchanged",
+      "disposition": "source_input"
+    },
+    {
+      "original_filename": "dataset_shopee-reviews-scraper_2026-11-03_12-11-00-864.json",
+      "original_bytes": 924,
+      "original_sha256": "70b5c3f45510052f3638cbacdc1acc9ef90730a1125bc4b6b5b3a864ea5bf659",
+      "archive_path": "raw/user_runs/dataset_shopee-reviews-scraper_2026-11-03_12-11-00-864.json.gz",
+      "archive_bytes": 404,
+      "archive_sha256": "4a44478f2677e7c3b9df212df7ea03ed1bc14be5cb63313ea803c7e3073ef652",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "excluded_from_case_analysis_error_or_wrong_target_retained_for_audit"
+    },
+    {
+      "original_filename": "dataset_shopee-reviews-scraper_2026-11-03_12-18-09-957.json",
+      "original_bytes": 98596,
+      "original_sha256": "cd9df5cdf2d9f988dfbfcaea2ce3cbddc73de23de109c823ff7f29c9ba0bbd86",
+      "archive_path": "raw/user_runs/dataset_shopee-reviews-scraper_2026-11-03_12-18-09-957.json.gz",
+      "archive_bytes": 9352,
+      "archive_sha256": "60a6f1cb09217752dc755c0da1736547461342c55358631ebb05d6d1fceb5b6e",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "excluded_from_case_analysis_error_or_wrong_target_retained_for_audit"
+    },
+    {
+      "original_filename": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json",
+      "original_bytes": 2384333,
+      "original_sha256": "f0cbed908bd1f79ab73cf1a5702cf824ed23a91e452001f52db86d5f9dfa0326",
+      "archive_path": "raw/user_runs/dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json.gz",
+      "archive_bytes": 355618,
+      "archive_sha256": "bf1b8a3b40d6267dfdcc48c3a1dcc6b8adcf7de1d0547c47e7b24863f76d869a",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "source_input"
+    },
+    {
+      "original_filename": "dataset_tokopedia-reviews-scraper_2026-11-03_12-22-38-122.json",
+      "original_bytes": 48579,
+      "original_sha256": "f230735caabd63457eca7600908c6f1ef74f5c6a54d18aab0606cdd30e7d2fb4",
+      "archive_path": "raw/user_runs/dataset_tokopedia-reviews-scraper_2026-11-03_12-22-38-122.json.gz",
+      "archive_bytes": 6614,
+      "archive_sha256": "ca795d288c9525ee231da4d2812a5ab24ada54cd4d987ca98062b47490560ad0",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "source_input"
+    },
+    {
+      "original_filename": "dataset_tokopedia-reviews-scraper_2026-11-03_12-27-31-721.json",
+      "original_bytes": 283985,
+      "original_sha256": "fd32d188ae06851e1c7b108c25b1c817b64f816d288e641b7292770c49917f14",
+      "archive_path": "raw/user_runs/dataset_tokopedia-reviews-scraper_2026-11-03_12-27-31-721.json.gz",
+      "archive_bytes": 35508,
+      "archive_sha256": "62fb7d30f04b48dae1c0b59faed854126d95dc7bba8cce6cd05990b810d46686",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "source_input"
+    },
+    {
+      "original_filename": "dataset_x-tweet-scraper_2026-11-03_11-29-36-664.json",
+      "original_bytes": 582992,
+      "original_sha256": "64a98e97f1c0d080d9639f7409a8ac1adb488c6dea47ce4cb04c531ad7373132",
+      "archive_path": "raw/user_runs/dataset_x-tweet-scraper_2026-11-03_11-29-36-664.json.gz",
+      "archive_bytes": 88032,
+      "archive_sha256": "f69d3d0fcaac7f04ca026d600e6d469830990b724b880b08f929dd02f2b85ce7",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "source_input"
+    },
+    {
+      "original_filename": "dataset_x-tweet-scraper_2026-11-03_11-35-46-217.json",
+      "original_bytes": 6028419,
+      "original_sha256": "58402761c86975e179ef828318a56165ca654fb793360e135c8187d8e51c8018",
+      "archive_path": "raw/user_runs/dataset_x-tweet-scraper_2026-11-03_11-35-46-217.json.gz",
+      "archive_bytes": 765085,
+      "archive_sha256": "b240fa7d2a1b35fef2c053d028110f054b9edc0a0dbb895829e6a212af65f045",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "source_input"
+    },
+    {
+      "original_filename": "dataset_x-tweet-scraper_2026-11-03_11-42-21-918.json",
+      "original_bytes": 50442583,
+      "original_sha256": "5720c4b0a839aaf4b64902d967ba02f752d7a8e58dd31bd68c09c175a74b1e87",
+      "archive_path": "raw/user_runs/dataset_x-tweet-scraper_2026-11-03_11-42-21-918.json.gz",
+      "archive_bytes": 5600115,
+      "archive_sha256": "10677af35b98e9b5a597e7c99ad7f49779f9a9000ad075628659a42961dc860d",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "source_input"
+    },
+    {
+      "original_filename": "dataset_x-tweet-scraper_2026-11-03_11-49-14-919.json",
+      "original_bytes": 37252251,
+      "original_sha256": "341c12e970f4165ca952bfb08b2f273059f67f03eef3298e4f5bba3b2adf2904",
+      "archive_path": "raw/user_runs/dataset_x-tweet-scraper_2026-11-03_11-49-14-919.json.gz",
+      "archive_bytes": 4534984,
+      "archive_sha256": "861fec069ad23b9b20b6a87a3ff2a8e22787e38e8b92d5ab8f4723fb875c64c2",
+      "encoding": "gzip_exact_original_bytes",
+      "disposition": "source_input"
+    },
+    {
+      "original_filename": "image(20261103-101305).png",
+      "original_bytes": 789109,
+      "original_sha256": "136ce7cd301c257d99deab4d2afe00da5d6aafae4fc15ee2fdb4ef15c99e86c0",
+      "archive_path": "raw/user_runs/image(20261103-101305).png",
+      "archive_bytes": 789109,
+      "archive_sha256": "136ce7cd301c257d99deab4d2afe00da5d6aafae4fc15ee2fdb4ef15c99e86c0",
+      "encoding": "unchanged",
+      "disposition": "source_input"
+    }
+  ]
+}

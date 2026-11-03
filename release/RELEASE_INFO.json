@@ -1,0 +1,21 @@
+{
+  "release_date": "2026-11-03",
+  "timezone": "Asia/Jakarta",
+  "baseline_commit": "423cce08921b611fd01fbf6d25a0f86b65986f76",
+  "remote_head_verified_same": true,
+  "visibility_intent": "private_team",
+  "file_size_target_bytes": 47185920,
+  "large_logical_files_in_parts": 5,
+  "git_lfs_required": false,
+  "remote_push": false,
+  "previous_release_coverage": 1949,
+  "excluded": [
+    "research/2026-11-03/scale_discovery/raw/574v66hf2v_PRDECT-ID_Dataset.csv",
+    "research/2026-11-03/scale_discovery/raw/74xrbd4vxy_Raw_Dataset.csv",
+    ".git/**",
+    "**/__pycache__/**",
+    "scale_pipeline/work/**",
+    "credentials/environments/caches"
+  ],
+  "canonical_written_inventory": 314476
+}

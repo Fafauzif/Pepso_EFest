@@ -1,0 +1,100 @@
+{
+  "source_file": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json",
+  "source_sha256": "f0cbed908bd1f79ab73cf1a5702cf824ed23a91e452001f52db86d5f9dfa0326",
+  "export_rows": 2380,
+  "unique_comment_ids": 2380,
+  "duplicate_id_occurrences": 0,
+  "conflicting_id_payloads": 0,
+  "written_nonblank": 2372,
+  "blank": 8,
+  "videos": 18,
+  "roots": 1681,
+  "replies": 699,
+  "reply_parent_present": 699,
+  "reply_parent_missing": 0,
+  "date_fields_disagree": 0,
+  "date_span_utc": [
+    "2020-08-11T14:07:47.000Z",
+    "2026-11-03T08:46:15.000Z"
+  ],
+  "case_scope": {
+    "case_2022_H1_2026": 1648,
+    "post_H1_2026_context": 481,
+    "pre_2022_context": 251
+  },
+  "case_scope_timezone": "Asia/Jakarta UTC+07",
+  "case_scope_utc": {
+    "case_2022_H1_2026": 1649,
+    "post_H1_2026_context": 480,
+    "pre_2022_context": 251
+  },
+  "timezone_boundary_changed_records": [
+    "7657245284531864340"
+  ],
+  "relevance_candidate": {
+    "self_contained_oralcare_candidate": 842,
+    "context_dependent_unresolved": 1506,
+    "explicit_offtopic_candidate": 24,
+    "blank": 8
+  },
+  "candidate_tags": {
+    "recommendation_question_candidate": 544,
+    "experience_result_candidate": 243,
+    "sensory_candidate": 190,
+    "price_promo_candidate": 106,
+    "switch_repeat_candidate": 47,
+    "household_payer_candidate": 25,
+    "availability_candidate": 37,
+    "explicit_offtopic_candidate": 24
+  },
+  "videos_at_180_cap": 8,
+  "exact_normalized_copied_text_groups": 44,
+  "records_in_copied_text_groups": 175,
+  "extra_occurrences_of_copied_text": 131,
+  "distinct_observed_uid_pseudonyms": 2069,
+  "top_author_comment_counts": [
+    [
+      "tt-18f7c7f470dd6526",
+      21
+    ],
+    [
+      "tt-e079593a986beeb3",
+      16
+    ],
+    [
+      "tt-a6e741a04b757d92",
+      16
+    ],
+    [
+      "tt-84732e314ba2a414",
+      15
+    ],
+    [
+      "tt-25d7c7ab0805abd3",
+      13
+    ],
+    [
+      "tt-d09195271b05afab",
+      10
+    ],
+    [
+      "tt-c9ba7a3d57f5eba6",
+      9
+    ],
+    [
+      "tt-f0b5b948de7a5752",
+      8
+    ],
+    [
+      "tt-84e892c1cf095b0f",
+      8
+    ],
+    [
+      "tt-41481f6841e1d8c2",
+      5
+    ]
+  ],
+  "verified_age_count": 0,
+  "verified_premium_to_basic_count": 0,
+  "interpretation": "All theme counts are transparent lexical candidates in a purposive 18-video export, not validated themes, people, prevalence, or efficacy."
+}

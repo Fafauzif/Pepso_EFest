@@ -1,0 +1,57 @@
+[
+  {
+    "actor": "xquik/x-tweet-scraper",
+    "role": "optional X discourse gap",
+    "metadata_retrieved_date": "2026-11-03",
+    "build_number": "1.12.416",
+    "build_id": "ucQdRgYGeIVId4YR7",
+    "build_finished_at": "2026-11-01T23:36:50.686Z",
+    "pricing_effective_date": "2026-08-29T00:00:00.000Z",
+    "free_price_event_usd": {
+      "apify-default-dataset-item": 0.00015
+    },
+    "platform_usage_paid_separately": true,
+    "account_eligibility_checked": false,
+    "actor_executed": false,
+    "is_deprecated": false,
+    "notice": "NONE",
+    "schema_file": "schemas/xquik_input_schema.json"
+  },
+  {
+    "actor": "scrapewise/shopee-reviews-scraper",
+    "role": "optional cross-marketplace review check",
+    "metadata_retrieved_date": "2026-11-03",
+    "build_number": "0.1.8",
+    "build_id": "pAH7zfa8YSUxCqdug",
+    "build_finished_at": "2026-11-02T19:38:08.661Z",
+    "pricing_effective_date": "2026-10-20T11:32:19.456Z",
+    "free_price_event_usd": {
+      "avaliacao-entregue": 0.003,
+      "apify-actor-start": 0.005
+    },
+    "platform_usage_paid_separately": false,
+    "account_eligibility_checked": false,
+    "actor_executed": false,
+    "is_deprecated": false,
+    "notice": "NONE",
+    "schema_file": "schemas/scrapewise_input_schema.json"
+  },
+  {
+    "actor": "clockworks/tiktok-comments-scraper",
+    "role": "deferred; no exact relevant post target",
+    "metadata_retrieved_date": "2026-11-03",
+    "build_number": "0.0.495",
+    "build_id": "gkNJqeIcYPL0EitsN",
+    "build_finished_at": "2026-11-02T17:17:26.457Z",
+    "pricing_effective_date": "2026-03-18T10:24:20.131Z",
+    "free_price_event_usd": {
+      "result": 0.00125
+    },
+    "platform_usage_paid_separately": false,
+    "account_eligibility_checked": false,
+    "actor_executed": false,
+    "is_deprecated": false,
+    "notice": "NONE",
+    "schema_file": "schemas/clockworks_input_schema.json"
+  }
+]

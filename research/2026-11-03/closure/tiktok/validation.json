@@ -1,0 +1,11 @@
+{
+  "source_hash": "passed",
+  "raw_to_unique_to_occurrences_to_csv": 2380,
+  "all_source_ids_text_dates_match": true,
+  "all_reply_parents_present_and_same_video": true,
+  "date_epoch_ISO_agreement": true,
+  "qualitative_annotation_source_matches": 100,
+  "age_or_switcher_inference_flags": false,
+  "gzip_JSONL_CSV_parse": "passed",
+  "result": "passed"
+}

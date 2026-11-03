@@ -1,0 +1,322 @@
+{
+  "data": {
+    "id": "wAusCMrm284Voaw86",
+    "userId": "18hhjLq6BGhhUQeIc",
+    "name": "x-tweet-scraper",
+    "username": "xquik",
+    "description": "Twitter scraper & X scraper for tweets, replies, profiles, lists & search from $0.00015 per delivered tweet on every Apify plan. Use it as a Twitter API alternative with 63 fields per tweet & 50+ filters. No X login. World's fastest & cheapest X (Twitter) scraper service. Not affiliated with X Corp.",
+    "isPublic": true,
+    "createdAt": "2026-03-28T01:45:00.562Z",
+    "modifiedAt": "2026-11-01T23:37:04.700Z",
+    "taggedBuilds": {
+      "latest": {
+        "buildId": "ucQdRgYGeIVId4YR7",
+        "finishedAt": "2026-11-01T23:36:50.686Z",
+        "buildNumberInt": 11200416,
+        "buildNumber": "1.12.416"
+      },
+      "build-1-12-264": {
+        "buildId": "yia2ejyP1soX43O83",
+        "finishedAt": "2026-09-23T14:02:47.450Z",
+        "buildNumberInt": 11200264,
+        "buildNumber": "1.12.264"
+      },
+      "build-1-12-319": {
+        "buildId": "pziRZnTkbyQu12V8p",
+        "finishedAt": "2026-09-27T07:56:14.147Z",
+        "buildNumberInt": 11200319,
+        "buildNumber": "1.12.319"
+      },
+      "build-1-12-320": {
+        "buildId": "19UUEVyPm30EvoP2s",
+        "finishedAt": "2026-09-27T16:12:51.132Z",
+        "buildNumberInt": 11200320,
+        "buildNumber": "1.12.320"
+      },
+      "build-1-12-323": {
+        "buildId": "MqwNWpXZY1c6BGMQw",
+        "finishedAt": "2026-09-28T07:43:00.104Z",
+        "buildNumberInt": 11200323,
+        "buildNumber": "1.12.323"
+      },
+      "build-1-12-331": {
+        "buildId": "agfiwvm64DqbBkLwM",
+        "finishedAt": "2026-09-29T12:38:19.040Z",
+        "buildNumberInt": 11200331,
+        "buildNumber": "1.12.331"
+      },
+      "build-1-12-333": {
+        "buildId": "AbuPevKucDrlR2JBK",
+        "finishedAt": "2026-09-30T02:14:21.904Z",
+        "buildNumberInt": 11200333,
+        "buildNumber": "1.12.333"
+      },
+      "build-1-12-334": {
+        "buildId": "t5uoiYCcw31OzYoh1",
+        "finishedAt": "2026-10-01T00:24:08.321Z",
+        "buildNumberInt": 11200334,
+        "buildNumber": "1.12.334"
+      }
+    },
+    "stats": {
+      "totalBuilds": 812,
+      "totalRuns": 7515210,
+      "totalUsers": 8472,
+      "totalUsers7Days": 1758,
+      "totalUsers30Days": 3444,
+      "totalUsers90Days": 4748,
+      "actorReviewCount": 16,
+      "actorReviewRating": 4.668267913333139,
+      "bookmarkCount": 36,
+      "lastRunStartedAt": "2026-11-03T10:31:08.625Z",
+      "publicActorRunStats30Days": {
+        "ABORTED": 241,
+        "FAILED": 3,
+        "SUCCEEDED": 2839220,
+        "TIMED-OUT": 1,
+        "TOTAL": 2839465
+      }
+    },
+    "versions": [
+      {
+        "versionNumber": "1.1",
+        "sourceType": "TARBALL",
+        "buildTag": "candidate-414ecbb983-ctl"
+      },
+      {
+        "versionNumber": "1.10",
+        "sourceType": "TARBALL",
+        "buildTag": null
+      },
+      {
+        "versionNumber": "1.11",
+        "sourceType": "TARBALL",
+        "buildTag": null
+      },
+      {
+        "versionNumber": "1.12",
+        "sourceType": "TARBALL",
+        "buildTag": "latest"
+      },
+      {
+        "versionNumber": "1.2",
+        "sourceType": "TARBALL",
+        "buildTag": "candidate-7873ad908b"
+      },
+      {
+        "versionNumber": "1.5",
+        "sourceType": "TARBALL",
+        "buildTag": null
+      },
+      {
+        "versionNumber": "1.6",
+        "sourceType": "TARBALL",
+        "buildTag": null
+      },
+      {
+        "versionNumber": "1.7",
+        "sourceType": "TARBALL",
+        "buildTag": null
+      },
+      {
+        "versionNumber": "1.8",
+        "sourceType": "TARBALL",
+        "buildTag": null
+      },
+      {
+        "versionNumber": "1.9",
+        "sourceType": "TARBALL",
+        "buildTag": null
+      }
+    ],
+    "defaultRunOptions": {
+      "build": "latest",
+      "timeoutSecs": 0,
+      "memoryMbytes": 256
+    },
+    "exampleRunInput": {
+      "body": "{\"searchTerms\":[\"(AI agent OR coding agent OR agentic AI) (launch OR release OR benchmark OR open source) lang:en -filter:nativeretweets\"],\"maxItems\":100,\"queryType\":\"Latest + Top\",\"outputVariant\":\"rich\",\"fieldStyle\":\"camelCase\",\"outputPreset\":\"flat\",\"includeSearchTerms\":true}",
+      "contentType": "application/json; charset=utf-8"
+    },
+    "categories": [
+      "SOCIAL_MEDIA",
+      "LEAD_GENERATION",
+      "DEVELOPER_TOOLS"
+    ],
+    "isDeprecated": false,
+    "title": "X (Twitter) Tweet Scraper | $0.00015/Tweet | Pay-Per-Result",
+    "pictureUrl": "https://apify-image-uploads-prod.s3.us-east-1.amazonaws.com/18hhjLq6BGhhUQeIc-actor-wAusCMrm284Voaw86-DvWvyy5wt4-logo-dark-square-flat.png",
+    "seoTitle": "Twitter Scraper & X Scraper for Tweets & Search | Xquik",
+    "seoDescription": "Twitter scraper & X scraper for tweets, replies, profiles & search. 50+ filters, 63 fields per tweet, $0.00015 per tweet. No X login or Twitter API key.",
+    "pricingInfos": [
+      {
+        "minimalMaxTotalChargeUsd": null,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": false,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "apify-actor-start": {
+              "eventTitle": "Actor Start",
+              "eventDescription": "Charged when the Actor starts running. Number of events charged depends on Actor memory (one event per GB, minimum one event).",
+              "isOneTimeEvent": true,
+              "eventPriceUsd": 0.00005
+            },
+            "apify-default-dataset-item": {
+              "eventTitle": "tweets",
+              "eventDescription": "tweets",
+              "isOneTimeEvent": true,
+              "eventPriceUsd": 0.00015,
+              "isPrimaryEvent": true
+            }
+          }
+        },
+        "startedAt": "2026-03-28T17:13:16.589Z",
+        "createdAt": "2026-03-28T17:13:17.189Z",
+        "apifyMarginPercentage": 0.2
+      },
+      {
+        "minimalMaxTotalChargeUsd": null,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": false,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "apify-default-dataset-item": {
+              "eventTitle": "tweets",
+              "eventDescription": "tweets",
+              "isOneTimeEvent": true,
+              "eventPriceUsd": 0.00015,
+              "isPrimaryEvent": true
+            }
+          }
+        },
+        "startedAt": "2026-04-06T11:59:11.424Z",
+        "createdAt": "2026-04-06T11:59:12.215Z",
+        "apifyMarginPercentage": 0.2
+      },
+      {
+        "minimalMaxTotalChargeUsd": 0.5,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": true,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "apify-default-dataset-item": {
+              "eventTitle": "tweets",
+              "eventDescription": "tweets",
+              "isOneTimeEvent": true,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.015
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.00015
+                }
+              },
+              "isPrimaryEvent": true
+            }
+          }
+        },
+        "createdAt": "2026-04-08T10:35:42.650Z",
+        "startedAt": "2026-04-08T10:35:42.650Z",
+        "apifyMarginPercentage": 0.2
+      },
+      {
+        "minimalMaxTotalChargeUsd": null,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": false,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "apify-default-dataset-item": {
+              "eventTitle": "tweets",
+              "eventDescription": "tweets",
+              "isOneTimeEvent": true,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.015
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.00015
+                }
+              },
+              "isPrimaryEvent": true
+            }
+          }
+        },
+        "startedAt": "2026-04-23T18:16:44.850Z",
+        "createdAt": "2026-04-23T18:16:45.218Z",
+        "apifyMarginPercentage": 0.2
+      },
+      {
+        "minimalMaxTotalChargeUsd": null,
+        "isPPEPlatformUsagePaidByUser": true,
+        "pricingModel": "PAY_PER_EVENT",
+        "isPriceChangeNotificationSuppressed": true,
+        "pricingPerEvent": {
+          "actorChargeEvents": {
+            "apify-default-dataset-item": {
+              "eventTitle": "tweets",
+              "eventDescription": "tweets",
+              "isOneTimeEvent": true,
+              "eventTieredPricingUsd": {
+                "FREE": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "BRONZE": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "SILVER": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "GOLD": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "PLATINUM": {
+                  "tieredEventPriceUsd": 0.00015
+                },
+                "DIAMOND": {
+                  "tieredEventPriceUsd": 0.00015
+                }
+              },
+              "isPrimaryEvent": true
+            }
+          }
+        },
+        "startedAt": "2026-08-29T00:00:00.000Z",
+        "createdAt": "2026-08-17T12:05:06.561Z",
+        "apifyMarginPercentage": 0.2
+      }
+    ],
+    "notice": "NONE",
+    "isCritical": false,
+    "isGeneric": false,
+    "hasNoDataset": false,
+    "isSourceCodeHidden": true,
+    "standbyUrl": null,
+    "actorPermissionLevel": "LIMITED_PERMISSIONS",
+    "readmeSummary": "## X Tweet Scraper\n\nA web scraping Actor that extracts X (Twitter) content at scale: it collects tweets, replies, quote tweets, threads, profile posts, Lists and search results from URLs, handles, List IDs, Tweet IDs and free-text queries with extensive filter support. Technical capabilities include high-throughput paged reads, deduplication, language and date-window verification, stable conversation ordering, and targeted engagement reads (replies, quotes, retweeters, likers/favoriters, threads). The Actor returns rich structured data: full text (including long-form posts), timestamps, engagement metrics, public author profile metadata, nested quoted/retweeted posts, conversation identifiers, media with variants and metadata (images, videos, GIFs, alt text, sizes), disclosure and moderation labels, translations and embedded HTML, and optional article-level extraction. Outputs can be delivered as nested JSON or flattened spreadsheet-friendly rows with configurable field naming and column-mapping; runs include diagnostics and provenance information describing partial, empty or stopped extractions.\n\n## Use cases\n\n- Feed tweet text, author metadata, media and engagement metrics into research, enrichment, analytics and AI training.\n- Build retrieval-augmented datasets and extract article bodies for RAG workflows.\n- Monitor brand mentions, track brand sentiment and collect product feedback from public posts.\n- Monitor competitor posts and industry terms for market or trend analysis.\n- Collect replies, quote tweets and full conversation threads for moderation or discourse analysis.\n- Find high-engagement or top-ranked posts by metric, date window or country for social performance research.\n- Bulk lookup of Tweet IDs and profile histories for dataset backfills and archival exports.\n- Export X data to CSV/Excel/JSON for downstream analysis, reporting or spreadsheets.\n- Discover prospects and public conversations for lead generation and outreach research.\n- Monitor topic-specific conversations (e.g., electric vehicles, AI agent tools) and build topic-focused datasets.",
+    "deploymentKey": "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDNxYUJeFQMBDZ3tZ07gNno4DHmVuqwv6oTdlYMlAP8ruQjjP70N8Z7cJ0QHOXLPL5Mbd7ObtEN2d+8PoHhTLfAhl51gt6O2I9TO3M6EFE96EJ9mHENM8LFJNuHtCgCZVjErBf37g12YRiUCHPj5UXnu88KdEULaOAosAzTGuwpJLwvwo5VNrcdkDePYZoL0bItrqYMhuY85rkQJxmmAp3omClm5wuH4YpIhu5j0HO/Lp0cN0hqtQhFIF/OAi594er9RTSnsFQvczxUSdwP1PnFz7OvzgUGuFKdxp118ebKEFmO0TgQ0IrrPb9yzX+hQDZJSTGW6pW5fPh7+MPRNeEl \n"
+  }
+}

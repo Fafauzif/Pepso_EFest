@@ -1,0 +1,410 @@
+[
+  {
+    "type": "file",
+    "oid": "6f058eabef845c6da255833bf276a2be2d136bf3",
+    "size": 326611506,
+    "lfs": {
+      "oid": "36ca7c48440a8247b2dca0174d095238422b506a8a80c114dca722b7715f1c94",
+      "size": 326611506,
+      "pointerSize": 134
+    },
+    "xetHash": "f50b39f060392a72590fad8d3505d1c2512fe7b97606572c36cc4fa316fe8f3e",
+    "path": "raw/review_categories/All_Beauty.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "eca8cff7e9cd2ae00efb2909eaa981d784f9bfe3",
+    "size": 1051324731,
+    "lfs": {
+      "oid": "e597b3ce6cbb2f9994a32e0eee6bb04fdae50725f2d49c89f6baef1a7b986c57",
+      "size": 1051324731,
+      "pointerSize": 135
+    },
+    "xetHash": "d9ae6c75dded8881d3e2eb5f3a5e263bf694fc838854d84591db20b7e7a047e6",
+    "path": "raw/review_categories/Amazon_Fashion.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "4978b37f088c24da0de70229618955c10b39f68f",
+    "size": 929451412,
+    "lfs": {
+      "oid": "d9dd03aa9be0c8e6fea66d8ce99a7e5b359e272d6323186c1aa80f6d36af1dab",
+      "size": 929451412,
+      "pointerSize": 134
+    },
+    "xetHash": "ed20003d57b821709a9ba8ce455e0ac770a12f80ed358223102b65fee8ae55be",
+    "path": "raw/review_categories/Appliances.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "8c0fa201f502c6263def87da43e972ae6044b0c8",
+    "size": 3945063799,
+    "lfs": {
+      "oid": "e2f6698cdb0c1f712e38718e02efc1b74641c31bf6745be14af85583399e74df",
+      "size": 3945063799,
+      "pointerSize": 135
+    },
+    "xetHash": "c2ccb2105278c075702621eb01988d291da1ec72b6643c9645ef926953d40fcc",
+    "path": "raw/review_categories/Arts_Crafts_and_Sewing.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "c9a64e243004ed241ffc562733715bbcbe535248",
+    "size": 8727689027,
+    "lfs": {
+      "oid": "5ca28ebd15a7e26f8bb3289d65e26784b39c9661d1f5dc030ecc9fef0211eced",
+      "size": 8727689027,
+      "pointerSize": 135
+    },
+    "xetHash": "55d939bba3e07b115c2d5912678b181a5976471df65bc3270ce2ae065230b8c9",
+    "path": "raw/review_categories/Automotive.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "260261d74a6c688987c97d1da70e83aa0df42e09",
+    "size": 2947785967,
+    "lfs": {
+      "oid": "5ab12d566ebc1162d5a197721d4da787261e036455d054ad8d858af7380e0a45",
+      "size": 2947785967,
+      "pointerSize": 135
+    },
+    "xetHash": "16ca4a5845f22e80223ec9f091d275d08d487bd4f31e139f78e100da0e8a3e14",
+    "path": "raw/review_categories/Baby_Products.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "1031f8c4a9824368cd58abcb0a09882c270fa035",
+    "size": 11021458876,
+    "lfs": {
+      "oid": "24f139d51014f50c052b69bdf5ca95e2e2656e80aabda2da3fdad29bb1931a53",
+      "size": 11021458876,
+      "pointerSize": 136
+    },
+    "xetHash": "4d7c38d362d627d1b97d2c26985fd79b9e6526fcd4cc65ea509e7ced3c464f50",
+    "path": "raw/review_categories/Beauty_and_Personal_Care.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "9c838963eb4e049a84b1ddf09a887bf825374e51",
+    "size": 20121186727,
+    "lfs": {
+      "oid": "14f524701f3e6e850d938e09961675c397078eb7af06a99892af8fab811d5a0d",
+      "size": 20121186727,
+      "pointerSize": 136
+    },
+    "xetHash": "a7cfa3b5738ec92b6ec602f3cdaf93236cdf583ed3b62c5e79b5f21304ad5cdf",
+    "path": "raw/review_categories/Books.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "eae65a2f1fb21de8969bf2cec61f7ca935ecfe8d",
+    "size": 3287195043,
+    "lfs": {
+      "oid": "4692a40ee4b9bcc5f7ee58edeffb211138e02641c3fdfd55f77843430cb34cbc",
+      "size": 3287195043,
+      "pointerSize": 135
+    },
+    "xetHash": "5e80cd60d203eb8bf8ee5e698ba05a3ba05860cd18b9f2f3e8fb645df66cd749",
+    "path": "raw/review_categories/CDs_and_Vinyl.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "52c754a312229eafc05ce47f7b861967957f2b63",
+    "size": 9342568048,
+    "lfs": {
+      "oid": "bda42ca8d28a1e57db970c78703b7aaac9c9beb6595e1be00364a0a55a682cd5",
+      "size": 9342568048,
+      "pointerSize": 135
+    },
+    "xetHash": "7ed72d79a1973b1da28738cbb97114ada55aef0f37137ee0dd0c9f8d5f2a1304",
+    "path": "raw/review_categories/Cell_Phones_and_Accessories.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "33c68474d2d9e7eef9d1ff21a92cf9b7cfcb34ad",
+    "size": 27810080533,
+    "lfs": {
+      "oid": "150eb2a9e88f61cd5a89c5337cde437dc71308c47f22899a72d9e1dad60b7356",
+      "size": 27810080533,
+      "pointerSize": 136
+    },
+    "xetHash": "06981d27fe15d18606d7c3ff27ab12ad4476996d0e4abfd03dca5a207b15f8a4",
+    "path": "raw/review_categories/Clothing_Shoes_and_Jewelry.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "8807743a0ffe912dc55280f47d94c6e1f5223de2",
+    "size": 78823304,
+    "lfs": {
+      "oid": "9ac137137e55e34fce290670fdf44acee5afa2ffae541f4f3b366a835930a7c3",
+      "size": 78823304,
+      "pointerSize": 133
+    },
+    "xetHash": "5eb24d9b05d7ab3b6c032222eb20e5df5d26dfa163f6a79a03892b5282975772",
+    "path": "raw/review_categories/Digital_Music.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "3c65807961381bdd0ef1ac3d54330da7186bd3e2",
+    "size": 22616233652,
+    "lfs": {
+      "oid": "bf11cf9c94c23ead7d3ffb174d18231fad8fcd76e72ad167f538a5599a38de8e",
+      "size": 22616233652,
+      "pointerSize": 136
+    },
+    "xetHash": "28866377eb7aec134fa8b5028e64a9d5de9960a671ef0babc5e0e177e1a96bc1",
+    "path": "raw/review_categories/Electronics.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "f8091e4b8b5b8453584421e93f1cb73f21a6a9b1",
+    "size": 50231035,
+    "lfs": {
+      "oid": "b7ceead0dd6378eebfc6f4736402f85cc08e8dcb328f813c95ca68fc62d9544e",
+      "size": 50231035,
+      "pointerSize": 133
+    },
+    "xetHash": "79fef8165f2fce89185d21e81f570619c184a16318e7711aba5cafd7659b4f05",
+    "path": "raw/review_categories/Gift_Cards.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "8a28f9da9498998408bebe97635947678ce291fc",
+    "size": 5973991903,
+    "lfs": {
+      "oid": "bd68ea63cd101de7a0f8ae53896a0ce6b4d1d61fdef63cc02fad303e5f1244c6",
+      "size": 5973991903,
+      "pointerSize": 135
+    },
+    "xetHash": "d5680f908df3b2ac8155efca05b4dc1a185a060c8c081fbdb3e36dacb00d6959",
+    "path": "raw/review_categories/Grocery_and_Gourmet_Food.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "68dfe868b7fff44a124a47c2ecd0fc362e22242f",
+    "size": 289025980,
+    "lfs": {
+      "oid": "7576d7743e83806d155e506a6bce13c25d9979ab13522e9a1cf2dc593144e65c",
+      "size": 289025980,
+      "pointerSize": 134
+    },
+    "xetHash": "dd64ef2d2b75c905787a3eb1c794f9cab49c54ac429cfb29d1d7ec471c10eb23",
+    "path": "raw/review_categories/Handmade_Products.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "1190cbc3150bc6e2ba940f754fc7c00fa06bf50d",
+    "size": 11395356745,
+    "lfs": {
+      "oid": "e8256271e6d566745656cd946e200a43ad08ff5e046daacfc54535bfd95be4b4",
+      "size": 11395356745,
+      "pointerSize": 136
+    },
+    "xetHash": "69a664d5ab013e1f15305752213d2ca9b0e93ea4e7158480ecc9fb8c75ea7900",
+    "path": "raw/review_categories/Health_and_Household.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "5368a74caf0c4c2dfe0ceb790bb36081d3701565",
+    "size": 226990293,
+    "lfs": {
+      "oid": "b532849dcf8e42910ce688ad423b3c1622ce860e7bf88a3641358bb89f345d02",
+      "size": 226990293,
+      "pointerSize": 134
+    },
+    "xetHash": "99eb0eae28b09ef52192ae0fbadd8e6ef1ed77732457a827d7867c1d43f8aa8f",
+    "path": "raw/review_categories/Health_and_Personal_Care.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "e74f62044429cbbd2c347de14cbf8583a119b764",
+    "size": 31408889188,
+    "lfs": {
+      "oid": "88f2ed8cda172b18201a9d8577ab461255b9ecec99581c1ee05c5e1b4105262b",
+      "size": 31408889188,
+      "pointerSize": 136
+    },
+    "xetHash": "8637d3a8d83d47f9dc4ed4396f1e9d85c1f6cd1c0a7cebef058bb823aff55163",
+    "path": "raw/review_categories/Home_and_Kitchen.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "5e582ba696d2f7c2e722d4eeb0a2dd6c80a4c9d6",
+    "size": 2347015351,
+    "lfs": {
+      "oid": "361f68c9535f038fab119099e79207099bee60b2cd7a98246c36b3b12c7aa678",
+      "size": 2347015351,
+      "pointerSize": 135
+    },
+    "xetHash": "e9b49942774cd48ef8686d6537cb85733232f40bc3b6211f499cd419e650f8bb",
+    "path": "raw/review_categories/Industrial_and_Scientific.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "ab790c5e550d2b2e260a1f053be22f7dba14fa00",
+    "size": 15800555546,
+    "lfs": {
+      "oid": "82024e17fdd988f47d8b5ae679643965255ae5164f9f494d6ba28ab9cc0efa76",
+      "size": 15800555546,
+      "pointerSize": 136
+    },
+    "xetHash": "5965e093441082ed6c1a06b6e66d11143ecfb4348e496a0856034457f3940aa5",
+    "path": "raw/review_categories/Kindle_Store.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "4351679ab98a89b4cfa78a994ef3b353bec8cd50",
+    "size": 33297013,
+    "lfs": {
+      "oid": "bf36b04bbfb41f43c49b4adbdc13969014311ffb2344f706d13c35cdea5662da",
+      "size": 33297013,
+      "pointerSize": 133
+    },
+    "xetHash": "a9d32d454902a4635ea8753b83ecb58e0126a11a31001df3aeaa2eea9d524717",
+    "path": "raw/review_categories/Magazine_Subscriptions.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "0c84ccdc21a74eb5d9fd55d715dcbc9a2009bac6",
+    "size": 8391445499,
+    "lfs": {
+      "oid": "4eb7428d5f48baae5a7f1132ef556e6e98181b122085ac24b34b25e033c3130a",
+      "size": 8391445499,
+      "pointerSize": 135
+    },
+    "xetHash": "1955201fdaa4bd4d61b13103f2c657ca4160706c45f96d05a2f49760dccc339d",
+    "path": "raw/review_categories/Movies_and_TV.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "6d0512962af597f9ec36a6e126cb1048360021c9",
+    "size": 1557845107,
+    "lfs": {
+      "oid": "63aee24d5b9eaf0069cf638703e2d62eb80fde5d2c00ca3d29881d645f6214b3",
+      "size": 1557845107,
+      "pointerSize": 135
+    },
+    "xetHash": "bb69be4d92066ae75eaa6f23e000fa5bb925736a3db79854f3ce8691a123165c",
+    "path": "raw/review_categories/Musical_Instruments.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "c065ac4a5339c5afc29c972378cc2c66e793b4c6",
+    "size": 5776792834,
+    "lfs": {
+      "oid": "82cc49670098220a314d398ceff6434599b54c27af5fa00ab9c0b4af9d9d9011",
+      "size": 5776792834,
+      "pointerSize": 135
+    },
+    "xetHash": "bdb8460b154032cf2f2fb97664dac696f73bfc419a3863865bfa8e35364e7d38",
+    "path": "raw/review_categories/Office_Products.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "f3776444ca97b7894494e00ca333d6ebe6eaf5bd",
+    "size": 7748207348,
+    "lfs": {
+      "oid": "2923136d4013b1f728081ab42a488b8328164deb9b6a8e2efae8cf48ff7fe345",
+      "size": 7748207348,
+      "pointerSize": 135
+    },
+    "xetHash": "e1cf27598f0f71f1b973584e72c6dac463c71fc63715c44d7e3b05335cb9898a",
+    "path": "raw/review_categories/Patio_Lawn_and_Garden.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "1f13fafbdc26dd70fcef3fd8e241c9a9ba9588af",
+    "size": 8350775233,
+    "lfs": {
+      "oid": "ad9e71383eb02674a7514181bb3eb57eec36695ea2cd28143b70df5d1da72ee3",
+      "size": 8350775233,
+      "pointerSize": 135
+    },
+    "xetHash": "1500438ef77780b648be491c201f713c52479439a9f9ea2ee49fdfaba6d5620d",
+    "path": "raw/review_categories/Pet_Supplies.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "875b3a7bf615ff8ca13745a1ffbd3783730e0fdf",
+    "size": 1869151448,
+    "lfs": {
+      "oid": "dc119f99c466a39a09e2513c9e48eb5821fb42b1459f3026bcf71b08e6770741",
+      "size": 1869151448,
+      "pointerSize": 135
+    },
+    "xetHash": "df8fb20a23dad416196a32105a9435d4e40e5b6b9baa0320c3d8e7a5b43380a8",
+    "path": "raw/review_categories/Software.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "b6923e67fa1d4dacfad6d3622943213e8e5aa286",
+    "size": 9256856041,
+    "lfs": {
+      "oid": "47eaab08457fd7d270613f193506c479492b696a808ae5639a949b27026a4559",
+      "size": 9256856041,
+      "pointerSize": 135
+    },
+    "xetHash": "4b5ecd00caaf80e52170e575957ff5751d9c27d3f11b1175968c30b31bbb7534",
+    "path": "raw/review_categories/Sports_and_Outdoors.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "369fb786239e06a8dbfe0b5b51eaf2a094a59813",
+    "size": 8953020,
+    "lfs": {
+      "oid": "52e08112faa2b8769b35d364cbd3b8ac674ddd56621b171e7531a5a2071f460f",
+      "size": 8953020,
+      "pointerSize": 132
+    },
+    "xetHash": "907ec05a0ef8440b0b64b3d1d431ae29b905f525b04e3143e9b1fa687629dbfe",
+    "path": "raw/review_categories/Subscription_Boxes.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "5fccc529147b703040f434ab01d9bb31b21613ee",
+    "size": 12779111772,
+    "lfs": {
+      "oid": "7cfcd11fef2d6346d88eec96ca48e28225e4795b4e93e6a265114c22755a348b",
+      "size": 12779111772,
+      "pointerSize": 136
+    },
+    "xetHash": "8ec511273fc653b274e901f5a736c2d27f72fa994f0cda7175c50cb543258767",
+    "path": "raw/review_categories/Tools_and_Home_Improvement.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "210e822435adc1e7b9f75984b27f238937d7bd0e",
+    "size": 7316094780,
+    "lfs": {
+      "oid": "2e6157468ea97963098fe6b14749eda8d16a4443e718dcf6cbd0726c781fd938",
+      "size": 7316094780,
+      "pointerSize": 135
+    },
+    "xetHash": "f86bedfec5a7ba8b9f3af172a6ff1f2de192cf8745f89724da5a1ca07bee0081",
+    "path": "raw/review_categories/Toys_and_Games.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "7b419eeca28f21e602aa34e88b9462e8154ca911",
+    "size": 29933791334,
+    "lfs": {
+      "oid": "c1f58c580a747250877369b603e8959985b11ea079eddc88f66d1144e08d917b",
+      "size": 29933791334,
+      "pointerSize": 136
+    },
+    "xetHash": "12422fb9f69ccfc9d71951f910d0c4363851c46de6952d6fdc3a7cd77a768988",
+    "path": "raw/review_categories/Unknown.jsonl"
+  },
+  {
+    "type": "file",
+    "oid": "20d6a3293e061f13a8fc2a25e358444dc7d6f51e",
+    "size": 2682948518,
+    "lfs": {
+      "oid": "7bde9e0a039bdb321e993bfe78a6c7d438fb1504b1ad152c0cb6a33a8b7cb26a",
+      "size": 2682948518,
+      "pointerSize": 135
+    },
+    "xetHash": "f871894267920bf9d8229baea484c9f9e72a01db7b31dc4f0925c968f2e1be14",
+    "path": "raw/review_categories/Video_Games.jsonl"
+  }
+]

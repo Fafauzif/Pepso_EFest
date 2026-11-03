@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "45026",
+    "product_name": "Close Up White Now Kaolin Pasta Gigi 95g",
+    "unique_review_ids": 9,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 9,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-45026-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/45026/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:28.687713+00:00",
+      "product_code": "45026",
+      "product_name": "Close Up White Now Kaolin Pasta Gigi 95g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/45026_p0_s500.json",
+      "sha256": "034990967691972f7a97e7e5f78e78ac23ab03e4f2790ad99678e42583e2520f",
+      "bytes": 3513,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 9,
+        "totalPages": 1
+      },
+      "rows": 9
+    }
+  ]
+}

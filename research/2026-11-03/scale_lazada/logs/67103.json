@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "67103",
+    "product_name": "Ultra White Gentle Radiance 90g",
+    "unique_review_ids": 3,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 3,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-67103-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/67103/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:32.199371+00:00",
+      "product_code": "67103",
+      "product_name": "Ultra White Gentle Radiance 90g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/67103_p0_s500.json",
+      "sha256": "fd2d7e26d2affbc7aa4801a2caf69330ab52227ec7a424a4bd82701b0a06337e",
+      "bytes": 1567,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 3,
+        "totalPages": 1
+      },
+      "rows": 3
+    }
+  ]
+}

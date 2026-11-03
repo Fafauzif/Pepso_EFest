@@ -1,0 +1,15 @@
+{
+  "source_id": "TARFULL-23607-p21",
+  "url": "https://www.tryandreview.com/id/reviews/23607?page=21",
+  "status": "success",
+  "page": 21,
+  "product_id": "23607",
+  "product_name": "Pepsodent Complete8 Multi Protection",
+  "retrieved_at_utc": "2026-11-03T10:53:04.996327+00:00",
+  "baseline_cache_reused": false,
+  "raw_file": "raw/tar_23607_p21.html",
+  "bytes": 39417,
+  "sha256": "0a78c996c95ab1a04b71a6abcbd647b2858d75dcf63f7fde560145546d16861c",
+  "rows": 5,
+  "next_page_displayed": []
+}

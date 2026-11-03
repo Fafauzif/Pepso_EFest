@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "71177",
+    "product_name": "Pasta Gigi Fresh Mint 160g",
+    "unique_review_ids": 53,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 53,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-71177-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/71177/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:55:02.789615+00:00",
+      "product_code": "71177",
+      "product_name": "Pasta Gigi Fresh Mint 160g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/71177_p0_s500.json",
+      "sha256": "2ab59b47db5af784c0070e8bea2d65e64fd73be23ece630d3e388c2b5ec3506b",
+      "bytes": 18066,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 53,
+        "totalPages": 1
+      },
+      "rows": 53
+    }
+  ]
+}

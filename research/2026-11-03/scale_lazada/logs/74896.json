@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "74896",
+    "product_name": "[Limited Edition] Pasta Gigi Best Defender FIFA Fresh Breath 95g",
+    "unique_review_ids": 31,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 31,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-74896-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/74896/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:08.365038+00:00",
+      "product_code": "74896",
+      "product_name": "[Limited Edition] Pasta Gigi Best Defender FIFA Fresh Breath 95g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/74896_p0_s500.json",
+      "sha256": "a67585b0ee71c6f81a0d6a5ddef23e89bd00e3f6ba013cb6879a38808f68bcf4",
+      "bytes": 11760,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 31,
+        "totalPages": 1
+      },
+      "rows": 31
+    }
+  ]
+}

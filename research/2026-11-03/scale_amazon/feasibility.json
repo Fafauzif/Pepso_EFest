@@ -1,0 +1,17 @@
+[
+  {
+    "url": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/meta_categories/meta_Health_and_Personal_Care.jsonl.gz",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://datarepo.eng.ucsd.edu/mcauley_group/data/amazon_2023/raw/review_categories/Health_and_Personal_Care.jsonl.gz",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://huggingface.co/api/datasets/McAuley-Lab/Amazon-Reviews-2023/tree/main?recursive=false",
+    "status": 200,
+    "content_length": "1945",
+    "content_type": "application/json; charset=utf-8",
+    "body_preview": "[{\"type\":\"directory\",\"oid\":\"6b5054f66b25ae1f581d4fe0573c4de169ab412a\",\"size\":0,\"path\":\"benchmark\"},{\"type\":\"directory\",\"oid\":\"7f4f664b9d21cf8da74ae370bca7a3f14602373f\",\"size\":0,\"path\":\"raw\"},{\"type\":\"directory\",\"oid\":\"34fe81b780e94ac6e7ead6bd25a19216b591c95b\",\"size\":0,\"path\":\"raw_meta_All_Beauty\"},{\"type\":\"directory\",\"oid\":\"33350c937560b58e0ec0a87b25d19d2dbf09b9be\",\"size\":0,\"path\":\"raw_meta_Arts_Crafts_and_Sewing\"},{\"type\":\"directory\",\"oid\":\"ff597f0ae799ab7e9f653005d013a676fbe2e073\",\"size\":0,\"path\":\"raw_meta_Cell_Phones_and_Accessories\"},{\"type\":\"directory\",\"oid\":\"faa8c822a62e868d4f20ddd0763945e75879f251\",\"size\":0,\"path\":\"raw_meta_Electronics\"},{\"type\":\"directory\",\"oid\":\"ea135ab161ac9987ec5b1e088b05ee621bff7ac7\",\"size\":0,\"path\":\"raw_meta_Gift_Cards\"},{\"type\":\"directory\",\"oid\":\"304cfd344563d4576ffb4bff15577acca6097a26\",\"size\":0,\"path\":\"raw_meta_Handmade_Products\"},{\"type\":\"directory\",\"oid\":\"14e3ee08565418ded02fe75247a2d1b5c5eaf826\",\"size\":0,\"path\":\"raw_meta_Industrial_and_Scientific\"},{\"type\":\"directory\",\"oid\":\"fdad08a677acae3c03ae887bae05c50fc1b75de2\",\"size\":0,\"path\":\"raw_meta_Musical_Instruments\"},{\"type\":\"directory\",\"oid\":\"b4e6e26139c06f9839f8315bea2de8f513f69104\",\"size\":0,\"path\":\"raw_meta_Toys_and_Games\"},{\"type\":\"file\",\"oid\":\"ca5fc1c222ab867d149b69d5a5d8978beb96b55e\",\"size\":2606,\"path\":\".gitattributes\"},{\"type\":\"file\",\"oid\":\"bfab97121711c51da6d5a018260f48b1400e42ab\",\"size\":39620,\"path\":\"Amazon-Reviews-2023.py\"},{\"type\":\"file\",\"oid\":\"96d6ce6ae8c9fe233b48903d8a35acc80befcaf0\",\"size\":30343,\"path\":\"README.md\"},{\"type\":\"file\",\"oid\":\"360a48180afefde76695e0248398fc87fb421b39\",\"size\":585,\"path\":\"all_categories.txt\"},{\"type\":\"file\",\"oid\":\"057610803c1216c2ab35a6ff393d895b6b5b890a\",\"size\":1246846569,\"lfs\":{\"oid\":\"a3447e014ccb9228540779e6c2bf0fb0400a90ff07ba10e4d99b10d513b1d080\",\"size\":1246846569,\"pointerSize\":135},\"xetHash\":\"a450ff9216ad6ffc0e234d214409af5201b7c34f284d54487722f96784b0ea1c\",\"path\":\"asin2category.json\"}]"
+  }
+]

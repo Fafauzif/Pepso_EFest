@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "71174",
+    "product_name": "Pasta Gigi Repair & Protect Whitening 100g",
+    "unique_review_ids": 183,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 183,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-71174-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/71174/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:52.894717+00:00",
+      "product_code": "71174",
+      "product_name": "Pasta Gigi Repair & Protect Whitening 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/71174_p0_s500.json",
+      "sha256": "65991b7288ab690ba58670c06d8a3978e88d59b29110863d9bfadf6b6a8286fc",
+      "bytes": 60675,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 183,
+        "totalPages": 1
+      },
+      "rows": 183
+    }
+  ]
+}

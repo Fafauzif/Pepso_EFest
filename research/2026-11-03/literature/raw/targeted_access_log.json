@@ -1,0 +1,56 @@
+[
+  {
+    "name": "episodic_full",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC5962890/fullTextXML",
+    "status": 200,
+    "content_type": "application/xml",
+    "bytes": 72942,
+    "raw_file": "raw/episodic_full.xml",
+    "retrieved_at": "2026-11-03T10:34:55.753681+00:00"
+  },
+  {
+    "name": "scoping_full",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC8908863/fullTextXML",
+    "status": 200,
+    "content_type": "application/xml",
+    "bytes": 68446,
+    "raw_file": "raw/scoping_full.xml",
+    "retrieved_at": "2026-11-03T10:34:55.517848+00:00"
+  },
+  {
+    "name": "jakarta_herbal",
+    "url": "https://journal.ipb.ac.id/jabm/article/download/41315/24286",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 419570,
+    "raw_file": "raw/jakarta_herbal.pdf",
+    "retrieved_at": "2026-11-03T10:35:06.321758+00:00"
+  },
+  {
+    "name": "sensory2014",
+    "url": "https://api.crossref.org/works/10.1111/joss.12120",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 7407,
+    "raw_file": "raw/sensory2014.json",
+    "retrieved_at": "2026-11-03T10:35:03.805728+00:00"
+  },
+  {
+    "name": "freshness2004",
+    "url": "https://api.crossref.org/works/10.1111/j.1745-459X.2004.tb00143.x",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 5798,
+    "raw_file": "raw/freshness2004.json",
+    "retrieved_at": "2026-11-03T10:35:11.121692+00:00"
+  },
+  {
+    "name": "jakarta2022",
+    "url": "https://api.crossref.org/works/10.17358/jabm.8.3.758",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2349,
+    "raw_file": "raw/jakarta2022.json",
+    "retrieved_at": "2026-11-03T10:35:11.353614+00:00"
+  }
+]

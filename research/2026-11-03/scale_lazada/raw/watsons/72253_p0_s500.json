@@ -1,0 +1,372 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 31,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.87",
+      "rating1Count" : 0,
+      "rating2Count" : 1,
+      "rating3Count" : 0,
+      "rating4Count" : 1,
+      "rating5Count" : 29
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Aniee Aniee",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-04T13:57:07+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 4
+      },
+      "headline" : "review-72253-WTCID21899229",
+      "id" : "9109712896049",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ali S",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-09-27T15:52:40+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-72253-WTCID21843510",
+      "id" : "9108830191665",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jenny Suryani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget dengan pasta gigi dari Colgate harganya juga ok lagi promo",
+      "date" : "2026-07-08T02:25:51+0000",
+      "headline" : "review-72253-WTCID18413555",
+      "id" : "9059726983217",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Lily Surjadi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-05-02T00:26:46+0000",
+      "headline" : "review-72253-WTCID16302198",
+      "id" : "9032690794545",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Monica Nurhajati Tjahana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-11T08:46:36+0000",
+      "headline" : "review-72253-WTCID17889274",
+      "id" : "9027511779377",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Tracy Anastasha Clara",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-02-25T04:15:17+0000",
+      "headline" : "review-72253-WTCID07052793",
+      "id" : "9019957116977",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rita surlaya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-01-01T13:24:46+0000",
+      "headline" : "review-72253-WTCID17396156",
+      "id" : "9009966383153",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "WIEWIEK LOWARDI",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-11-30T00:53:35+0000",
+      "headline" : "review-72253-WTCID16630112",
+      "id" : "9008038412337",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Wyla Widyaputri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-11-19T08:15:27+0000",
+      "headline" : "review-72253-WTCID16047053",
+      "id" : "9007605252145",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dewi Arimbi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Harusnya lsg kasi b1g1 nya, dicancel gabisa! Hub cs uda kayak hub presiden ga nyambung nyambung mau telp, chat wa sama aja! Ga ada yg angkat dan terhubung sampe mati sendiri tuh telp. Payah bgt pelayanannya!",
+      "date" : "2025-09-16T06:12:23+0000",
+      "headline" : "review-72253-WTCID17340374",
+      "id" : "8998428540977",
+      "like" : 0,
+      "rating" : 2.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rita Morena",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-23T13:51:08+0000",
+      "headline" : "review-72253-WTCID16049115",
+      "id" : "8995089219633",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rita Morena",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-23T13:50:06+0000",
+      "headline" : "review-72253-WTCID16973317",
+      "id" : "8995089055793",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fitriyasa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-05T16:40:52+0000",
+      "headline" : "review-72253-WTCID16917128",
+      "id" : "8993653915697",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Zeffrey Ali",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-05-16T23:17:33+0000",
+      "headline" : "review-72253-WTCID15401231",
+      "id" : "8986145030193",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Irna",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-03-16T14:40:35+0000",
+      "headline" : "review-72253-WTCID11873722",
+      "id" : "8978702303281",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "BENNY SUKANDAR",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi nya cocok dan bikin gigi kesat. ",
+      "date" : "2025-02-08T12:42:10+0000",
+      "headline" : "review-72253-WTCID15014272",
+      "id" : "8974443446321",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Michael",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-12-06T07:26:58+0000",
+      "headline" : "review-72253-WTCID15848311",
+      "id" : "8966747029553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fandi C",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang dipacking sangat Baik.  Barang sesuai pesanan. ",
+      "date" : "2024-06-10T16:30:41+0000",
+      "headline" : "headline",
+      "id" : "8939710283825",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "eny",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-05-24T14:46:32+0000",
+      "headline" : "review-72253-WTCID14652330",
+      "id" : "8938498654257",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dian",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-03-31T01:22:23+0000",
+      "headline" : "review-72253-WTCID13400521",
+      "id" : "8932016586801",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Vania",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-03-24T11:33:12+0000",
+      "headline" : "review-72253-WTCID14625208",
+      "id" : "8931534012465",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-01-26T09:01:32+0000",
+      "headline" : "review-72253-WTCID13725019",
+      "id" : "8915828015153",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Khusfika",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-06-16T14:43:56+0000",
+      "headline" : "review-72253-WTCID11155193",
+      "id" : "8891868741681",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Priska",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-05-24T07:55:58+0000",
+      "headline" : "review-72253-WTCID13080036",
+      "id" : "8888463425585",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dhea",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-01-12T07:15:06+0000",
+      "headline" : "review-72253-WTCID08868012",
+      "id" : "8867060285489",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Regina",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-12-11T08:32:17+0000",
+      "headline" : "review-72253-WTCID12001440",
+      "id" : "8865101479985",
+      "like" : 0,
+      "rating" : 4.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Komaria",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-11-28T23:05:27+0000",
+      "headline" : "review-72253-WTCID09793016",
+      "id" : "8863845318705",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Priska",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-09-07T14:32:10+0000",
+      "headline" : "review-72253-WTCID07388686",
+      "id" : "8854325788721",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Latri Nugroho",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-08-05T03:03:20+0000",
+      "headline" : "review-72253-WTCID09804260",
+      "id" : "8851364642865",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "COLGATE T/P TOTAL C/MINT 150GR",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Excellent!",
+      "date" : "2020-12-25T02:29:35+0000",
+      "id" : "8823636328497",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "COLGATE T/P TOTAL C/MINT 150GR",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Value for money",
+      "date" : "2020-03-15T13:02:32+0000",
+      "id" : "8822913728561",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

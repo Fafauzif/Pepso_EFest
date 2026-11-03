@@ -1,0 +1,50 @@
+[
+  {
+    "dataset_id": "74xrbd4vxy",
+    "url": "https://data.mendeley.com/datasets/74xrbd4vxy/1",
+    "downloaded_rows": 203787,
+    "matched_rows": 0,
+    "columns": [
+      "itemId",
+      "category",
+      "name",
+      "rating",
+      "originalRating",
+      "reviewTitle",
+      "reviewContent",
+      "likeCount",
+      "upVotes",
+      "downVotes",
+      "helpful",
+      "relevanceScore",
+      "boughtDate",
+      "clientType",
+      "retrievedDate"
+    ],
+    "raw_file": "raw/74xrbd4vxy_Raw_Dataset.csv",
+    "license": "CC BY 4.0",
+    "original_filename": "Raw Dataset.csv"
+  },
+  {
+    "dataset_id": "574v66hf2v",
+    "url": "https://data.mendeley.com/datasets/574v66hf2v/1",
+    "downloaded_rows": 5400,
+    "matched_rows": 0,
+    "columns": [
+      "Category",
+      "Product Name",
+      "Location",
+      "Price",
+      "Overall Rating",
+      "Number Sold",
+      "Total Review",
+      "Customer Rating",
+      "Customer Review",
+      "Sentiment",
+      "Emotion"
+    ],
+    "raw_file": "raw/574v66hf2v_PRDECT-ID_Dataset.csv",
+    "license": "CC BY 4.0",
+    "original_filename": "PRDECT-ID Dataset.csv"
+  }
+]

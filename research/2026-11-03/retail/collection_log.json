@@ -1,0 +1,188 @@
+[
+  {
+    "source_id": "WAT-CLOSEUP-P0",
+    "url": "https://www.watsons.co.id/id/all-brands/list/CLOSE-UP/close-up?page=0",
+    "retrieved_at": "2026-11-03T10:31:46.213750+00:00",
+    "file": "raw/WAT-CLOSEUP-P0.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 749089,
+    "sha256": "f918b0ab26cf45d08ffefc91fe23f194939a4cc503b07493bbcad75d917b5cc3",
+    "final_url": "https://www.watsons.co.id/id/all-brands/list/CLOSE-UP/close-up?page=0",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 32,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 10
+    },
+    "outcome": "state_parsed"
+  },
+  {
+    "source_id": "WAT-CLOSEUP-P1",
+    "url": "https://www.watsons.co.id/id/all-brands/list/CLOSE-UP/close-up?page=1",
+    "retrieved_at": "2026-11-03T10:31:58.896514+00:00",
+    "file": "raw/WAT-CLOSEUP-P1.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 749089,
+    "sha256": "fc4290ec30c59b4c0afcfccecbc8855ba3c7f4c711376f0efc52c49be1a8f7fb",
+    "final_url": "https://www.watsons.co.id/id/all-brands/list/CLOSE-UP/close-up?page=1",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 32,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 10
+    },
+    "outcome": "state_parsed"
+  },
+  {
+    "source_id": "WAT-COLGATE-P0",
+    "url": "https://www.watsons.co.id/id/all-brands/list/COLGATE/colgate?page=0",
+    "retrieved_at": "2026-11-03T10:31:59.300246+00:00",
+    "file": "raw/WAT-COLGATE-P0.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 1008471,
+    "sha256": "e5ba405c6a98c7e00b4b781affb682571693261cb66c635b29a0250cac0791bf",
+    "final_url": "https://www.watsons.co.id/id/all-brands/list/COLGATE/colgate?page=0",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 32,
+      "sort": "bestSeller",
+      "totalPages": 2,
+      "totalResults": 45
+    },
+    "outcome": "state_parsed"
+  },
+  {
+    "source_id": "WAT-COLGATE-P1",
+    "url": "https://www.watsons.co.id/id/all-brands/list/COLGATE/colgate?page=1",
+    "retrieved_at": "2026-11-03T10:31:59.324952+00:00",
+    "file": "raw/WAT-COLGATE-P1.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 1029271,
+    "sha256": "37b97eae3786365895a2480da3297a781739778d457cc82a8cac5d33a68ac78c",
+    "final_url": "https://www.watsons.co.id/id/all-brands/list/COLGATE/colgate?page=1",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 32,
+      "sort": "bestSeller",
+      "totalPages": 2,
+      "totalResults": 45
+    },
+    "outcome": "state_parsed"
+  },
+  {
+    "source_id": "WAT-ENZIM-P0",
+    "url": "https://www.watsons.co.id/id/search?text=enzim&page=0",
+    "retrieved_at": "2026-11-03T10:31:59.466743+00:00",
+    "file": "raw/WAT-ENZIM-P0.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 7722,
+    "sha256": "7a4c77d5009f6c17f5c6784e3c70a2f6aac9ba587b14c4bbe4a7030e03348b41",
+    "final_url": "https://www.watsons.co.id/id/search?text=enzim&page=0",
+    "outcome": "no_state"
+  },
+  {
+    "source_id": "WAT-ENZIM-P1",
+    "url": "https://www.watsons.co.id/id/search?text=enzim&page=1",
+    "retrieved_at": "2026-11-03T10:31:59.486619+00:00",
+    "file": "raw/WAT-ENZIM-P1.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 7722,
+    "sha256": "43f9e816e332a2d68015067aa0b8280ea66a8d2781fd2dacd331dddfb3f94276",
+    "final_url": "https://www.watsons.co.id/id/search?text=enzim&page=1",
+    "outcome": "no_state"
+  },
+  {
+    "source_id": "WAT-PEPSODENT-P0",
+    "url": "https://www.watsons.co.id/id/all-brands/list/Pepsodent/pepsodent?page=0",
+    "retrieved_at": "2026-11-03T10:31:46.210464+00:00",
+    "file": "raw/WAT-PEPSODENT-P0.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 1008066,
+    "sha256": "68a2482126dd9969d7f60568f8582988fe16782d049f187bdee8f0982bdb7fe8",
+    "final_url": "https://www.watsons.co.id/id/all-brands/list/Pepsodent/pepsodent?page=0",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 32,
+      "sort": "bestSeller",
+      "totalPages": 2,
+      "totalResults": 60
+    },
+    "outcome": "state_parsed"
+  },
+  {
+    "source_id": "WAT-PEPSODENT-P1",
+    "url": "https://www.watsons.co.id/id/all-brands/list/Pepsodent/pepsodent?page=1",
+    "retrieved_at": "2026-11-03T10:31:46.211279+00:00",
+    "file": "raw/WAT-PEPSODENT-P1.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 1008066,
+    "sha256": "ebe958f094086d4f6f0b43aeff45c5538a2e6326f4ff49fcc7f65d0dc4014a74",
+    "final_url": "https://www.watsons.co.id/id/all-brands/list/Pepsodent/pepsodent?page=1",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 32,
+      "sort": "bestSeller",
+      "totalPages": 2,
+      "totalResults": 60
+    },
+    "outcome": "state_parsed"
+  },
+  {
+    "source_id": "WAT-SENSODYNE-P0",
+    "url": "https://www.watsons.co.id/id/all-brands/list/SENSODYNE/sensodyne?page=0",
+    "retrieved_at": "2026-11-03T10:31:46.212137+00:00",
+    "file": "raw/WAT-SENSODYNE-P0.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 826130,
+    "sha256": "60190a101c0666809b66267be57be9659a36ee9b06e49a2569cf0c2b39c5f917",
+    "final_url": "https://www.watsons.co.id/id/all-brands/list/SENSODYNE/sensodyne?page=0",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 32,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 17
+    },
+    "outcome": "state_parsed"
+  },
+  {
+    "source_id": "WAT-SENSODYNE-P1",
+    "url": "https://www.watsons.co.id/id/all-brands/list/SENSODYNE/sensodyne?page=1",
+    "retrieved_at": "2026-11-03T10:31:46.213046+00:00",
+    "file": "raw/WAT-SENSODYNE-P1.html",
+    "request_method": "public_HTTP_GET",
+    "location_selected": false,
+    "status": 200,
+    "bytes": 826131,
+    "sha256": "1f5c7c55a3ecd5288142015a049833bc1ebcabe92f0e99d623891eeb962ccf54",
+    "final_url": "https://www.watsons.co.id/id/all-brands/list/SENSODYNE/sensodyne?page=1",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 32,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 17
+    },
+    "outcome": "state_parsed"
+  }
+]

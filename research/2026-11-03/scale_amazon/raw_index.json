@@ -1,0 +1,14 @@
+[
+  {
+    "type": "directory",
+    "oid": "c656aaff85dd46d31fe0183ffe9ba4b99cf6b892",
+    "size": 0,
+    "path": "raw/meta_categories"
+  },
+  {
+    "type": "directory",
+    "oid": "99a14c442c03102e6974da23e67c5b3b20716cb0",
+    "size": 0,
+    "path": "raw/review_categories"
+  }
+]

@@ -1,48 +1,27 @@
-# Pepsodent E-Fest research handoff
+# Pepsodent E-Fest: complete research and continuation pack
 
-Packaged 3 November 2026 (Asia/Jakarta). Research stage: broad preliminary exploration. No solution selected.
+**3 November 2026 · Private team repository · No final strategy selected.**
 
-## Start here
+Start with [START_HERE.md](START_HERE.md). It links the complete substantive chat handoff, updated diagnosis/teaching report, source-specific findings, evidence/hypothesis matrices, original research and Indonesian primary-research tools.
 
-1. Read `context/CURRENT_STATE.md` for the latest decisions, evidence and gaps.
-2. Read `context/E_Fest_2026_Pepsodent_Master_AI_Context_Pack.md` for the complete original case, guidebook, learning analysis, mentoring notes and BCC Hub.
-3. Read `docs/CLEANING.md`, `docs/DATA_DICTIONARY.md` and `docs/QUALITY_REPORT.md` before analysing data.
-4. Use `data/clean/keywords_unique.csv` or its JSON equivalent. Raw captures remain in `data/raw/`.
+The earlier ~402.5MB release contents and all11new attachments are retained, including failed/wrong-target runs in the audit archive. New X/TikTok/Tokopedia exports are cleaned, reconciled and analyzed. Source inventories are not verified consumers or causal evidence. No primary interviews, shelf fieldwork or final selected solution exist.
 
-For one large context file, `context/CONTEXT_LATEST.md` combines the new state and complete original master. Reading both that file and the original is unnecessary.
+- [Complete assembled research report](research/2026-11-03/closure/COMPLETE_RESEARCH_REPORT.md)
+- [Decision brief](research/2026-11-03/closure/synthesis/DECISION_BRIEF.md)
+- [Diagnosis and teaching](research/2026-11-03/closure/synthesis/DIAGNOSIS_AND_TEACHING.md)
+- [Full session context](research/2026-11-03/closure/context/SESSION_HANDOFF.md)
+- [Primary-research kit](research/2026-11-03/closure/primary_research/README.md)
+- [Portable data inventory](research/2026-11-03/closure/integrated/README.md)
+- [Earlier full report and annexes](research/2026-11-03/REPORT_FULL.md)
+- [GitHub Desktop installation](release/INSTALL_WITH_GITHUB_DESKTOP.md)
 
-## Resume prompt
-
-> Clone this private repository: [insert repo URL]. Read AGENTS.md, README.md, context/CURRENT_STATE.md, the original master context pack, and the cleaning/data-dictionary documents. Confirm the source coverage and unresolved data issues. My task now is [insert task]. Distinguish organizer case facts, external estimates, AI hypotheses, fictional examples and primary observations. Preserve alternatives before choosing a diagnosis.
-
-A private clone requires access in the new environment. Read files after cloning; do not assume repo access imports a chat or signed-in service session.
-
-## Contents
-
-- 300 cleaned keyword observations in CSV and JSON, including all missing-value distinctions and provenance.
-- 300-keyword unique view, duplicate/conflict diagnostics and quality flags.
-- Three unchanged pasted raw files, the unchanged initial master MD, and the supplied business-intuition PDF.
-- Separate searchable transcripts extracted from the master: case, preliminary guidebook, mentoring notes, BCC Hub and embedded learning manuscript.
-- A reproducible Python cleaning script, dictionary, cleaning ledger, quality report and file checksums.
-- Latest substantive chat handoff, optional historical tool configurations, source register and missing-input record.
-
-## Rebuild and validate
-
-Python 3.10+; no third-party packages required:
+Optional checks use Python 3.11+; copying the update with GitHub Desktop does not require Python.
 
 ```bash
-python3 scripts/clean_keywords.py
-python3 scripts/verify_package.py
+python scripts/verify_final_release.py
+python scripts/verify_package.py
 ```
 
-Rebuilding intentionally replaces generated `data/clean/*` and `docs/quality_report.json`. Add or change raw sources only with a corresponding parser/source-register update. Checksums describe this release and will need refresh after authorised edits.
+All physical delivery files are below45MiB; five larger legacy logical exports have lossless parts and an optional restore script. The download ZIP itself belongs outside the repository. No remote push was performed. The former root README and context versions remain in research/2026-11-03/closure/context/BEFORE_CLOSURE_*; the original master/raws remain preserved.
 
-## Data limits
-
-138 positive volumes, 11 explicit zero volumes, 107 blanks and 44 `n/a` values. Indonesia was requested but is not visibly verified in the captures. Currency is explicitly IDR only in source 03. Four large CPC values are flagged without alteration. Trends were not recovered. No sales, consumer sentiment or age-specific switching conclusions follow directly from these keyword estimates.
-
-`Pasted text (2)(1).txt` remains unavailable. Original case/guidebook/mentoring PDF bytes are not included; their embedded transcripts are supplied as authorised. See `docs/MISSING_INPUTS.md`.
-
-## Repository handling
-
-Keep this repo private and restrict access to registered team members: the original context pack records organizer confidentiality requirements. This ZIP does not set repository visibility or grant access. It has not been published or submitted. Original third-party materials retain their rights; no open-source license is asserted over them.
+Keep this repository private and restrict it to authorized team members. Transcribed organizer materials and third-party content retain their original rights. Missing original inputs remain listed in docs/MISSING_INPUTS.md. Repo access does not transfer chat memories or signed-in accounts; use the reading order and resume prompt.

@@ -1,0 +1,35 @@
+{
+  "canonical_records": 10191,
+  "unique_record_ids": 10191,
+  "raw_source_pages": 87,
+  "raw_hash_checks_passed": 87,
+  "row_id_text_rating_date_matches": 10191,
+  "source_id_joins_passed": 10191,
+  "product_contexts": 78,
+  "all_reported_product_totals_match_actual_captures": true,
+  "empty_reported_product_contexts": 13,
+  "source_review_field_counts": {
+    "alias": 10191,
+    "approvalStatus": 10191,
+    "comment": 9978,
+    "date": 10191,
+    "displayTime": 198,
+    "headline": 9806,
+    "id": 10191,
+    "like": 10191,
+    "rating": 10191,
+    "replyCount": 10191,
+    "reportable": 10191,
+    "images": 25
+  },
+  "source_top_level_field_counts": {
+    "pagination": 87,
+    "ratingSummary": 74,
+    "recommendationId": 74,
+    "reviews": 87,
+    "sorts": 87,
+    "tags": 87
+  },
+  "country_language_syndication_incentive_fields_exposed": [],
+  "no_verified_age_or_switching": true
+}

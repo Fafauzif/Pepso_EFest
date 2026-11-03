@@ -1,0 +1,135 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 10,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 10
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Lia Marliyana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-22T09:02:05+0000",
+      "headline" : "review-42027-WTCID20283056",
+      "id" : "9095422869553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Brian Malau",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas oke dan kalo bisa bikin paket bundling dengan harga segitu",
+      "date" : "2026-07-27T07:53:23+0000",
+      "headline" : "review-42027-WTCID20230224",
+      "id" : "9083213742129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jenny Suryani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget dengan pasta gigi dari Colgate harganya juga ok lagi promo ",
+      "date" : "2026-07-08T02:09:49+0000",
+      "headline" : "review-42027-WTCID18413555",
+      "id" : "9059726917681",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Lia Marliyana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-07-01T08:57:24+0000",
+      "headline" : "review-42027-WTCID19116534",
+      "id" : "9059319840817",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Lia Marliyana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-07-01T08:52:30+0000",
+      "headline" : "review-42027-WTCID19380511",
+      "id" : "9059194798129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Angelita Supit",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-06-09T12:10:38+0000",
+      "headline" : "review-42027-WTCID19190157",
+      "id" : "9046208610353",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Angelita Supit",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-18T04:35:05+0000",
+      "headline" : "review-42027-WTCID19165302",
+      "id" : "9027922559025",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rafika Hasanah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-02-27T00:44:06+0000",
+      "headline" : "review-42027-WTCID18133589",
+      "id" : "9019829354545",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rafika Hasanah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-02-27T00:43:01+0000",
+      "headline" : "review-42027-WTCID18470958",
+      "id" : "9019829256241",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Asep Syaiefulloh",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-01-29T03:46:11+0000",
+      "headline" : "review-42027-WTCID18674004",
+      "id" : "9016093081649",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

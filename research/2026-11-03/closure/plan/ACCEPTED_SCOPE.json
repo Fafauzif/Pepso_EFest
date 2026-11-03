@@ -1,0 +1,16 @@
+{
+  "date_local": "2026-11-03",
+  "timezone": "Asia/Jakarta",
+  "repo_visibility_intent": "private_team",
+  "language": "English analysis; Indonesian primary-research tools",
+  "primary_access": "uncertain; adaptable design",
+  "user_reported_repo_changes_since_baseline": false,
+  "baseline_commit": "423cce08921b611fd01fbf6d25a0f86b65986f76",
+  "remote_HEAD_observed": "423cce08921b611fd01fbf6d25a0f86b65986f76",
+  "remote_observation_method": "git ls-remote origin HEAD refs/heads/main refs/heads/master; HEAD and main matched baseline",
+  "authorized": "Clean and analyze retained research and uploaded exports, prepare conditional diagnosis/teaching and primary-research kit, package complete repository contents, upload ZIP to Filebin. User will commit/push using GitHub Desktop.",
+  "new_paid_collection": false,
+  "primary_contacts_or_fieldwork": false,
+  "remote_push": false,
+  "context_requirement": "Include all available relevant context Markdown and substantive visible chat decisions; no claim of verbatim transcript or unseen session memory."
+}

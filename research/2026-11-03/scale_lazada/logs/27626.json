@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "27626",
+    "product_name": "Pasta Gigi Deep Clean 100g",
+    "unique_review_ids": 13,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 13,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-27626-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/27626/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:54.831026+00:00",
+      "product_code": "27626",
+      "product_name": "Pasta Gigi Deep Clean 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/27626_p0_s500.json",
+      "sha256": "b31864aebaddb6b1f1cb2598729e2a8b23a20fb15ec43775195e8d3f5dbef5c3",
+      "bytes": 5040,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 13,
+        "totalPages": 1
+      },
+      "rows": 13
+    }
+  ]
+}

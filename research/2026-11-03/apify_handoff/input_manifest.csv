@@ -1,0 +1,13 @@
+filename,actor,stage,ready_status,target_scope,max_data_rows,free_result_fees_usd,separate_platform_cost,suggested_max_total_charge_usd,suggested_timeout_seconds,historical
+xquik_historical_premium_value_pilot.json,xquik/x-tweet-scraper,pilot,schema_validated_not_execution_tested,historical_premium_value,40,0.006,yes; measure pilot,0.25,300,True
+xquik_historical_premium_value_main.json,xquik/x-tweet-scraper,main,schema_validated_not_execution_tested,historical_premium_value,300,0.045,yes; measure pilot,0.75,600,True
+xquik_historical_household_pilot.json,xquik/x-tweet-scraper,pilot,schema_validated_not_execution_tested,historical_household,40,0.006,yes; measure pilot,0.25,300,True
+xquik_historical_household_main.json,xquik/x-tweet-scraper,main,schema_validated_not_execution_tested,historical_household,300,0.045,yes; measure pilot,0.75,600,True
+xquik_historical_sensory_pilot.json,xquik/x-tweet-scraper,pilot,schema_validated_not_execution_tested,historical_sensory,40,0.006,yes; measure pilot,0.25,300,True
+xquik_historical_sensory_main.json,xquik/x-tweet-scraper,main,schema_validated_not_execution_tested,historical_sensory,300,0.045,yes; measure pilot,0.75,600,True
+xquik_historical_switching_pilot.json,xquik/x-tweet-scraper,pilot,schema_validated_not_execution_tested,historical_switching,40,0.006,yes; measure pilot,0.25,300,True
+xquik_historical_switching_main.json,xquik/x-tweet-scraper,main,schema_validated_not_execution_tested,historical_switching,300,0.045,yes; measure pilot,0.75,600,True
+xquik_current_comparison_pilot.json,xquik/x-tweet-scraper,pilot,schema_validated_not_execution_tested,current_comparison,40,0.006,yes; measure pilot,0.25,300,False
+xquik_current_comparison_main.json,xquik/x-tweet-scraper,main,schema_validated_not_execution_tested,current_comparison,300,0.045,yes; measure pilot,0.75,600,False
+scrapewise_shopee_complete_care_pilot.json,scrapewise/shopee-reviews-scraper,pilot,schema_validated_not_execution_tested; low priority,one independent Bekasi listing; not official brand store,20,0.06,API does not flag user-paid platform; verify console; actor-start extra .005 per GB min1,0.15,300,False
+scrapewise_shopee_complete_care_main.json,scrapewise/shopee-reviews-scraper,main,schema_validated_not_execution_tested; low priority,one independent Bekasi listing; not official brand store,200,0.6,API does not flag user-paid platform; verify console; actor-start extra .005 per GB min1,0.8,300,False

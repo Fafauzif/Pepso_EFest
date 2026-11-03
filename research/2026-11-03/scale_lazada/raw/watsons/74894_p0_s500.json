@@ -1,0 +1,111 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 7,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.86",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 1,
+      "rating5Count" : 6
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Ali S",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-09-27T15:52:53+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-74894-WTCID21843510",
+      "id" : "9108830224433",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi untuk gigi sensitif dengan harga yang terjangkau ",
+      "date" : "2026-08-31T22:05:13+0000",
+      "headline" : "review-74894-WTCID21313038",
+      "id" : "9101024821297",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Cocok untuk gigi sensitif dengan harga terjangkau ",
+      "date" : "2026-08-16T00:00:49+0000",
+      "headline" : "review-74894-WTCID21252053",
+      "id" : "9092633133105",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Azizah Maida",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Lagi dapet harga murahhh banget ",
+      "date" : "2026-08-09T00:07:51+0000",
+      "headline" : "review-74894-WTCID21203181",
+      "id" : "9088880050225",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi yang cocok untuk gigi sensitif ",
+      "date" : "2026-07-30T02:01:06+0000",
+      "headline" : "review-74894-WTCID21000022",
+      "id" : "9083504230449",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Santo Fria",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Terimakasih pesanan telah kami terima walaupun agak lambat tapi tidak masalah semua baik. ",
+      "date" : "2026-07-05T03:47:58+0000",
+      "headline" : "review-74894-WTCID20259122",
+      "id" : "9061192040497",
+      "like" : 0,
+      "rating" : 4.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Mengurangi rasa sakit pada gusi sangat cepat ",
+      "date" : "2026-04-30T04:58:35+0000",
+      "headline" : "review-74894-WTCID19328162",
+      "id" : "9032611561521",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/74894/9032611561521/WTCID19328162_74894_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/74894/9032611561521/WTCID19328162_74894_1.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

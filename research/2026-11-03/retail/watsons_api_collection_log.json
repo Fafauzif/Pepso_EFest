@@ -1,0 +1,92 @@
+[
+  {
+    "source_id": "WATAPI-PEPSODENT",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/search?query=%3AbestSeller%3AproductBrandCode%3APepsodent&pageSize=100&currentPage=0&lang=id&curr=IDR&fields=FULL",
+    "retrieved_at": "2026-11-03T10:34:21.061165+00:00",
+    "evidence_level": "live_public_catalogue_API",
+    "location_selected": false,
+    "status": 200,
+    "raw_file": "raw/WATAPI-PEPSODENT.json",
+    "sha256": "0de08e9773a078c0178a8cb176e525f281770bbb2c3840af87e6270d405655dc",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 100,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 60
+    },
+    "outcome": "parsed"
+  },
+  {
+    "source_id": "WATAPI-SENSODYNE",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/search?query=%3AbestSeller%3AproductBrandCode%3ASENSODYNE&pageSize=100&currentPage=0&lang=id&curr=IDR&fields=FULL",
+    "retrieved_at": "2026-11-03T10:34:21.062063+00:00",
+    "evidence_level": "live_public_catalogue_API",
+    "location_selected": false,
+    "status": 200,
+    "raw_file": "raw/WATAPI-SENSODYNE.json",
+    "sha256": "4b58cdc2bca3150993ae4eddedd1bdcd1e1b79c982e3fd08017a15fcd37a78c7",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 100,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 17
+    },
+    "outcome": "parsed"
+  },
+  {
+    "source_id": "WATAPI-CLOSEUP",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/search?query=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP&pageSize=100&currentPage=0&lang=id&curr=IDR&fields=FULL",
+    "retrieved_at": "2026-11-03T10:34:21.085329+00:00",
+    "evidence_level": "live_public_catalogue_API",
+    "location_selected": false,
+    "status": 200,
+    "raw_file": "raw/WATAPI-CLOSEUP.json",
+    "sha256": "3b483ce72850fe18d720e9b580666a81fc2922dc6fca9b7d28070e07ffd4c1d6",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 100,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 10
+    },
+    "outcome": "parsed"
+  },
+  {
+    "source_id": "WATAPI-COLGATE",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/search?query=%3AbestSeller%3AproductBrandCode%3ACOLGATE&pageSize=100&currentPage=0&lang=id&curr=IDR&fields=FULL",
+    "retrieved_at": "2026-11-03T10:34:21.093141+00:00",
+    "evidence_level": "live_public_catalogue_API",
+    "location_selected": false,
+    "status": 200,
+    "raw_file": "raw/WATAPI-COLGATE.json",
+    "sha256": "4bcd87640c0e629d96cdb3661f788e5bd4ac0c8075897cec2ce38321f302e2d7",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 100,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 45
+    },
+    "outcome": "parsed"
+  },
+  {
+    "source_id": "WATAPI-ENZIM",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/search?query=enzim%3AbestSeller&pageSize=100&currentPage=0&lang=id&curr=IDR&fields=FULL",
+    "retrieved_at": "2026-11-03T10:34:21.093703+00:00",
+    "evidence_level": "live_public_catalogue_API",
+    "location_selected": false,
+    "status": 200,
+    "raw_file": "raw/WATAPI-ENZIM.json",
+    "sha256": "d6b0a2e4932ae35be6dd8aa7e4bc2d33d757e824fa46dfee117346880061bddd",
+    "pagination": {
+      "currentPage": 0,
+      "pageSize": 100,
+      "sort": "bestSeller",
+      "totalPages": 1,
+      "totalResults": 37
+    },
+    "outcome": "parsed"
+  }
+]

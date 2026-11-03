@@ -1,0 +1,30 @@
+[
+  {
+    "test": "snscrape_cli",
+    "command": [
+      "/workspace/scratch/70458c8119f6/tooltests_venv/bin/snscrape",
+      "--max-results",
+      "3",
+      "twitter-search",
+      "pepsodent"
+    ],
+    "status": "completed",
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Traceback (most recent call last):\n  File \"/workspace/scratch/70458c8119f6/tooltests_venv/bin/snscrape\", line 8, in <module>\n    sys.exit(main())\n             ^^^^^^\n  File \"/workspace/scratch/70458c8119f6/tooltests_venv/lib/python3.12/site-packages/snscrape/_cli.py\", line 308, in main\n    args = parse_args()\n           ^^^^^^^^^^^^\n  File \"/workspace/scratch/70458c8119f6/tooltests_venv/lib/python3.12/site-packages/snscrape/_cli.py\", line 233, in parse_args\n    import snscrape.modules\n  File \"/workspace/scratch/70458c8119f6/tooltests_venv/lib/python3.12/site-packages/snscrape/modules/__init__.py\", line 17, in <module>\n    _import_modules()\n  File \"/workspace/scratch/70458c8119f6/tooltests_venv/lib/python3.12/site-packages/snscrape/modules/__init__.py\", line 13, in _import_modules\n    module = importer.find_module(moduleName).load_module(moduleName)\n             ^^^^^^^^^^^^^^^^^^^^\nAttributeError: 'FileFinder' object has no attribute 'find_module'\n",
+    "retrieved_at": "2026-11-03T10:52:06.108182+00:00"
+  },
+  {
+    "test": "ntscraper_public",
+    "command": [
+      "/workspace/scratch/70458c8119f6/tooltests_venv/bin/python",
+      "-c",
+      "import json;from ntscraper import Nitter;s=Nitter(instances=['https://nitter.net'],skip_instance_check=True,log_level=0);print(json.dumps(s.get_tweets('pepsodent',mode='term',number=3,instance='https://nitter.net')))"
+    ],
+    "status": "completed",
+    "exit_code": 0,
+    "stdout": "03-Nov-26 11:52:13 - Empty page on https://nitter.net\n{\"tweets\": [], \"threads\": []}\n",
+    "stderr": "",
+    "retrieved_at": "2026-11-03T10:52:06.246827+00:00"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "43743",
+    "product_name": "Colgate Total Deep Clean Toothpaste 150g - Pasta Gigi",
+    "unique_review_ids": 9,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 9,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-43743-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/43743/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:19.807475+00:00",
+      "product_code": "43743",
+      "product_name": "Colgate Total Deep Clean Toothpaste 150g - Pasta Gigi",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/43743_p0_s500.json",
+      "sha256": "5703de067324bf8a124ea0e2dde657610a5621b5c4041a54d9d8a977bf36bab7",
+      "bytes": 3799,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 9,
+        "totalPages": 1
+      },
+      "rows": 9
+    }
+  ]
+}

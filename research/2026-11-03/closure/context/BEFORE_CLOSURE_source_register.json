@@ -1,0 +1,46 @@
+[
+  {
+    "path": "data/raw/Pasted text(20261102-164123).txt",
+    "role": "Raw user-pasted Semrush capture",
+    "library_file_id": "libfile_796681b6168c8191aaafe69e32290690",
+    "status": "included",
+    "notes": "Source capture; geography not independently verified"
+  },
+  {
+    "path": "data/raw/Pasted text(20261102-164734).txt",
+    "role": "Raw user-pasted Semrush capture",
+    "library_file_id": "libfile_9f1ccaf306448191acf86f2cacd4d899",
+    "status": "included",
+    "notes": "Source capture; geography not independently verified"
+  },
+  {
+    "path": "data/raw/Pasted text (3).txt",
+    "role": "Raw user-pasted Semrush capture",
+    "library_file_id": "libfile_580d88bdff9c819199dd4253ec8f44a6",
+    "status": "included",
+    "notes": "Source capture; geography not independently verified"
+  },
+  {
+    "path": "context/E_Fest_2026_Pepsodent_Master_AI_Context_Pack.md",
+    "role": "Original historical context, case/rules/transcripts and analytical framework",
+    "library_file_id": "libfile_385b6b83e17c8191a4274384e501d46d",
+    "status": "included byte-for-byte"
+  },
+  {
+    "path": "sources/original/Pepsodent_Business_Intuition.pdf",
+    "role": "User-supplied earlier AI learning analysis; hypotheses and fictional examples",
+    "library_file_id": "libfile_25362acf68f48191b2253209dccc5a7f",
+    "status": "included byte-for-byte"
+  },
+  {
+    "original_name": "Pasted text (2)(1).txt",
+    "library_file_id": "libfile_437fd389ab6c8191915ed9446c220198",
+    "status": "unavailable; not read or included"
+  },
+  {
+    "path": "research/2026-11-03",
+    "role": "New assistant-led public research collection and synthesis",
+    "status": "included",
+    "notes": "See per-workstream source_register.json and synthesis/DATA_INVENTORY.json; not primary fieldwork; no paid actor run."
+  }
+]

@@ -1,0 +1,1525 @@
+{
+   "pagination" : {
+      "count" : 100,
+      "hasNext" : true,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 987,
+      "totalPages" : 10
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 1,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 986
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Sisilia Nafidzah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Mantap bagus berkualitas original",
+      "date" : "2026-10-28T03:17:21+0000",
+      "displayTime" : {
+         "unit" : "DAY",
+         "value" : 6
+      },
+      "headline" : "review-20231-WTCID22006379",
+      "id" : "9113968705585",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rey Hand",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-26T12:02:35+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID22018023",
+      "id" : "9113053298737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Annisa Deviana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Langganan selalu belanja kebutuhan disini, kualitas barang bagus terjamin",
+      "date" : "2026-10-24T05:56:43+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21996322",
+      "id" : "9113281134641",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ayu cindy Febrilia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-21T12:12:03+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21998257",
+      "id" : "9112201461809",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ayu cindy Febrilia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-21T12:11:24+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21990322",
+      "id" : "9112201363505",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "yoga prayoga",
+      "approvalStatus" : "APPROVED",
+      "comment" : "kualitas bagus harga murah promo banyak top bgt watson sukses terus",
+      "date" : "2026-10-12T10:57:16+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 3
+      },
+      "headline" : "review-20231-WTCID21951124",
+      "id" : "9111151411249",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ani Arkhan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-02T06:22:17+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID20346272",
+      "id" : "9109973925937",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ririn Putri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-09-29T14:41:00+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-undefined-WTCID21857826",
+      "id" : "9110200582193",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget sama produk dari Watsons ini, kualitasnya juara dan bener-bener ngefek di kulitku!",
+      "date" : "2026-09-23T23:10:35+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725043",
+      "id" : "9109153644593",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang sampai dengan aman dan cepat, kualitas produknya juga tidak perlu diragukan lagi, sangat memuaskan.",
+      "date" : "2026-09-23T23:10:09+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726043",
+      "id" : "9108957855793",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat kalian yang butuh produk perawatan berkualitas dengan harga yang masih masuk akal.",
+      "date" : "2026-09-23T23:10:00+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730042",
+      "id" : "9108957757489",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Udah sering beli produk Watson dan nggak pernah dikecewakan, selalu bagus dan memuaskan hasilnya.",
+      "date" : "2026-09-23T23:09:54+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723054",
+      "id" : "9109054947377",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat temen-temen yang mau nyari produk perawatan tubuh terbaik, langsung beli di sini aja.",
+      "date" : "2026-09-23T23:09:48+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726044",
+      "id" : "9109153546289",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produknya beneran bagus di kulit, nggak bikin iritasi sama sekali dan hasilnya keliatan dalam beberapa pemakaian.",
+      "date" : "2026-09-23T23:09:42+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718043",
+      "id" : "9109219377201",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pengirimannya cepat dan packingnya rapi banget, keamanan produk benar-benar diutamakan sama seller Watson ini.",
+      "date" : "2026-09-23T23:09:36+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21729037",
+      "id" : "9108761608241",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Packingnya super aman banget, pakai bubble wrap tebel jadi barang dateng tanpa ada lecet sedikit pun, mantap!",
+      "date" : "2026-09-23T23:09:30+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730041",
+      "id" : "9108859125809",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Packingnya rapi banget pakai kardus dan segel aman. Produk diterima dalam kondisi prima.",
+      "date" : "2026-09-23T23:09:13+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21711033",
+      "id" : "9109219344433",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pengiriman kilat dan respon penjual sangat baik. Produk Watsons emang selalu di hati!",
+      "date" : "2026-09-23T23:09:09+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730038",
+      "id" : "9109284978737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kulit jadi lebih kenyal dan cerah alami setelah rutin pakai produk Watsons ini. Thank you!",
+      "date" : "2026-09-23T23:09:04+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725037",
+      "id" : "9109284945969",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Udah rekomendasiin produk ini ke semua temen kantor karena sebagus dan seworth-it itu harganya.",
+      "date" : "2026-09-23T23:09:00+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21729035",
+      "id" : "9109153480753",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Sangat merekomendasikan produk ini buat temen-temen yang pengen perawatan praktis tapi hasilnya maksimal.",
+      "date" : "2026-09-23T23:08:54+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21711034",
+      "id" : "9108924563505",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Puas banget sama pembelian kali ini, barangnya bener-bener berkualitas tinggi dan sesuai ekspektasi.",
+      "date" : "2026-09-23T23:08:48+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21711032",
+      "id" : "9109153447985",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Teksturnya enak banget pas diaplikasiin, gampang meresap dan gak bikin lengket di kulit sama sekali.",
+      "date" : "2026-09-23T23:08:44+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730037",
+      "id" : "9109316829233",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Sumpah ini recommended banget buat dicoba, kalian gak bakal nyesel beli produk andalan dari Watsons ini.",
+      "date" : "2026-09-23T23:08:39+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21712044",
+      "id" : "9108827701297",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Udah repurchase berkali-kali saking cintanya sama produk ini, gak pernah bikin kecewa pokoknya!",
+      "date" : "2026-09-23T23:08:33+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21724048",
+      "id" : "9108924530737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Awalnya cuma coba-coba, eh ternyata malah ketagihan karena hasilnya sebagus itu di kulit!",
+      "date" : "2026-09-23T23:08:29+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725035",
+      "id" : "9109054816305",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget sama produk Watsons ini, kualitasnya juara dan bener-bener ngefek di kulit aku!",
+      "date" : "2026-09-23T23:08:24+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718039",
+      "id" : "9108728807473",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Gak salah pilih produk, kualitasnya jempolan, packingnya aman banget, dan hasilnya bener-bener bikin takjub.",
+      "date" : "2026-09-23T23:08:03+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21729033",
+      "id" : "9108990525489",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suroto Suwito",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang dateng sesuai pesanan, packing aman banget, dan produknya bener-bener bagus serta nyaman dipakai.",
+      "date" : "2026-09-23T23:07:59+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730034",
+      "id" : "9108990459953",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Puas banget sama pesanan kali ini. Barangnya bagus, packingnya tebel dan aman, rekomendasi banget buat dibeli!",
+      "date" : "2026-09-23T23:07:54+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703038",
+      "id" : "9109383643185",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk mantap jiwa! Kualitasnya oke punya, packing super aman, pokoknya rekomendasi banget buat dicoba.",
+      "date" : "2026-09-23T23:07:48+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21712041",
+      "id" : "9108858994737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suroto Suwito",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget sama pelayanannya dan produknya yang super berkualitas. Recommended banget buat kalian yang penasaran.",
+      "date" : "2026-09-23T23:07:42+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730032",
+      "id" : "9108793196593",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suroto Suwito",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Bener-bener produk andalan sekarang. Kualitas oke, packing aman, dan sangat direkomendasikan buat temen-temen.",
+      "date" : "2026-09-23T23:07:36+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21722033",
+      "id" : "9108858961969",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suroto Suwito",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Top banget pokoknya! Produknya original, packing aman sentosa, dan pastinya sangat direkomendasikan untuk dibeli.",
+      "date" : "2026-09-23T23:07:29+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726038",
+      "id" : "9109219246129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suroto Suwito",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Packingnya super aman pakai bubble wrap tebel, paket mendarat dengan selamat tanpa ada yang rusak.",
+      "date" : "2026-09-23T23:07:21+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726040",
+      "id" : "9109284782129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suroto Suwito",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Keren banget produk Watsons ini, hasilnya langsung terasa dan bagus di kulit. Packing aman banget, rapi, dan aman terkendali. Rekomendasi banget buat dibeli!",
+      "date" : "2026-09-23T23:07:06+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723049",
+      "id" : "9108924497969",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suroto Suwito",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Gak nyesel beli produk Watsons ini karena kualitasnya memang terbukti bagus. Packing aman banget, rapi, dan kuat. Rekomendasi banget buat jadi pilihan utama!",
+      "date" : "2026-09-23T23:07:00+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726039",
+      "id" : "9108858929201",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Surati Ririn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk Watsons ini bener-bener bagus kualitasnya, gak mengecewakan sama sekali. Packing aman banget, aman jaya sampai rumah. Rekomendasi banget pokoknya!",
+      "date" : "2026-09-23T23:06:54+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723047",
+      "id" : "9108761444401",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Surati Ririn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget sama produk Watsons ini, dari pemakaian pertama udah kelihatan bagusnya. Packing sangat aman, rapi, dan anti tumpah. Rekomendasi banget buat kalian!",
+      "date" : "2026-09-23T23:06:50+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703036",
+      "id" : "9108858863665",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Surati Ririn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Wah gila sih, produk Watsons ini bagus banget hasilnya! Packing aman banget, dobel-dobel kardusnya. Pokoknya rekomendasi banget buat yang cari produk berkualitas!",
+      "date" : "2026-09-23T23:06:44+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21729031",
+      "id" : "9109219213361",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Surati Ririn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Gak salah pilih produk Watsons, kualitasnya emang terbukti bagus dan aman di kulit. Ditambah packing yang super aman bikin hati tenang. Rekomendasi banget buat kalian miliki!",
+      "date" : "2026-09-23T23:06:38+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730030",
+      "id" : "9109219180593",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Surati Ririn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk Watsons ini juara banget sih, dari segi kualitas maupun manfaatnya. Packing juga sangat aman dan rapi, botolnya gak ada yang lecet. Rekomendasi banget buat kalian beli!",
+      "date" : "2026-09-23T23:06:32+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718035",
+      "id" : "9109120778289",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Surati Ririn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Wah, produk Watsons ini ternyata sebagus itu! Kulit jadi lebih enak dan nyaman. Ditambah lagi packing-nya aman banget, gak ada yang bocor atau rusak. Rekomendasi banget buat dicoba!",
+      "date" : "2026-09-23T23:06:26+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723046",
+      "id" : "9109316698161",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Surati Ririn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Baru pertama kali coba produk Watsons ini dan langsung jatuh cinta sama hasilnya. Pengemasan atau packingnya sangat aman, pake dus dan bubble wrap berlapis-lapis. Rekomendasi banget buat kalian yang mau beli!",
+      "date" : "2026-09-23T23:06:18+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703034",
+      "id" : "9109219115057",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Surati Ririn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Jujur awalnya agak ragu beli produk Watsons ini, tapi ternyata sebagus itu hasilnya di kulit. Packingannya juga aman banget pakai bubble wrap tebal, jadi barang sampai tanpa ada cacat sama sekali. Pokoknya bener-bener rekomendasi banget buat dicoba!",
+      "date" : "2026-09-23T23:06:12+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723045",
+      "id" : "9108990361649",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Puas banget sama pembelian kali ini, produknya bagus, packing aman banget, dan harganya juga worth it.",
+      "date" : "2026-09-23T23:05:54+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725031",
+      "id" : "9108793065521",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Gak nyangka sekeren ini produknya, kualitasnya bagus banget dan packing aman bikin barang tetep steril.",
+      "date" : "2026-09-23T23:05:50+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723041",
+      "id" : "9109153316913",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Wajib coba produk ini karena emang sebagus itu! Kualitasnya bagus, packing aman, dan rekomendasi banget pokoknya.",
+      "date" : "2026-09-23T23:05:46+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703030",
+      "id" : "9109219049521",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat kalian! Produknya bener-bener bagus dan packing aman bikin barang terjaga dengan sempurna.",
+      "date" : "2026-09-23T23:05:40+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21724042",
+      "id" : "9109218983985",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Udah kesekian kalinya beli produk Watson dan gak pernah kecewa. Barangnya bagus dan packing selalu aman.",
+      "date" : "2026-09-23T23:05:34+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21729029",
+      "id" : "9108957593649",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang sudah diterima dengan sangat baik, produknya bagus banget dan packing aman dari segala benturan. Mantap!",
+      "date" : "2026-09-23T23:05:28+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718033",
+      "id" : "9109218951217",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Seneng banget pas paket dateng, dicek ternyata produknya bagus dan packingnya aman banget pake berlapis-lapis.",
+      "date" : "2026-09-23T23:05:22+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730028",
+      "id" : "9108924334129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Asli ini produknya bagus banget! Gak salah pilih beli di sini, ditambah packingnya aman sentosa. Recommended seller!",
+      "date" : "2026-09-23T23:05:14+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703028",
+      "id" : "9108827570225",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Haris Sugeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget belanja di Watson, produknya terbukti bagus dan kualitasnya juara. Pengemasan juga sangat aman dan cepat.",
+      "date" : "2026-09-23T23:05:08+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21722031",
+      "id" : "9109316632625",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Zuhri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Fix ini jadi produk favorit aku, sebagus itu dan rekomendasi banget buat kalian yang butuh perawatan kulit.",
+      "date" : "2026-09-23T23:04:55+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726032",
+      "id" : "9109218885681",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Zuhri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Seneng banget nemu produk ini, kualitasnya juara dan bener-bener ngefek di aku. Rekomendasi banget!",
+      "date" : "2026-09-23T23:04:48+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21722030",
+      "id" : "9109120647217",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Zuhri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat temen-temen yang pengen perawatan praktis tapi hasilnya maksimal. Wajib coba!",
+      "date" : "2026-09-23T23:04:40+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730026",
+      "id" : "9108827537457",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Zuhri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Puas banget sama pelayanannya, packing aman banget dan produknya bagus banget buat dipakai sehari-hari.",
+      "date" : "2026-09-23T23:04:34+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718031",
+      "id" : "9108761247793",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Zuhri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Seneng banget pas buka paketnya karena rapi dan aman. Produknya juga bekerja dengan sangat baik di aku.",
+      "date" : "2026-09-23T23:04:26+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703027",
+      "id" : "9109054685233",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Zuhri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat kalian yang ragu, karena kualitasnya benar-benar sebagus itu dan harganya sepadan.",
+      "date" : "2026-09-23T23:04:11+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725028",
+      "id" : "9109120614449",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Zuhri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget sama produk dari Watsons ini, hasilnya nyata setelah pemakaian rutin beberapa hari.",
+      "date" : "2026-09-23T23:04:01+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725029",
+      "id" : "9108957560881",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Puji Rubini",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Awalnya coba-coba beli produk Watsons ini karena penasaran, ternyata hasilnya di luar dugaan, bener-bener sebagus itu! Pengirimannya cepat, packing aman banget pakai kardus tebel. Recommended seller dan produknya wajib dibeli!",
+      "date" : "2026-09-23T16:00:32+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730044",
+      "id" : "9109153054769",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Puji Rubini",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Puas banget! Barangnya original, kualitasnya bagus, dan pengemasannya super aman sampai di tujuan tanpa ada cacat. Recommended seller banget!",
+      "date" : "2026-09-23T15:59:37+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725045",
+      "id" : "9108728348721",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Puji Rubini",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Top markotop! Dari segi produk beneran bagus, dari segi packing sangat aman terlindungi dengan baik. Puas banget belanja produk Watsons di sini.",
+      "date" : "2026-09-23T15:59:22+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21729039",
+      "id" : "9109054455857",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Puas banget sama pembelian kali ini. Produknya bagus, harganya sebanding sama kualitas yang didapat, terus packingnya juga sangat aman dan terjaga.",
+      "date" : "2026-09-23T15:59:06+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726046",
+      "id" : "9109284126769",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Puji Rubini",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Udah buktikan sendiri dan hasilnya emang beneran bagus, packing juga aman jadi gak perlu khawatir.",
+      "date" : "2026-09-23T15:57:52+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725042",
+      "id" : "9109253128241",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Puji Rubini",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Datang dengan cepat, packing aman luar biasa, dan produknya langsung dicoba dan hasilnya emang bagus.",
+      "date" : "2026-09-23T15:57:46+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723056",
+      "id" : "9108990230577",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Seneng banget belanja di sini, barang original, packing aman, dan kualitasnya juara banget lah pokoknya!",
+      "date" : "2026-09-23T15:57:24+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730051",
+      "id" : "9108827406385",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Awalnya ragu, eh pas dicoba ternyata produknya sebagus itu dan nyesel kenapa baru tau sekarang.",
+      "date" : "2026-09-23T15:57:02+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21711036",
+      "id" : "9109218558001",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Terima kasih Watson, produknya beneran bagus dan original. Packing super aman dan gak ada yang rusak. Rekomendasi banget buat kalian semua!",
+      "date" : "2026-09-23T15:56:16+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725044",
+      "id" : "9109054357553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Seneng banget pesanan datang dengan cepat dan produknya bagus banget. Packing sangat aman dan rapi dari sellernya. Recommended banget buat yang mau beli!",
+      "date" : "2026-09-23T15:55:56+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21724052",
+      "id" : "9109253062705",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Seneng banget belanja di Watson karena kualitas produknya selalu terjamin bagus. Packingnya sangat aman dan rapi sampai di tangan kurir dengan sempurna. Rekomendasi banget buat kalian yang penasaran!",
+      "date" : "2026-09-23T15:55:23+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21724066",
+      "id" : "9108827242545",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat kalian yang cari produk perawatan terpercaya, Watson emang nggak pernah gagal bikin jatuh hati.",
+      "date" : "2026-09-23T15:54:34+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21724051",
+      "id" : "9108827209777",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pengemasan sangat aman menggunakan bubble wrap berlapis-lapis, terima kasih Watson buat pelayanan terbaiknya hari ini.",
+      "date" : "2026-09-23T15:54:08+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718051",
+      "id" : "9108858142769",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Wah parah sih ini bagus banget produknya, teksturnya ringan di kulit, gampang meresap, dan nggak bikin lengket sama sekali seharian.",
+      "date" : "2026-09-23T15:53:46+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21724067",
+      "id" : "9108728217649",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susanto Andi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Packingnya juara banget amannya, dobel-dobel jadi bikin hati tenang selama proses pengiriman.",
+      "date" : "2026-09-23T15:52:46+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726058",
+      "id" : "9108858044465",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Jujur kaget pas nyampe karena sebagus itu produknya, gak nyangka bakal sepuas ini pake produknya.",
+      "date" : "2026-09-23T15:52:25+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21724065",
+      "id" : "9108957331505",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Packingnya super aman dan rapi, pakai bubble wrap tebel jadi barang sampe rumah dengan selamat tanpa ada yang rusak.",
+      "date" : "2026-09-23T15:52:03+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21722041",
+      "id" : "9108827013169",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pertama kali coba dan langsung suka karena produknya bagus banget di kulitku. Packing aman banget, gak ada yang tumpah. Rekomendasi banget buat kalian yang penasaran.",
+      "date" : "2026-09-23T15:51:17+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21724064",
+      "id" : "9109152759857",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget sama produk ini, selain harganya affordable, kualitasnya juga bagus banget. Packing aman banget dan sampai tepat waktu. Rekomendasi banget buat perawatan sehari-hari.",
+      "date" : "2026-09-23T15:51:01+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718041",
+      "id" : "9109120483377",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Top banget sih pelayanan dan produk dari Watson, kualitasnya terjamin bagus. Packing aman pakai dobel dus dan bubble wrap. Rekomendasi banget buat kalian yang cari produk andalan.",
+      "date" : "2026-09-23T15:50:55+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21712055",
+      "id" : "9109054128177",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Puas banget sama kualitas produknya yang bener-bener bagus dan ampuh. Tokonya juga oke banget dalam menjaga barang kiriman, buktinya packing aman banget. Rekomendasi banget!",
+      "date" : "2026-09-23T15:50:00+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21722042",
+      "id" : "9108792344625",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Puas banget belanja di sini! Produknya bagus dan original dari Watsons. Pengiriman cepat dan yang paling penting packing aman banget pakai bubble wrap tebal. Rekomendasi banget pokoknya!",
+      "date" : "2026-09-23T15:49:38+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703047",
+      "id" : "9108760559665",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Terima kasih Watsons, produknya bener-bener bagus dan sesuai sama ekspektasi aku. Seneng banget pas paket datang dengan selamat berkat packing yang sangat aman. Recommended banget pokoknya!",
+      "date" : "2026-09-23T15:49:16+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726057",
+      "id" : "9109218197553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Mantap banget pokoknya! Kulit jadi keliatan lebih sehat dan glowing. Packingnya super aman dan rapi sekali.",
+      "date" : "2026-09-23T15:47:44+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718050",
+      "id" : "9109283864625",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang dateng dengan selamat berkat packing yang sangat aman dan teliti. Untuk kualitas produknya jelas bagus banget!",
+      "date" : "2026-09-23T15:47:23+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21725050",
+      "id" : "9108792180785",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Minda Endang",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Awalnya ragu mau beli, tapi ternyata sebagus itu! Kulit jadi lebih lembap dan kerasa makin sehat. Bakalan repeat order sih.",
+      "date" : "2026-09-23T15:47:01+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723075",
+      "id" : "9109252440113",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Udah pakai produk ini seminggu dan hasilnya nyata banget di aku. Bagus banget kualitasnya, wajib masuk list skincare rutin.",
+      "date" : "2026-09-23T15:46:07+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21729042",
+      "id" : "9109054062641",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Recommended banget buat kalian yang penasaran, langsung check out aja karena produknya bener-bener bagus dan memuaskan.",
+      "date" : "2026-09-23T15:45:45+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21711050",
+      "id" : "9108989444145",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget sama produk Watsons ini, kualitasnya benar-benar bagus dan kerasa banget manfaatnya di kulit aku!",
+      "date" : "2026-09-23T15:45:24+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718049",
+      "id" : "9109252210737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Fix ini bakal jadi produk andalan aku selamanya! Bener-bener ngerawat kulit dengan maksimal tanpa bikin dompet bolong. Wajib banget punya minimal satu di rumah.",
+      "date" : "2026-09-23T15:43:43+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726056",
+      "id" : "9108923842609",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Super rekomen! Produk Watson ini bener-bener ngebantu banget buat ngatasin masalah kulit aku yang kering. Harganya juga affordable banget untuk kualitas sebagus ini.",
+      "date" : "2026-09-23T15:43:21+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730050",
+      "id" : "9109120024625",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Jujur kaget banget sama pelayanannya, beli produk Watson ini ternyata emang sebagus itu! Kulit langsung terasa lembap seharian dan gak bikin breakout sama sekali. Pokoknya cinta banget!",
+      "date" : "2026-09-23T15:43:05+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21723051",
+      "id" : "9109119926321",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Top banget! Produk Watson emang gak pernah gagal bikin jatuh cinta. Bakal jadi langganan terus pokoknya.",
+      "date" : "2026-09-23T15:42:23+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730049",
+      "id" : "9108728184881",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget sama pelayanannya dan kualitas barangnya. Produk Watson ini bener-bener bagus dan wajib direkomendasikan.",
+      "date" : "2026-09-23T15:42:00+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21712042",
+      "id" : "9109283504177",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat temen-temen yang mau nyoba. Dijamin ketagihan sama produk-produk pilihan dari Watson ini.",
+      "date" : "2026-09-23T15:41:51+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703046",
+      "id" : "9109054029873",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pengiriman cepat dan seller ramah. Yang paling penting barangnya asli dari Watson dan packingnya rapi banget bikin tenang.",
+      "date" : "2026-09-23T15:41:27+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21703045",
+      "id" : "9108792016945",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suroto Suwito",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat kalian yang punya kulit sensitif karena produk ini aman banget.",
+      "date" : "2026-09-23T15:40:08+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21730048",
+      "id" : "9109251915825",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Seneng banget pas buka paketnya, selain produknya bagus, packingnya juga aman banget luar dalam.",
+      "date" : "2026-09-23T15:39:45+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21726055",
+      "id" : "9108727922737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yayan Tasya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rekomendasi banget buat kalian yang lagi cari skincare berkualitas dengan harga yang masih masuk akal.",
+      "date" : "2026-09-23T15:39:23+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-20231-WTCID21718048",
+      "id" : "9109316337713",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

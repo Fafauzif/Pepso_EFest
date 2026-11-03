@@ -1,0 +1,4105 @@
+{
+   "type" : "productCategorySearchPageWsDTO",
+   "breadcrumbs" : [ {
+      "facetCode" : "productBrandCode",
+      "facetName" : "productBrandCode",
+      "facetValueCode" : "SENSODYNE",
+      "facetValueName" : "SENSODYNE",
+      "removeQuery" : {
+         "query" : {
+            "value" : ":bestSeller"
+         },
+         "url" : "/search?q=%3AbestSeller"
+      }
+   } ],
+   "consultantList" : [ ],
+   "currentQuery" : {
+      "query" : {
+         "value" : ":bestSeller:productBrandCode:SENSODYNE"
+      },
+      "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE"
+   },
+   "elabIsAdultOnly" : false,
+   "elabIsFoundation" : false,
+   "facets" : [ {
+      "category" : true,
+      "code" : "category",
+      "multiSelect" : true,
+      "name" : "Category",
+      "priority" : 90000,
+      "topValues" : [ {
+         "code" : "020000",
+         "count" : 17,
+         "name" : "Perawatan Tubuh",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020000"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020000"
+         },
+         "selected" : false
+      }, {
+         "code" : "020500",
+         "count" : 17,
+         "name" : "Kesehatan Mulut",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020500"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020500"
+         },
+         "selected" : false
+      }, {
+         "code" : "020503",
+         "count" : 6,
+         "name" : "Sikat Gigi",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020503"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020503"
+         },
+         "selected" : false
+      }, {
+         "code" : "020504",
+         "count" : 9,
+         "name" : "Pasta Gigi",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020504"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020504"
+         },
+         "selected" : false
+      }, {
+         "code" : "020505",
+         "count" : 2,
+         "name" : "Pemutih",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020505"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020505"
+         },
+         "selected" : false
+      } ],
+      "values" : [ {
+         "code" : "020000",
+         "count" : 17,
+         "name" : "Perawatan Tubuh",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020000"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020000"
+         },
+         "selected" : false
+      }, {
+         "code" : "020500",
+         "count" : 17,
+         "name" : "Kesehatan Mulut",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020500"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020500"
+         },
+         "selected" : false
+      }, {
+         "code" : "020503",
+         "count" : 6,
+         "name" : "Sikat Gigi",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020503"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020503"
+         },
+         "selected" : false
+      }, {
+         "code" : "020504",
+         "count" : 9,
+         "name" : "Pasta Gigi",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020504"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020504"
+         },
+         "selected" : false
+      }, {
+         "code" : "020505",
+         "count" : 2,
+         "name" : "Pemutih",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:020505"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A020505"
+         },
+         "selected" : false
+      }, {
+         "code" : "1",
+         "count" : 17,
+         "name" : "Product Categories",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:1"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3A1"
+         },
+         "selected" : false
+      }, {
+         "code" : "better-packaging-old",
+         "count" : 10,
+         "name" : "Better Packaging",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:category:better-packaging-old"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3Acategory%3Abetter-packaging-old"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "isStorePickupAllowed",
+      "multiSelect" : true,
+      "name" : "Pick Up Options",
+      "priority" : 80000,
+      "values" : [ {
+         "code" : "false",
+         "count" : 17,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:isStorePickupAllowed:false"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AisStorePickupAllowed%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "masterBrandName",
+      "multiSelect" : true,
+      "name" : "Brand",
+      "priority" : 70000,
+      "values" : [ {
+         "code" : "SENSODYNE",
+         "count" : 17,
+         "name" : "SENSODYNE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:masterBrandName:SENSODYNE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AmasterBrandName%3ASENSODYNE"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "priceValue",
+      "multiSelect" : true,
+      "name" : "Price From",
+      "priority" : 60000,
+      "values" : [ {
+         "code" : "16000.0",
+         "count" : 2,
+         "name" : "16000.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:16000.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A16000.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "19900.0",
+         "count" : 1,
+         "name" : "19900.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:19900.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A19900.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "25600.0",
+         "count" : 1,
+         "name" : "25600.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:25600.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A25600.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "27500.0",
+         "count" : 2,
+         "name" : "27500.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:27500.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A27500.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "28900.0",
+         "count" : 1,
+         "name" : "28900.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:28900.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A28900.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "29700.0",
+         "count" : 1,
+         "name" : "29700.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:29700.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A29700.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "35100.0",
+         "count" : 1,
+         "name" : "35100.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:35100.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A35100.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "44800.0",
+         "count" : 1,
+         "name" : "44800.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:44800.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A44800.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "56300.0",
+         "count" : 2,
+         "name" : "56300.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:56300.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A56300.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "60700.0",
+         "count" : 1,
+         "name" : "60700.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:60700.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A60700.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "62700.0",
+         "count" : 2,
+         "name" : "62700.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:62700.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A62700.0"
+         },
+         "selected" : false
+      }, {
+         "code" : "65900.0",
+         "count" : 2,
+         "name" : "65900.0",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:priceValue:65900.0"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3ApriceValue%3A65900.0"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "allPromotions",
+      "multiSelect" : true,
+      "name" : "Promotion",
+      "priority" : 50000,
+      "values" : [ {
+         "code" : "–35%",
+         "count" : 3,
+         "name" : "–35%",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:allPromotions:%E2%80%9335%25"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AallPromotions%3A%25E2%2580%259335%2525"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "isColorMe",
+      "multiSelect" : false,
+      "name" : "Is Color Me",
+      "priority" : 40000,
+      "values" : [ {
+         "code" : "false",
+         "count" : 17,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:isColorMe:false"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AisColorMe%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "isInStock",
+      "multiSelect" : false,
+      "name" : "In Stock",
+      "priority" : 30000,
+      "values" : [ {
+         "code" : "false",
+         "count" : 2,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:isInStock:false"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AisInStock%3Afalse"
+         },
+         "selected" : false
+      }, {
+         "code" : "true",
+         "count" : 15,
+         "name" : "true",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:isInStock:true"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AisInStock%3Atrue"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : true,
+      "code" : "categoriesHierarchy",
+      "multiSelect" : true,
+      "name" : "categoriesHierarchy",
+      "priority" : 8000,
+      "values" : [ {
+         "code" : "020000||Perawatan Tubuh;1||Product Categories",
+         "count" : 17,
+         "name" : "020000||Perawatan Tubuh;1||Product Categories",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:020000%7C%7CPerawatan+Tubuh%3B1%7C%7CProduct+Categories"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3A020000%257C%257CPerawatan%2BTubuh%253B1%257C%257CProduct%2BCategories"
+         },
+         "selected" : false
+      }, {
+         "code" : "020500||Kesehatan Mulut;020000||Perawatan Tubuh",
+         "count" : 17,
+         "name" : "020500||Kesehatan Mulut;020000||Perawatan Tubuh",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:020500%7C%7CKesehatan+Mulut%3B020000%7C%7CPerawatan+Tubuh"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3A020500%257C%257CKesehatan%2BMulut%253B020000%257C%257CPerawatan%2BTubuh"
+         },
+         "selected" : false
+      }, {
+         "code" : "020503||Sikat Gigi;020500||Kesehatan Mulut",
+         "count" : 6,
+         "name" : "020503||Sikat Gigi;020500||Kesehatan Mulut",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:020503%7C%7CSikat+Gigi%3B020500%7C%7CKesehatan+Mulut"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3A020503%257C%257CSikat%2BGigi%253B020500%257C%257CKesehatan%2BMulut"
+         },
+         "selected" : false
+      }, {
+         "code" : "020504||Pasta Gigi;020500||Kesehatan Mulut",
+         "count" : 9,
+         "name" : "020504||Pasta Gigi;020500||Kesehatan Mulut",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:020504%7C%7CPasta+Gigi%3B020500%7C%7CKesehatan+Mulut"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3A020504%257C%257CPasta%2BGigi%253B020500%257C%257CKesehatan%2BMulut"
+         },
+         "selected" : false
+      }, {
+         "code" : "020505||Pemutih;020500||Kesehatan Mulut",
+         "count" : 2,
+         "name" : "020505||Pemutih;020500||Kesehatan Mulut",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:020505%7C%7CPemutih%3B020500%7C%7CKesehatan+Mulut"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3A020505%257C%257CPemutih%253B020500%257C%257CKesehatan%2BMulut"
+         },
+         "selected" : false
+      }, {
+         "code" : "1||Product Categories",
+         "count" : 17,
+         "name" : "1||Product Categories",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:1%7C%7CProduct+Categories"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3A1%257C%257CProduct%2BCategories"
+         },
+         "selected" : false
+      }, {
+         "code" : "better-packaging||Better Packaging",
+         "count" : 10,
+         "name" : "better-packaging||Better Packaging",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:better-packaging%7C%7CBetter+Packaging"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3Abetter-packaging%257C%257CBetter%2BPackaging"
+         },
+         "selected" : false
+      }, {
+         "code" : "colgate-sensodyne||Colgate & Sensodyne Gift",
+         "count" : 17,
+         "name" : "colgate-sensodyne||Colgate & Sensodyne Gift",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:colgate-sensodyne%7C%7CColgate+%26+Sensodyne+Gift"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3Acolgate-sensodyne%257C%257CColgate%2B%2526%2BSensodyne%2BGift"
+         },
+         "selected" : false
+      }, {
+         "code" : "merdeka-sale||PCO Merdeka Sale",
+         "count" : 3,
+         "name" : "merdeka-sale||PCO Merdeka Sale",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:merdeka-sale%7C%7CPCO+Merdeka+Sale"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3Amerdeka-sale%257C%257CPCO%2BMerdeka%2BSale"
+         },
+         "selected" : false
+      }, {
+         "code" : "new-must-try||New Must Try",
+         "count" : 1,
+         "name" : "new-must-try||New Must Try",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:new-must-try%7C%7CNew+Must+Try"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3Anew-must-try%257C%257CNew%2BMust%2BTry"
+         },
+         "selected" : false
+      }, {
+         "code" : "promo-1212-2024||Promo Watsons 12.12 Sale-bration",
+         "count" : 10,
+         "name" : "promo-1212-2024||Promo Watsons 12.12 Sale-bration",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:promo-1212-2024%7C%7CPromo+Watsons+12.12+Sale-bration"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3Apromo-1212-2024%257C%257CPromo%2BWatsons%2B12.12%2BSale-bration"
+         },
+         "selected" : false
+      }, {
+         "code" : "promo-22-2025||Promo 2.2 Limitless Beauty",
+         "count" : 3,
+         "name" : "promo-22-2025||Promo 2.2 Limitless Beauty",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:promo-22-2025%7C%7CPromo+2.2+Limitless+Beauty"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3Apromo-22-2025%257C%257CPromo%2B2.2%2BLimitless%2BBeauty"
+         },
+         "selected" : false
+      }, {
+         "code" : "promo-44-2025-old||Mega Day 4.4 Glam for Eid",
+         "count" : 3,
+         "name" : "promo-44-2025-old||Mega Day 4.4 Glam for Eid",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:promo-44-2025-old%7C%7CMega+Day+4.4+Glam+for+Eid"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3Apromo-44-2025-old%257C%257CMega%2BDay%2B4.4%2BGlam%2Bfor%2BEid"
+         },
+         "selected" : false
+      }, {
+         "code" : "sustainable||Sustainable",
+         "count" : 10,
+         "name" : "sustainable||Sustainable",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:categoriesHierarchy:sustainable%7C%7CSustainable"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AcategoriesHierarchy%3Asustainable%257C%257CSustainable"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "isVirtualBundle",
+      "multiSelect" : false,
+      "name" : "Set Bundle",
+      "priority" : 100,
+      "values" : [ {
+         "code" : "false",
+         "count" : 17,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:isVirtualBundle:false"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AisVirtualBundle%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "productBrandCode",
+      "multiSelect" : false,
+      "name" : "productBrandCode",
+      "priority" : 0,
+      "values" : [ {
+         "code" : "WATSONS",
+         "count" : 264,
+         "name" : "WATSONS",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:WATSONS"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AWATSONS"
+         },
+         "selected" : false
+      }, {
+         "code" : "WARDAH",
+         "count" : 231,
+         "name" : "WARDAH",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:WARDAH"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AWARDAH"
+         },
+         "selected" : false
+      }, {
+         "code" : "REVLON",
+         "count" : 160,
+         "name" : "REVLON",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:REVLON"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AREVLON"
+         },
+         "selected" : false
+      }, {
+         "code" : "170285",
+         "count" : 153,
+         "name" : "170285",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170285"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170285"
+         },
+         "selected" : false
+      }, {
+         "code" : "158094",
+         "count" : 135,
+         "name" : "158094",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:158094"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A158094"
+         },
+         "selected" : false
+      }, {
+         "code" : "159111",
+         "count" : 129,
+         "name" : "159111",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:159111"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A159111"
+         },
+         "selected" : false
+      }, {
+         "code" : "169075",
+         "count" : 121,
+         "name" : "169075",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:169075"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A169075"
+         },
+         "selected" : false
+      }, {
+         "code" : "156127",
+         "count" : 115,
+         "name" : "156127",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:156127"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A156127"
+         },
+         "selected" : false
+      }, {
+         "code" : "EMINA",
+         "count" : 112,
+         "name" : "EMINA",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:EMINA"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AEMINA"
+         },
+         "selected" : false
+      }, {
+         "code" : "MAKE-OVER",
+         "count" : 106,
+         "name" : "MAKE-OVER",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:MAKE-OVER"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AMAKE-OVER"
+         },
+         "selected" : false
+      }, {
+         "code" : "170277",
+         "count" : 97,
+         "name" : "170277",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170277"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170277"
+         },
+         "selected" : false
+      }, {
+         "code" : "160063",
+         "count" : 96,
+         "name" : "160063",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:160063"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A160063"
+         },
+         "selected" : false
+      }, {
+         "code" : "LOREAL",
+         "count" : 92,
+         "name" : "LOREAL",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:LOREAL"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ALOREAL"
+         },
+         "selected" : false
+      }, {
+         "code" : "QVS",
+         "count" : 92,
+         "name" : "QVS",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:QVS"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AQVS"
+         },
+         "selected" : false
+      }, {
+         "code" : "ELISE",
+         "count" : 90,
+         "name" : "ELISE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:ELISE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AELISE"
+         },
+         "selected" : false
+      }, {
+         "code" : "NIVEA",
+         "count" : 90,
+         "name" : "NIVEA",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:NIVEA"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ANIVEA"
+         },
+         "selected" : false
+      }, {
+         "code" : "172028",
+         "count" : 87,
+         "name" : "172028",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:172028"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A172028"
+         },
+         "selected" : false
+      }, {
+         "code" : "BLINK-CHARM",
+         "count" : 78,
+         "name" : "BLINK-CHARM",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:BLINK-CHARM"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ABLINK-CHARM"
+         },
+         "selected" : false
+      }, {
+         "code" : "160065",
+         "count" : 74,
+         "name" : "160065",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:160065"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A160065"
+         },
+         "selected" : false
+      }, {
+         "code" : "161063",
+         "count" : 74,
+         "name" : "161063",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:161063"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A161063"
+         },
+         "selected" : false
+      }, {
+         "code" : "DOVE",
+         "count" : 71,
+         "name" : "DOVE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:DOVE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ADOVE"
+         },
+         "selected" : false
+      }, {
+         "code" : "FOCALLURE",
+         "count" : 67,
+         "name" : "FOCALLURE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:FOCALLURE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AFOCALLURE"
+         },
+         "selected" : false
+      }, {
+         "code" : "163121",
+         "count" : 66,
+         "name" : "163121",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:163121"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A163121"
+         },
+         "selected" : false
+      }, {
+         "code" : "VASELINE",
+         "count" : 64,
+         "name" : "VASELINE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:VASELINE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AVASELINE"
+         },
+         "selected" : false
+      }, {
+         "code" : "165168",
+         "count" : 60,
+         "name" : "165168",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:165168"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A165168"
+         },
+         "selected" : false
+      }, {
+         "code" : "176026",
+         "count" : 60,
+         "name" : "176026",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:176026"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A176026"
+         },
+         "selected" : false
+      }, {
+         "code" : "Pepsodent",
+         "count" : 60,
+         "name" : "Pepsodent",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:Pepsodent"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3APepsodent"
+         },
+         "selected" : false
+      }, {
+         "code" : "MAKARIZO",
+         "count" : 59,
+         "name" : "MAKARIZO",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:MAKARIZO"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AMAKARIZO"
+         },
+         "selected" : false
+      }, {
+         "code" : "NUTRIMAX",
+         "count" : 59,
+         "name" : "NUTRIMAX",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:NUTRIMAX"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ANUTRIMAX"
+         },
+         "selected" : false
+      }, {
+         "code" : "153213",
+         "count" : 58,
+         "name" : "153213",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:153213"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A153213"
+         },
+         "selected" : false
+      }, {
+         "code" : "161064",
+         "count" : 58,
+         "name" : "161064",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:161064"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A161064"
+         },
+         "selected" : false
+      }, {
+         "code" : "GARNIER",
+         "count" : 57,
+         "name" : "GARNIER",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:GARNIER"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AGARNIER"
+         },
+         "selected" : false
+      }, {
+         "code" : "160070",
+         "count" : 53,
+         "name" : "160070",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:160070"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A160070"
+         },
+         "selected" : false
+      }, {
+         "code" : "170289",
+         "count" : 53,
+         "name" : "170289",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170289"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170289"
+         },
+         "selected" : false
+      }, {
+         "code" : "171151",
+         "count" : 52,
+         "name" : "171151",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:171151"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A171151"
+         },
+         "selected" : false
+      }, {
+         "code" : "MAYBELLINE",
+         "count" : 48,
+         "name" : "MAYBELLINE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:MAYBELLINE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AMAYBELLINE"
+         },
+         "selected" : false
+      }, {
+         "code" : "156112",
+         "count" : 47,
+         "name" : "156112",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:156112"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A156112"
+         },
+         "selected" : false
+      }, {
+         "code" : "162086",
+         "count" : 46,
+         "name" : "162086",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:162086"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A162086"
+         },
+         "selected" : false
+      }, {
+         "code" : "BIORE",
+         "count" : 46,
+         "name" : "BIORE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:BIORE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ABIORE"
+         },
+         "selected" : false
+      }, {
+         "code" : "NUXE",
+         "count" : 46,
+         "name" : "NUXE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:NUXE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ANUXE"
+         },
+         "selected" : false
+      }, {
+         "code" : "COLGATE",
+         "count" : 45,
+         "name" : "COLGATE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:COLGATE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ACOLGATE"
+         },
+         "selected" : false
+      }, {
+         "code" : "LAURIER",
+         "count" : 45,
+         "name" : "LAURIER",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:LAURIER"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ALAURIER"
+         },
+         "selected" : false
+      }, {
+         "code" : "WELLNESS",
+         "count" : 44,
+         "name" : "WELLNESS",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:WELLNESS"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AWELLNESS"
+         },
+         "selected" : false
+      }, {
+         "code" : "163118",
+         "count" : 43,
+         "name" : "163118",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:163118"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A163118"
+         },
+         "selected" : false
+      }, {
+         "code" : "HOLIKA-HOLIKA",
+         "count" : 43,
+         "name" : "HOLIKA-HOLIKA",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:HOLIKA-HOLIKA"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AHOLIKA-HOLIKA"
+         },
+         "selected" : false
+      }, {
+         "code" : "PANTENE",
+         "count" : 43,
+         "name" : "PANTENE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:PANTENE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3APANTENE"
+         },
+         "selected" : false
+      }, {
+         "code" : "PONDS",
+         "count" : 43,
+         "name" : "PONDS",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:PONDS"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3APONDS"
+         },
+         "selected" : false
+      }, {
+         "code" : "171139",
+         "count" : 42,
+         "name" : "171139",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:171139"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A171139"
+         },
+         "selected" : false
+      }, {
+         "code" : "153225",
+         "count" : 41,
+         "name" : "153225",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:153225"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A153225"
+         },
+         "selected" : false
+      }, {
+         "code" : "170294",
+         "count" : 41,
+         "name" : "170294",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170294"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170294"
+         },
+         "selected" : false
+      }, {
+         "code" : "155139",
+         "count" : 40,
+         "name" : "155139",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:155139"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A155139"
+         },
+         "selected" : false
+      }, {
+         "code" : "166072",
+         "count" : 40,
+         "name" : "166072",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:166072"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A166072"
+         },
+         "selected" : false
+      }, {
+         "code" : "156122",
+         "count" : 39,
+         "name" : "156122",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:156122"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A156122"
+         },
+         "selected" : false
+      }, {
+         "code" : "CETAPHIL",
+         "count" : 39,
+         "name" : "CETAPHIL",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:CETAPHIL"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ACETAPHIL"
+         },
+         "selected" : false
+      }, {
+         "code" : "LIFEBUOY",
+         "count" : 39,
+         "name" : "LIFEBUOY",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:LIFEBUOY"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ALIFEBUOY"
+         },
+         "selected" : false
+      }, {
+         "code" : "163154",
+         "count" : 38,
+         "name" : "163154",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:163154"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A163154"
+         },
+         "selected" : false
+      }, {
+         "code" : "170300",
+         "count" : 38,
+         "name" : "170300",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170300"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170300"
+         },
+         "selected" : false
+      }, {
+         "code" : "BIODERMA",
+         "count" : 38,
+         "name" : "BIODERMA",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:BIODERMA"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ABIODERMA"
+         },
+         "selected" : false
+      }, {
+         "code" : "ELLIPS",
+         "count" : 38,
+         "name" : "ELLIPS",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:ELLIPS"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AELLIPS"
+         },
+         "selected" : false
+      }, {
+         "code" : "HANSAPLAST",
+         "count" : 38,
+         "name" : "HANSAPLAST",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:HANSAPLAST"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AHANSAPLAST"
+         },
+         "selected" : false
+      }, {
+         "code" : "152151",
+         "count" : 37,
+         "name" : "152151",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:152151"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A152151"
+         },
+         "selected" : false
+      }, {
+         "code" : "153241",
+         "count" : 37,
+         "name" : "153241",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:153241"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A153241"
+         },
+         "selected" : false
+      }, {
+         "code" : "163119",
+         "count" : 37,
+         "name" : "163119",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:163119"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A163119"
+         },
+         "selected" : false
+      }, {
+         "code" : "164238",
+         "count" : 37,
+         "name" : "164238",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:164238"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A164238"
+         },
+         "selected" : false
+      }, {
+         "code" : "HERBORIST",
+         "count" : 36,
+         "name" : "HERBORIST",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:HERBORIST"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AHERBORIST"
+         },
+         "selected" : false
+      }, {
+         "code" : "REXONA",
+         "count" : 36,
+         "name" : "REXONA",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:REXONA"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AREXONA"
+         },
+         "selected" : false
+      }, {
+         "code" : "153227",
+         "count" : 35,
+         "name" : "153227",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:153227"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A153227"
+         },
+         "selected" : false
+      }, {
+         "code" : "170302",
+         "count" : 35,
+         "name" : "170302",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170302"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170302"
+         },
+         "selected" : false
+      }, {
+         "code" : "DEAR-ME",
+         "count" : 34,
+         "name" : "DEAR-ME",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:DEAR-ME"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ADEAR-ME"
+         },
+         "selected" : false
+      }, {
+         "code" : "LAMICA",
+         "count" : 34,
+         "name" : "LAMICA",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:LAMICA"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ALAMICA"
+         },
+         "selected" : false
+      }, {
+         "code" : "164222",
+         "count" : 33,
+         "name" : "164222",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:164222"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A164222"
+         },
+         "selected" : false
+      }, {
+         "code" : "165160",
+         "count" : 33,
+         "name" : "165160",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:165160"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A165160"
+         },
+         "selected" : false
+      }, {
+         "code" : "170298",
+         "count" : 33,
+         "name" : "170298",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170298"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170298"
+         },
+         "selected" : false
+      }, {
+         "code" : "BLACKMORES",
+         "count" : 33,
+         "name" : "BLACKMORES",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:BLACKMORES"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ABLACKMORES"
+         },
+         "selected" : false
+      }, {
+         "code" : "HERBANA",
+         "count" : 32,
+         "name" : "HERBANA",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:HERBANA"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AHERBANA"
+         },
+         "selected" : false
+      }, {
+         "code" : "SAFI",
+         "count" : 32,
+         "name" : "SAFI",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SAFI"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASAFI"
+         },
+         "selected" : false
+      }, {
+         "code" : "154219",
+         "count" : 31,
+         "name" : "154219",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:154219"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A154219"
+         },
+         "selected" : false
+      }, {
+         "code" : "170246",
+         "count" : 31,
+         "name" : "170246",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170246"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170246"
+         },
+         "selected" : false
+      }, {
+         "code" : "160077",
+         "count" : 30,
+         "name" : "160077",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:160077"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A160077"
+         },
+         "selected" : false
+      }, {
+         "code" : "170325",
+         "count" : 30,
+         "name" : "170325",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170325"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170325"
+         },
+         "selected" : false
+      }, {
+         "code" : "HEAD-AND-SHOULDER",
+         "count" : 30,
+         "name" : "HEAD-AND-SHOULDER",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:HEAD-AND-SHOULDER"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AHEAD-AND-SHOULDER"
+         },
+         "selected" : false
+      }, {
+         "code" : "JOHNSON-AND-JOHNSON",
+         "count" : 30,
+         "name" : "JOHNSON-AND-JOHNSON",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:JOHNSON-AND-JOHNSON"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AJOHNSON-AND-JOHNSON"
+         },
+         "selected" : false
+      }, {
+         "code" : "170301",
+         "count" : 29,
+         "name" : "170301",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:170301"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A170301"
+         },
+         "selected" : false
+      }, {
+         "code" : "HADA-LABO",
+         "count" : 29,
+         "name" : "HADA-LABO",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:HADA-LABO"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AHADA-LABO"
+         },
+         "selected" : false
+      }, {
+         "code" : "154213",
+         "count" : 28,
+         "name" : "154213",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:154213"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A154213"
+         },
+         "selected" : false
+      }, {
+         "code" : "157149",
+         "count" : 27,
+         "name" : "157149",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:157149"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A157149"
+         },
+         "selected" : false
+      }, {
+         "code" : "160059",
+         "count" : 27,
+         "name" : "160059",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:160059"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A160059"
+         },
+         "selected" : false
+      }, {
+         "code" : "156142",
+         "count" : 25,
+         "name" : "156142",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:156142"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A156142"
+         },
+         "selected" : false
+      }, {
+         "code" : "CHARM",
+         "count" : 25,
+         "name" : "CHARM",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:CHARM"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ACHARM"
+         },
+         "selected" : false
+      }, {
+         "code" : "152180",
+         "count" : 24,
+         "name" : "152180",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:152180"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A152180"
+         },
+         "selected" : false
+      }, {
+         "code" : "156139",
+         "count" : 24,
+         "name" : "156139",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:156139"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A156139"
+         },
+         "selected" : false
+      }, {
+         "code" : "166082",
+         "count" : 24,
+         "name" : "166082",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:166082"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A166082"
+         },
+         "selected" : false
+      }, {
+         "code" : "169083",
+         "count" : 24,
+         "name" : "169083",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:169083"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A169083"
+         },
+         "selected" : false
+      }, {
+         "code" : "CUSSONS",
+         "count" : 24,
+         "name" : "CUSSONS",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:CUSSONS"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ACUSSONS"
+         },
+         "selected" : false
+      }, {
+         "code" : "HIMALAYA",
+         "count" : 24,
+         "name" : "HIMALAYA",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:HIMALAYA"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3AHIMALAYA"
+         },
+         "selected" : false
+      }, {
+         "code" : "LISTERINE",
+         "count" : 24,
+         "name" : "LISTERINE",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:LISTERINE"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ALISTERINE"
+         },
+         "selected" : false
+      }, {
+         "code" : "NUTRIWELL",
+         "count" : 24,
+         "name" : "NUTRIWELL",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:NUTRIWELL"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ANUTRIWELL"
+         },
+         "selected" : false
+      }, {
+         "code" : "151007",
+         "count" : 23,
+         "name" : "151007",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:151007"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A151007"
+         },
+         "selected" : false
+      }, {
+         "code" : "157154",
+         "count" : 23,
+         "name" : "157154",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:157154"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A157154"
+         },
+         "selected" : false
+      }, {
+         "code" : "165152",
+         "count" : 23,
+         "name" : "165152",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:165152"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3A165152"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "elabIsOrganic",
+      "multiSelect" : false,
+      "name" : "Organic",
+      "priority" : 0,
+      "values" : [ {
+         "code" : "false",
+         "count" : 17,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:elabIsOrganic:false"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AelabIsOrganic%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "isHairProduct",
+      "multiSelect" : false,
+      "name" : "isHairProduct",
+      "priority" : 0,
+      "values" : [ {
+         "code" : "false",
+         "count" : 17,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:isHairProduct:false"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AisHairProduct%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "elabIsHalal",
+      "multiSelect" : false,
+      "name" : "Halal",
+      "priority" : 0,
+      "values" : [ {
+         "code" : "false",
+         "count" : 16,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:elabIsHalal:false"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AelabIsHalal%3Afalse"
+         },
+         "selected" : false
+      }, {
+         "code" : "true",
+         "count" : 1,
+         "name" : "true",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:elabIsHalal:true"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AelabIsHalal%3Atrue"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "elabIsCleanBeauty",
+      "multiSelect" : false,
+      "name" : "Clean Beauty",
+      "priority" : 0,
+      "values" : [ {
+         "code" : "false",
+         "count" : 17,
+         "name" : "false",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:elabIsCleanBeauty:false"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AelabIsCleanBeauty%3Afalse"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   }, {
+      "category" : false,
+      "code" : "elabBetterPackaging",
+      "multiSelect" : false,
+      "name" : "Better Packaging",
+      "priority" : 0,
+      "values" : [ {
+         "code" : "Kertas berkelanjutan",
+         "count" : 10,
+         "name" : "Kertas berkelanjutan",
+         "query" : {
+            "query" : {
+               "value" : ":bestSeller:productBrandCode:SENSODYNE:elabBetterPackaging:Kertas+berkelanjutan"
+            },
+            "url" : "/search?q=%3AbestSeller%3AproductBrandCode%3ASENSODYNE%3AelabBetterPackaging%3AKertas%2Bberkelanjutan"
+         },
+         "selected" : false
+      } ],
+      "visible" : true
+   } ],
+   "freeTextSearch" : "",
+   "isNotExactMatchResult" : false,
+   "pagination" : {
+      "currentPage" : 0,
+      "pageSize" : 100,
+      "sort" : "bestSeller",
+      "totalPages" : 1,
+      "totalResults" : 17
+   },
+   "productCategoryHierarchy" : {
+      "code" : "1",
+      "count" : 17,
+      "level" : 0,
+      "name" : "Root Category",
+      "subCategories" : [ {
+         "code" : "020000",
+         "count" : 17,
+         "level" : 1,
+         "name" : "Perawatan Tubuh",
+         "query" : ":bestSeller:productBrandCode:SENSODYNE:category:020000",
+         "subCategories" : [ {
+            "code" : "020500",
+            "count" : 17,
+            "level" : 2,
+            "name" : "Kesehatan Mulut",
+            "query" : ":bestSeller:productBrandCode:SENSODYNE:category:020500",
+            "subCategories" : [ {
+               "code" : "020503",
+               "count" : 6,
+               "level" : 3,
+               "name" : "Sikat Gigi",
+               "query" : ":bestSeller:productBrandCode:SENSODYNE:category:020503"
+            }, {
+               "code" : "020504",
+               "count" : 9,
+               "level" : 3,
+               "name" : "Pasta Gigi",
+               "query" : ":bestSeller:productBrandCode:SENSODYNE:category:020504"
+            }, {
+               "code" : "020505",
+               "count" : 2,
+               "level" : 3,
+               "name" : "Pemutih",
+               "query" : ":bestSeller:productBrandCode:SENSODYNE:category:020505"
+            } ]
+         } ]
+      } ]
+   },
+   "products" : [ {
+      "averageRating" : 4.956043956043956,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_70423",
+      "defaultVariantCode" : "70423",
+      "ean" : "8992695754066",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp56.300",
+         "priceType" : "BUY",
+         "value" : 56300.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp56.300",
+         "priceType" : "BUY",
+         "value" : 56300.0
+      },
+      "elabProductName" : "Pasta Gigi Repair & Protect 100g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "100 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-70423-front-prodcat.jpg?version=1761060679"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Repair & Protect 100g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp56.300",
+         "priceType" : "BUY",
+         "value" : 56300.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "4.956043956043956",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 120,
+      "sellQuantityMsg" : "100+ Terjual",
+      "shortDescription" : "Pasta Gigi Repair & Protect 100g",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 56300.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-pasta-gigi-repair-protect-100g/p/BP_70423",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_52157",
+      "defaultVariantCode" : "52157",
+      "ean" : "8991991855965",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : true,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp25.600",
+         "priceType" : "BUY",
+         "value" : 25600.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp25.600",
+         "priceType" : "BUY",
+         "value" : 25600.0
+      },
+      "elabProductName" : "Sensodyne Toothpaste Cavity Sensitive 80g - Pasta Gigi Cegah Gigi Berlubang & Sensitif",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-52157-front-prodcat.jpg?version=1761060715"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Sensodyne Toothpaste Cavity Sensitive 80g - Pasta Gigi Cegah Gigi Berlubang & Sensitif",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp25.600",
+         "priceType" : "BUY",
+         "value" : 25600.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 99,
+      "sellQuantityMsg" : "100 Terjual",
+      "shortDescription" : "Sensodyne Toothpaste Cavity Sensitive 80g - Pasta Gigi Cegah Gigi Berlubang & Sensitif",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 25600.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-sensodyne-toothpaste-cavity-sensitive-80g-pasta-gigi-cegah-gigi-berlubang-sensitif/p/BP_52157",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 4.971978984238179,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_71175",
+      "defaultVariantCode" : "71175",
+      "ean" : "8992695774064",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp56.300",
+         "priceType" : "BUY",
+         "value" : 56300.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp56.300",
+         "priceType" : "BUY",
+         "value" : 56300.0
+      },
+      "elabProductName" : "Pasta Gigi Repair & Protect Extra Fresh 100g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "100 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-71175-front-prodcat.jpg?version=1761061334"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Repair & Protect Extra Fresh 100g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp56.300",
+         "priceType" : "BUY",
+         "value" : 56300.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "4.971978984238179",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 79,
+      "sellQuantityMsg" : "80 Terjual",
+      "shortDescription" : "Pasta Gigi Repair & Protect Extra Fresh 100g",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 56300.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-pasta-gigi-repair-protect-extra-fresh-100g/p/BP_71175",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 4.6502732240437155,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020505",
+         "level" : 3,
+         "name" : "Pemutih"
+      } ],
+      "code" : "BP_71174",
+      "defaultVariantCode" : "71174",
+      "ean" : "8992695764065",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp60.700",
+         "priceType" : "BUY",
+         "value" : 60700.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp60.700",
+         "priceType" : "BUY",
+         "value" : 60700.0
+      },
+      "elabProductName" : "Pasta Gigi Repair & Protect Whitening 100g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "100 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pemutih",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-71174-front-prodcat.jpg?version=1761060633"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Repair & Protect Whitening 100g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp60.700",
+         "priceType" : "BUY",
+         "value" : 60700.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "4.6502732240437155",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 30,
+      "sellQuantityMsg" : "30 Terjual",
+      "shortDescription" : "Pasta Gigi Repair & Protect Whitening 100g",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 60700.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-pasta-gigi-repair-protect-whitening-100g/p/BP_71174",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020503",
+         "level" : 3,
+         "name" : "Sikat Gigi"
+      } ],
+      "code" : "BP_72470",
+      "defaultVariantCode" : "72470",
+      "ean" : "9556019242074",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp35.100",
+         "priceType" : "BUY",
+         "value" : 35100.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp35.100",
+         "priceType" : "BUY",
+         "value" : 35100.0
+      },
+      "elabProductName" : "Sikat Gigi Multi Actionn Soft 2'S",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "2'S" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Sikat Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-72470-front-prodcat.jpg?version=1761061313"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Sikat Gigi Multi Actionn Soft 2'S",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp35.100",
+         "priceType" : "BUY",
+         "value" : 35100.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 9,
+      "shortDescription" : "Sikat Gigi Multi Actionn Soft 2'S",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 35100.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-sikat-gigi-multi-actionn-soft-2-s/p/BP_72470",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 4.6923076923076925,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_27626",
+      "defaultVariantCode" : "27626",
+      "ean" : "8991991594062",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMarkDownPrice" : {
+         "currencyIso" : "IDR",
+         "discountAmount" : 15600.0,
+         "discountAmountFormattedValue" : "Rp15.600",
+         "discountRate" : 35,
+         "formattedValue" : "Rp28.900",
+         "priceType" : "BUY",
+         "value" : 28900.0
+      },
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp44.500",
+         "priceType" : "BUY",
+         "value" : 44500.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp44.500",
+         "priceType" : "BUY",
+         "value" : 44500.0
+      },
+      "elabProductName" : "Pasta Gigi Deep Clean 100g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "100 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-27626-front-prodcat.jpg?version=1761060020"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Deep Clean 100g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp28.900",
+         "priceType" : "BUY",
+         "value" : 28900.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionFirstTag" : "–35%",
+      "promotionFirstTagEndDate" : "2026-11-22 23:59:00",
+      "promotionFirstTagStartDate" : "2026-11-02 00:00:00",
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "4.6923076923076925",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 6,
+      "shortDescription" : "Pasta Gigi Deep Clean 100g",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 44500.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+            "label" : "–35%"
+         },
+         "title" : "LESS 35%"
+      },
+      "url" : "/sensodyne-pasta-gigi-deep-clean-100g/p/BP_27626",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020503",
+         "level" : 3,
+         "name" : "Sikat Gigi"
+      } ],
+      "code" : "BP_72467",
+      "defaultVariantCode" : "72467",
+      "ean" : "8992695920089",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp16.000",
+         "priceType" : "BUY",
+         "value" : 16000.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp16.000",
+         "priceType" : "BUY",
+         "value" : 16000.0
+      },
+      "elabProductName" : "Sikat Gigi Ultra Sensitive Extra Soft 1'S",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "1'S" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Sikat Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-72467-front-prodcat.jpg?version=1761061438"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Sikat Gigi Ultra Sensitive Extra Soft 1'S",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp16.000",
+         "priceType" : "BUY",
+         "value" : 16000.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 4,
+      "shortDescription" : "Sikat Gigi Ultra Sensitive Extra Soft 1'S",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 16000.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-sikat-gigi-ultra-sensitive-extra-soft-1-s/p/BP_72467",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020503",
+         "level" : 3,
+         "name" : "Sikat Gigi"
+      } ],
+      "code" : "BP_72468",
+      "defaultVariantCode" : "72468",
+      "ean" : "8992695921383",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp29.700",
+         "priceType" : "BUY",
+         "value" : 29700.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp29.700",
+         "priceType" : "BUY",
+         "value" : 29700.0
+      },
+      "elabProductName" : "Sikat Gigi Ultra Sensitive Extra Soft 2'S",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "2'S" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Sikat Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-72468-front-prodcat.jpg?version=1761061391"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Sikat Gigi Ultra Sensitive Extra Soft 2'S",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp29.700",
+         "priceType" : "BUY",
+         "value" : 29700.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 4,
+      "shortDescription" : "Sikat Gigi Ultra Sensitive Extra Soft 2'S",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 29700.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-sikat-gigi-ultra-sensitive-extra-soft-2-s/p/BP_72468",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 4.6,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_73868",
+      "defaultVariantCode" : "73868",
+      "ean" : "8992695785169",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp65.900",
+         "priceType" : "BUY",
+         "value" : 65900.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp65.900",
+         "priceType" : "BUY",
+         "value" : 65900.0
+      },
+      "elabProductName" : "Pasta Gigi Multi Action 160g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "160 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-73868-front-prodcat.jpg?version=1761061278"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Multi Action 160g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp65.900",
+         "priceType" : "BUY",
+         "value" : 65900.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "4.6",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 2,
+      "shortDescription" : "Pasta Gigi Multi Action 160g",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 65900.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-pasta-gigi-multi-action-160g/p/BP_73868",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020503",
+         "level" : 3,
+         "name" : "Sikat Gigi"
+      } ],
+      "code" : "BP_70270",
+      "defaultVariantCode" : "70270",
+      "ean" : "8992695781284",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp44.800",
+         "priceType" : "BUY",
+         "value" : 44800.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp44.800",
+         "priceType" : "BUY",
+         "value" : 44800.0
+      },
+      "elabProductName" : "Sikat Gigi Repair & Protect Soft 2'S",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "2'S" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Sikat Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-70270-front-prodcat.jpg?version=1761060772"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Sikat Gigi Repair & Protect Soft 2'S",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp44.800",
+         "priceType" : "BUY",
+         "value" : 44800.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 1,
+      "shortDescription" : "Sikat Gigi Repair & Protect Soft 2'S",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 44800.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-sikat-gigi-repair-protect-soft-2-s/p/BP_70270",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020503",
+         "level" : 3,
+         "name" : "Sikat Gigi"
+      } ],
+      "code" : "BP_72469",
+      "defaultVariantCode" : "72469",
+      "ean" : "9556019242050",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp19.900",
+         "priceType" : "BUY",
+         "value" : 19900.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp19.900",
+         "priceType" : "BUY",
+         "value" : 19900.0
+      },
+      "elabProductName" : "Sikat Gigi Multi Action Soft 1'S",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "1'S" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Sikat Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-72469-front-prodcat.jpg?version=1761061402"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Sikat Gigi Multi Action Soft 1'S",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp19.900",
+         "priceType" : "BUY",
+         "value" : 19900.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 1,
+      "shortDescription" : "Sikat Gigi Multi Action Soft 1'S",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 19900.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-sikat-gigi-multi-action-soft-1-s/p/BP_72469",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_71177",
+      "defaultVariantCode" : "71177",
+      "ean" : "8992695705167",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp62.700",
+         "priceType" : "BUY",
+         "value" : 62700.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp62.700",
+         "priceType" : "BUY",
+         "value" : 62700.0
+      },
+      "elabProductName" : "Pasta Gigi Fresh Mint 160g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "160 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-71177-front-prodcat.jpg?version=1761061303"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Fresh Mint 160g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp62.700",
+         "priceType" : "BUY",
+         "value" : 62700.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 1,
+      "shortDescription" : "Pasta Gigi Fresh Mint 160g",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 62700.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-pasta-gigi-fresh-mint-160g/p/BP_71177",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020505",
+         "level" : 3,
+         "name" : "Pemutih"
+      } ],
+      "code" : "BP_71176",
+      "defaultVariantCode" : "71176",
+      "ean" : "8992695725165",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp65.900",
+         "priceType" : "BUY",
+         "value" : 65900.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp65.900",
+         "priceType" : "BUY",
+         "value" : 65900.0
+      },
+      "elabProductName" : "Pasta Gigi Gentle Whitening 160g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "160 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pemutih",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-71176-front-prodcat.jpg?version=1761061324"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Gentle Whitening 160g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp65.900",
+         "priceType" : "BUY",
+         "value" : 65900.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 1,
+      "shortDescription" : "Pasta Gigi Gentle Whitening 160g",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 65900.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-pasta-gigi-gentle-whitening-160g/p/BP_71176",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020503",
+         "level" : 3,
+         "name" : "Sikat Gigi"
+      } ],
+      "code" : "BP_72465",
+      "defaultVariantCode" : "72465",
+      "ean" : "8992695910080",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp16.000",
+         "priceType" : "BUY",
+         "value" : 16000.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp16.000",
+         "priceType" : "BUY",
+         "value" : 16000.0
+      },
+      "elabProductName" : "Sikat Gigi Ultra Sensitive Soft 1'S",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "1'S" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "freeGiftThresholdType" : "QUANTITY",
+      "freeGiftThresholdValue" : 1.0,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Sikat Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-72465-front-prodcat.jpg?version=1761061231"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Sikat Gigi Ultra Sensitive Soft 1'S",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp16.000",
+         "priceType" : "BUY",
+         "value" : 16000.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 1,
+      "shortDescription" : "Sikat Gigi Ultra Sensitive Soft 1'S",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 16000.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-sikat-gigi-ultra-sensitive-soft-1-s/p/BP_72465",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_72761",
+      "defaultVariantCode" : "72761",
+      "ean" : "8992695505163",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp62.700",
+         "priceType" : "BUY",
+         "value" : 62700.0
+      },
+      "elabPackItem" : false,
+      "elabPackSize" : "160 GR",
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp62.700",
+         "priceType" : "BUY",
+         "value" : 62700.0
+      },
+      "elabProductName" : "Pasta Gigi Cool Gel 160g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "160 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-72761-front-prodcat.jpg?version=1761061386"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Cool Gel 160g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp62.700",
+         "priceType" : "BUY",
+         "value" : 62700.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "shortDescription" : "Pasta Gigi Cool Gel 160g",
+      "stock" : {
+         "stockLevelStatus" : "inStock"
+      },
+      "strikeThroughPrice" : 62700.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+         }
+      },
+      "url" : "/sensodyne-pasta-gigi-cool-gel-160g/p/BP_72761",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 4.966666666666667,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_42082",
+      "defaultVariantCode" : "42082",
+      "ean" : "8991991161332",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMarkDownPrice" : {
+         "currencyIso" : "IDR",
+         "discountAmount" : 14900.0,
+         "discountAmountFormattedValue" : "Rp14.900",
+         "discountRate" : 35,
+         "formattedValue" : "Rp27.500",
+         "priceType" : "BUY",
+         "value" : 27500.0
+      },
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp42.400",
+         "priceType" : "BUY",
+         "value" : 42400.0
+      },
+      "elabPackItem" : false,
+      "elabPackSize" : "100 gr",
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp42.400",
+         "priceType" : "BUY",
+         "value" : 42400.0
+      },
+      "elabProductName" : "Pasta Gigi Fresh Mint 100g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "100 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-42082-front-prodcat.jpg?version=1761060112"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Fresh Mint 100g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp27.500",
+         "priceType" : "BUY",
+         "value" : 27500.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionFirstTag" : "–35%",
+      "promotionFirstTagEndDate" : "2026-11-22 23:59:00",
+      "promotionFirstTagStartDate" : "2026-11-02 00:00:00",
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "4.966666666666667",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 22,
+      "shortDescription" : "Pasta Gigi Fresh Mint 100g",
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "strikeThroughPrice" : 42400.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+            "label" : "–35%"
+         },
+         "title" : "LESS 35%"
+      },
+      "url" : "/sensodyne-pasta-gigi-fresh-mint-100g/p/BP_42082",
+      "volumePricesFlag" : false
+   }, {
+      "averageRating" : 5.0,
+      "canBuyByOriginPrice" : false,
+      "categoryNameLevels" : [ {
+         "code" : "020000",
+         "level" : 1,
+         "name" : "Perawatan Tubuh"
+      }, {
+         "code" : "020500",
+         "level" : 2,
+         "name" : "Kesehatan Mulut"
+      }, {
+         "code" : "020504",
+         "level" : 3,
+         "name" : "Pasta Gigi"
+      } ],
+      "code" : "BP_49435",
+      "defaultVariantCode" : "49435",
+      "ean" : "4800318407739",
+      "elabBetterPackaging" : "Kertas berkelanjutan",
+      "elabCleanBeauty" : false,
+      "elabColorVariantProductData" : [ ],
+      "elabExclusiveBrand" : "Normal",
+      "elabHalal" : false,
+      "elabIsAdultOnly" : false,
+      "elabIsDonate" : false,
+      "elabIsForMembershipApplication" : false,
+      "elabIsOrganic" : false,
+      "elabIsOutlet" : false,
+      "elabIsPointRedemption" : false,
+      "elabIsPoison2" : false,
+      "elabIsSCProduct" : false,
+      "elabIsSDD" : false,
+      "elabIsStoreOnly" : false,
+      "elabIsStorePickupAllowed" : false,
+      "elabIsVirtualProduct" : false,
+      "elabMarkDownPrice" : {
+         "currencyIso" : "IDR",
+         "discountAmount" : 14900.0,
+         "discountAmountFormattedValue" : "Rp14.900",
+         "discountRate" : 35,
+         "formattedValue" : "Rp27.500",
+         "priceType" : "BUY",
+         "value" : 27500.0
+      },
+      "elabMaxOrderQuantity" : 15,
+      "elabOldPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp42.400",
+         "priceType" : "BUY",
+         "value" : 42400.0
+      },
+      "elabPackItem" : false,
+      "elabPreOrderProduct" : false,
+      "elabPrescription" : false,
+      "elabPrice" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp42.400",
+         "priceType" : "BUY",
+         "value" : 42400.0
+      },
+      "elabProductName" : "Pasta Gigi Cool Gel 100g",
+      "elabRefillPack" : false,
+      "elabSubscribable" : false,
+      "elabTprPriceFlag" : false,
+      "elabVariantProductContentSizeUnits" : [ "100 GR" ],
+      "elabVariantType" : "GenericVariant",
+      "elabWineRating" : {
+      },
+      "firstReceivedFlag" : false,
+      "giftWrappable" : false,
+      "gtmCategoryPath" : "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly" : false,
+      "homeExpressEligible" : false,
+      "images" : [ {
+         "url" : "https://medias.watsons.co.id/publishing/WTCID-49435-front-prodcat.jpg?version=1761060700"
+      } ],
+      "isEstampProduct" : false,
+      "isFreeGift" : false,
+      "isLoyaltyCardProduct" : false,
+      "isLoyaltyProduct" : false,
+      "isMultiDimension" : false,
+      "isSFLockerNotAllowed" : false,
+      "isSiteSurveyFlag" : false,
+      "isStockLoaded" : false,
+      "isVirtualBundle" : false,
+      "masterBrand" : {
+         "abrand" : false,
+         "brandUrl" : "/all-brands/b/SENSODYNE/sensodyne",
+         "code" : "SENSODYNE",
+         "isFeatured" : false,
+         "name" : "SENSODYNE",
+         "smallLogo" : {
+            "url" : "/medias/Logo-Banner-Landing-Page-Brand-415-x-300-SENSODYNE.jpg?context=bWFzdGVyfHJvb3R8MTM3NjJ8aW1hZ2UvanBlZ3xhREU1TDJnd01DOHhNekE0TnpVNU16a3lNalU1TUM5TWIyZHZMVUpoYm01bGNpMU1ZVzVrYVc1bkxWQmhaMlV0UW5KaGJtUXRMUzAwTVRVdGVDMHpNREF0VTBWT1UwOUVXVTVGTG1wd1p3fGY4YmMxMzM5NDU1OWI5NzU4MmY3ZjIyYjJiNDRjYTZkMzczMTQwNWRhZmEyZDE0OGNmNWY1OWEzMWM5YWU3MDI"
+         }
+      },
+      "maxOrderQuantity" : 15,
+      "name" : "Pasta Gigi Cool Gel 100g",
+      "pharmacy" : false,
+      "pickupExpressEligible" : false,
+      "potentialLoyaltyPoints" : 0,
+      "preOrder" : false,
+      "price" : {
+         "currencyIso" : "IDR",
+         "formattedValue" : "Rp27.500",
+         "priceType" : "BUY",
+         "value" : 27500.0
+      },
+      "priceRange" : {
+      },
+      "productLoyaltyPoints" : 0,
+      "promotionFirstTag" : "–35%",
+      "promotionFirstTagEndDate" : "2026-11-22 23:59:00",
+      "promotionFirstTagStartDate" : "2026-11-02 00:00:00",
+      "promotionTags" : [ ],
+      "purchasable" : false,
+      "reviewAvgRating" : "5.0",
+      "selectedStoreOnly" : false,
+      "sellQuantity" : 4,
+      "shortDescription" : "Pasta Gigi Cool Gel 100g",
+      "stock" : {
+         "stockLevel" : 0,
+         "stockLevelStatus" : "outOfStock"
+      },
+      "strikeThroughPrice" : 42400.0,
+      "topPromotion" : {
+         "badge" : {
+            "image" : {
+            }
+         },
+         "isEliteMemberPromotionFlag" : false,
+         "isEstampPromotionFlag" : false,
+         "isFlashSalePromotionFlag" : false,
+         "isMemberPromotionFlag" : false,
+         "tag" : {
+            "label" : "–35%"
+         },
+         "title" : "LESS 35%"
+      },
+      "url" : "/sensodyne-pasta-gigi-cool-gel-100g/p/BP_49435",
+      "volumePricesFlag" : false
+   } ],
+   "sorts" : [ {
+      "code" : "mostRelevant",
+      "name" : "Most Relevant",
+      "selected" : false
+   }, {
+      "code" : "topRated",
+      "name" : "Top Rated",
+      "selected" : false
+   }, {
+      "code" : "new",
+      "name" : "New",
+      "selected" : false
+   }, {
+      "code" : "bestSeller",
+      "name" : "Best Seller",
+      "selected" : true
+   }, {
+      "code" : "price-asc",
+      "name" : "Price Low to High",
+      "selected" : false
+   }, {
+      "code" : "price-desc",
+      "name" : "Price High to Low",
+      "selected" : false
+   }, {
+      "code" : "brand",
+      "name" : "Brand name",
+      "selected" : false
+   }, {
+      "code" : "redemptionPoints-asc",
+      "name" : "Points Low to High",
+      "selected" : false
+   }, {
+      "code" : "redemptionPoints-desc",
+      "name" : "Points High to Low",
+      "selected" : false
+   }, {
+      "code" : "flashSaleQuota",
+      "selected" : false
+   } ],
+   "spellCheckList" : [ ],
+   "suggestions" : [ ]
+}

@@ -1,0 +1,10 @@
+{
+  "status": "passed",
+  "offline": true,
+  "method": "Fresh minimal tree copied from portable stage; restored legacy input from byte parts, rebuilt portable master using packaged source datasets and stdlib scripts",
+  "written_records": 314476,
+  "all_16_shard_byte_sizes_and_sha256_match": true,
+  "source_hashes_and_counts_match": true,
+  "restore_stdout": "Restored exact bytes: research/2026-11-03/scale_pipeline/clean/export/records.jsonl.gz",
+  "build_stdout": "{\"written_records\": 314476, \"platforms\": {\"amazon_external_context\": 286706, \"lazada\": 681, \"oresa\": 2228, \"reddit\": 389, \"tryandreview\": 1423, \"watsons\": 7419, \"x\": 12995, \"tiktok\": 2372, \"tokopedia\": 263}, \"shards\": 16, \"max_shard_bytes\": 4895639, \"exact_text_groups\": 4411, \"cross_platform_groups\": 46}"
+}

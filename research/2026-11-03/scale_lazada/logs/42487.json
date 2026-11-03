@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "product_code": "42487",
+    "product_name": "Pencegah Gigi Berlubang - Pasta Gigi Pepsodent 190g",
+    "unique_review_ids": 647,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 647,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-42487-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/42487/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:51:59.061598+00:00",
+      "product_code": "42487",
+      "product_name": "Pencegah Gigi Berlubang - Pasta Gigi Pepsodent 190g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/42487_p0_s500.json",
+      "sha256": "c4bba5fb194373345a498834a44c5ccfac5251f0d8d9cac7e003b61be5dfbef6",
+      "bytes": 312215,
+      "pagination": {
+        "count": 500,
+        "hasNext": true,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 647,
+        "totalPages": 2
+      },
+      "rows": 500
+    },
+    {
+      "source_id": "WATREV-42487-P1-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/42487/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=1&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:07.703285+00:00",
+      "product_code": "42487",
+      "product_name": "Pencegah Gigi Berlubang - Pasta Gigi Pepsodent 190g",
+      "page_requested": 1,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/42487_p1_s500.json",
+      "sha256": "579165d4b9e4b365f22933fc21e5d65ccc8901b04e8de4bfb5887d8b65f8d0c8",
+      "bytes": 77412,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": true,
+        "page": 1,
+        "totalCount": 647,
+        "totalPages": 2
+      },
+      "rows": 147
+    }
+  ]
+}

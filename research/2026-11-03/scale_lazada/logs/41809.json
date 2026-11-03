@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "41809",
+    "product_name": "Pepsodent Pasta Gigi SensitivExpert Complete Care 100g",
+    "unique_review_ids": 246,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 246,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-41809-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/41809/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:51:48.048016+00:00",
+      "product_code": "41809",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Complete Care 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/41809_p0_s500.json",
+      "sha256": "02ff4a9addddffd14f720322f61006effce1828b63c1bdc5f9321a7e066a6dcd",
+      "bytes": 99237,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 246,
+        "totalPages": 1
+      },
+      "rows": 246
+    }
+  ]
+}

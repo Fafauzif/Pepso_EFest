@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "73917",
+    "product_name": "Pasta Gigi Optic White Exfoliating 100g",
+    "unique_review_ids": 255,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 255,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-73917-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/73917/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:55:37.077475+00:00",
+      "product_code": "73917",
+      "product_name": "Pasta Gigi Optic White Exfoliating 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/73917_p0_s500.json",
+      "sha256": "413f9ebe78aa6764b207ebf33a896adb90ff543d02d882e5829ebac9a7c5261a",
+      "bytes": 76621,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 255,
+        "totalPages": 1
+      },
+      "rows": 255
+    }
+  ]
+}

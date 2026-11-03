@@ -1,0 +1,78 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 4,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 4
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Rizky Ayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Lumayan bgt promo buy 1 get 1 nighh ",
+      "date" : "2026-09-28T17:21:10+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-74893-WTCID21307295",
+      "id" : "9109938667569",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi yang sangat cocok untuk penderita gigi sensitif \n",
+      "date" : "2026-08-30T10:06:15+0000",
+      "headline" : "review-74893-WTCID21313038",
+      "id" : "9098894934065",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Resty Waode",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Good services, fastest delivery, overall good yeayy",
+      "date" : "2026-07-15T05:50:00+0000",
+      "headline" : "review-74893-WTCID20335501",
+      "id" : "9069048725553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Cocok untuk gusi yang sering sakit sekaligus mengurangi plak",
+      "date" : "2026-04-30T04:57:35+0000",
+      "headline" : "review-74893-WTCID19328162",
+      "id" : "9032611528753",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/74893/9032611528753/WTCID19328162_74893_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/74893/9032611528753/WTCID19328162_74893_1.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

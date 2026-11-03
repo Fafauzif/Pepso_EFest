@@ -1,0 +1,165 @@
+{
+  "method": "Deterministic uniform sample of20from12990unique exportedX records; seed1729. Independent second-agent semantic examination, not a human or blinded ground truth. Broad lexical oralcare candidate status is not consumer eligibility.",
+  "rows": [
+    {
+      "sample_n": 1,
+      "source_record_id": "1951187165456769094",
+      "text_original": "Dukung semangat para juara dengan promo spesial di Alfamidi! ⚽✨\n\nBeli produk personal care favoritmu seperti Lifebuoy, Rexona, Pepsodent, atau Close Up, dan dapatkan hadiah keren hanya dengan tebus Rp5.000. https://t.co/3nJBIUEpL8",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "retailer_promotion",
+      "interpretation_and_limits": "Campaign advertising, not own purchase history."
+    },
+    {
+      "sample_n": 2,
+      "source_record_id": "1517131246857748480",
+      "text_original": "BJ haloo guys yuk jaga kesehatan gigi kalian! theramed ini pasta gigi yang bisa memutihkan gigi dalam 10 hari & juga menghilangkan karang/plak gigi hingga bau mulut loh! original 100% firsthand import dari UK. FREE ONGKIR SYOPI MIN.30RB",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "seller_advertising",
+      "interpretation_and_limits": "Product claims and shipping offer; not independent experience."
+    },
+    {
+      "sample_n": 3,
+      "source_record_id": "1773297732079276422",
+      "text_original": "Mimin masih konsisten bagiin 500rb rupiah buat Kawula Muda! 🤑\n\nTinggal jawab pertanyaan ini:\nBarang apa yang lupa dibawa Ale?\nA. Close Up Menthol Fresh\nB. Sikat gigi\n\nLangsung jawab di https://t.co/ybR0OzciUn yaa! Buruaaan jawab sekarang~\n\n#TheStories4\n#TheStories https://t.co/pqj8fHkXnr",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "giveaway_promotion",
+      "interpretation_and_limits": "Engagement/giveaway prompt, not consumer report."
+    },
+    {
+      "sample_n": 4,
+      "source_record_id": "1833396983014560241",
+      "text_original": "@DentisteTh telah mendistribusikan pasta gigi untuk anak-anak, lebih dari 900.000 tabung pasta gigi distribusikan ke banyak sekolah dan organisasi lain di Thailand\n\nc/o ttluvlisa\nLISA NEW DENTISTE AD\n#DentistexPowerofLisaConfidentSmile https://t.co/L6M6qCgQQA",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "brand_fandom_news",
+      "interpretation_and_limits": "Thailand campaign/distribution news; not Indonesia purchasing."
+    },
+    {
+      "sample_n": 5,
+      "source_record_id": "1804200229077737472",
+      "text_original": "gue udah bisa jadi model iklan pasta gigi karena gue nyengir mulu, jadi nih gigi udah siap digosok\n\n#MyLoveMixUpTHep3",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "figurative_smile",
+      "interpretation_and_limits": "Joke about becoming a toothpaste model; no product experience."
+    },
+    {
+      "sample_n": 6,
+      "source_record_id": "1603544568389304320",
+      "text_original": "@convomfs 3-2-1-4 \n\n1. Sikat gigi dulu buat pemanasan biar gk dingin \n2. Keramas \n3. Pakai sabun. Knp baru pakai sabun krn biar bisa sekalian bersihin sisa pasta gigi, shampo, dan conditioner krn residu dri shampo/conditioner bisa menyebabkan timbulnya jerawat\n4. Cuci muka",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "hygiene_routine",
+      "interpretation_and_limits": "General grooming order; no brand replacement history."
+    },
+    {
+      "sample_n": 7,
+      "source_record_id": "1961207921804808538",
+      "text_original": "Ambil travel Bandung dr Cikini jam 5 pagi, sampe jam segini belum berhasil keluar Jakarta. Di Otista dibuang ke gang kecil. Tiba-tiba ada teriakan warga nyuruh puter balik semua. Pagi-pagi anak sekolah pada olesin pasta gigi di bawah matanya 💔\nPanjang umur perjuangan 🥀 https://t.co/TStRNTNVsg",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "nonoral_use_news",
+      "interpretation_and_limits": "Toothpaste under eyes during protest context, not oralcare consumption."
+    },
+    {
+      "sample_n": 8,
+      "source_record_id": "1530429480220491776",
+      "text_original": "@starfess Good Boy Gone Bad, HOT, Lonely Boy, ASH, Thusday's Child Has Far Too Go, Shadow, Trust Fun Baby, DON QUIXOTE, Domino, March, 'bout you, IF you leave me alone, Darl+ing 🙂",
+      "rule_relevance_status": "unresolved_other",
+      "secondary_type": "off_topic_music",
+      "interpretation_and_limits": "Song list; category match absent."
+    },
+    {
+      "sample_n": 9,
+      "source_record_id": "1613159206227697665",
+      "text_original": "Nah, makanya buat Clickies yang pengen giginya terhindar dari gigi berlubang bisa pake ClickBlackberry Mint!💚✨\nKandungan yang ada di dalam pasta gigi kesukaan Taeyong ini bisa bikin gigi putih & mencegah gigi berlubang🦷\nBanyak kan manfaatnya kalo pake Click?\n#FeeltheDifference https://t.co/90JrtpkzIa",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "brand_promotion",
+      "interpretation_and_limits": "Brand benefit claims; no independent personal use established."
+    },
+    {
+      "sample_n": 10,
+      "source_record_id": "1714339500820926564",
+      "text_original": "gigi putih bersih berkat pepsodent 👍🏻",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "benefit_claim_uncertain",
+      "interpretation_and_limits": "Short Pepsodent benefit statement; first-person use, tier and independence not established."
+    },
+    {
+      "sample_n": 11,
+      "source_record_id": "1843878571292668320",
+      "text_original": "Prime Day Deal!!\n\nColgate Optic White ComfortFit Teeth Whitening Kit with LED Light for $31.34, reg $50!\n\nBuy via Amazon --&gt; https://t.co/GdbI74xR36",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "commercial_adjacent_whitening_kit",
+      "interpretation_and_limits": "US Amazon deal for LED whitening kit, not Indonesian toothpaste use."
+    },
+    {
+      "sample_n": 12,
+      "source_record_id": "1755066102088937786",
+      "text_original": "4 pack of Colgate Max Whitening Toothpaste $6.89 w/coupon\nhttps://t.co/Mw3GlZj5nE\n\n14pk Dove Soap $10\nhttps://t.co/uK01RgTko8\n\n2 Fast iPhone Chargers $9.99 80% off\nUSB C https://t.co/YIYgyVq394\niPhone 14/13 https://t.co/xuYZ4XCmKl https://t.co/Tz06j2UBgZ",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "commercial_deal_post",
+      "interpretation_and_limits": "US coupon roundup; not purchase testimony."
+    },
+    {
+      "sample_n": 13,
+      "source_record_id": "1707305395268816992",
+      "text_original": "@yearendsale_ @ohmybeautybank Plus cuci nya harus bener2 bersih. Krn pasta gigi yg busa nya banyak itu mengandung detergen setau ku. Makanya sering bikin pinggiran bibir kering dan bisa jd penyebab bibir pecah² juga (selain kurang minum ya). Krn dulu bibir ku sering pecah² padahal ga lagi panas dalam..",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "first_person_adverse_report_with_belief",
+      "interpretation_and_limits": "Personal lip-dryness report plus unverified detergent explanation; clinical causality not established."
+    },
+    {
+      "sample_n": 14,
+      "source_record_id": "1636217888519651329",
+      "text_original": "Bareskrim Polri siap membantu Kepolisian Malaysia untuk mengungkap pengirim pasta gigi ganja ke Perdana Menteri Malaysia Anwar Ibrahim. https://t.co/1vdenFiZLx",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "news_story",
+      "interpretation_and_limits": "Cannabis toothpaste news; irrelevant to replenishment."
+    },
+    {
+      "sample_n": 15,
+      "source_record_id": "1596171860554633216",
+      "text_original": "/pamer DTBOLA beli pepsodent aja, mau beli sunlight kayak cairan dkk gitu ongkirnya mahal bet so beli yg ringan² aja. https://t.co/AtKTKoa6Np",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "purchase_shipping_constraint",
+      "interpretation_and_limits": "Says buying Pepsodent and avoiding heavier shipping; no variant/age or Premium-to-Basic transition."
+    },
+    {
+      "sample_n": 16,
+      "source_record_id": "2023827178279064053",
+      "text_original": "@AMVergaraG @petrogustavo Pero si apoyas las politicas de la bestia naranja. Eso te pasa por creete blanca, eres latina, ni asi uses Colgate Whitening seras blanca.",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "figurative_nonindonesia",
+      "interpretation_and_limits": "Racial/political figurative whitening remark, not product outcome."
+    },
+    {
+      "sample_n": 17,
+      "source_record_id": "1864279080482549937",
+      "text_original": "[Yang masih nempel, jangan lupa dipake]\n\n*Diskon 30% s/d 30RB, Minbel 100rb\n*Khusus Produk kecantikan\n*Hanya berlaku sampai 20:00\n-------\n📌Rekomendasi toko beauty cek disini:\nhttps://t.co/KQwItmOBVc\n-------\n📌Toko tissue\nZisel store\nhttps://t.co/AwcqwAUawo\nPetpedia\nhttps://t.co/WE7HDH5giH\n--------\n📌Toko Pembalut\nCharm\nhttps://t.co/7UfUK4k41J\nlaurier\nhttps://t.co/n3LArvwpb4\nProtex\nhttps://t.co/UQoszJTk1R\n-------\n📌Tambahan toko beauty\nSomethinc\nhttps://t.co/tRbrmk9B0j\nAzarine\nhttps://t.co/WyeOqOoTf2\nWings Official (body wash/pasta gigi/sikat gigi)\nhttps://t.co/UQoszJTk1R\nKao\nhttps://t.co/n3LArvwpb4\nAneka skincare/kosmetik\nhttps://t.co/RCZxaNBL6b\nHangvalen (toko skincare/makeup)\nhttps://t.co/bDKdTKB9pR\nEvangeline\nhttps://t.co/T03xwXjeU9",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "commercial_store_links",
+      "interpretation_and_limits": "Shopping promotion and links; not own product history."
+    },
+    {
+      "sample_n": 18,
+      "source_record_id": "1832022189148971132",
+      "text_original": "Tutorial Shopee Tanam Flash Sale\n\nTanam bibit khusus di jam berikut:\n• 09.00, produk rumah tangga (sabun, pasta gigi, dll)\n• 10.00, perlengkapan rumah (set pisau, hair dryer, dll)\n• 11.00, elektronik (hp, tv, kulkas, dll)\n\nCek hadiah dan tanam di sini:\nhttps://t.co/RfpAVS3Rm1",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "commercial_game_links",
+      "interpretation_and_limits": "Shopee game advice and shortlink; no purchase experience."
+    },
+    {
+      "sample_n": 19,
+      "source_record_id": "1482622219776049156",
+      "text_original": "@ShafiraMade @txtdarigajelas Aku pernah keduanya... mau sikat gigi malah ambil FW, pait2kan... ngomel-ngomel sambil istighfar kan, trus ganti ambil pasta gigi, pencet di tangan dan... ngomel2 dan istighfar lagi, keluar dari kamar mandi ga jadi ngapa-ngapain sambil muka sempriwing 😭😭",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "routine_mixup_anecdote",
+      "interpretation_and_limits": "Confuses face wash/toothpaste; no brand choice or switching evidence."
+    },
+    {
+      "sample_n": 20,
+      "source_record_id": "1917521702181036048",
+      "text_original": "Emang kerasa beda kok setelah pake zact lebih cerah ketimbang pasta gigi lain, mana lebih murah dari merk yang lagi aku boikot. https://t.co/QsIcIWS4yQ\n\nApalagi kalo beli bundling👇",
+      "rule_relevance_status": "oralcare_candidate_not_individually_verified",
+      "secondary_type": "experience_claim_commercial_cue",
+      "interpretation_and_limits": "Claims Zact perceived benefit/value and adds bundling prompt; incentives/independence unknown."
+    }
+  ]
+}

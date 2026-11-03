@@ -1,0 +1,65 @@
+{
+  "baseline_coverage": {
+    "old_members": 1949,
+    "counts": {
+      "updated": 11,
+      "identical": 1933,
+      "lossless_parts": 5
+    },
+    "changed_paths": [
+      ".gitattributes",
+      ".gitignore",
+      "AGENTS.md",
+      "CHANGELOG.md",
+      "README.md",
+      "context/CONTEXT_LATEST.md",
+      "context/CURRENT_STATE.md",
+      "docs/source_register.json",
+      "research/2026-11-03/synthesis/DATA_INVENTORY.json",
+      "research/2026-11-03/synthesis/VALIDATION.md",
+      "MANIFEST.sha256"
+    ],
+    "issues": [],
+    "lossless_parts": [
+      {
+        "path": "research/2026-11-03/scale_amazon/health_household/clean/reviews.jsonl.gz",
+        "parts": 2,
+        "reconstructed_bytes": 50103532,
+        "matches_old_zip_exactly": true
+      },
+      {
+        "path": "research/2026-11-03/scale_amazon/health_household/clean/reviews_classified.jsonl.gz",
+        "parts": 2,
+        "reconstructed_bytes": 52815162,
+        "matches_old_zip_exactly": true
+      },
+      {
+        "path": "research/2026-11-03/scale_pipeline/clean/export/observations.jsonl.gz",
+        "parts": 3,
+        "reconstructed_bytes": 85710074,
+        "matches_old_zip_exactly": true
+      },
+      {
+        "path": "research/2026-11-03/scale_pipeline/clean/export/records.csv.gz",
+        "parts": 2,
+        "reconstructed_bytes": 63633349,
+        "matches_old_zip_exactly": true
+      },
+      {
+        "path": "research/2026-11-03/scale_pipeline/clean/export/records.jsonl.gz",
+        "parts": 3,
+        "reconstructed_bytes": 67676612,
+        "matches_old_zip_exactly": true
+      }
+    ]
+  },
+  "files": {
+    "count": 2121,
+    "bytes": 743464397,
+    "max_bytes": 37488217,
+    "at_or_above_100MiB": [],
+    "above_45MiB": [],
+    "unwanted_work_or_git": [],
+    "unsafe_windows_names": []
+  }
+}

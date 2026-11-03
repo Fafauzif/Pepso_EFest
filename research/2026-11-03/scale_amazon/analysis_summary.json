@@ -1,0 +1,62 @@
+{
+  "candidate_observations": 289584,
+  "unique_candidate_identities": 286904,
+  "duplicate_observations": 2680,
+  "unique_scope_counts": {
+    "adult_human_toothpaste_title_candidate": 197002,
+    "adjacent_powder_or_alternative": 35954,
+    "accessory_or_container": 20959,
+    "pet_or_nonhuman": 341,
+    "brand_matched_type_unresolved": 1929,
+    "child_or_infant": 30719
+  },
+  "adult_title_candidate_written_reviews": 196872,
+  "exploratory_literal_cue_counts": {
+    "pack_language": 25900,
+    "sensory_language": 66033,
+    "need_result_language": 41750,
+    "price_value_language": 20557,
+    "repeat_language": 3347,
+    "household_language": 9319
+  },
+  "ratings_for_adult_title_candidate_written": {
+    "5.0": 134021,
+    "4.0": 21784,
+    "1.0": 20633,
+    "3.0": 12230,
+    "2.0": 8204
+  },
+  "years_for_adult_title_candidate_written": {
+    "2001": 1,
+    "2003": 4,
+    "2004": 21,
+    "2005": 30,
+    "2006": 29,
+    "2007": 70,
+    "2008": 95,
+    "2009": 183,
+    "2010": 389,
+    "2011": 624,
+    "2012": 952,
+    "2013": 3526,
+    "2014": 5338,
+    "2015": 10587,
+    "2016": 12714,
+    "2017": 18329,
+    "2018": 20904,
+    "2019": 26859,
+    "2020": 30832,
+    "2021": 26526,
+    "2022": 25459,
+    "2023": 13400
+  },
+  "patterns": {
+    "sensory_language": "\\b(taste|flavou?r|mint|foam|burn|aftertaste|fresh)\\w*\\b",
+    "price_value_language": "\\b(expensive|price|worth|cost|cheap)\\w*\\b",
+    "pack_language": "\\b(tubes?|caps?|size|small|large|pack)\\w*\\b",
+    "repeat_language": "\\b(repurchase|buy again|bought again|reorder|repeat)\\w*\\b",
+    "household_language": "\\b(husband|wife|family|daughter|son|mom|mother|dad|father|parents)\\b",
+    "need_result_language": "\\b(whiten|sensitive|sensitivity|pain|results)\\w*\\b"
+  },
+  "interpretation": "English lexical retrieval aids, NOT validated themes, effect sizes, sentiment or Indonesian switching prevalence; no manually read global corpus claimed"
+}

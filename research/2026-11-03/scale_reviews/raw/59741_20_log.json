@@ -1,0 +1,15 @@
+{
+  "source_id": "TARFULL-59741-p20",
+  "url": "https://www.tryandreview.com/id/reviews/59741?page=20",
+  "status": "success",
+  "page": 20,
+  "product_id": "59741",
+  "product_name": "Pepsodent Pasta Gigi Pencegah Gigi Berlubang",
+  "retrieved_at_utc": "2026-11-03T10:49:01.218895+00:00",
+  "baseline_cache_reused": false,
+  "raw_file": "raw/tar_59741_p20.html",
+  "bytes": 38719,
+  "sha256": "4f5582717b7490ff4eb32d7db32a004b2d4904fc1bbc841488e7484ba64a1ec0",
+  "rows": 5,
+  "next_page_displayed": []
+}

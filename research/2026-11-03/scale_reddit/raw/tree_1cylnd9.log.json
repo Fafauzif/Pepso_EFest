@@ -1,0 +1,15 @@
+{
+  "query_id": "tree_1cylnd9",
+  "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1cylnd9&limit=1000&start_breadth=100&start_depth=30",
+  "collected_at": "2026-11-03T10:51:48.454654+00:00",
+  "params": {
+    "link_id": "1cylnd9",
+    "limit": 1000,
+    "start_breadth": 100,
+    "start_depth": 30
+  },
+  "status": 200,
+  "bytes": 196277,
+  "outcome": "retrieved",
+  "sha256": "2390d85485f712d495b51b5fe4940a6c01fca85b3a4cf1cbc2fd49c2f0f27dfa"
+}

@@ -1,0 +1,127 @@
+{
+  "title": "Shopee Reviews Scraper input",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "startUrls": {
+      "title": "Shopee shop or product links",
+      "type": "array",
+      "editor": "stringList",
+      "items": {
+        "type": "string"
+      },
+      "prefill": [
+        "https://shopee.sg/shop/64922680"
+      ],
+      "sectionCaption": "What to scrape",
+      "description": "Shop links (https://shopee.sg/shop/64922680 or https://shopee.sg/<shop-username>) or product links (https://shopee.sg/product/<shop>/<item> or any ...-i.<shop>.<item> link), from any of the 8 countries. A shop returns its newest reviews across all products; a product returns only its own reviews (read from its shop's reviews, see 'Max reviews'). Also accepts 'urls', 'productUrls', 'shopUrls' and 'url'."
+    },
+    "shopIds": {
+      "title": "Shops by id or username",
+      "type": "array",
+      "editor": "stringList",
+      "items": {
+        "type": "string"
+      },
+      "description": "Numeric shop ids (64922680) or shop usernames (ugreen.sg). Uses the Country below. Also accepts 'shops'."
+    },
+    "country": {
+      "title": "Country",
+      "type": "string",
+      "editor": "select",
+      "default": "SG",
+      "enum": [
+        "SG",
+        "BR",
+        "ID",
+        "MY",
+        "TH",
+        "PH",
+        "VN",
+        "TW"
+      ],
+      "enumTitles": [
+        "Singapore (shopee.sg)",
+        "Brazil (shopee.com.br)",
+        "Indonesia (shopee.co.id)",
+        "Malaysia (shopee.com.my)",
+        "Thailand (shopee.co.th)",
+        "Philippines (shopee.ph)",
+        "Vietnam (shopee.vn)",
+        "Taiwan (shopee.tw)"
+      ],
+      "description": "Shopee country for shop ids and usernames. Links always use the country of their own domain."
+    },
+    "maxReviews": {
+      "title": "Max reviews per shop or product",
+      "type": "integer",
+      "editor": "number",
+      "default": 100,
+      "prefill": 100,
+      "minimum": 1,
+      "maximum": 5000,
+      "sectionCaption": "Limits and filters",
+      "description": "Reviews delivered per input, newest first. The most you can get from one shop is 5,000. For a product, the Actor reads its shop's reviews (up to that same limit) and keeps the ones of that product: a product of a very large shop may have fewer reviews in reach."
+    },
+    "minRating": {
+      "title": "Min stars",
+      "type": "integer",
+      "editor": "number",
+      "minimum": 1,
+      "maximum": 5,
+      "default": 1,
+      "description": "Only reviews with at least this many stars (1 to 5). Set min 1 and max 2 to get only complaints."
+    },
+    "maxRating": {
+      "title": "Max stars",
+      "type": "integer",
+      "editor": "number",
+      "minimum": 1,
+      "maximum": 5,
+      "default": 5,
+      "description": "Only reviews with at most this many stars (1 to 5). Filtering by stars reaches further back in time."
+    },
+    "onlyWithComment": {
+      "title": "Only reviews with a written comment",
+      "type": "boolean",
+      "editor": "checkbox",
+      "default": false,
+      "description": "Skip star-only reviews. Skipped reviews are not charged."
+    },
+    "onlyWithMedia": {
+      "title": "Only reviews with photos or videos",
+      "type": "boolean",
+      "editor": "checkbox",
+      "default": false,
+      "description": "Keep only reviews where the buyer attached at least one photo or video. The output has the counts, not the files."
+    },
+    "newerThan": {
+      "title": "Only reviews newer than",
+      "type": "string",
+      "editor": "textfield",
+      "description": "A date (2026-09-01) or a period (30 days, 2 weeks, 6 months). Reading stops at the first older review, so a daily or weekly schedule only pays for what is new."
+    },
+    "includeShopSummary": {
+      "title": "Add a shop summary row",
+      "type": "boolean",
+      "editor": "checkbox",
+      "default": false,
+      "sectionCaption": "Extra data (optional)",
+      "description": "Adds one free row (type 'shop') per shop: name, username, link, shop rating, total reviews split into good / normal / bad, followers, products, response rate, official badge and join date."
+    },
+    "proxyConfiguration": {
+      "title": "Proxy",
+      "type": "object",
+      "editor": "proxy",
+      "default": {
+        "useApifyProxy": true
+      },
+      "prefill": {
+        "useApifyProxy": true
+      },
+      "sectionCaption": "Advanced",
+      "description": "Apify Proxy by default."
+    }
+  },
+  "required": []
+}

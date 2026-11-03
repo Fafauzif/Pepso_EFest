@@ -1,0 +1,135 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 10,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.70",
+      "rating1Count" : 0,
+      "rating2Count" : 1,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 9
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "b",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Membuat gigiku putih cemerlang. Tidak pedas di mulut.",
+      "date" : "2026-07-02T12:03:14+0000",
+      "headline" : "review-38496-WTCID16556017",
+      "id" : "9059853631537",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Luvy Destyanti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-18T00:35:49+0000",
+      "headline" : "review-38496-WTCID19164598",
+      "id" : "9028313940017",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "ANDY CHANDRA",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-05T13:37:30+0000",
+      "headline" : "review-38496-WTCID17288076",
+      "id" : "9027138453553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Titi Fani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-01-19T01:54:28+0000",
+      "headline" : "review-undefined-WTCID18503516",
+      "id" : "9012026933297",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Widiana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-07-24T18:41:06+0000",
+      "headline" : "review-38496-WTCID16494129",
+      "id" : "8992434257969",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Difa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-06-30T16:48:25+0000",
+      "headline" : "review-38496-WTCID16880325",
+      "id" : "8990436261937",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Muhammad Difa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-01-30T00:06:07+0000",
+      "headline" : "review-38496-WTCID16215240",
+      "id" : "8973133185073",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Febri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-09-21T02:38:56+0000",
+      "headline" : "review-38496-WTCID14332199",
+      "id" : "8958627774513",
+      "like" : 0,
+      "rating" : 2.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Gagan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-03-14T05:25:04+0000",
+      "headline" : "review-38496-WTCID14304431",
+      "id" : "8930896511025",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Gagan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-03-14T05:25:00+0000",
+      "headline" : "review-38496-WTCID14339003",
+      "id" : "8930896478257",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

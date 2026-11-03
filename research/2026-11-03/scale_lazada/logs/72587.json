@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "72587",
+    "product_name": "Colgate Triple Action Toothpaste 180g - Pasta Gigi",
+    "unique_review_ids": 68,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 68,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-72587-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/72587/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:55:19.819221+00:00",
+      "product_code": "72587",
+      "product_name": "Colgate Triple Action Toothpaste 180g - Pasta Gigi",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/72587_p0_s500.json",
+      "sha256": "d04885da759a33f33b045fecf47912c6bfa9841043a2ed4d10f0e3d9cf9270c8",
+      "bytes": 20816,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 68,
+        "totalPages": 1
+      },
+      "rows": 68
+    }
+  ]
+}

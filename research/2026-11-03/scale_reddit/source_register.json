@@ -1,0 +1,114 @@
+[
+  {
+    "source_id": "ARCTIC_DOCS",
+    "url": "https://github.com/ArthurHeitmann/arctic_shift/blob/master/api/README.md",
+    "raw_file": "raw/arctic_docs.txt",
+    "read_level": "official documentation full text",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "PULLPUSH_DOCS",
+    "url": "https://pullpush.io/",
+    "access": "direct403;indexed documentation only",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_1414a8a",
+    "url": "https://www.reddit.com/r/indonesia/comments/1414a8a",
+    "raw_file": "raw/tree_1414a8a.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "dental",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_yaky59",
+    "url": "https://www.reddit.com/r/indonesia/comments/yaky59",
+    "raw_file": "raw/tree_yaky59.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "dental",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_1qdisen",
+    "url": "https://www.reddit.com/r/indonesia/comments/1qdisen",
+    "raw_file": "raw/tree_1qdisen.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "dental",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_1cylnd9",
+    "url": "https://www.reddit.com/r/indonesia/comments/1cylnd9",
+    "raw_file": "raw/tree_1cylnd9.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "mixed_context",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_1q6zrz6",
+    "url": "https://www.reddit.com/r/indonesia/comments/1q6zrz6",
+    "raw_file": "raw/tree_1q6zrz6.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "dental",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_pflmqa",
+    "url": "https://www.reddit.com/r/indonesia/comments/pflmqa",
+    "raw_file": "raw/tree_pflmqa.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "meme_context",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_1t5cxhe",
+    "url": "https://www.reddit.com/r/indonesia/comments/1t5cxhe",
+    "raw_file": "raw/tree_1t5cxhe.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "meme_context",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_1215fxx",
+    "url": "https://www.reddit.com/r/indonesia/comments/1215fxx",
+    "raw_file": "raw/tree_1215fxx.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "mixed_context",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_1k7l3ug",
+    "url": "https://www.reddit.com/r/indonesia/comments/1k7l3ug",
+    "raw_file": "raw/tree_1k7l3ug.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "dental",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_p61bms",
+    "url": "https://www.reddit.com/r/indonesia/comments/p61bms",
+    "raw_file": "raw/tree_p61bms.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "dental",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  },
+  {
+    "source_id": "REDDIT_1jntjak",
+    "url": "https://www.reddit.com/r/indonesia/comments/1jntjak",
+    "raw_file": "raw/tree_1jntjak.json",
+    "read_level": "archived structured comments tree",
+    "context_type": "dental",
+    "current_live_visibility": "not_rechecked",
+    "retrieved_date": "2026-11-03"
+  }
+]

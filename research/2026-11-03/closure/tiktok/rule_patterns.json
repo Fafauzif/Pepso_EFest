@@ -1,0 +1,10 @@
+{
+  "household_payer_candidate": "orang ?tua|ortu|orty|bonyok|dibeliin|keluarga|anak kos|dikosan|di kos|dirumah|di rumah|mama|mamah|suami|istri",
+  "switch_repeat_candidate": "ganti|beralih|balik|repeat|langganan|beli lagi|selalu pak|selalu pake|udah lama|sudah lama|habis.*beli|abis.*beli",
+  "price_promo_candidate": "mahal|murah|harga|pricey|diskon|promo|boros|hemat|[0-9]+\\s?(?:rb|ribu|k)\\b",
+  "sensory_candidate": "rasa|mint|segar|bersih|busa|kering|perih|asem|asam|pahit|pedas|pedes|enak|sensitif|ngilu|sariawan",
+  "experience_result_candidate": "aku pake|aku pakai|gue pake|gw pake|udah pake|sudah pakai|udah pakai|sudah pake|ga mempan|gamempan|gak mempan|ga ngaruh|gak ngaruh|ga ada perubahan|gak ada perubahan|gada perubahan|putih|kuning|cocok",
+  "availability_candidate": "indomaret|alfamart|watson|guardian|shopee|tokopedia|langka|langkah|susah.*(?:cari|beli)|ga ada dimana|gak ada dimana|gaada dimana|blm ada|belum ada",
+  "recommendation_question_candidate": "\\?|rekomen|rekomendasi|saran|yang mana|yg mana|bagus mana|gimana|bagaimana",
+  "explicit_offtopic_candidate": "parfum|sepatu|cysteamine|niacinamide|naicinamide|vitamin c|skincare|vaseline|ettics|tesavara|memoi?re|sunscreen"
+}

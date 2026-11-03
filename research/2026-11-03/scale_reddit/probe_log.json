@@ -1,0 +1,39 @@
+[
+  {
+    "probe_id": "arctic_posts",
+    "url": "https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=indonesia&query=odol&limit=5&sort=desc",
+    "retrieved_at": "2026-11-03T10:47:42.759131+00:00",
+    "success": false,
+    "error": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+    "probe_id": "arctic_comments",
+    "url": "https://arctic-shift.photon-reddit.com/api/comments/search?subreddit=indonesia&body=pepsodent&limit=5&sort=desc",
+    "retrieved_at": "2026-11-03T10:47:42.759970+00:00",
+    "success": false,
+    "error": "HTTP Error 422: Unprocessable Entity"
+  },
+  {
+    "probe_id": "pullpush_comments",
+    "url": "https://api.pullpush.io/reddit/search/comment/?subreddit=indonesia&q=pepsodent&size=5",
+    "retrieved_at": "2026-11-03T10:47:52.786849+00:00",
+    "success": false,
+    "error": "HTTP Error 522: Unknown"
+  },
+  {
+    "probe_id": "arctic_docs",
+    "url": "https://raw.githubusercontent.com/ArthurHeitmann/arctic_shift/master/api/README.md",
+    "retrieved_at": "2026-11-03T10:47:52.787834+00:00",
+    "status": 200,
+    "bytes": 27070,
+    "content_type": "text/plain; charset=utf-8",
+    "success": true
+  },
+  {
+    "probe_id": "pullpush_docs",
+    "url": "https://pullpush.io/",
+    "retrieved_at": "2026-11-03T10:47:58.818151+00:00",
+    "success": false,
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

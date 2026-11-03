@@ -4,3 +4,18 @@ __pycache__/
 .env.*
 .DS_Store
 Thumbs.db
+
+# Rebuildable scale-store workspace and rejected unrelated source datasets.
+research/2026-11-03/scale_pipeline/work/
+research/2026-11-03/scale_discovery/raw/74xrbd4vxy_Raw_Dataset.csv
+research/2026-11-03/scale_discovery/raw/574v66hf2v_PRDECT-ID_Dataset.csv
+
+# Exact legacy restores are optional local caches; portable parts are tracked.
+/research/2026-11-03/scale_amazon/health_household/clean/reviews.jsonl.gz
+/research/2026-11-03/scale_amazon/health_household/clean/reviews_classified.jsonl.gz
+/research/2026-11-03/scale_pipeline/clean/export/observations.jsonl.gz
+/research/2026-11-03/scale_pipeline/clean/export/records.csv.gz
+/research/2026-11-03/scale_pipeline/clean/export/records.jsonl.gz
+*.zip
+*.sqlite
+*.sqlite-*

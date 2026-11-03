@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "43701",
+    "product_name": "Pasta Gigi Complete 8 Whitening 180g",
+    "unique_review_ids": 18,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 18,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-43701-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/43701/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:07.289964+00:00",
+      "product_code": "43701",
+      "product_name": "Pasta Gigi Complete 8 Whitening 180g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/43701_p0_s500.json",
+      "sha256": "9136d082f89636a3e6f66ccad5565db3d21abf4d64f55e60c282bfea2cddb157",
+      "bytes": 7112,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 18,
+        "totalPages": 1
+      },
+      "rows": 18
+    }
+  ]
+}

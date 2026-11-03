@@ -1,0 +1,313 @@
+{
+  "written_records_all_retained_scopes": 314476,
+  "platforms": {
+    "amazon_external_context": 286706,
+    "lazada": 681,
+    "oresa": 2228,
+    "reddit": 389,
+    "tryandreview": 1423,
+    "watsons": 7419,
+    "x": 12995,
+    "tiktok": 2372,
+    "tokopedia": 263
+  },
+  "scopes": {
+    "non_Indonesia_historical_context": 286706,
+    "case_historical": 18744,
+    "current_context": 4380,
+    "outside_case": 290,
+    "unknown_date": 1721,
+    "case_2022_H1_2026": 1645,
+    "post_H1_2026_context": 476,
+    "pre_2022_context": 251,
+    "current_context_by_unverified_reviewDate": 99,
+    "case_historical_by_unverified_reviewDate": 152,
+    "outside_case_before_2022_by_unverified_reviewDate": 12
+  },
+  "calendar_period_jakarta_by_platform": {
+    "amazon_external_context": {
+      "pre_2022": 226772,
+      "case_2022_H1_2026": 59934
+    },
+    "lazada": {
+      "case_2022_H1_2026": 601,
+      "post_H1_2026": 44,
+      "pre_2022": 36
+    },
+    "oresa": {
+      "case_2022_H1_2026": 1619,
+      "unknown_date": 298,
+      "post_H1_2026": 311
+    },
+    "reddit": {
+      "pre_2022": 80,
+      "case_2022_H1_2026": 309
+    },
+    "tryandreview": {
+      "unknown_date": 1423
+    },
+    "watsons": {
+      "pre_2022": 174,
+      "case_2022_H1_2026": 3170,
+      "post_H1_2026": 4075
+    },
+    "x": {
+      "case_2022_H1_2026": 12995
+    },
+    "tiktok": {
+      "case_2022_H1_2026": 1645,
+      "post_H1_2026": 476,
+      "pre_2022": 251
+    },
+    "tokopedia": {
+      "post_H1_2026": 99,
+      "case_2022_H1_2026": 152,
+      "pre_2022": 12
+    }
+  },
+  "incentive_status": {
+    "unknown": 287776,
+    "sampling_campaign_context_specific_compensation_unverified": 551,
+    "cashback_and_mandatory_reviews_explicit": 1069,
+    "campaign_cashback_and_review_tasks_explicit": 298,
+    "selected_sampling_mandatory_reviews_and_controlled_social_tasks_explicit": 310,
+    "not_established": 23225,
+    "received_free_explicit": 1237,
+    "gimmick_listing_context_incentive_not_established": 4,
+    "review_text_explicit_free_Pepsodent_item": 1,
+    "brand_owned_marketing": 5
+  },
+  "sources": [
+    {
+      "label": "earlier_integrated_store",
+      "path": "research/2026-11-03/scale_pipeline/clean/export/records.jsonl.gz",
+      "sha256": "1dd8828284b099a6719295ac303bcd7d53d59de446c0b84e963ffcd74e47b779",
+      "rows_seen": 298846,
+      "written_retained": 298846,
+      "blank_excluded": 0,
+      "repeated_identity_excluded": 0
+    },
+    {
+      "label": "x_user_exports",
+      "path": "research/2026-11-03/closure/x/records.jsonl.gz",
+      "sha256": "cf2d1830c597bd9bc427deed58539bb88568a1d711c0fc28d1297de2c919b6c8",
+      "rows_seen": 12990,
+      "written_retained": 12990,
+      "blank_excluded": 0,
+      "repeated_identity_excluded": 0
+    },
+    {
+      "label": "tiktok_user_export",
+      "path": "research/2026-11-03/closure/tiktok/clean/comments.jsonl.gz",
+      "sha256": "91ff3becac05c1c276629846ddfcd65ff5a025c130cb417d68c8366688048b11",
+      "rows_seen": 2380,
+      "written_retained": 2372,
+      "blank_excluded": 8,
+      "repeated_identity_excluded": 0
+    },
+    {
+      "label": "tokopedia_user_exports",
+      "path": "research/2026-11-03/closure/tokopedia/reviews_clean.jsonl.gz",
+      "sha256": "e8e9e759328f8a2fdaf80de469ef2eed898d0782b81aec50053cdbccf82cdbe3",
+      "rows_seen": 266,
+      "written_retained": 263,
+      "blank_excluded": 3,
+      "repeated_identity_excluded": 0
+    },
+    {
+      "label": "earlier_nonoverlapping_x_excerpts",
+      "path": "research/2026-11-03/closure/x/legacy_x_overlap.json",
+      "sha256": "b410d494bc62bdb3186085a9780fd4ce8bbdce369fe5a6e1abbb2172f96e573a",
+      "rows_seen": 5,
+      "written_retained": 5,
+      "blank_excluded": 0,
+      "repeated_identity_excluded": 0
+    }
+  ],
+  "exact_normalized_text_groups": 4411,
+  "cross_platform_exact_text_groups": 46,
+  "screening_tag_counts_by_platform": {
+    "amazon_external_context": {
+      "household_payer": 9328,
+      "sensory": 74749,
+      "benefit_need": 48795,
+      "availability": 2144,
+      "price_promotion": 20837,
+      "switching": 3752,
+      "repeat_continuation": 6004
+    },
+    "lazada": {
+      "repeat_continuation": 25,
+      "benefit_need": 248,
+      "price_promotion": 74,
+      "availability": 4,
+      "sensory": 162,
+      "household_payer": 3,
+      "switching": 2
+    },
+    "oresa": {
+      "benefit_need": 1746,
+      "price_promotion": 32,
+      "repeat_continuation": 71,
+      "household_payer": 93,
+      "sensory": 1159,
+      "switching": 46,
+      "availability": 36
+    },
+    "reddit": {
+      "sensory": 45,
+      "benefit_need": 74,
+      "household_payer": 9,
+      "repeat_continuation": 3,
+      "switching": 22,
+      "price_promotion": 30,
+      "availability": 13
+    },
+    "tryandreview": {
+      "sensory": 857,
+      "benefit_need": 971,
+      "price_promotion": 70,
+      "availability": 56,
+      "switching": 41,
+      "household_payer": 272,
+      "repeat_continuation": 43
+    },
+    "watsons": {
+      "price_promotion": 754,
+      "benefit_need": 896,
+      "sensory": 650,
+      "repeat_continuation": 179,
+      "switching": 36,
+      "availability": 66,
+      "household_payer": 193
+    },
+    "x": {
+      "benefit_need": 3904,
+      "sensory": 2407,
+      "price_promotion": 1439,
+      "availability": 522,
+      "switching": 375,
+      "household_payer": 175,
+      "repeat_continuation": 101
+    },
+    "tiktok": {
+      "benefit_need": 261,
+      "switching": 26,
+      "price_promotion": 71,
+      "household_payer": 12,
+      "availability": 27,
+      "sensory": 51,
+      "repeat_continuation": 6
+    },
+    "tokopedia": {
+      "price_promotion": 20,
+      "sensory": 26,
+      "benefit_need": 8,
+      "household_payer": 2,
+      "repeat_continuation": 11,
+      "switching": 2,
+      "availability": 2
+    }
+  },
+  "shards": [
+    {
+      "path": "records-0001.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4840577,
+      "sha256": "8b0b3bcad8b816a467748bc849b080e216c39332e834c521ac81eedc7a3f0a53"
+    },
+    {
+      "path": "records-0002.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4883163,
+      "sha256": "d2fe5e1f553b7821638c9cbbf2462334388f6401072857bf11653535328da1b2"
+    },
+    {
+      "path": "records-0003.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4846330,
+      "sha256": "4872518740a469d9ec20219d18998b47d7bf232f35923bd7edd2cd9cf6095781"
+    },
+    {
+      "path": "records-0004.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4874055,
+      "sha256": "d8d551a4d5feb6600dc5d46804c61f7019ecd476ce659404422ea15e8a964c63"
+    },
+    {
+      "path": "records-0005.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4884389,
+      "sha256": "af8da23bfb8e27d580cbc9d49bcd3bf051fd9933fc7ced0ac46164ecaf5bad1a"
+    },
+    {
+      "path": "records-0006.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4835507,
+      "sha256": "106a96796a3feb60cb42d110fc4622bd641fdbc54dffe81264885c446854fdfe"
+    },
+    {
+      "path": "records-0007.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4859428,
+      "sha256": "fa81230d49878556890f3dbaaa41f3ac0382ec6dca1de4f17d643c15c3c2acde"
+    },
+    {
+      "path": "records-0008.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4882699,
+      "sha256": "4391af2aba735a5683183128169cfcb17870bd56bebf21419c9c40dcea52b6b7"
+    },
+    {
+      "path": "records-0009.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4867639,
+      "sha256": "28131d3a3cf2f0a663bd18e651c11949d1ce8ebf1f9dcf94ffe9100ff9a5c552"
+    },
+    {
+      "path": "records-0010.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4859407,
+      "sha256": "5fadc3d04a997d0bb981b0a21ee4f4a7c3af5572412296822a1e79fbd6def659"
+    },
+    {
+      "path": "records-0011.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4895639,
+      "sha256": "02e76509add09722eb938ebf9911d7906a846d024447e30e23d3a1bca6567040"
+    },
+    {
+      "path": "records-0012.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4851829,
+      "sha256": "79211b3e3fecd0513e00ef1b5716ce3e5885573222f89c4fe8c5370d8a821fad"
+    },
+    {
+      "path": "records-0013.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4870871,
+      "sha256": "d83d41b05687fa236657c5c9b6d76e29eeca4504e7b7f4b8133a2e9850c0797b"
+    },
+    {
+      "path": "records-0014.jsonl.gz",
+      "rows": 20000,
+      "bytes": 4864630,
+      "sha256": "04cbeb62c484431d3ed2cac89478a50d345d95bb5d3238fc4dfad2034410d07e"
+    },
+    {
+      "path": "records-0015.jsonl.gz",
+      "rows": 20000,
+      "bytes": 3326001,
+      "sha256": "0ea6eb417aa6c6aad3e5af3bc916959a7952d15ebe6dccbefd60b14a89387ade"
+    },
+    {
+      "path": "records-0016.jsonl.gz",
+      "rows": 14476,
+      "bytes": 3211025,
+      "sha256": "e15d54a48cff78c9a9eca2482b20280573531cb9eaeb74873eb123521aa149eb"
+    }
+  ],
+  "verified_age_count": 0,
+  "verified_target_switcher_count": 0,
+  "interpretation": "Inventory of retained written records across eligible and ineligible scopes, not an independent-consumer or verified-toothpaste sample. Lexical tags are unvalidated candidates. Do not pool platform denominators or infer prevalence. Calendar period is not case applicability or demographic eligibility. Earlier narrow six-post X sample contributes five nonoverlapping marketing excerpts; its overlapping consumer story is represented once in the new X data."
+}

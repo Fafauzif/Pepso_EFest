@@ -1,0 +1,70 @@
+{
+  "unique_platform_records": 298846,
+  "source_observations": 301526,
+  "repeated_identity_observations": 2680,
+  "observations_with_payload_difference": 2680,
+  "possible_copied_text_groups": 4241,
+  "source_versions": 8,
+  "excluded_missing_text_rows": 2970,
+  "excluded_removed_text_rows": 0,
+  "ingestion_errors": 0,
+  "raw_payload_utf8_bytes": 393340003,
+  "text_utf8_bytes": 52291794,
+  "sqlite_file_bytes_including_checkpointed_wal": 1058160640,
+  "breakdowns": {
+    "platform": {
+      "amazon_external_context": 286706,
+      "lazada": 681,
+      "oresa": 2228,
+      "reddit": 389,
+      "tryandreview": 1423,
+      "watsons": 7419
+    },
+    "scope": {
+      "case_historical": 5749,
+      "current_context": 4380,
+      "non_Indonesia_historical_context": 286706,
+      "outside_case": 290,
+      "unknown_date": 1721
+    },
+    "incentive_status": {
+      "campaign_cashback_and_review_tasks_explicit": 298,
+      "cashback_and_mandatory_reviews_explicit": 1069,
+      "not_established": 7605,
+      "received_free_explicit": 1237,
+      "sampling_campaign_context_specific_compensation_unverified": 551,
+      "selected_sampling_mandatory_reviews_and_controlled_social_tasks_explicit": 310,
+      "unknown": 287776
+    },
+    "record_type": {
+      "comment": 389,
+      "review": 298457
+    },
+    "relevance_status": {
+      "dental_thread_context": 123,
+      "keyword_candidate": 266,
+      "source_selected_not_individually_verified": 11751,
+      "title_matched_candidate_not_individually_verified": 286706
+    },
+    "product_scope": {
+      "null": 4721,
+      "accessory_or_container": 20931,
+      "adjacent_powder_or_alternative": 35936,
+      "adjacent_whitening_serum": 1,
+      "adult_human_toothpaste_title_candidate": 196872,
+      "brand_matched_type_unresolved": 1928,
+      "child_or_infant": 30698,
+      "pet_or_nonhuman": 341,
+      "toothpaste": 7418
+    }
+  },
+  "million_record_storage_projection": {
+    "basis": "Linear extrapolation from this exact collected database; not a collection-rate or available-record estimate",
+    "records": 1000000,
+    "sqlite_bytes": 3540822497,
+    "raw_payload_bytes": 1304497798,
+    "text_bytes": 174979066,
+    "excludes": "raw HTML/media, independent backups and export copies; SQLite/index mix may change at scale"
+  },
+  "throughput_or_completion_forecast": null
+}

@@ -1,0 +1,133 @@
+{
+  "seoMetadata": {
+    "otherData": null,
+    "description": "Kumpulan review dan pengalaman pengguna Pepsodent Herbal 190gr Pasta Gigi Herbal 190g untuk membantu sebelum membeli.",
+    "robots": "index,follow",
+    "canonical": "https://www.lazada.co.id/product-reviews/?item_id=8357114075",
+    "title": "Review Pepsodent Herbal 190gr Pasta Gigi Herbal 190g – Pengalaman Pengguna",
+    "class": "com.lazada.seo.dto.base.SeoBaseMetadataDTO",
+    "structuredData": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Pepsodent Herbal 190gr Pasta Gigi Herbal 190g\",\"image\":\"https://filebroker-cdn.lazada.co.id/kf/Sadf19064ef344c399f53a3277aaf663bx.jpg\",\"description\":\"Kumpulan review dan pengalaman pengguna Pepsodent Herbal 190gr Pasta Gigi Herbal 190g untuk membantu sebelum membeli.\",\"sku\":\"14783198492\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Pepsodent\"},\"offers\":{\"@type\":\"AggregateOffer\",\"offerCount\":4,\"lowPrice\":25000.0,\"highPrice\":31000.0,\"priceCurrency\":\"IDR\",\"availability\":\"https://schema.org/InStock\",\"seller\":{\"@type\":\"Organization\",\"name\":\"toko sembako ella iting (SHG group) \"}},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.71\",\"reviewCount\":\"7\"},\"review\":[{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"3****f\"},\"datePublished\":\"2025-07-17\",\"reviewBody\":\"🍲Rasa:rasa odol seperti biasaya\\\\n 🛡️Perlindungan Sensitivitas:untuk gigi ngilu\\\\n ✨Efek Pemutih:mencegah sakit gigi dan bau mulut \",\"name\":\"🍲Rasa:rasa odol seperti biasaya\\\\n 🛡️Perlindungan Sensitivitas:untuk gigi ngilu\\\\n ✨Efek Pemutih:mencegah sakit gigi dan bau mulut \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"Q****o\"},\"datePublished\":\"2025-08-12\",\"reviewBody\":\"Pepsodent herbal nya oke banget... dapat harga murah meriah... pengiriman cepat dan packing aman \",\"name\":\"Pepsodent herbal nya oke banget... dapat harga murah meriah... pengiriman cepat dan packing aman \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"},\"image\":\"https://lzd-u.slatic.net/de5308b091d94bcf8b059a1c232a91ed_8624cb9cdad04a37ab4c70f853b37441.jpg\"},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"r****1\"},\"datePublished\":\"2025-07-25\",\"reviewBody\":\"paketnya cepat dtngnys sesuai dgn tgl, pepsodennya bagus sesuai dgn gambar\\\\n \",\"name\":\"paketnya cepat dtngnys sesuai dgn tgl, pepsodennya bagus sesuai dgn gambar\\\\n \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"o****0\"},\"datePublished\":\"2025-03-02\",\"reviewBody\":\"bagis \",\"name\":\"bagis \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"4\",\"worstRating\":\"1\"}}]}"
+    ],
+    "propertyData": "{\"og:title\":\"Review Pepsodent Herbal 190gr Pasta Gigi Herbal 190g – Pengalaman Pengguna\",\"og:description\":\"Kumpulan review dan pengalaman pengguna Pepsodent Herbal 190gr Pasta Gigi Herbal 190g untuk membantu sebelum membeli.\",\"og:image\":\"https://filebroker-cdn.lazada.co.id/kf/Sadf19064ef344c399f53a3277aaf663bx.jpg\",\"og:url\":\"https://www.lazada.co.id/product-reviews/?item_id=8357114075\",\"og:type\":\"product\"}"
+  },
+  "innerLinks": null,
+  "reviewZone": {
+    "reviews": [
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "🍲Rasa:rasa odol seperti biasaya\\n 🛡️Perlindungan Sensitivitas:untuk gigi ngilu\\n ✨Efek Pemutih:mencegah sakit gigi dan bau mulut ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "3****f",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 2017815486414075,
+        "reviewTime": 1752747871122,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": [
+          {
+            "coverUrl": null,
+            "videoId": null,
+            "mediaType": 1,
+            "uploadTime": 1755004726129,
+            "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$MediaItem",
+            "url": "https://lzd-u.slatic.net/de5308b091d94bcf8b059a1c232a91ed_8624cb9cdad04a37ab4c70f853b37441.jpg",
+            "status": "approved"
+          },
+          {
+            "coverUrl": "http://lzd-social-img.oss-ap-southeast-1.aliyuncs.com/de5308b091d94bcf8b059a1c232a91ed_2c20766c38fc48a78463bb97b8bb2375.png",
+            "videoId": 30341120609,
+            "mediaType": 2,
+            "uploadTime": 1755004726129,
+            "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$MediaItem",
+            "url": null,
+            "status": null
+          }
+        ],
+        "reviewContent": "Pepsodent herbal nya oke banget... dapat harga murah meriah... pengiriman cepat dan packing aman ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "Q****o",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 2021151540914075,
+        "reviewTime": 1755004726129,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "paketnya cepat dtngnys sesuai dgn tgl, pepsodennya bagus sesuai dgn gambar\\n ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "r****1",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 2019146410814075,
+        "reviewTime": 1753442157287,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "bagis ",
+        "rating": 4,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "o****0",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1564844354214075,
+        "reviewTime": 1740901420914,
+        "reviewTitle": null
+      }
+    ],
+    "productId": "8357114075",
+    "ratingCnt": 7,
+    "ratingAvg": 4.714285714285714,
+    "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO",
+    "likeJumpUrl": "https://www.lazada.co.id/products/-i8357114075.html"
+  },
+  "class": "com.lazada.seo.dto.SeoReviewPageDTO",
+  "products": [
+    {
+      "currentPriceFormatted": "Rp25.000",
+      "shop": {
+        "sellerId": "******",
+        "shopLogo": "https://filebroker-cdn.lazada.co.id/kf/Sd23bfdb80f2647efa031321960eb5e31F.jpg",
+        "sellerRating": 4.571428571428571,
+        "shopName": "toko sembako ella iting (SHG group) ",
+        "shopId": null,
+        "shopUrl": "https://www.lazada.co.id/shop/ybeunec0",
+        "class": "com.lazada.seo.dto.base.ProductShopDTO"
+      },
+      "productId": "8357114075",
+      "totalOrdersLast4Weeks": null,
+      "ratingCnt": 7,
+      "urlLazada": "https://www.lazada.co.id/products/-i8357114075.html",
+      "priceFormatted": "Rp31.000",
+      "currentPrice": "25000.0",
+      "currencySymbol": "Rp",
+      "urlImages": null,
+      "payUnitCntStd": 19,
+      "video": null,
+      "productName": "Pepsodent Herbal 190gr Pasta Gigi Herbal 190g",
+      "totalOrderL1y": null,
+      "urlMainImage": "https://filebroker-cdn.lazada.co.id/kf/Sadf19064ef344c399f53a3277aaf663bx.jpg",
+      "price": "31000.0",
+      "ratingAvg": 4.714285714285714,
+      "class": "com.lazada.seo.dto.base.ProductSkuDTO",
+      "brand": null,
+      "currencyCode": "IDR",
+      "skuId": "14783198492"
+    }
+  ]
+}

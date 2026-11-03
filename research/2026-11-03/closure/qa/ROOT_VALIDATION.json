@@ -1,0 +1,26 @@
+{
+  "date": "2026-11-03",
+  "original_keyword_controls": "300 rows, missingness/source-line/hash controls; final manifest check in packaged stage",
+  "legacy_pipeline_unit_tests": {
+    "run": "python -m unittest discover -s research/2026-11-03/scale_pipeline/tests -v",
+    "tests_passed": 4
+  },
+  "legacy_inventory_generator": {
+    "issues": [],
+    "cached_actor_schemas_validated": 12,
+    "dependency": "jsonschema4.26.0 in isolated existing validation directory; optional requirements retained"
+  },
+  "source_validators": {
+    "tiktok": "passed all IDs/text/dates/parents/100annotations",
+    "tokopedia": "passed identity/occurrences/types/eligibility/dates/CSV/85annotations",
+    "primary_kit": "passed13blanktemplates;0participantresponse rows;links",
+    "x": "agent verification all4rawhashes,12990normalizedrecords,16165occurrences,109annotations,gzip andCSVpassed"
+  },
+  "new_python_files_syntax_checked": 19,
+  "credential_pattern_scan": {
+    "matched_files": 0,
+    "scope": "Text/code/json/csv files outside .git,cache andwork; limitedknowncredentialpatterns, not proof of absence of every possible secret"
+  },
+  "independent_qa": "See ANALYSIS_QA.md, stage_package_check.json, archived_input_audit.json and integrated_master_check.json",
+  "manifest_order_correction": "Legacy validate_inventory.py writes derived timestamps. A preliminary stage checksum mismatch caused by running that generator after manifest creation was identified; all generators now run before the final release build, and final checks are read-only."
+}

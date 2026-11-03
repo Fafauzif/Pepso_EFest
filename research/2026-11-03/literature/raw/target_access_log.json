@@ -1,0 +1,14 @@
+[
+  {
+    "url": "https://api.crossref.org/works/10.1086/651235",
+    "status": 200,
+    "raw_file": "raw/target_choice2010.json",
+    "retrieved_at": "2026-11-03T10:33:58.822015+00:00"
+  },
+  {
+    "url": "https://api.crossref.org/works/10.1177/002224378902600206",
+    "status": 200,
+    "raw_file": "raw/target_neslin1989.json",
+    "retrieved_at": "2026-11-03T10:34:06.187024+00:00"
+  }
+]

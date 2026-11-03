@@ -1,0 +1,163 @@
+[
+  {
+    "url": "https://www.tanyapepsodent.com/home.html",
+    "collected_at_utc": "2026-11-03T10:30:55.135253+00:00",
+    "id": "BC-509d487905e7",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/home.html",
+    "raw_file": "raw/http/509d487905e7.html",
+    "sha256": "bc028472e4e9c643a145d14b754a0ecb0a6866f61160f4eec9f2ca5e0fec6a0e",
+    "bytes": 1521641
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/pepsodent-expert.html",
+    "collected_at_utc": "2026-11-03T10:30:55.136105+00:00",
+    "id": "BC-ee958fd9d4d7",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/pepsodent-expert.html",
+    "raw_file": "raw/http/ee958fd9d4d7.html",
+    "sha256": "c1282a41bdfb37ddc6296d2a0efe7792e02e7caaf42d9535cbb6f744b89d6d90",
+    "bytes": 1617997
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/sensitive-expert.html",
+    "collected_at_utc": "2026-11-03T10:30:55.136616+00:00",
+    "id": "BC-8bfd9ab6b07f",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/sensitive-expert.html",
+    "raw_file": "raw/http/8bfd9ab6b07f.html",
+    "sha256": "491b1f623869960e2bb42c3bc771d93b5df523447c112519f600170137ecfce4",
+    "bytes": 1582403
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/rangkaian-produk/ultra-white.html",
+    "collected_at_utc": "2026-11-03T10:30:55.137223+00:00",
+    "id": "BC-e4512398743f",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/rangkaian-produk/ultra-white.html",
+    "raw_file": "raw/http/e4512398743f.html",
+    "sha256": "0d4ef2340b0b008b712e6c4881fb581ce73c434ed836ec83981c17914e55ad37",
+    "bytes": 1468991
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/pepsodent-halodoc-terms-conditions.html",
+    "collected_at_utc": "2026-11-03T10:30:55.138280+00:00",
+    "id": "BC-b09931194b68",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/pepsodent-halodoc-terms-conditions.html",
+    "raw_file": "raw/http/b09931194b68.html",
+    "sha256": "53ad5a6fb8491a92d9c316ae66af03bba7be2bde25d6086f3810acc1044c7e83",
+    "bytes": 1509639
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/misi-kami/baik-untuk-masyarakat/pepsodent-halodoc/faq.html",
+    "collected_at_utc": "2026-11-03T10:31:00.696571+00:00",
+    "id": "BC-f779e518380b",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/misi-kami/baik-untuk-masyarakat/pepsodent-halodoc/faq.html",
+    "raw_file": "raw/http/f779e518380b.html",
+    "sha256": "8550bf20acd69b97db4e1588eb681ceea305f8a173f277a3193c7628f25c11fe",
+    "bytes": 1525149
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/sitemap.xml",
+    "collected_at_utc": "2026-11-03T10:31:00.797296+00:00",
+    "id": "BC-e0210fdb0c1c",
+    "status": "failed",
+    "error": "The read operation timed out"
+  },
+  {
+    "url": "https://enzim.com/",
+    "collected_at_utc": "2026-11-03T10:31:00.819926+00:00",
+    "id": "BC-fdf72c531ebd",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://enzim.com/",
+    "raw_file": "raw/http/fdf72c531ebd.html",
+    "sha256": "16cd77658a96e3ac6724dcdf4a2bb7b5f44f364959f8918abde6d3bca2db334d",
+    "bytes": 242049
+  },
+  {
+    "url": "https://enzim.com/faq/",
+    "collected_at_utc": "2026-11-03T10:31:00.883856+00:00",
+    "id": "BC-3496c4e001e5",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://enzim.com/faq/",
+    "raw_file": "raw/http/3496c4e001e5.html",
+    "sha256": "b2671667d5a1b343ae43f5972837317dcf0567910670c370f8a7dbbfe62bdd2b",
+    "bytes": 249825
+  },
+  {
+    "url": "https://enzim.com/products-dr-enzim/",
+    "collected_at_utc": "2026-11-03T10:31:00.901302+00:00",
+    "id": "BC-5ff985833357",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://enzim.com/products-dr-enzim/",
+    "raw_file": "raw/http/5ff985833357.html",
+    "sha256": "0a73a4fd7d75c59f0a431e8da0e62759819482d2357a44a7b1a5640f4dd65962",
+    "bytes": 119550
+  },
+  {
+    "url": "https://www.sensodyne.co.id/Portfolio.html",
+    "collected_at_utc": "2026-11-03T10:31:07.166966+00:00",
+    "id": "BC-ba34d1c6fbb1",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.sensodyne.co.id/Portfolio.html",
+    "raw_file": "raw/http/ba34d1c6fbb1.html",
+    "sha256": "872b93c52cf9969590f7f10b93cf6a6866356ef5793ce3261b633c1dacc6a836",
+    "bytes": 88446
+  },
+  {
+    "url": "https://www.sensodyne.co.id/Portfolio/pasta-gigi/Repair-Protect.html",
+    "collected_at_utc": "2026-11-03T10:31:10.100642+00:00",
+    "id": "BC-4278dfdd04f2",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.sensodyne.co.id/Portfolio/pasta-gigi/Repair-Protect.html",
+    "raw_file": "raw/http/4278dfdd04f2.html",
+    "sha256": "bdc5486675fa58c33d8c7b78b2fb587c7667d0d881332da482023743aa0fe2a5",
+    "bytes": 52777
+  },
+  {
+    "url": "https://www.jakartafashionweek.co.id/events/be-the-brightest-of-them-all/",
+    "collected_at_utc": "2026-11-03T10:31:10.196364+00:00",
+    "id": "BC-0ad6b660892a",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.jakartafashionweek.co.id/events/be-the-brightest-of-them-all/",
+    "raw_file": "raw/http/0ad6b660892a.html",
+    "sha256": "0b0262763377a154f902e6fc90fe12f1ef1254571494e286d945555f1a46cd41",
+    "bytes": 62413
+  },
+  {
+    "url": "https://www.jakartafashionweek.co.id/jfw-2026/the-brightest-of-them-all-demi-couture-dalam-balutan-senyuman/",
+    "collected_at_utc": "2026-11-03T10:31:12.707281+00:00",
+    "id": "BC-cca4c615e1d5",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.jakartafashionweek.co.id/jfw-2026/the-brightest-of-them-all-demi-couture-dalam-balutan-senyuman/",
+    "raw_file": "raw/http/cca4c615e1d5.html",
+    "sha256": "3e4f4b8fc00eade59caa613df96ebe63fb540984d95f5ca63a92b269c4bbb03d",
+    "bytes": 70346
+  },
+  {
+    "url": "https://www.unilever.co.id/news/press-releases/2024/ai-dentascan-lengkapi-layanan-konsultasi-gigi-online-tanya-dokter-gigi-by-pepsodent/",
+    "collected_at_utc": "2026-11-03T10:31:13.947881+00:00",
+    "id": "BC-ee1d084f28f8",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "final_url": "https://www.unilever.co.id/news/press-releases/2024/ai-dentascan-lengkapi-layanan-konsultasi-gigi-online-tanya-dokter-gigi-by-pepsodent/",
+    "raw_file": "raw/http/ee1d084f28f8.html",
+    "sha256": "d83ff3c7f3095876fef5839b515dc60304dee6bbfa96ed149866382f262591fc",
+    "bytes": 111089
+  }
+]

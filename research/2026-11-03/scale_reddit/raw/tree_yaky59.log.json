@@ -1,0 +1,15 @@
+{
+  "query_id": "tree_yaky59",
+  "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=yaky59&limit=1000&start_breadth=100&start_depth=30",
+  "collected_at": "2026-11-03T10:51:28.811981+00:00",
+  "params": {
+    "link_id": "yaky59",
+    "limit": 1000,
+    "start_breadth": 100,
+    "start_depth": 30
+  },
+  "status": 200,
+  "bytes": 20312,
+  "outcome": "retrieved",
+  "sha256": "6bb5bb30e19b10ced688b438a20d5205b200e9280fed349dd3030434bfa26024"
+}

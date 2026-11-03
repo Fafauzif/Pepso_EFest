@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "74895",
+    "product_name": "Pasta Gigi Gum Expert Pro-Defense 100g",
+    "unique_review_ids": 5,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 5,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-74895-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/74895/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:05.640462+00:00",
+      "product_code": "74895",
+      "product_name": "Pasta Gigi Gum Expert Pro-Defense 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/74895_p0_s500.json",
+      "sha256": "8b8ed800ecc0d596e7c81cb57779d3f3bf1293021b5c52ac827f7c530684cc0c",
+      "bytes": 2705,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 5,
+        "totalPages": 1
+      },
+      "rows": 5
+    }
+  ]
+}

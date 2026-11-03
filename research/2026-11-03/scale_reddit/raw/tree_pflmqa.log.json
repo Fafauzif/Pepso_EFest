@@ -1,0 +1,15 @@
+{
+  "query_id": "tree_pflmqa",
+  "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=pflmqa&limit=1000&start_breadth=100&start_depth=30",
+  "collected_at": "2026-11-03T10:52:08.621460+00:00",
+  "params": {
+    "link_id": "pflmqa",
+    "limit": 1000,
+    "start_breadth": 100,
+    "start_depth": 30
+  },
+  "status": 200,
+  "bytes": 66958,
+  "outcome": "retrieved",
+  "sha256": "8f6443634ce7e1d7e48a3f251f333aa69195fbb4b1881b34e0eb8c6411e1c666"
+}

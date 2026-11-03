@@ -1,0 +1,85 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 5,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.60",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 1,
+      "rating4Count" : 0,
+      "rating5Count" : 4
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Faris Hasan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Good quality, value for money, good packing, long expiration date, and fast delivery",
+      "date" : "2026-05-31T16:23:11+0000",
+      "headline" : "review-73868-WTCID18870204",
+      "id" : "9042447466545",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Grace Tia Loike",
+      "approvalStatus" : "APPROVED",
+      "comment" : "pesenan odol sensodyne nya bener 5 yg dikirim, tapi gift odol pepsodent nya ituloh 1 pun gak ada...hmmm.... kasih bintang 3 aja nih, tumben bgt begini dari aplikasi",
+      "date" : "2026-03-26T02:08:53+0000",
+      "headline" : "review-73868-WTCID19104104",
+      "id" : "9025891106865",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/73868/9025891106865/WTCID19104104_73868_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/73868/9025891106865/WTCID19104104_73868_1.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 3.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rara",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-10-16T11:51:08+0000",
+      "headline" : "review-73868-WTCID15807416",
+      "id" : "8960647757873",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "ZENITA",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-05-08T15:52:12+0000",
+      "headline" : "review-73868-WTCID06359068",
+      "id" : "8935436746801",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-09-13T02:05:53+0000",
+      "headline" : "review-73868-WTCID13507108",
+      "id" : "8898336686129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

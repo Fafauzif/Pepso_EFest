@@ -1,0 +1,1520 @@
+[
+  {
+    "sample_id": 1,
+    "source_record_id": "7425624195475161862",
+    "source_row_1based": 17,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=17",
+    "video_id": "7425606854006394118",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7425606854006394118?comment_id=7425624195475161862",
+    "content_date": "2024-10-14T13:34:31.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Udah pernah pake Colgate dr Sensodyne, malah ngilu2 gigi, akhirnya balik lg ke Sensodyne",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 2,
+    "source_record_id": "7479717825336361783",
+    "source_row_1based": 38,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=38",
+    "video_id": "7478946148506422536",
+    "source_url": "https://www.tiktok.com/@desnov1812/video/7478946148506422536?comment_id=7479717825336361783",
+    "content_date": "2025-03-09T08:06:28.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "pasta gigi andalan keluarga akuu",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 3,
+    "source_record_id": "7479793207791551287",
+    "source_row_1based": 45,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=45",
+    "video_id": "7478946148506422536",
+    "source_url": "https://www.tiktok.com/@desnov1812/video/7478946148506422536?comment_id=7479793207791551287",
+    "content_date": "2025-03-09T12:58:21.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "aku dirumah juga pake",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 4,
+    "source_record_id": "7479564102198575873",
+    "source_row_1based": 61,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=61",
+    "video_id": "7478946148506422536",
+    "source_url": "https://www.tiktok.com/@desnov1812/video/7478946148506422536?comment_id=7479564102198575873",
+    "content_date": "2025-03-08T22:09:21.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "pepsodent andalan keluarga nih",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 5,
+    "source_record_id": "7491310570479485703",
+    "source_row_1based": 62,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=62",
+    "video_id": "7478946148506422536",
+    "source_url": "https://www.tiktok.com/@desnov1812/video/7478946148506422536?comment_id=7491310570479485703",
+    "content_date": "2025-04-09T13:51:15.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "sukses",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 6,
+    "source_record_id": "7598599034871579400",
+    "source_row_1based": 80,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=80",
+    "video_id": "7570614322552982804",
+    "source_url": "https://www.tiktok.com/@crescentiads/video/7570614322552982804?comment_id=7598599034871579400",
+    "content_date": "2026-01-23T16:47:28.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "paling enak sikat gigi tanpa pasta gigi apapun, paling aman dan anti bau adalah pakai arang bakar yg dihaluskan, silahkan dicoba",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 7,
+    "source_record_id": "7198697128490468123",
+    "source_row_1based": 96,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=96",
+    "video_id": "7198546074452151579",
+    "source_url": "https://www.tiktok.com/@radintabtari/video/7198546074452151579?comment_id=7198697128490468123",
+    "content_date": "2023-02-11T01:01:55.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "dok anak 14bulaan blm tumgi gimna ya?",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 8,
+    "source_record_id": "7198852970875224859",
+    "source_row_1based": 117,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=117",
+    "video_id": "7198546074452151579",
+    "source_url": "https://www.tiktok.com/@radintabtari/video/7198546074452151579?comment_id=7198852970875224859",
+    "content_date": "2023-02-11T11:06:23.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "pake Pepsodent anak",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 9,
+    "source_record_id": "7679702088004600584",
+    "source_row_1based": 129,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=129",
+    "video_id": "7653443034280905992",
+    "source_url": "https://www.tiktok.com/@pitadental/video/7653443034280905992?comment_id=7679702088004600584",
+    "content_date": "2026-08-30T06:06:38.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "Untuk gigi kuning,sensitif,bau nafas yang mana yah? Semenjak dimalaysia sering gonta ganti gigi skrang mala sering bau hafas dengan gigi sensiitif dulu mala gapernah bau nafas dengan sensitif, skrang kalau habis makan coklat trus minum air es beh ngiluh bgt",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate",
+      "experience_result_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 10,
+    "source_record_id": "7653893633099809544",
+    "source_row_1based": 130,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=130",
+    "video_id": "7653443034280905992",
+    "source_url": "https://www.tiktok.com/@pitadental/video/7653443034280905992?comment_id=7653893633099809544",
+    "content_date": "2026-06-21T16:56:33.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "dari brand pepsodent yang expert series kak (bukan promoin)",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "price_promo_candidate"
+    ]
+  },
+  {
+    "sample_id": 11,
+    "source_record_id": "7691103866763035413",
+    "source_row_1based": 133,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=133",
+    "video_id": "7653443034280905992",
+    "source_url": "https://www.tiktok.com/@pitadental/video/7653443034280905992?comment_id=7691103866763035413",
+    "content_date": "2026-09-29T23:31:31.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "gigiku gampang bolong, kek getas gitu padahal rajin sikat gigi, pake pasta gigi apa dok",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 12,
+    "source_record_id": "7198892352915014426",
+    "source_row_1based": 169,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=169",
+    "video_id": "7198546074452151579",
+    "source_url": "https://www.tiktok.com/@radintabtari/video/7198546074452151579?comment_id=7198892352915014426",
+    "content_date": "2023-02-11T13:39:10.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Coba ganti2an anaknya yg sikatin gigi mamanya, sikat gigi bareng2 depan kacaa",
+    "selection_method": "purposive_mechanism_candidate_score_9",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 13,
+    "source_record_id": "7580965791668093717",
+    "source_row_1based": 180,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=180",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7580965791668093717",
+    "content_date": "2025-12-07T04:19:14.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Aku awalnya pake marvis dan lama2 ngilu. Trs ganti pake sensodyne dan ga ngilu tp bikin kuning di gigiku. Akhirnya ganti lagi pake colgate white dan aman ga ngilu plus bikin putih. 😁",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 14,
+    "source_record_id": "7581001037768491783",
+    "source_row_1based": 181,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=181",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7581001037768491783",
+    "content_date": "2025-12-07T06:36:03.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "dok dirumah saya cuman ada ini ga papa kan🙏",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 15,
+    "source_record_id": "7580935541655880455",
+    "source_row_1based": 183,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=183",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7580935541655880455",
+    "content_date": "2025-12-07T02:21:53.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "cobain deh sensodyne yang varian repair, meski agak pricey tapi percayalah gigi aku yang sakit karena bolong ga ngilu lagi demi apaaa, fix sihhh ga mau ganti odol lain lagi",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "price_promo_candidate",
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 16,
+    "source_record_id": "6915220619433541633",
+    "source_row_1based": 246,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=246",
+    "video_id": "6915219270624414978",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/6915219270624414978?comment_id=6915220619433541633",
+    "content_date": "2021-01-08T03:07:52.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "pepsodent paling banyak di gunakan sih 😅 terutama di rumah gue😂",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 17,
+    "source_record_id": "6915224500158382081",
+    "source_row_1based": 253,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=253",
+    "video_id": "6915219270624414978",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/6915219270624414978?comment_id=6915224500158382081",
+    "content_date": "2021-01-08T03:22:55.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "faforit ku cuma enzim😅😅😅",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 18,
+    "source_record_id": "7664945723100726034",
+    "source_row_1based": 261,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=261",
+    "video_id": "6915219270624414978",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/6915219270624414978?comment_id=7664945723100726034",
+    "content_date": "2026-07-21T11:44:16.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "terakhir",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 19,
+    "source_record_id": "7580933348491641607",
+    "source_row_1based": 277,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=277",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7580933348491641607",
+    "content_date": "2025-12-07T02:13:20.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "gua dri dlu pake darlie karena emg seenak itu dibanding brand yg terkenal🧏🏻‍♀️",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 20,
+    "source_record_id": "7479714156699960084",
+    "source_row_1based": 349,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=349",
+    "video_id": "7478946148506422536",
+    "source_url": "https://www.tiktok.com/@desnov1812/video/7478946148506422536?comment_id=7479714156699960084",
+    "content_date": "2025-03-09T07:51:21.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Wah aq mau ganti ke pasta gigi ini deh",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 21,
+    "source_record_id": "7682960752458613511",
+    "source_row_1based": 367,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=367",
+    "video_id": "7625506861319687445",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/7625506861319687445?comment_id=7682960752458613511",
+    "content_date": "2026-09-08T00:52:06.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "Ak capek kemakan iklan jiir, ak udh pake ini 2 bulan lebih , tp g ada perubahan , pas di cek di klinik gigi buat Sceling rutin, kata dokternya gigi ku ko jadi menipis, dan tidak di sarankan pake pasta giginya akhirnya ganti ke pasta gigi yg di saranin dokter. 🥺",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 22,
+    "source_record_id": "7681635907077882632",
+    "source_row_1based": 395,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=395",
+    "video_id": "7625506861319687445",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/7625506861319687445?comment_id=7681635907077882632",
+    "content_date": "2026-09-04T11:10:39.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "baru mo nyoba kllo ga ngaruh gua balik",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 23,
+    "source_record_id": "6859748361537339393",
+    "source_row_1based": 406,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=406",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6859748361537339393",
+    "content_date": "2020-08-11T15:27:14.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "udah pernah coba setahun lebih engga putih di aku :) akhirnya ganti ke Colgate Charcoal",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 24,
+    "source_record_id": "6859752812436635650",
+    "source_row_1based": 415,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=415",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6859752812436635650",
+    "content_date": "2020-08-11T15:44:32.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "Fix ganti odol lagi gue :)",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 25,
+    "source_record_id": "6860034291607633922",
+    "source_row_1based": 416,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=416",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6860034291607633922",
+    "content_date": "2020-08-12T09:56:48.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "kenapa tiap gosok gigi, gusi selalu berdarah? sikat gigi tiap bulan aku ganti juga ga ngaruh.. apa karna pasta gigi gak yah? makasi🙏🏻🙏🏻🙏🏻",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "experience_result_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 26,
+    "source_record_id": "6859752498732056577",
+    "source_row_1based": 417,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=417",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6859752498732056577",
+    "content_date": "2020-08-11T15:43:19.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "biasanya pake colgate optic white, ok besok ganti 😂",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 27,
+    "source_record_id": "6859745694354866177",
+    "source_row_1based": 426,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=426",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6859745694354866177",
+    "content_date": "2020-08-11T15:16:55.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "dok,katanya klo bis sikat gigi,kumur2nya jgn kebanyakan,bener yah?",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 28,
+    "source_record_id": "7410083301395940101",
+    "source_row_1based": 488,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=488",
+    "video_id": "7383950503895649541",
+    "source_url": "https://www.tiktok.com/@doctor.incognito_99/video/7383950503895649541?comment_id=7410083301395940101",
+    "content_date": "2024-09-02T16:27:51.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "dok gusi saya item dari kecil apakah bisa cerah kaya yg lain ga ya, dn kenapa ya gusi nya bisa item sendiri di keluarga",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 29,
+    "source_record_id": "7383952364770099973",
+    "source_row_1based": 498,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=498",
+    "video_id": "7383950503895649541",
+    "source_url": "https://www.tiktok.com/@doctor.incognito_99/video/7383950503895649541?comment_id=7383952364770099973",
+    "content_date": "2024-06-24T06:26:35.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Solusi terbaik adalah ganti sepatu yang pas di kaki, akan hilang sendiri 😊",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "explicit_offtopic_candidate"
+    ]
+  },
+  {
+    "sample_id": 30,
+    "source_record_id": "6859948174963032066",
+    "source_row_1based": 516,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=516",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6859948174963032066",
+    "content_date": "2020-08-12T04:22:37.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "gue pake itu kagak putih anjir",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 31,
+    "source_record_id": "6859732923601125378",
+    "source_row_1based": 543,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=543",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6859732923601125378",
+    "content_date": "2020-08-11T14:27:21.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "dulu pernah pakek yang itu. tapi sekarang ganti merek lain. oke balik close up lagi",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 32,
+    "source_record_id": "7460560356676240148",
+    "source_row_1based": 563,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=563",
+    "video_id": "7425606854006394118",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7425606854006394118?comment_id=7460560356676240148",
+    "content_date": "2025-01-16T18:14:51.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "balik ke semula ga warna gigi nyaa?",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 33,
+    "source_record_id": "7696154160488514322",
+    "source_row_1based": 581,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=581",
+    "video_id": "7696117451351756065",
+    "source_url": "https://www.tiktok.com/@therealgitasav/video/7696117451351756065?comment_id=7696154160488514322",
+    "content_date": "2026-10-13T14:08:59.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "okey waktunya ganti pasta gigi, coba pake finest deh penasaran",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 34,
+    "source_record_id": "7696144893681156885",
+    "source_row_1based": 599,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=599",
+    "video_id": "7696117451351756065",
+    "source_url": "https://www.tiktok.com/@therealgitasav/video/7696117451351756065?comment_id=7696144893681156885",
+    "content_date": "2026-10-13T13:33:04.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "gita saranin parfum yg mantep, soft tapi tahan lama dari pagi sampe sore plisss. aku cari² pengganti parfum tesavara belum ketemu hikssss pusing banget.\natau back to stock aja memoire sama etticsnya 😭",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate",
+      "explicit_offtopic_candidate"
+    ]
+  },
+  {
+    "sample_id": 35,
+    "source_record_id": "7588084138814227208",
+    "source_row_1based": 628,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=628",
+    "video_id": "7587759958763015442",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7587759958763015442?comment_id=7588084138814227208",
+    "content_date": "2025-12-26T08:42:04.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "kalo pake sikat gigi elektrik, sikat giginya bisa diganti kan?",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 36,
+    "source_record_id": "7588141601781711636",
+    "source_row_1based": 647,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=647",
+    "video_id": "7587759958763015442",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7587759958763015442?comment_id=7588141601781711636",
+    "content_date": "2025-12-26T12:27:38.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "kalau biar karang gigi gak gampang balik gimana ya kak?",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 37,
+    "source_record_id": "7642849555877708551",
+    "source_row_1based": 681,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=681",
+    "video_id": "7425606854006394118",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7425606854006394118?comment_id=7642849555877708551",
+    "content_date": "2026-05-22T22:40:16.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "gw nyoba tuh closeup yg 2minggu bs cerah, ga cerah 😭 udh 4bln trs gue ganti ke colgate yg ungu itu lumayan ngaruh wlpn kl minum kopi ga cerah lgi",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 38,
+    "source_record_id": "7425822711702553350",
+    "source_row_1based": 682,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=682",
+    "video_id": "7425606854006394118",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7425606854006394118?comment_id=7425822711702553350",
+    "content_date": "2024-10-15T02:24:53.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "gentle whitening kak,aku sblmnya pakai pepsodent tapi ga mempan di gigi ku yg sensitif pas balik lagi ke sensodyne udah mendingan",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 39,
+    "source_record_id": "7601167068662743815",
+    "source_row_1based": 728,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=728",
+    "video_id": "7570614322552982804",
+    "source_url": "https://www.tiktok.com/@crescentiads/video/7570614322552982804?comment_id=7601167068662743815",
+    "content_date": "2026-01-30T14:50:28.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "spill sikat gigi nya ka🙏🏻",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 40,
+    "source_record_id": "7649046229335622421",
+    "source_row_1based": 782,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=782",
+    "video_id": "7566985973888797972",
+    "source_url": "https://www.tiktok.com/@stefanytalita/video/7566985973888797972?comment_id=7649046229335622421",
+    "content_date": "2026-06-08T15:26:13.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Cocokan sh kak .. aku nyari nyari dri brand dar*..e smpe m3..yg buat gigi putih .. tp aku baru nemu pepsodent ini emang agak ada perubhan tp kembali ke kalian cocok cocokan",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 41,
+    "source_record_id": "7551729026277737223",
+    "source_row_1based": 808,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=808",
+    "video_id": "7551727897510284562",
+    "source_url": "https://www.tiktok.com/@ini.kaqi/video/7551727897510284562?comment_id=7551729026277737223",
+    "content_date": "2025-09-19T09:25:37.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "pengen disapa ama kalian💓",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 42,
+    "source_record_id": "7551850531532358416",
+    "source_row_1based": 812,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=812",
+    "video_id": "7551727897510284562",
+    "source_url": "https://www.tiktok.com/@ini.kaqi/video/7551727897510284562?comment_id=7551850531532358416",
+    "content_date": "2025-09-19T17:17:10.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "kodomo dulu pas aku kecil ada hadiahnya kura kura gitu makanya nyuruh mama beli hahaha😆",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 43,
+    "source_record_id": "7553613987051078408",
+    "source_row_1based": 825,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=825",
+    "video_id": "7551727897510284562",
+    "source_url": "https://www.tiktok.com/@ini.kaqi/video/7551727897510284562?comment_id=7553613987051078408",
+    "content_date": "2025-09-24T11:20:14.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Sensodyne bukan buat orang penyakitan woi enak aja🤣Tp semenjak pake sensodyne sikat gigi engga pernah enek lg😁🤭",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 44,
+    "source_record_id": "7567366251821007623",
+    "source_row_1based": 841,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=841",
+    "video_id": "7566985973888797972",
+    "source_url": "https://www.tiktok.com/@stefanytalita/video/7566985973888797972?comment_id=7567366251821007623",
+    "content_date": "2025-10-31T12:46:05.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "aman ga ya buat sambunhan gigi.",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 45,
+    "source_record_id": "7608033921611809554",
+    "source_row_1based": 881,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=881",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7608033921611809554",
+    "content_date": "2026-02-18T02:57:25.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "“Namanya anak kost pasti sering mandi” 😅😅",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 46,
+    "source_record_id": "7607397934296400660",
+    "source_row_1based": 887,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=887",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7607397934296400660",
+    "content_date": "2026-02-16T09:49:30.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "bang aku bukan anak kos, aku anak mama, tapi pake amberwood 🥰🥰🥰",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 47,
+    "source_record_id": "7615255510497411860",
+    "source_row_1based": 892,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=892",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7615255510497411860",
+    "content_date": "2026-03-09T14:00:51.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "mau bngt beli odol yg itu soalnya enk ada mint nya tpi gabisa ganti ganti lagi 😭",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 48,
+    "source_record_id": "7608121302562013973",
+    "source_row_1based": 928,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=928",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7608121302562013973",
+    "content_date": "2026-02-18T08:36:35.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "parfum alfa paling enak emg amber wood 😂",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "sensory_candidate",
+      "explicit_offtopic_candidate"
+    ]
+  },
+  {
+    "sample_id": 49,
+    "source_record_id": "7198929527438377755",
+    "source_row_1based": 949,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=949",
+    "video_id": "7198546074452151579",
+    "source_url": "https://www.tiktok.com/@radintabtari/video/7198546074452151579?comment_id=7198929527438377755",
+    "content_date": "2023-02-11T16:03:32.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "anaku pake mama's choices kak, spill sikat gigi bayi 10 buln donk kak",
+    "selection_method": "purposive_mechanism_candidate_score_7",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 50,
+    "source_record_id": "7598109520640049928",
+    "source_row_1based": 983,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=983",
+    "video_id": "7198546074452151579",
+    "source_url": "https://www.tiktok.com/@radintabtari/video/7198546074452151579?comment_id=7598109520640049928",
+    "content_date": "2026-01-22T09:05:38.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "dok ankku 4 THN 6bulan msih pke enzim atau hrus ganti odolnya dok?🙏",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 51,
+    "source_record_id": "7198563878329221914",
+    "source_row_1based": 1005,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1005",
+    "video_id": "7198546074452151579",
+    "source_url": "https://www.tiktok.com/@radintabtari/video/7198546074452151579?comment_id=7198563878329221914",
+    "content_date": "2023-02-10T16:24:35.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "rusak.. trs srng bca harus mgandung floride baru beralih je jordan.. eh gigi anakku udh keburu rusak.. nyesel baru tau harus berfloride",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 52,
+    "source_record_id": "7580947962689471253",
+    "source_row_1based": 1051,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1051",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7580947962689471253",
+    "content_date": "2025-12-07T03:10:11.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "nah aku suka pecah pecah bibir nyikatnya gimna ka pake sikat yg itu itu aja atau gimna ka🤗",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 53,
+    "source_record_id": "7580963282464523028",
+    "source_row_1based": 1052,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1052",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7580963282464523028",
+    "content_date": "2025-12-07T04:09:38.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Alurnya klo gue gini kak. gosok gigi terus bilas gosok giginya, terus sikat lidah pake gosok gigi itu, bilas, terus sikat bibir. Dan selalu pake sikat yg gue pake sikat gigi itu juga. Ngaruh bgt kak, dan alhamdulillah bibir gue jg ga sehitam dulu",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 54,
+    "source_record_id": "7668113799400489748",
+    "source_row_1based": 1071,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1071",
+    "video_id": "7651571105290833168",
+    "source_url": "https://www.tiktok.com/@deeaaaawww/video/7651571105290833168?comment_id=7668113799400489748",
+    "content_date": "2026-07-30T00:38:13.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "butuh 2 detik KA, dengan filter hehe",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 55,
+    "source_record_id": "7657566235496842001",
+    "source_row_1based": 1148,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1148",
+    "video_id": "7651571105290833168",
+    "source_url": "https://www.tiktok.com/@deeaaaawww/video/7651571105290833168?comment_id=7657566235496842001",
+    "content_date": "2026-07-01T14:28:31.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "Buruan cobainnnnn",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 56,
+    "source_record_id": "6915221157482561537",
+    "source_row_1based": 1164,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1164",
+    "video_id": "6915219270624414978",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/6915219270624414978?comment_id=6915221157482561537",
+    "content_date": "2021-01-08T03:09:56.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "salam balik dari jakarta 😁",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 57,
+    "source_record_id": "7590815246949384977",
+    "source_row_1based": 1212,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1212",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7590815246949384977",
+    "content_date": "2026-01-02T17:20:08.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "ttehhh wktu itu ke bip gaa aku pernah liat tteh ama suami nya",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 58,
+    "source_record_id": "7194656134841041690",
+    "source_row_1based": 1258,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1258",
+    "video_id": "7194391281248865542",
+    "source_url": "https://www.tiktok.com/@skylesjours/video/7194391281248865542?comment_id=7194656134841041690",
+    "content_date": "2023-01-31T03:40:36.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "ngga mundur si, tapi kek tempat nya keganti sama gigi yg mundur, jadi jatohnya ditempatin gigi, gusinya ilang gt punya ak",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 59,
+    "source_record_id": "7655675256891835156",
+    "source_row_1based": 1355,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1355",
+    "video_id": "7625506861319687445",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/7625506861319687445?comment_id=7655675256891835156",
+    "content_date": "2026-06-26T12:10:13.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "bukti ka",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 60,
+    "source_record_id": "7692948203481940756",
+    "source_row_1based": 1365,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1365",
+    "video_id": "7625506861319687445",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/7625506861319687445?comment_id=7692948203481940756",
+    "content_date": "2026-10-04T22:48:34.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "yap",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 61,
+    "source_record_id": "7669807468700730119",
+    "source_row_1based": 1373,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1373",
+    "video_id": "7625506861319687445",
+    "source_url": "https://www.tiktok.com/@geraldvincentt/video/7625506861319687445?comment_id=7669807468700730119",
+    "content_date": "2026-08-03T14:10:17.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "sumpah aku juga entah knp malah bikin gigi goyang.. tu pasta gigi di pake sama keluarga ku juga banyak juga gigi mereka yg goyang ga cuman aku after make tu pasta gigi, yaa efeknya bagus sih setelah 1 mingguan tpi sisanya malah bikin gigi ku goyang njir",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 62,
+    "source_record_id": "7541265105339564807",
+    "source_row_1based": 1477,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1477",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=7541265105339564807",
+    "content_date": "2025-08-22T04:40:15.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "ada penggantinya ga dok? sekarang close up diamond langkah😭",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "availability_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 63,
+    "source_record_id": "7690133240996676372",
+    "source_row_1based": 1487,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1487",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=7690133240996676372",
+    "content_date": "2026-09-27T08:44:49.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "kenapa ya dok sayabpake colgate ungu langsung sensitif giginya,,sering ngilu. sekarabg lagi ber alih ke pasta gigi antiplaqe ( balik lagi ke jaman dulu)",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 64,
+    "source_record_id": "7195222934640984838",
+    "source_row_1based": 1545,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1545",
+    "video_id": "7194391281248865542",
+    "source_url": "https://www.tiktok.com/@skylesjours/video/7194391281248865542?comment_id=7195222934640984838",
+    "content_date": "2023-02-01T16:20:01.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "seminggu sekali. abisin 1 box, stop dulu dan tunggu 2-3 tahun, baru beli lagi 1 box",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 65,
+    "source_record_id": "7194827254358344453",
+    "source_row_1based": 1555,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1555",
+    "video_id": "7194391281248865542",
+    "source_url": "https://www.tiktok.com/@skylesjours/video/7194391281248865542?comment_id=7194827254358344453",
+    "content_date": "2023-01-31T14:44:47.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "https://shope.ee/8KHU2LETzd",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 66,
+    "source_record_id": "7194701928768045850",
+    "source_row_1based": 1556,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1556",
+    "video_id": "7194391281248865542",
+    "source_url": "https://www.tiktok.com/@skylesjours/video/7194391281248865542?comment_id=7194701928768045850",
+    "content_date": "2023-01-31T08:10:53.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 67,
+    "source_record_id": "7538657375805621013",
+    "source_row_1based": 1570,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1570",
+    "video_id": "7383950503895649541",
+    "source_url": "https://www.tiktok.com/@doctor.incognito_99/video/7383950503895649541?comment_id=7538657375805621013",
+    "content_date": "2025-08-15T04:00:57.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "bawah oral B? kalo iya merek nya putih k, cari aja putih signature pasta gigi ntar keluar",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "experience_result_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 68,
+    "source_record_id": "7425189771103814406",
+    "source_row_1based": 1587,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1587",
+    "video_id": "7383950503895649541",
+    "source_url": "https://www.tiktok.com/@doctor.incognito_99/video/7383950503895649541?comment_id=7425189771103814406",
+    "content_date": "2024-10-13T09:28:47.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "akhirnya ak balik lg ke odol e****..lgsng ilang semua keluhan... kykna gigiku sensitif",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 69,
+    "source_record_id": "7591924391106593544",
+    "source_row_1based": 1621,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1621",
+    "video_id": "7383950503895649541",
+    "source_url": "https://www.tiktok.com/@doctor.incognito_99/video/7383950503895649541?comment_id=7591924391106593544",
+    "content_date": "2026-01-05T17:04:10.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "loh mama ku pake refaquin buat menghilangkan penuaan di wajah, itu gpp dok?",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "availability_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 70,
+    "source_record_id": "7009886434748842778",
+    "source_row_1based": 1624,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1624",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=7009886434748842778",
+    "content_date": "2021-09-20T05:39:39.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "gantinya apa dong dok? udah ga ada dimana2 nih🥺",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "availability_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 71,
+    "source_record_id": "6859747146237886466",
+    "source_row_1based": 1652,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1652",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6859747146237886466",
+    "content_date": "2020-08-11T15:22:32.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "AKU PAKEEE! Tp rada mahal buat anak kos si☹️",
+    "selection_method": "purposive_mechanism_candidate_score_8",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "price_promo_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 72,
+    "source_record_id": "6859871465656418305",
+    "source_row_1based": 1667,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1667",
+    "video_id": "6859726742525971713",
+    "source_url": "https://www.tiktok.com/@drg.dryan/video/6859726742525971713?comment_id=6859871465656418305",
+    "content_date": "2020-08-11T23:25:12.000Z",
+    "case_scope": "pre_2022_context",
+    "text_original": "keluarga saya cocok banget sama pepsoden cengkeh dok.. kalau sakit gigi langsung sikat gigi pakai odol itu, seringnya langsung sembuh.",
+    "selection_method": "purposive_mechanism_candidate_score_7",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 73,
+    "source_record_id": "7698682026312811265",
+    "source_row_1based": 1702,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1702",
+    "video_id": "7696117451351756065",
+    "source_url": "https://www.tiktok.com/@therealgitasav/video/7696117451351756065?comment_id=7698682026312811265",
+    "content_date": "2026-10-20T09:38:39.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "Bikin gusi linu nggak ka? Gusiku lebih ke sensitif",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "sensory_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 74,
+    "source_record_id": "7699081579197580039",
+    "source_row_1based": 1707,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1707",
+    "video_id": "7696117451351756065",
+    "source_url": "https://www.tiktok.com/@therealgitasav/video/7696117451351756065?comment_id=7699081579197580039",
+    "content_date": "2026-10-21T11:28:56.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "Lipstiknya pakee apaa ya",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 75,
+    "source_record_id": "7696177770196648712",
+    "source_row_1based": 1712,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1712",
+    "video_id": "7696117451351756065",
+    "source_url": "https://www.tiktok.com/@therealgitasav/video/7696117451351756065?comment_id=7696177770196648712",
+    "content_date": "2026-10-13T15:40:37.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "review jujur dari aku emg bagus, bukan buzzer, krn gigiku ngilu baru 3 hari dah gk ngilu, klo mutihin aku gak sih cuma ini worth it krn gigi tuh sampe tua, klo dah rusak ga bisa balik dan klinik gigi bnr2 mehong jdi harga segitu dpt HAP 10% worth it, metoo itu jg ada HAPnya tpi cuma 5%",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "price_promo_candidate",
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 76,
+    "source_record_id": "7692469769425748756",
+    "source_row_1based": 1747,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1747",
+    "video_id": "7692038635092315413",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7692038635092315413?comment_id=7692469769425748756",
+    "content_date": "2026-10-03T15:54:35.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "gw pake kahf deodorant malah iritasi",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 77,
+    "source_record_id": "7692328486962479893",
+    "source_row_1based": 1753,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1753",
+    "video_id": "7692038635092315413",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7692038635092315413?comment_id=7692328486962479893",
+    "content_date": "2026-10-03T06:43:27.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "selsun AMPUNNN rambut jadi kaya rambut jagung😭",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 78,
+    "source_record_id": "7692407915764335378",
+    "source_row_1based": 1763,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1763",
+    "video_id": "7692038635092315413",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7692038635092315413?comment_id=7692407915764335378",
+    "content_date": "2026-10-03T11:51:39.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "pengganti ny vaseline apa yah, ka @Farhan Bashel?",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate",
+      "explicit_offtopic_candidate"
+    ]
+  },
+  {
+    "sample_id": 79,
+    "source_record_id": "7588359172291871495",
+    "source_row_1based": 1782,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1782",
+    "video_id": "7587759958763015442",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7587759958763015442?comment_id=7588359172291871495",
+    "content_date": "2025-12-27T02:29:24.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "pakai dulu rutin, misalnya giginya sudah tidak bisa cerah lagi, ganti",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 80,
+    "source_record_id": "7677114805061288722",
+    "source_row_1based": 1794,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1794",
+    "video_id": "7587759958763015442",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7587759958763015442?comment_id=7677114805061288722",
+    "content_date": "2026-08-23T06:46:38.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "dok kalau obat kumur diganti larutan garam bisa ga?",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 81,
+    "source_record_id": "7648189270360146708",
+    "source_row_1based": 1798,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1798",
+    "video_id": "7587759958763015442",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7587759958763015442?comment_id=7648189270360146708",
+    "content_date": "2026-06-06T08:00:48.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "ka tapi darlie boikot gak ya 🥺",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 82,
+    "source_record_id": "7425829076826358533",
+    "source_row_1based": 1831,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1831",
+    "video_id": "7425606854006394118",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7425606854006394118?comment_id=7425829076826358533",
+    "content_date": "2024-10-15T02:49:34.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "@cheeseaddict: emg bagusssss bgt sampe karang gigi aja copot anjirr pake colgate😭👌 approved tp ya agak pricey",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "price_promo_candidate"
+    ]
+  },
+  {
+    "sample_id": 83,
+    "source_record_id": "7587822919600489224",
+    "source_row_1based": 1837,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1837",
+    "video_id": "7587759958763015442",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7587759958763015442?comment_id=7587822919600489224",
+    "content_date": "2025-12-25T15:48:23.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "kak spil sikat gigi elektroniknya",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 84,
+    "source_record_id": "7494137121449181959",
+    "source_row_1based": 1855,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1855",
+    "video_id": "7478946148506422536",
+    "source_url": "https://www.tiktok.com/@desnov1812/video/7478946148506422536?comment_id=7494137121449181959",
+    "content_date": "2025-04-17T04:39:45.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "@piupiu:bantu follow",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 85,
+    "source_record_id": "7552195449504547585",
+    "source_row_1based": 1862,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1862",
+    "video_id": "7551727897510284562",
+    "source_url": "https://www.tiktok.com/@ini.kaqi/video/7551727897510284562?comment_id=7552195449504547585",
+    "content_date": "2025-09-20T15:35:34.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "sensodyne mahall, kalo di rumah bonyok pd pake jdinya ngikut dibeliin, tp kl dikosan 50k buat odol hellow?? 😭",
+    "selection_method": "purposive_mechanism_candidate_score_6",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "price_promo_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 86,
+    "source_record_id": "7607839908833379080",
+    "source_row_1based": 1927,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1927",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7607839908833379080",
+    "content_date": "2026-02-17T14:24:31.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "aku pake sabun alfam* gatel2 sekeluarga",
+    "selection_method": "purposive_mechanism_candidate_score_7",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 87,
+    "source_record_id": "7615855821318800148",
+    "source_row_1based": 1929,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1929",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7615855821318800148",
+    "content_date": "2026-03-11T04:50:31.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "@Sakura",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 88,
+    "source_record_id": "7607822157293830919",
+    "source_row_1based": 1933,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1933",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7607822157293830919",
+    "content_date": "2026-02-17T13:19:04.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "anak kost umumnya pake sabun batang bang",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 89,
+    "source_record_id": "7608013292481725192",
+    "source_row_1based": 1935,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1935",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7608013292481725192",
+    "content_date": "2026-02-18T01:37:27.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "anak kost mah parfum nya pake molto/rapika juga cukup.",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "explicit_offtopic_candidate"
+    ]
+  },
+  {
+    "sample_id": 90,
+    "source_record_id": "7567387428987454216",
+    "source_row_1based": 1946,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1946",
+    "video_id": "7566985973888797972",
+    "source_url": "https://www.tiktok.com/@stefanytalita/video/7566985973888797972?comment_id=7567387428987454216",
+    "content_date": "2025-10-31T14:08:12.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "betul kata dokter gigi harus bergantian",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 91,
+    "source_record_id": "7476003439383069461",
+    "source_row_1based": 1983,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=1983",
+    "video_id": "7198546074452151579",
+    "source_url": "https://www.tiktok.com/@radintabtari/video/7198546074452151579?comment_id=7476003439383069461",
+    "content_date": "2025-02-27T07:51:48.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Kalo mama choice dok ? Soalnya jordan aga lumayan busa nya btw buat umur 8 bln",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "sensory_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 92,
+    "source_record_id": "7581114937188221704",
+    "source_row_1based": 2013,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2013",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7581114937188221704",
+    "content_date": "2025-12-07T13:57:56.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "aku keknya gara\" setiap hari pake yg whitening, jadi sakit pas makan pedes bjir lidah sama bibir, ini baru ganti ke yg biasa lagi wkwk",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 93,
+    "source_record_id": "7425810330096288517",
+    "source_row_1based": 2053,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2053",
+    "video_id": "7425606854006394118",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7425606854006394118?comment_id=7425810330096288517",
+    "content_date": "2024-10-15T01:36:55.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Rata” produk boikot yg bagus”🙃",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": []
+  },
+  {
+    "sample_id": 94,
+    "source_record_id": "7588755395393487623",
+    "source_row_1based": 2054,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2054",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7588755395393487623",
+    "content_date": "2025-12-28T04:06:50.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "dari dulu sampe skrg selalu pake sikat gigi sensodyne yg ujungnya kecil, krn gampang sariawan kl pake yg ujungnya gede2 gt😭",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "sensory_candidate"
+    ]
+  },
+  {
+    "sample_id": 95,
+    "source_record_id": "7651650961756193554",
+    "source_row_1based": 2112,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2112",
+    "video_id": "7651571105290833168",
+    "source_url": "https://www.tiktok.com/@deeaaaawww/video/7651571105290833168?comment_id=7651650961756193554",
+    "content_date": "2026-06-15T15:53:45.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Aku termasuk yg aware banget sama kesehatan gigi. Pepsodent keknya andalan keluarga ku deh haha selalu pake itu",
+    "selection_method": "purposive_mechanism_candidate_score_9",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "switch_repeat_candidate"
+    ]
+  },
+  {
+    "sample_id": 96,
+    "source_record_id": "7383955023258206982",
+    "source_row_1based": 2125,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2125",
+    "video_id": "7383950503895649541",
+    "source_url": "https://www.tiktok.com/@doctor.incognito_99/video/7383950503895649541?comment_id=7383955023258206982",
+    "content_date": "2024-06-24T06:36:56.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "Dok sy pakai yg putih by dentis itu smntra doang putih nya lgsng balik ke warna kuning lgi",
+    "selection_method": "random_calibration_two_per_video",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 97,
+    "source_record_id": "7682262242066498321",
+    "source_row_1based": 2171,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2171",
+    "video_id": "7580748599630236948",
+    "source_url": "https://www.tiktok.com/@chachami.aw/video/7580748599630236948?comment_id=7682262242066498321",
+    "content_date": "2026-09-06T03:41:15.000Z",
+    "case_scope": "post_H1_2026_context",
+    "text_original": "dokter nya cantik, kerja di rumah sakit gigi mana bg?",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "recommendation_question_candidate"
+    ]
+  },
+  {
+    "sample_id": 98,
+    "source_record_id": "7609274969747309332",
+    "source_row_1based": 2205,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2205",
+    "video_id": "7607307462219222293",
+    "source_url": "https://www.tiktok.com/@kamalvirg/video/7607307462219222293?comment_id=7609274969747309332",
+    "content_date": "2026-02-21T11:13:23.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "aku anak kos tp menolak ngirit😭🙏jarang masak,jajan nonstop memang bbi🤣",
+    "selection_method": "purposive_mechanism_candidate_score_5",
+    "candidate_tags": [
+      "household_payer_candidate"
+    ]
+  },
+  {
+    "sample_id": 99,
+    "source_record_id": "7425778994514150149",
+    "source_row_1based": 2217,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2217",
+    "video_id": "7425606854006394118",
+    "source_url": "https://www.tiktok.com/@farhanbashel/video/7425606854006394118?comment_id=7425778994514150149",
+    "content_date": "2024-10-14T23:35:19.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "ngk dikasih orty ganti2 merk odol😅takut gigi habis keropos,tapi q pernah nyoba pepsodent yg hitam asli gigi sampai bibir kering bat rasanya,mkn apa2 jadi asem, kalau yg putih aman2 aja",
+    "selection_method": "purposive_mechanism_candidate_score_11",
+    "candidate_tags": [
+      "household_payer_candidate",
+      "switch_repeat_candidate",
+      "sensory_candidate",
+      "experience_result_candidate"
+    ]
+  },
+  {
+    "sample_id": 100,
+    "source_record_id": "7383977663339823878",
+    "source_row_1based": 2242,
+    "source_locator": "dataset_tiktok-comments-scraper_2026-11-03_12-02-32-061.json#row=2242",
+    "video_id": "7383950503895649541",
+    "source_url": "https://www.tiktok.com/@doctor.incognito_99/video/7383950503895649541?comment_id=7383977663339823878",
+    "content_date": "2024-06-24T08:04:49.000Z",
+    "case_scope": "case_2022_H1_2026",
+    "text_original": "dok cysteamine itu untuk menggantikan naicinamide atau vitamin c?",
+    "selection_method": "purposive_mechanism_candidate_score_4",
+    "candidate_tags": [
+      "switch_repeat_candidate",
+      "recommendation_question_candidate",
+      "explicit_offtopic_candidate"
+    ]
+  }
+]

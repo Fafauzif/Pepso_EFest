@@ -1,0 +1,357 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 30,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.97",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 1,
+      "rating5Count" : 29
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Ani Arkhan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-02T06:21:06+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-42082-WTCID21308005",
+      "id" : "9109973696561",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jenny Suryani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi yang sangat fresh tidak banyak busa tapi bersihkan gigi secara max tanpa noda ",
+      "date" : "2026-07-08T02:05:55+0000",
+      "headline" : "review-42082-WTCID18555317",
+      "id" : "9059726458929",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "ELSA DIELLA LIMAN",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-07-02T22:40:51+0000",
+      "headline" : "review-42082-WTCID13545046",
+      "id" : "9060156932145",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rizka Maudinna",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Untuk gigi sensitif , fresh mint isi 100g",
+      "date" : "2026-06-11T07:22:20+0000",
+      "headline" : "review-42082-WTCID19371000",
+      "id" : "9046564700209",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/42082/9046564700209/WTCID19371000_42082_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/42082/9046564700209/WTCID19371000_42082_1.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Indah Marsalina",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-05-31T03:10:22+0000",
+      "headline" : "review-42082-WTCID16093097",
+      "id" : "9041747542065",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "alena alena",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Aman untuk semua kondisi pengguna",
+      "date" : "2026-05-08T16:51:41+0000",
+      "headline" : "review-42082-WTCID19382224",
+      "id" : "9034978230321",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sonia S",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Aman untuk semua kondisi pengguna",
+      "date" : "2026-05-08T16:50:44+0000",
+      "headline" : "review-42082-WTCID19382223",
+      "id" : "9034978164785",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yelpi Yelpi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Aman untuk semua kondisi pengguna",
+      "date" : "2026-05-08T16:49:46+0000",
+      "headline" : "review-42082-WTCID19382222",
+      "id" : "9034978066481",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Kulta K",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Aman untuk semua kondisi pengguna",
+      "date" : "2026-05-08T16:45:53+0000",
+      "headline" : "review-42082-WTCID19382221",
+      "id" : "9034977968177",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Enim E",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Aman untuk semua kondisi pengguna",
+      "date" : "2026-05-08T16:45:03+0000",
+      "headline" : "review-42082-WTCID19382213",
+      "id" : "9034977935409",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Kanna K",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Aman untuk semua kondisi pengguna",
+      "date" : "2026-05-08T16:44:01+0000",
+      "headline" : "review-42082-WTCID19382212",
+      "id" : "9034977902641",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Maha Rani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Aman untuk semua kondisi pengguna",
+      "date" : "2026-05-08T16:43:09+0000",
+      "headline" : "review-42082-WTCID19382211",
+      "id" : "9034977869873",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Omah D",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Bagus dan sangat berkualitas",
+      "date" : "2026-05-03T15:19:19+0000",
+      "headline" : "review-42082-WTCID19382225",
+      "id" : "9033725149233",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Alex L",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Bagus dan sangat berkualitas",
+      "date" : "2026-05-02T10:23:52+0000",
+      "headline" : "review-42082-WTCID19382226",
+      "id" : "9032426553393",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Gita Gita",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Great quality and works perfectly",
+      "date" : "2026-04-30T17:47:55+0000",
+      "headline" : "review-42082-WTCID19376203",
+      "id" : "9032368685105",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Medita Ervianti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Selalu langganan beli produk ini. Jd begitu ada diskon gercep deh",
+      "date" : "2026-04-15T00:21:07+0000",
+      "headline" : "review-42082-WTCID19105048",
+      "id" : "9027609231409",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jonathan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-01-03T15:08:07+0000",
+      "headline" : "review-42082-WTCID16162002",
+      "id" : "8970151591985",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Witri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-11-25T10:52:02+0000",
+      "headline" : "review-42082-WTCID15734360",
+      "id" : "8965763661873",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "ZENITA",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-05-08T15:52:14+0000",
+      "headline" : "review-42082-WTCID06155640",
+      "id" : "8935436779569",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Anggie",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-05-02T15:40:38+0000",
+      "headline" : "review-42082-WTCID13711270",
+      "id" : "8935517683761",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Hikari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-11-09T12:45:02+0000",
+      "headline" : "review-42082-WTCID12627036",
+      "id" : "8902561792049",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Karin",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-11-04T03:20:53+0000",
+      "headline" : "review-42082-WTCID13446030",
+      "id" : "8902422167601",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Hend ",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Ok",
+      "date" : "2023-09-20T15:26:45+0000",
+      "headline" : "review-42082-WTCID13541041",
+      "id" : "8899118497841",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Astri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-07-14T11:21:18+0000",
+      "headline" : "review-42082-WTCID13330017",
+      "id" : "8893041147953",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-04-09T08:39:41+0000",
+      "headline" : "review-42082-WTCID12086430",
+      "id" : "8878836482097",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Wan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-11-16T07:11:52+0000",
+      "headline" : "review-42082-WTCID11708471",
+      "id" : "8861002170417",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Kenny Yonathan",
+      "approvalStatus" : "APPROVED",
+      "date" : "2019-12-25T05:16:16+0000",
+      "id" : "8822840000561",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "LENI PUJIANTI NGADIMAN",
+      "approvalStatus" : "APPROVED",
+      "comment" : "sampe agak penyok dus nya",
+      "date" : "2019-12-11T15:15:44+0000",
+      "id" : "8822633594929",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "choirunisa",
+      "approvalStatus" : "APPROVED",
+      "date" : "2019-12-09T14:01:08+0000",
+      "id" : "8822888792113",
+      "like" : 0,
+      "rating" : 4.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Kenny Yonathan",
+      "approvalStatus" : "APPROVED",
+      "date" : "2019-12-06T11:35:10+0000",
+      "id" : "8822747168817",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

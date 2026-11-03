@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "52157",
+    "product_name": "Sensodyne Toothpaste Cavity Sensitive 80g - Pasta Gigi Cegah Gigi Berlubang & Sensitif",
+    "unique_review_ids": 122,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 122,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-52157-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/52157/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:38.868894+00:00",
+      "product_code": "52157",
+      "product_name": "Sensodyne Toothpaste Cavity Sensitive 80g - Pasta Gigi Cegah Gigi Berlubang & Sensitif",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/52157_p0_s500.json",
+      "sha256": "726f351e92db0a104832122a914730c8cd27c14ea84ce150d5827fed421b066d",
+      "bytes": 43210,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 122,
+        "totalPages": 1
+      },
+      "rows": 122
+    }
+  ]
+}

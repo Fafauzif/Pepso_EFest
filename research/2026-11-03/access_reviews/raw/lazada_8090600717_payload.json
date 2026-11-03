@@ -1,0 +1,114 @@
+{
+  "seoMetadata": {
+    "otherData": null,
+    "description": "Kumpulan review dan pengalaman pengguna PEPSODENT Pasta Gigi Complete 8 Whitening 190g + 20gr JUMBO untuk membantu sebelum membeli.",
+    "robots": "index,follow",
+    "canonical": "https://www.lazada.co.id/product-reviews/?item_id=8090600717",
+    "title": "Review PEPSODENT Pasta Gigi Complete 8 Whitening 190g + 20gr JUMBO – Pengalaman Pengguna",
+    "class": "com.lazada.seo.dto.base.SeoBaseMetadataDTO",
+    "structuredData": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"PEPSODENT Pasta Gigi Complete 8 Whitening 190g + 20gr JUMBO\",\"image\":\"https://filebroker-cdn.lazada.co.id/kf/S1ffe223187b14262a0adf6990c22d2c5l.jpg\",\"description\":\"Kumpulan review dan pengalaman pengguna PEPSODENT Pasta Gigi Complete 8 Whitening 190g + 20gr JUMBO untuk membantu sebelum membeli.\",\"sku\":\"14478250581\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Pepsodent\"},\"offers\":{\"@type\":\"AggregateOffer\",\"offerCount\":0,\"lowPrice\":19900.0,\"highPrice\":19900.0,\"priceCurrency\":\"IDR\",\"availability\":\"https://schema.org/OutOfStock\",\"seller\":{\"@type\":\"Organization\",\"name\":\"TOKO RENDI JAYA\"}},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"5.00\",\"reviewCount\":\"5\"},\"review\":[{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"M****q\"},\"datePublished\":\"2024-05-29\",\"reviewBody\":\"Pepsodent completed 8 nya udah nyampe bagus sesuai deskripsi  \",\"name\":\"Pepsodent completed 8 nya udah nyampe bagus sesuai deskripsi  \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"6****b\"},\"datePublished\":\"2024-05-25\",\"reviewBody\":\"ok...barang telah diterima dalam keadaan baik dan bagus..terima kasih \",\"name\":\"ok...barang telah diterima dalam keadaan baik dan bagus..terima kasih \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"H****r\"},\"datePublished\":\"2024-05-17\",\"reviewBody\":\"alhamdulillah sampai dengan selamat terima kasih lazada, seller dan kurir \",\"name\":\"alhamdulillah sampai dengan selamat terima kasih lazada, seller dan kurir \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"I****p\"},\"datePublished\":\"2024-05-18\",\"reviewBody\":\"Kualitas:  bagus\\\\n Tekstur:  bagus\\\\n Efektivitas:  bagus, murah dan pengiriman cepat. Mksh seller \",\"name\":\"Kualitas:  bagus\\\\n Tekstur:  bagus\\\\n Efektivitas:  bagus, murah dan pengiriman cepat. Mksh seller \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}}]}"
+    ],
+    "propertyData": "{\"og:title\":\"Review PEPSODENT Pasta Gigi Complete 8 Whitening 190g + 20gr JUMBO – Pengalaman Pengguna\",\"og:description\":\"Kumpulan review dan pengalaman pengguna PEPSODENT Pasta Gigi Complete 8 Whitening 190g + 20gr JUMBO untuk membantu sebelum membeli.\",\"og:image\":\"https://filebroker-cdn.lazada.co.id/kf/S1ffe223187b14262a0adf6990c22d2c5l.jpg\",\"og:url\":\"https://www.lazada.co.id/product-reviews/?item_id=8090600717\",\"og:type\":\"product\"}"
+  },
+  "innerLinks": null,
+  "reviewZone": {
+    "reviews": [
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "Pepsodent completed 8 nya udah nyampe bagus sesuai deskripsi  ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "M****q",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1427629294300717,
+        "reviewTime": 1717023203064,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "ok...barang telah diterima dalam keadaan baik dan bagus..terima kasih ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "6****b",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1421892301700717,
+        "reviewTime": 1716599326545,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "alhamdulillah sampai dengan selamat terima kasih lazada, seller dan kurir ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "H****r",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1415062221200717,
+        "reviewTime": 1715951655750,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "Kualitas:  bagus\\n Tekstur:  bagus\\n Efektivitas:  bagus, murah dan pengiriman cepat. Mksh seller ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "I****p",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1419887818300717,
+        "reviewTime": 1716048716523,
+        "reviewTitle": null
+      }
+    ],
+    "productId": "8090600717",
+    "ratingCnt": 5,
+    "ratingAvg": 5,
+    "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO",
+    "likeJumpUrl": "https://www.lazada.co.id/products/-i8090600717.html"
+  },
+  "class": "com.lazada.seo.dto.SeoReviewPageDTO",
+  "products": [
+    {
+      "currentPriceFormatted": "Rp19.900",
+      "shop": {
+        "sellerId": "******",
+        "shopLogo": "https://filebroker-cdn.lazada.co.id/kf/S7ed9021c68844e439ce720ed828292e2b.jpg",
+        "sellerRating": 5,
+        "shopName": "TOKO RENDI JAYA",
+        "shopId": null,
+        "shopUrl": "https://www.lazada.co.id/shop/toko-rendi-jaya",
+        "class": "com.lazada.seo.dto.base.ProductShopDTO"
+      },
+      "productId": "8090600717",
+      "totalOrdersLast4Weeks": null,
+      "ratingCnt": 5,
+      "urlLazada": "https://www.lazada.co.id/products/-i8090600717.html",
+      "priceFormatted": "Rp19.900",
+      "currentPrice": "19900.0",
+      "currencySymbol": "Rp",
+      "urlImages": null,
+      "payUnitCntStd": 27,
+      "video": null,
+      "productName": "PEPSODENT Pasta Gigi Complete 8 Whitening 190g + 20gr JUMBO",
+      "totalOrderL1y": null,
+      "urlMainImage": "https://filebroker-cdn.lazada.co.id/kf/S1ffe223187b14262a0adf6990c22d2c5l.jpg",
+      "price": "19900.0",
+      "ratingAvg": 5,
+      "class": "com.lazada.seo.dto.base.ProductSkuDTO",
+      "brand": null,
+      "currencyCode": "IDR",
+      "skuId": "14478250581"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "xquik_input",
+    "url": "https://api.apify.com/v2/acts/xquik~x-tweet-scraper/input-schema",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "xquik_build",
+    "url": "https://api.apify.com/v2/acts/xquik~x-tweet-scraper/builds/default",
+    "status": 200,
+    "bytes": 500914,
+    "file": "research/2026-11-03/apify_handoff/raw/xquik_build.json",
+    "retrieved_at": "2026-11-03T10:31:26.890599+00:00"
+  },
+  {
+    "name": "xquik_input_page",
+    "url": "https://apify.com/xquik/x-tweet-scraper/input-schema",
+    "status": 200,
+    "bytes": 1082152,
+    "file": "research/2026-11-03/apify_handoff/raw/xquik_input_page.html",
+    "retrieved_at": "2026-11-03T10:31:28.050093+00:00"
+  },
+  {
+    "name": "scrapewise_actor",
+    "url": "https://api.apify.com/v2/acts/scrapewise~shopee-reviews-scraper",
+    "status": 200,
+    "bytes": 7528,
+    "file": "research/2026-11-03/apify_handoff/raw/scrapewise_actor.json",
+    "retrieved_at": "2026-11-03T10:31:26.573882+00:00"
+  },
+  {
+    "name": "scrapewise_input",
+    "url": "https://api.apify.com/v2/acts/scrapewise~shopee-reviews-scraper/input-schema",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "scrapewise_input_page",
+    "url": "https://apify.com/scrapewise/shopee-reviews-scraper/input-schema",
+    "status": 200,
+    "bytes": 486834,
+    "file": "research/2026-11-03/apify_handoff/raw/scrapewise_input_page.html",
+    "retrieved_at": "2026-11-03T10:31:27.865776+00:00"
+  },
+  {
+    "name": "scrapewise_readme",
+    "url": "https://apify.com/scrapewise/shopee-reviews-scraper",
+    "status": 200,
+    "bytes": 492127,
+    "file": "research/2026-11-03/apify_handoff/raw/scrapewise_readme.html",
+    "retrieved_at": "2026-11-03T10:31:27.973651+00:00"
+  },
+  {
+    "name": "clockworks_input",
+    "url": "https://api.apify.com/v2/acts/clockworks~tiktok-comments-scraper/input-schema",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "name": "clockworks_page",
+    "url": "https://apify.com/clockworks/tiktok-comments-scraper/input-schema",
+    "status": 200,
+    "bytes": 532488,
+    "file": "research/2026-11-03/apify_handoff/raw/clockworks_page.html",
+    "retrieved_at": "2026-11-03T10:31:27.858071+00:00"
+  }
+]

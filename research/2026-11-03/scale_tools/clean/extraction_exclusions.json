@@ -1,0 +1,26 @@
+[
+  {
+    "source": "user_post_original",
+    "article_index": 1,
+    "reason": "duplicate_post_id",
+    "post_id": "2068234900491129031"
+  },
+  {
+    "source": "user_post_original",
+    "article_index": 2,
+    "reason": "reply_not_substantively_toothpaste_related",
+    "post_id": "2068341599856382023"
+  },
+  {
+    "source": "user_post_original",
+    "article_index": 3,
+    "reason": "reply_not_substantively_toothpaste_related",
+    "post_id": "2068287221157994737"
+  },
+  {
+    "source": "user_post_original",
+    "article_index": 4,
+    "reason": "reply_not_substantively_toothpaste_related",
+    "post_id": "2068514228622045578"
+  }
+]

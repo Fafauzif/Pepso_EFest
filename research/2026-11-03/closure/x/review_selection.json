@@ -1,0 +1,406 @@
+{
+  "sample_version": "fixed_v1_before_expanded_url_and_jingle_QA",
+  "seed": 20261103,
+  "records": [
+    {
+      "source_record_id": "1551953249447837702",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1588045953839554561",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1597755204065439744",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1598275689266171905",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1622422559055806464",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1922200502466433324",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1918695836076175782",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1582664892670414848",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1526473020402937857",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1850807578256929092",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1680556989703766016",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1851642620541595705",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "2030238570892439962",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1973978970564800733",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1994476644648849559",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1838583397138206952",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1572461036451827713",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1610034661908164609",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1800410846423835088",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "2045924576547488123",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1619226908239216640",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1736073014293446867",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1941852432209752153",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1833206851309342822",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1610539430447828994",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1729850490190545329",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1733298221114663346",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1802317958498128126",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "2030986940984566258",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1750528446726644142",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1801305762406482351",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1634557551122722816",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1669260947251408896",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1850568441167749175",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1574343680873201664",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1503589833230659586",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1543783064685293568",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1729092680582578194",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1642945361047347200",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1845900851660853294",
+      "sampling_stratum": "random_40_all_unique_posts"
+    },
+    {
+      "source_record_id": "1782404668129460511",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1568374292848734208",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1501220184123592705",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1733020306573525467",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1724415804790181963",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1495784137604550659",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1496341395124387842",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1783760940489744683",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1504443123346259970",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1543857115152158721",
+      "sampling_stratum": "purposive_theme_then_random_within_household_payer_candidate"
+    },
+    {
+      "source_record_id": "1986417411168571853",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1723229912096796776",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1719283568202207239",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1507684335515668481",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1968620183842669044",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1582555034411184130",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1759671100076933171",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1661693042292834309",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1868265586415096265",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1694171713112789252",
+      "sampling_stratum": "purposive_theme_then_random_within_switching_candidate"
+    },
+    {
+      "source_record_id": "1964896910919225400",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "1502986299615047680",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "2069689110076465544",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "2029903436637249869",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "1972620249175670897",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "1737902732164673891",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "1533447345576103937",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "1696496395396796483",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "1974063960757580115",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "1600113707526524928",
+      "sampling_stratum": "purposive_theme_then_random_within_repeat_fit_candidate"
+    },
+    {
+      "source_record_id": "2069638140206432277",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "1816076398278369412",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "1558138480567341057",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "2058905337135341720",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "1918332197582602370",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "1554663881603432449",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "2014301446557360254",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "1754818396317991009",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "2035383951410511954",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "1572845762731741184",
+      "sampling_stratum": "purposive_theme_then_random_within_sensory_experience_candidate"
+    },
+    {
+      "source_record_id": "1633445898650017794",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "1729770404296757754",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "1540355497089728512",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "1661693029663768583",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "1962060130499141847",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "1829885347200954603",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "1540212712856092672",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "1761045132407980245",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "1684536915683577858",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "2041838635662897461",
+      "sampling_stratum": "purposive_theme_then_random_within_availability_replenishment_candidate"
+    },
+    {
+      "source_record_id": "2069800744879104091",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "1681102416438259712",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "1978639375819853987",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "2015251641021448663",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "2021104885052444813",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "1741625382271697407",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "1927222520979058832",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "2064762111168049188",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "1842884914494296189",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    },
+    {
+      "source_record_id": "2015590249167274297",
+      "sampling_stratum": "purposive_theme_then_random_within_price_promotion_candidate"
+    }
+  ]
+}

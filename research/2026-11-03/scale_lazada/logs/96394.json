@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "96394",
+    "product_name": "Center Fresh Pasta Gigi 160gr",
+    "unique_review_ids": 36,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 36,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-96394-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/96394/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:46.335712+00:00",
+      "product_code": "96394",
+      "product_name": "Center Fresh Pasta Gigi 160gr",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/96394_p0_s500.json",
+      "sha256": "7176fc0e1a245f44bd6bcec7b31606574c91ec8467a99a84785879b7ce0452cb",
+      "bytes": 11935,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 36,
+        "totalPages": 1
+      },
+      "rows": 36
+    }
+  ]
+}

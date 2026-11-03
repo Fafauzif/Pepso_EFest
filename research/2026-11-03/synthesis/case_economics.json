@@ -1,0 +1,12 @@
+{
+  "basic_exact_price_per100g": 12684.210526315788,
+  "premium_regular_unit_price_ratio": 3.303319502074689,
+  "premium_promo_unit_price_ratio": 1.8526970954356847,
+  "case_premium_discount_percent": 43.914081145584724,
+  "case_premium_mix_decline_pp": 7,
+  "relative_mix_decline_percent": 25.92592592592593,
+  "brand_growth_needed_to_hold_absolute_premium_revenue_percent": 35.00000000000001,
+  "conditional_blended_margin_before_percent": 42.59,
+  "conditional_blended_margin_after_percent": 41.4,
+  "caveat": "Mix math assumes revenue basis, comparable periods, two representative tiers and fixed margins; not actual company margin or profit. Shelf price not manufacturer realization."
+}

@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "70611",
+    "product_name": "PEPSODENT Action 123 Charcoal Pasta Gigi 160gr",
+    "unique_review_ids": 31,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 31,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-70611-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/70611/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:40.544637+00:00",
+      "product_code": "70611",
+      "product_name": "PEPSODENT Action 123 Charcoal Pasta Gigi 160gr",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/70611_p0_s500.json",
+      "sha256": "54acf90c40e7a5d24b529c27895537fab8a78c47a2d541cc3d42813460e57a17",
+      "bytes": 11091,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 31,
+        "totalPages": 1
+      },
+      "rows": 31
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "product_id": "38069",
+    "product_name": "Sensodyne Extra Whitening Toothpaste, Twin Pack, 2 Tubes, 4 oz (113 g) Each",
+    "displayed_review_count": 2,
+    "source_url": "https://www.tryandreview.com/id/personal-care/oral-care/sensodyne/product/extra-whitening-toothpaste-twin-pack-2-tubes-4-oz-113-g-each",
+    "count_evidence": "raw/product_38069.html meta reviewCount"
+  },
+  {
+    "product_id": "37752",
+    "product_name": "Sensodyne Fluoride Toothpaste For Sensitive Teeth, Mint, 3.4 oz (96.4 g)",
+    "displayed_review_count": 2,
+    "source_url": "https://www.tryandreview.com/id/personal-care/oral-care/sensodyne/product/fluoride-toothpaste-for-sensitive-teeth-mint-3-4-oz-96-4-g",
+    "count_evidence": "raw/product_37752.html meta reviewCount"
+  },
+  {
+    "failed_discovery": "https://www.tryandreview.com/id/personal-care/oral-care/sensodyne/product/fresh-mint-1",
+    "bytes": 148483
+  }
+]

@@ -1,0 +1,91 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 6,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 6
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Yenny Yenny",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-26T16:29:16+0000",
+      "headline" : "review-61237-WTCID21186152",
+      "id" : "9096808136753",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nisaul Farazdhila",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-07-31T04:30:17+0000",
+      "headline" : "review-61237-WTCID19095302",
+      "id" : "9083784495153",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "asti titan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Promonya oke banget, pasti gigi ini bagus hasilnya, aman dan cocok digunakan. Terima kasih Watsons, makin sukses!",
+      "date" : "2026-07-29T12:06:54+0000",
+      "headline" : "review-61237-260729008800100007410585642101",
+      "id" : "9083729444913",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Muhammad Aflah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang oke kualitas matap dan prosesnya di toko cepat the best mantap",
+      "date" : "2026-07-05T02:31:37+0000",
+      "headline" : "review-61237-WTCID20184057",
+      "id" : "9061516279857",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "b",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Membuat gigi sehat dan putih cemerlang ",
+      "date" : "2026-07-02T05:42:21+0000",
+      "headline" : "review-61237-WTCID19111577",
+      "id" : "9059334357041",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Stella Gracia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-04T04:52:39+0000",
+      "headline" : "review-61237-WTCID19116283",
+      "id" : "9026838364209",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

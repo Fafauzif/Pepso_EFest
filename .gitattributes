@@ -1,2 +1,12 @@
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+
+# Preserve research captures and raw data bytes in subsequent repository syncs.
+/research/** -text
+/data/raw/** -text
+/sources/** -text
+/context/E_Fest_2026_Pepsodent_Master_AI_Context_Pack.md -text
+/release/large_file_parts/** -text
+*.gz -text
+*.png binary
+*.pdf binary

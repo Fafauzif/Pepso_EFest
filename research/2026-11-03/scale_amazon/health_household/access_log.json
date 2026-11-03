@@ -1,0 +1,24 @@
+[
+  {
+    "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/meta_categories/meta_Health_and_Household.jsonl",
+    "kind": "metadata",
+    "scanned_rows": 797563,
+    "bytes_read": 2468505069,
+    "sha256_of_read_bytes": "1a26906c721929a04e887eb7aac560e58e0c4f0a65ec5b24a047a560a43f0bc1",
+    "elapsed_seconds": 79.10175388700009,
+    "cap": 1000000,
+    "status": "complete",
+    "retrieved_at_utc": "2026-11-03T10:51:31.131567+00:00"
+  },
+  {
+    "url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+    "kind": "reviews",
+    "scanned_rows": 25631345,
+    "bytes_read": 11395356745,
+    "sha256_of_read_bytes": "e8256271e6d566745656cd946e200a43ad08ff5e046daacfc54535bfd95be4b4",
+    "elapsed_seconds": 312.10719299599987,
+    "cap": 30000000,
+    "status": "complete",
+    "retrieved_at_utc": "2026-11-03T10:51:31.131567+00:00"
+  }
+]

@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "70363",
+    "product_name": "Fresh Cool Mint Pasta Gigi 190g",
+    "unique_review_ids": 40,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 40,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-70363-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/70363/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:40.349794+00:00",
+      "product_code": "70363",
+      "product_name": "Fresh Cool Mint Pasta Gigi 190g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/70363_p0_s500.json",
+      "sha256": "6f0ae3b072a7af4caa7199990341576e1dd366c8a5180b08dea52599c7d80fdd",
+      "bytes": 13117,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 40,
+        "totalPages": 1
+      },
+      "rows": 40
+    }
+  ]
+}

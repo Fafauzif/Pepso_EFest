@@ -1,0 +1,58 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 3,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 3
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Faisal Ridho Boto",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk bagussss murah dengan harga promo",
+      "date" : "2026-08-02T16:34:43+0000",
+      "headline" : "review-undefined-WTCID20187066",
+      "id" : "9083525300273",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Harga ok, sekalian dapat sikat gigi",
+      "date" : "2026-07-28T04:45:57+0000",
+      "headline" : "review-75444-WTCID21000022",
+      "id" : "9083462058033",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Coco untuk yang giginya sensitif, sudah lengkap juga ada sikatnya",
+      "date" : "2026-05-28T23:22:49+0000",
+      "headline" : "review-75444-WTCID19559203",
+      "id" : "9040329539633",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

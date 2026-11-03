@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "71107",
+    "product_name": "Colgate Advanced White Whitening Toothpaste 160g - Pasta Gigi",
+    "unique_review_ids": 13,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 13,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-71107-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/71107/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:52.852994+00:00",
+      "product_code": "71107",
+      "product_name": "Colgate Advanced White Whitening Toothpaste 160g - Pasta Gigi",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/71107_p0_s500.json",
+      "sha256": "ea87e3d51290f3214e516f30097235cf18d704d04f77dec87e3545560df64ee9",
+      "bytes": 4386,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 13,
+        "totalPages": 1
+      },
+      "rows": 13
+    }
+  ]
+}

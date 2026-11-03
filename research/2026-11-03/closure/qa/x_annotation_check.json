@@ -1,0 +1,24 @@
+{
+  "annotations_checked": 109,
+  "source_id_or_text_mismatches": [],
+  "secondary_nonblind_review_ids": [
+    "1572461036451827713",
+    "1681102416438259712",
+    "1734190351676756381",
+    "1680556989703766016",
+    "1962060130499141847",
+    "1543857115152158721",
+    "2015251641021448663",
+    "1503589833230659586",
+    "1504443123346259970",
+    "1729850490190545329",
+    "1642945361047347200",
+    "1802317958498128126",
+    "1833206851309342822",
+    "1782404668129460511",
+    "1610539430447828994"
+  ],
+  "secondary_review_blinded": false,
+  "note": "Secondary semantic review of existing annotations and original text. Not human/ground-truth agreement; no market relevance precision claimed.",
+  "refresh_note": "Rechecked all109 IDs/text after ninthsupplementadded; semantic15sample remains initial108selection."
+}

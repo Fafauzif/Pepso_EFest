@@ -1,0 +1,28 @@
+{
+  "annotations_checked": 85,
+  "source_id_or_text_mismatches": [],
+  "secondary_nonblind_review_annotation_ids": [
+    "TKQ-047",
+    "TKQ-064",
+    "TKQ-044",
+    "TKQ-040",
+    "TKQ-028",
+    "TKQ-050",
+    "TKQ-010",
+    "TKQ-032",
+    "TKQ-036",
+    "TKQ-007",
+    "TKQ-023",
+    "TKQ-015",
+    "TKQ-068",
+    "TKQ-052",
+    "TKQ-041",
+    "TKQ-025",
+    "TKQ-024",
+    "TKQ-080",
+    "TKQ-019",
+    "TKQ-046"
+  ],
+  "secondary_review_blinded": false,
+  "note": "Semantic review of existing assistant annotations; no human or ground-truth accuracy claimed."
+}

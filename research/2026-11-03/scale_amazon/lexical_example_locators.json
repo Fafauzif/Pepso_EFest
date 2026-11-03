@@ -1,0 +1,1634 @@
+{
+  "sensory_language": [
+    {
+      "record_id": "AMZ-HPC-02e018f3b78ed524b149a8a0",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-03-10T14:22:01.201000+00:00",
+      "source_line": 839,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5546acab4f869b0e4f64e102",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-03-26T07:53:12.692000+00:00",
+      "source_line": 880,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-ee90e97fd6ea7ec2e4ead827",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-07-06T15:20:29.617000+00:00",
+      "source_line": 947,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-cfb13be098ee4735efb55646",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-14T20:21:34.052000+00:00",
+      "source_line": 1174,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-913c40299fe783c59439377f",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-06-22T18:04:33.110000+00:00",
+      "source_line": 1309,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-83993ecfaad28c88572c89fb",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-04-18T01:36:03.078000+00:00",
+      "source_line": 1317,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-807f153f8ed82d0d9146eee0",
+      "product_id": "B0BB6JC5L7",
+      "product_name": "White Foam Teeth Whitening Products-Teeth Whitening Mousse-Toothpaste Whitening Refreshing Breath Deep Cleaning Foam Toothpaste Ultra-fine Mousse Whitening Toothpaste Foam for U Toothbrush",
+      "published_at_utc": "2022-09-26T21:46:01.027000+00:00",
+      "source_line": 1424,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-525b56f7d0804fac29f806d7",
+      "product_id": "B09KNW312Z",
+      "product_name": "Nudge - Mint & Grapefruit Toothpaste, Natural Flavor with Eucalyptus Extract, Antiplaque & Whitening, Fluoride-Free, 4 oz,",
+      "published_at_utc": "2022-02-21T18:11:06.222000+00:00",
+      "source_line": 1478,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-0f3bebc2b67e8ca5afdc03cb",
+      "product_id": "B08QSLN7BC",
+      "product_name": "Spotlight Oral Care Toothpaste for Whitening",
+      "published_at_utc": "2021-03-26T18:22:56.417000+00:00",
+      "source_line": 2137,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-2fad4cc11e34e9926691ac44",
+      "product_id": "B086SG4S1R",
+      "product_name": "Spotlight Oral Care Toothpaste for Total Care | Prevents Cavities & Desensitizes Hypersensitivity | Vegan & Gluten-Free | Active Ingredients of Fluoride & Pentasodium Triphosphate | 100 mL/3.4 fl oz",
+      "published_at_utc": "2021-03-13T18:01:24.580000+00:00",
+      "source_line": 2138,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-0d8dc80c0932567163e066dc",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-07-02T00:44:55.853000+00:00",
+      "source_line": 2170,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-0aa3f8dbca4b0e11f12d4a74",
+      "product_id": "B07KF56TWK",
+      "product_name": "AROMATICA Tea Tree Toothpaste 5.29oz / 150g Flouride Free, Anti-Plaque, SLS Free, PEG Free, Advanced Teeth Whitening, Safe for The Whole Family",
+      "published_at_utc": "2020-07-02T00:34:59.270000+00:00",
+      "source_line": 2171,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-cb5da6cc47da20098b528be8",
+      "product_id": "B0B8V1Z37H",
+      "product_name": "Teeth Whitening Foam Toothpaste,Baking Soda Toothpaste, Intensive Stain Removal Toothpaste,Baking Soda Spearmint Whitening Mousse",
+      "published_at_utc": "2022-09-16T02:13:25.415000+00:00",
+      "source_line": 2407,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-01c6991075e37234470f6657",
+      "product_id": "B086SG4S1R",
+      "product_name": "Spotlight Oral Care Toothpaste for Total Care | Prevents Cavities & Desensitizes Hypersensitivity | Vegan & Gluten-Free | Active Ingredients of Fluoride & Pentasodium Triphosphate | 100 mL/3.4 fl oz",
+      "published_at_utc": "2021-04-05T13:25:34.023000+00:00",
+      "source_line": 2418,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-bcbfd501ca63f5ccc41a2d78",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-06-23T18:12:40.328000+00:00",
+      "source_line": 2436,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-9ee27c08c9f0717e66badf16",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-03-17T02:24:56.532000+00:00",
+      "source_line": 2443,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-c026e911db9683e121946dbe",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-12T02:13:19.229000+00:00",
+      "source_line": 2930,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-0ebe9721610202b32938de46",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-16T14:46:11.856000+00:00",
+      "source_line": 2986,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-55767585146cfa265f6c0436",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-27T16:46:13.959000+00:00",
+      "source_line": 3801,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4804514c089f88f6ca879e75",
+      "product_id": "B07KF56TWK",
+      "product_name": "AROMATICA Tea Tree Toothpaste 5.29oz / 150g Flouride Free, Anti-Plaque, SLS Free, PEG Free, Advanced Teeth Whitening, Safe for The Whole Family",
+      "published_at_utc": "2020-06-26T15:36:10.167000+00:00",
+      "source_line": 4393,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-57418e2e24571802ec7c71d6",
+      "product_id": "B086SG4S1R",
+      "product_name": "Spotlight Oral Care Toothpaste for Total Care | Prevents Cavities & Desensitizes Hypersensitivity | Vegan & Gluten-Free | Active Ingredients of Fluoride & Pentasodium Triphosphate | 100 mL/3.4 fl oz",
+      "published_at_utc": "2021-03-20T04:18:22.293000+00:00",
+      "source_line": 4417,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-47c84d8e0a8877eec8a6a3db",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-06-26T12:53:07.698000+00:00",
+      "source_line": 4419,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-b7d34527cd2c421035c6c774",
+      "product_id": "B07KF56TWK",
+      "product_name": "AROMATICA Tea Tree Toothpaste 5.29oz / 150g Flouride Free, Anti-Plaque, SLS Free, PEG Free, Advanced Teeth Whitening, Safe for The Whole Family",
+      "published_at_utc": "2020-06-24T03:05:32.233000+00:00",
+      "source_line": 4420,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-77b8727b661b43834a927552",
+      "product_id": "B07YJN56SY",
+      "product_name": "Soda\u00a0Toothpaste,Whitening Toothpaste,Stain Removal Toothpaste,Mint Flavour 100% Naturally Derived,Teeth Whitening Toothpaste Fluoride-Free,Flow Gold Quicksand Toothpaste - Polishes Teeth",
+      "published_at_utc": "2020-06-02T14:22:57.435000+00:00",
+      "source_line": 6438,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-83cc6e5470db14c75fb942e1",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2016-11-26T17:35:01+00:00",
+      "source_line": 6555,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-742ab8daefda1857fc8ab279",
+      "product_id": "B086WQBYXT",
+      "product_name": "Periogen Toothpaste - Super Cleaning Plaque & Tartar Control Formula",
+      "published_at_utc": "2020-07-06T19:25:16.102000+00:00",
+      "source_line": 7818,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5fac912a81933245734036d4",
+      "product_id": "B07MP3NK6X",
+      "product_name": "Colgate Total Toothpaste, Clean Mint - 4.8 Ounce, 2 Count",
+      "published_at_utc": "2019-08-02T15:45:16.763000+00:00",
+      "source_line": 8193,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-36ad1bb7b51af4256c77abfe",
+      "product_id": "B08FYQM4HJ",
+      "product_name": "Moringa Essential Toothpaste 100% Fluoride Free - 200 g",
+      "published_at_utc": "2022-07-26T18:41:40.037000+00:00",
+      "source_line": 9536,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-466b0880c76f7a563b2c0805",
+      "product_id": "B08QSLN7BC",
+      "product_name": "Spotlight Oral Care Toothpaste for Whitening",
+      "published_at_utc": "2021-02-27T14:12:12.629000+00:00",
+      "source_line": 9629,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-f6c27986de51010a2a376b69",
+      "product_id": "B086WQBYXT",
+      "product_name": "Periogen Toothpaste - Super Cleaning Plaque & Tartar Control Formula",
+      "published_at_utc": "2020-07-20T22:41:02.993000+00:00",
+      "source_line": 10190,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    }
+  ],
+  "price_value_language": [
+    {
+      "record_id": "AMZ-HPC-5546acab4f869b0e4f64e102",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-03-26T07:53:12.692000+00:00",
+      "source_line": 880,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-0ebe9721610202b32938de46",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-16T14:46:11.856000+00:00",
+      "source_line": 2986,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4804514c089f88f6ca879e75",
+      "product_id": "B07KF56TWK",
+      "product_name": "AROMATICA Tea Tree Toothpaste 5.29oz / 150g Flouride Free, Anti-Plaque, SLS Free, PEG Free, Advanced Teeth Whitening, Safe for The Whole Family",
+      "published_at_utc": "2020-06-26T15:36:10.167000+00:00",
+      "source_line": 4393,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-333f76a2fa770d76e4b4327f",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2017-11-07T15:11:17.313000+00:00",
+      "source_line": 5915,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-6697978fd28d10259b6a6b2e",
+      "product_id": "B07CGXBSNB",
+      "product_name": "LACSIAN All Care Whitening Oral Anticavity Fresh Hot Toothpaste for Gum, Removing Bad Breath, Enamel 120g (4.23 Fl. Oz)",
+      "published_at_utc": "2018-09-08T03:57:03.524000+00:00",
+      "source_line": 6270,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-abdde443de815f8177e193c7",
+      "product_id": "B00PH7XOFY",
+      "product_name": "Anticavity Flouride Toothpaste - 0.85 Ounce Tube - Bulk Pack 144 Tubes",
+      "published_at_utc": "2016-04-11T19:04:19+00:00",
+      "source_line": 6796,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4a0119ac07fa7f892e0fc3de",
+      "product_id": "B016V93EVA",
+      "product_name": "Anima Mundi Tooth Polish - Fluoride-Free Toothpaste Substitute with Bentonite Clay, Coconut Oil + Baking Soda, Raw + Vegan (2oz)",
+      "published_at_utc": "2016-09-18T17:56:23+00:00",
+      "source_line": 8470,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-466b0880c76f7a563b2c0805",
+      "product_id": "B08QSLN7BC",
+      "product_name": "Spotlight Oral Care Toothpaste for Whitening",
+      "published_at_utc": "2021-02-27T14:12:12.629000+00:00",
+      "source_line": 9629,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-a8ef59683c8ae613fce7f069",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-05-11T18:53:00.158000+00:00",
+      "source_line": 12890,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-e1e3037ed28d182b4ace5eba",
+      "product_id": "B086SG4S1R",
+      "product_name": "Spotlight Oral Care Toothpaste for Total Care | Prevents Cavities & Desensitizes Hypersensitivity | Vegan & Gluten-Free | Active Ingredients of Fluoride & Pentasodium Triphosphate | 100 mL/3.4 fl oz",
+      "published_at_utc": "2021-03-17T15:40:07.864000+00:00",
+      "source_line": 16240,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-89157ba03d737604c2a58963",
+      "product_id": "B0007KPCLU",
+      "product_name": "Sonicare Crest IntelliClean Toothpaste, Refills, Fresh Mint (6 Pack)",
+      "published_at_utc": "2006-02-17T00:18:40+00:00",
+      "source_line": 18353,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-8fa998cd69a6e82929782093",
+      "product_id": "B00UP4KNBM",
+      "product_name": "Mentadent Sr Toothpaste 100Ml X 12 Packs",
+      "published_at_utc": "2017-08-28T18:07:56.281000+00:00",
+      "source_line": 21649,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-e12abe82fcd7dbd8ff67831d",
+      "product_id": "B01D63PPS4",
+      "product_name": "Charcoal Toothpaste Best Natural Activated Charcoal Teeth Whitening Toothpaste - Eliminates Bad Breath, Improve Oral Hygiene - Teeth Charcoal Whitner, Fluoride Free (Spearmint)",
+      "published_at_utc": "2016-08-14T18:23:07+00:00",
+      "source_line": 21845,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-00c798bc4a8730b33d170f7f",
+      "product_id": "B01BD5AS70",
+      "product_name": "4 Pack Hello Fluoride Toothpaste Delicious Supermint 5 Oz each 4 Pack",
+      "published_at_utc": "2016-05-08T21:01:48+00:00",
+      "source_line": 23246,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-ff1dbac8e42bd04f5135d15c",
+      "product_id": "B07YJN56SY",
+      "product_name": "Soda\u00a0Toothpaste,Whitening Toothpaste,Stain Removal Toothpaste,Mint Flavour 100% Naturally Derived,Teeth Whitening Toothpaste Fluoride-Free,Flow Gold Quicksand Toothpaste - Polishes Teeth",
+      "published_at_utc": "2019-12-22T20:12:15.608000+00:00",
+      "source_line": 28435,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-8fa741731b76b0c2446040df",
+      "product_id": "B07FMJQMH2",
+      "product_name": "[LG Health Care] Himalaya Pink Salt Toothpaste, Ice Mint Flavor (285g x 2 EA)",
+      "published_at_utc": "2021-04-05T13:04:36.140000+00:00",
+      "source_line": 33421,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-b6e7c965ed3d0660e7e4e6ec",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-09-03T21:54:10+00:00",
+      "source_line": 39095,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-c14eecf10d09ef6d2f0c8583",
+      "product_id": "B08Z5LR2D3",
+      "product_name": "Arm & Hammer Toothpaste 4.3 Ounce Whiten & Strengthen Fresh Mint (Pack of 2)",
+      "published_at_utc": "2022-06-28T13:27:16.923000+00:00",
+      "source_line": 39500,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-8e13ea7db261949aa7fb0f00",
+      "product_id": "B07QBQRW2V",
+      "product_name": "Natural Whitening Activated Charcoal Toothpaste - Mini Travel Size - 24 Grams",
+      "published_at_utc": "2020-11-12T14:02:38.186000+00:00",
+      "source_line": 40135,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5b6bc1dbb23a22aea12accb5",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-09-03T21:33:44+00:00",
+      "source_line": 42466,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-6478e3ba8a118795f6e88ee1",
+      "product_id": "B08TQSV92F",
+      "product_name": "Dental Guru 6 Pack Charcoal Toothpaste with Peppermint - Natural & Fluoride Free - Whiter Teeth & Fresh Breath - Great Taste with Advanced Essential Oil Formula - Suitable for Everyday Use",
+      "published_at_utc": "2021-04-23T20:06:25.523000+00:00",
+      "source_line": 42947,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-f197ef6db183b443ea93ca9a",
+      "product_id": "B09JL17YH6",
+      "product_name": "Colgate Optic White Toothpaste, Stain Fighter, Fresh Mint Gel, Travel Size 2.0 oz (Pack of 2)",
+      "published_at_utc": "2022-09-11T19:04:42.437000+00:00",
+      "source_line": 47052,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-15f03433e64f09dae3653cfb",
+      "product_id": "B086WQBYXT",
+      "product_name": "Periogen Toothpaste - Super Cleaning Plaque & Tartar Control Formula",
+      "published_at_utc": "2023-02-15T02:37:04.038000+00:00",
+      "source_line": 50448,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-7f696eb1ccb2dfd8ab100b88",
+      "product_id": "B07XY8JYNZ",
+      "product_name": "Crest Cavity Protection Toothpaste, Regular Paste, 5.7 oz, Pack of 3",
+      "published_at_utc": "2021-07-23T23:25:26.108000+00:00",
+      "source_line": 56864,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-e947dc72bf95cc15cd2e2ec1",
+      "product_id": "B07JBK8SBH",
+      "product_name": "Natural Bamboo Activated Charcoal Essential Toothpaste (100% Fluoride Free) (1 Tube)",
+      "published_at_utc": "2022-07-10T08:54:05.359000+00:00",
+      "source_line": 61110,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-3de8999a99230f0885bf8eb1",
+      "product_id": "B07ZG4JTBH",
+      "product_name": "Crest Pro-Health Advanced Whitening Power Toothpaste (6.0 Ounce, 5 Count)",
+      "published_at_utc": "2022-02-14T17:11:03.685000+00:00",
+      "source_line": 61328,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-3e3dec7d644b4e71b57b2747",
+      "product_id": "B000HNKZAK",
+      "product_name": "Crest Pro Health Toothpaste Clean Mint - 4.2 Oz",
+      "published_at_utc": "2010-06-12T14:05:19+00:00",
+      "source_line": 62881,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-43f7f2ae26656e72e5f2ac79",
+      "product_id": "B00J0AZ0YM",
+      "product_name": "Colgate Sensitive Enamel Protect Toothpaste, 6.0 Oz",
+      "published_at_utc": "2014-09-26T01:40:21+00:00",
+      "source_line": 63926,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-159b68989a02c8a80d0312f5",
+      "product_id": "B07JBK8SBH",
+      "product_name": "Natural Bamboo Activated Charcoal Essential Toothpaste (100% Fluoride Free) (1 Tube)",
+      "published_at_utc": "2020-08-28T07:10:45.461000+00:00",
+      "source_line": 66327,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-58d7d9c0a2c144ddefb162f5",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2018-05-17T16:52:58.011000+00:00",
+      "source_line": 67372,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    }
+  ],
+  "pack_language": [
+    {
+      "record_id": "AMZ-HPC-6819e432d738d979fda0d794",
+      "product_id": "B00WCQMD78",
+      "product_name": "COLGATE FLUORIDE TOOTHPASTE CAVITY PROTECTION 3.5OZ (Pack of 4)",
+      "published_at_utc": "2017-06-27T16:00:59.542000+00:00",
+      "source_line": 269,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5546acab4f869b0e4f64e102",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-03-26T07:53:12.692000+00:00",
+      "source_line": 880,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-ee90e97fd6ea7ec2e4ead827",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-07-06T15:20:29.617000+00:00",
+      "source_line": 947,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-bcbfd501ca63f5ccc41a2d78",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-06-23T18:12:40.328000+00:00",
+      "source_line": 2436,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-9ee27c08c9f0717e66badf16",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-03-17T02:24:56.532000+00:00",
+      "source_line": 2443,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-c026e911db9683e121946dbe",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-12T02:13:19.229000+00:00",
+      "source_line": 2930,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-57418e2e24571802ec7c71d6",
+      "product_id": "B086SG4S1R",
+      "product_name": "Spotlight Oral Care Toothpaste for Total Care | Prevents Cavities & Desensitizes Hypersensitivity | Vegan & Gluten-Free | Active Ingredients of Fluoride & Pentasodium Triphosphate | 100 mL/3.4 fl oz",
+      "published_at_utc": "2021-03-20T04:18:22.293000+00:00",
+      "source_line": 4417,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-b7d34527cd2c421035c6c774",
+      "product_id": "B07KF56TWK",
+      "product_name": "AROMATICA Tea Tree Toothpaste 5.29oz / 150g Flouride Free, Anti-Plaque, SLS Free, PEG Free, Advanced Teeth Whitening, Safe for The Whole Family",
+      "published_at_utc": "2020-06-24T03:05:32.233000+00:00",
+      "source_line": 4420,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-abdde443de815f8177e193c7",
+      "product_id": "B00PH7XOFY",
+      "product_name": "Anticavity Flouride Toothpaste - 0.85 Ounce Tube - Bulk Pack 144 Tubes",
+      "published_at_utc": "2016-04-11T19:04:19+00:00",
+      "source_line": 6796,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-466b0880c76f7a563b2c0805",
+      "product_id": "B08QSLN7BC",
+      "product_name": "Spotlight Oral Care Toothpaste for Whitening",
+      "published_at_utc": "2021-02-27T14:12:12.629000+00:00",
+      "source_line": 9629,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4f3378c88f3afc83ba73bd58",
+      "product_id": "B01MQK2VKF",
+      "product_name": "Spry Xylitol Toothpaste with Fluoride, Natural Cinnamon, Anti-Cavity, 5 oz",
+      "published_at_utc": "2017-02-23T02:42:46+00:00",
+      "source_line": 10746,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-b89a7923311e2b6eb6a087d5",
+      "product_id": "B09JL17YH6",
+      "product_name": "Colgate Optic White Toothpaste, Stain Fighter, Fresh Mint Gel, Travel Size 2.0 oz (Pack of 2)",
+      "published_at_utc": "2021-08-01T03:18:09.107000+00:00",
+      "source_line": 10926,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-01233584a9018558b13c4457",
+      "product_id": "B06Y29N5PG",
+      "product_name": "Crest Pro-Health Advanced Gum Protection Toothpaste Travel Size 0.85 oz (Pack of 36)",
+      "published_at_utc": "2017-10-30T00:46:27.672000+00:00",
+      "source_line": 11226,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-7aab925be6d59ad2150896b5",
+      "product_id": "B00NVFG18G",
+      "product_name": "DawnMist Anticavity Flouride Toothpaste - 0.85 Ounce Tube - Pack of 12",
+      "published_at_utc": "2019-12-13T17:31:12.603000+00:00",
+      "source_line": 11673,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-68d9853ddaa639a23c716c66",
+      "product_id": "B09JL17YH6",
+      "product_name": "Colgate Optic White Toothpaste, Stain Fighter, Fresh Mint Gel, Travel Size 2.0 oz (Pack of 2)",
+      "published_at_utc": "2022-11-23T16:38:52.332000+00:00",
+      "source_line": 12103,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-e1e3037ed28d182b4ace5eba",
+      "product_id": "B086SG4S1R",
+      "product_name": "Spotlight Oral Care Toothpaste for Total Care | Prevents Cavities & Desensitizes Hypersensitivity | Vegan & Gluten-Free | Active Ingredients of Fluoride & Pentasodium Triphosphate | 100 mL/3.4 fl oz",
+      "published_at_utc": "2021-03-17T15:40:07.864000+00:00",
+      "source_line": 16240,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-89157ba03d737604c2a58963",
+      "product_id": "B0007KPCLU",
+      "product_name": "Sonicare Crest IntelliClean Toothpaste, Refills, Fresh Mint (6 Pack)",
+      "published_at_utc": "2006-02-17T00:18:40+00:00",
+      "source_line": 18353,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-558e2c50c9dca46163270de2",
+      "product_id": "B018EAITMI",
+      "product_name": "Hello Fluoride Toothpaste, Pink Grapefruit Mint 5oz (Pack 2)",
+      "published_at_utc": "2016-06-19T19:11:05+00:00",
+      "source_line": 19341,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-7b304794be123fce0c71479e",
+      "product_id": "B0964KJTWB",
+      "product_name": "Colgate Renewal Gum Whitening Restoration Toothpaste Cool Mint, 3.2 oz (4 Pack)",
+      "published_at_utc": "2022-02-17T21:38:15.620000+00:00",
+      "source_line": 25340,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5f3dce98d049c30e2b360b8c",
+      "product_id": "B089SSG8L3",
+      "product_name": "Baking Soda Toothpaste, Intensive Stain Removal Whitening Toothpaste, Teeth Whitening Toothpaste, Prevent Tooth Decay, Natural Stain Removal Refreshing",
+      "published_at_utc": "2020-11-23T01:40:21.631000+00:00",
+      "source_line": 28227,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-425f7f1670ac2d026b2f20e9",
+      "product_id": "B00OZ42276",
+      "product_name": "Aloe Vera Tooth Gel - Extra Freshness Flouride-Free Toothpaste by LR of Germany - 100 Ml - Active dental cleaning with Echinacea (1)",
+      "published_at_utc": "2015-05-13T04:22:25+00:00",
+      "source_line": 32590,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-8020cbb8108989907527200c",
+      "product_id": "B08QSLN7BC",
+      "product_name": "Spotlight Oral Care Toothpaste for Whitening",
+      "published_at_utc": "2021-08-06T15:13:27.814000+00:00",
+      "source_line": 34502,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-963a4935855a1ec882bc115f",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-07-26T23:23:31+00:00",
+      "source_line": 34975,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-68dcf663883a3bfc58edb3c7",
+      "product_id": "B07CKX86XP",
+      "product_name": "Patanjali Danti Kanti Red Toothpaste (Fresh Breath, Protection From Cavities, Healthy Gums) 100g",
+      "published_at_utc": "2018-06-15T04:14:22.020000+00:00",
+      "source_line": 36712,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-336127f5f37d6a8ddd876544",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-04-08T01:39:47.763000+00:00",
+      "source_line": 37298,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-d0cf14b72d5406d1e68dc8d9",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-25T22:47:46+00:00",
+      "source_line": 39049,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-8e13ea7db261949aa7fb0f00",
+      "product_id": "B07QBQRW2V",
+      "product_name": "Natural Whitening Activated Charcoal Toothpaste - Mini Travel Size - 24 Grams",
+      "published_at_utc": "2020-11-12T14:02:38.186000+00:00",
+      "source_line": 40135,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-bbd9799a4c73bf2cff47f3d5",
+      "product_id": "B00WCQMD78",
+      "product_name": "COLGATE FLUORIDE TOOTHPASTE CAVITY PROTECTION 3.5OZ (Pack of 4)",
+      "published_at_utc": "2018-02-18T22:56:51.888000+00:00",
+      "source_line": 40670,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-78604f494f77297eb5ee9545",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-22T19:21:51+00:00",
+      "source_line": 43476,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-467d74912663ebcf524901ed",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2011-07-29T07:18:28+00:00",
+      "source_line": 47772,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    }
+  ],
+  "repeat_language": [
+    {
+      "record_id": "AMZ-HPC-ee90e97fd6ea7ec2e4ead827",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-07-06T15:20:29.617000+00:00",
+      "source_line": 947,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4f3378c88f3afc83ba73bd58",
+      "product_id": "B01MQK2VKF",
+      "product_name": "Spry Xylitol Toothpaste with Fluoride, Natural Cinnamon, Anti-Cavity, 5 oz",
+      "published_at_utc": "2017-02-23T02:42:46+00:00",
+      "source_line": 10746,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5d4182285b6fde60cbc023f9",
+      "product_id": "B084VPG92Q",
+      "product_name": "BLAQ Activated Charcoal Whitening Toothpaste with Peppermint - 4oz",
+      "published_at_utc": "2023-01-24T06:42:21.385000+00:00",
+      "source_line": 31729,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-2728c70d1025befb44cb679f",
+      "product_id": "B083J6TJJ8",
+      "product_name": "Automatic Toothbrush 360 \u00b0 Toothbrush with Foam Toothpaste, with Automatic LED Lights for Travel and Household use Black",
+      "published_at_utc": "2020-10-21T07:13:06.202000+00:00",
+      "source_line": 107071,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4767279a1e0eeb566ab96c79",
+      "product_id": "B089SSG8L3",
+      "product_name": "Baking Soda Toothpaste, Intensive Stain Removal Whitening Toothpaste, Teeth Whitening Toothpaste, Prevent Tooth Decay, Natural Stain Removal Refreshing",
+      "published_at_utc": "2021-11-11T05:49:25.750000+00:00",
+      "source_line": 127984,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-eaa3a156dd0c6a1e4fa2213e",
+      "product_id": "B073VHNSFW",
+      "product_name": "P & J Health Activated Charcoal Teeth Whitening Toothpaste - Natural Black Bamboo Charcoal Tooth Paste Kit-DESTROYS BAD BREATH & REMOVES COFFEE STAINS (120g, Activated Charcoal)",
+      "published_at_utc": "2017-08-16T21:25:09.762000+00:00",
+      "source_line": 147591,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-767eaf97b0d9457cd5de56d4",
+      "product_id": "B07KF56TWK",
+      "product_name": "AROMATICA Tea Tree Toothpaste 5.29oz / 150g Flouride Free, Anti-Plaque, SLS Free, PEG Free, Advanced Teeth Whitening, Safe for The Whole Family",
+      "published_at_utc": "2021-05-03T19:05:27.670000+00:00",
+      "source_line": 178905,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-09bf0af1f93eac54beca3d9f",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2017-07-12T05:43:33.798000+00:00",
+      "source_line": 205131,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-48d46c98bb940bc29280d68f",
+      "product_id": "B07VK87RNG",
+      "product_name": "Maikoa Baking Soda Passion Fruit WhiteningToothpaste,Press Toothpaste, Intensive Stain Removal Whitening Toothpaste Fight Bleeding Gums Toothpaste",
+      "published_at_utc": "2020-02-27T01:00:57.086000+00:00",
+      "source_line": 285862,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-f9233ca66e8b82ac6a1a134e",
+      "product_id": "B085C26S9D",
+      "product_name": "Freeorr Intensive Stain Removal Gel Toothpaste, Natural Teeth Fresh Breath Oral Care,Press The Pump Packaging Baking Soda Toothpaste-C",
+      "published_at_utc": "2021-02-17T20:53:08.775000+00:00",
+      "source_line": 294212,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-de307044b5a544f4b1bf3dcd",
+      "product_id": "B01BD5AS70",
+      "product_name": "4 Pack Hello Fluoride Toothpaste Delicious Supermint 5 Oz each 4 Pack",
+      "published_at_utc": "2016-07-09T12:25:49+00:00",
+      "source_line": 332593,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4247f7ebe19b56d1c60b1a41",
+      "product_id": "B074SD357H",
+      "product_name": "Always Bright - Activated Charcoal Teeth Whitener Toothpaste - Organic Bamboo Charcoal Toothpaste - New Intensive Natural Formula for Teeth Whitening with Coconut Oil and Bicarbonate \u2013 Mint Flavor",
+      "published_at_utc": "2018-03-16T14:04:59.813000+00:00",
+      "source_line": 406117,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-562322f19233c35868e7e35a",
+      "product_id": "B09JL17YH6",
+      "product_name": "Colgate Optic White Toothpaste, Stain Fighter, Fresh Mint Gel, Travel Size 2.0 oz (Pack of 2)",
+      "published_at_utc": "2021-08-01T19:38:17.914000+00:00",
+      "source_line": 430596,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-e248bfd932a45538bcadf210",
+      "product_id": "B09D2YF3SS",
+      "product_name": "Hismile Day & Night Toothpaste - Daily Use Toothpaste - Separate Formulas for Day and Night Use - Protective Micro-Shield Wax - 2 x 80g Tubes",
+      "published_at_utc": "2022-09-14T12:58:10.093000+00:00",
+      "source_line": 436034,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-d15243b2e07b20752a70ae10",
+      "product_id": "B01CZ5DVGM",
+      "product_name": "Black is White Set (Toothpaste 90 ml and Toothbrush Ultrasoft) by Curaprox",
+      "published_at_utc": "2017-10-08T20:32:11.514000+00:00",
+      "source_line": 447367,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-b4e5268ba92b174ebd829585",
+      "product_id": "B074SD357H",
+      "product_name": "Always Bright - Activated Charcoal Teeth Whitener Toothpaste - Organic Bamboo Charcoal Toothpaste - New Intensive Natural Formula for Teeth Whitening with Coconut Oil and Bicarbonate \u2013 Mint Flavor",
+      "published_at_utc": "2018-08-13T22:44:34.534000+00:00",
+      "source_line": 465977,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-517eb7b9184b0b9932c4b3ad",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-09-02T23:54:46+00:00",
+      "source_line": 491877,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-306ed779ea478188123ce8eb",
+      "product_id": "B09H3HM2QK",
+      "product_name": "Better & Better Toothpaste Bundle | Natural, SLS-Free, Fluoride-Free, Vegan | Whitening & Antiplaque & Vitamin Toothpaste | Clean & Fresh Organic Mint (1 Pouch Remarkably Pure, 1 Pouch Fully Charged)",
+      "published_at_utc": "2022-03-17T19:45:57.536000+00:00",
+      "source_line": 11882,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-e57770741c47f507b9ad7426",
+      "product_id": "B08S8QNW2K",
+      "product_name": "Crest Complete Active Fresh + Whitening Toothpaste, 5.5oz (Pack of 4)",
+      "published_at_utc": "2022-10-13T22:50:17.110000+00:00",
+      "source_line": 19116,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-9a1badd8690d977d4669bc65",
+      "product_id": "B01MUA08C1",
+      "product_name": "Crest Pro-Health Advanced Sensitive & Enamel Shield Toothpaste, 5.1 Ounce (Pack of 1) - Packaging May Vary",
+      "published_at_utc": "2021-12-14T22:41:31.532000+00:00",
+      "source_line": 19203,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-4f9cc9c568488b8d07a22014",
+      "product_id": "B0BTR1FDML",
+      "product_name": "Crest Toothpaste Gum Detoxify Deep Clean, 4.1 Oz (Pack of 3)",
+      "published_at_utc": "2020-12-11T04:36:08.713000+00:00",
+      "source_line": 19316,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-e812b82bd9987b0579bad4b6",
+      "product_id": "B07C352Y2P",
+      "product_name": "Desert Essence Tea Tree Oil Toothpaste w/ Neem, 7- Ounce",
+      "published_at_utc": "2021-10-09T19:13:47.561000+00:00",
+      "source_line": 20140,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-b83b9575da5e7bbf187f3e2a",
+      "product_id": "B01BI9K02Y",
+      "product_name": "Sensodyne True White Sensitive Teeth Whitening Toothpaste, Stained Teeth and Sensitive Teeth Treatment, Mint - 3 Ounces",
+      "published_at_utc": "2020-06-26T22:58:06.135000+00:00",
+      "source_line": 21644,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-0fa91843a45bd633e7fc6e59",
+      "product_id": "B07L2JN4XS",
+      "product_name": "Uncle Harry's Peppermint Remineralizing Toothpaste | Natural Whitening Toothpaste Freshens Breath & Promotes Enamel | Vegan Fluoride Free Toothpaste",
+      "published_at_utc": "2018-08-10T12:31:55.260000+00:00",
+      "source_line": 29811,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-b3e0c56caa53ed1768a794ee",
+      "product_id": "B0B7M6DPXT",
+      "product_name": "Anti-Sensitive Toothpaste for Sensitive Teeth, Nh Pro Enamel Care Toothpaste, Sensitive Teeth Toothpaste, Provides 24/7 Sensitivity Protection, Enamel Repair and Cavity Protection",
+      "published_at_utc": "2022-08-17T16:00:34.806000+00:00",
+      "source_line": 31576,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-19c168b696836002e9fcc146",
+      "product_id": "B093TM11WZ",
+      "product_name": "Himalaya Whitening Antiplaque Toothpaste with Bamboo + Sea Salt, Fluoride Free, for Gentle Whitening, 4 oz, 4 Pack",
+      "published_at_utc": "2021-05-12T16:31:00.800000+00:00",
+      "source_line": 32238,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-0f11ddb6673ce54aae23c4af",
+      "product_id": "B08QSM8SVB",
+      "product_name": "Spotlight Oral Care Toothpaste for Rebuilding Teeth",
+      "published_at_utc": "2021-03-13T01:24:03.231000+00:00",
+      "source_line": 32284,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-b4d3f0e21e8ea37f32d60920",
+      "product_id": "B081CFLR8Q",
+      "product_name": "Teeth Whitening,Purple Toothpaste for Teeth Whitening,Teeth Whitening Booster,Tooth Stain Removal,Teeth Whitener,Purple Whitening Toothpaste",
+      "published_at_utc": "2020-02-28T23:44:05.087000+00:00",
+      "source_line": 39122,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-22fe211bf4fe89fab495a39c",
+      "product_id": "B08NCQGZJ8",
+      "product_name": "Red Seal Teeth Whitening Toothpaste with Baking Soda, Activated Charcoal Spheres, Coconut Oil for Visibly Brighter Smile \u2013 Fluoride Free, No SLS, Paraben Free",
+      "published_at_utc": "2021-05-25T03:53:59.709000+00:00",
+      "source_line": 42241,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HH-58647724226b60355afb1f0f",
+      "product_id": "B07HJXKY71",
+      "product_name": "Hello Naturally Whitening Fluoride Toothpaste, Farm Grown Mint, Vegan, SLS Free, Gluten Free, Peroxide Free, 4.7 Ounce (Pack of 4)",
+      "published_at_utc": "2021-11-29T09:54:19.985000+00:00",
+      "source_line": 45388,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Household.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    }
+  ],
+  "household_language": [
+    {
+      "record_id": "AMZ-HPC-e6827cab7540722b6453724f",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2018-01-07T20:37:59.292000+00:00",
+      "source_line": 2393,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-d9ac9f39fa325c1431993d7f",
+      "product_id": "B07QBCZPNB",
+      "product_name": "Colgate Anticavity Fluoride Toothpaste Hydris Dry Mouth, 4.2 Ounce (Pack of 4)",
+      "published_at_utc": "2019-12-06T15:33:12.311000+00:00",
+      "source_line": 8251,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-7aab925be6d59ad2150896b5",
+      "product_id": "B00NVFG18G",
+      "product_name": "DawnMist Anticavity Flouride Toothpaste - 0.85 Ounce Tube - Pack of 12",
+      "published_at_utc": "2019-12-13T17:31:12.603000+00:00",
+      "source_line": 11673,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-501025c072cb4e2aafa53694",
+      "product_id": "B07J9JGZZV",
+      "product_name": "Piksters Plaque Glo - Plaque Disclosing Toothpaste and torch system (Tropical)",
+      "published_at_utc": "2019-11-08T14:14:53.137000+00:00",
+      "source_line": 12182,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-8fa998cd69a6e82929782093",
+      "product_id": "B00UP4KNBM",
+      "product_name": "Mentadent Sr Toothpaste 100Ml X 12 Packs",
+      "published_at_utc": "2017-08-28T18:07:56.281000+00:00",
+      "source_line": 21649,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-0a732a2f6525afcafeb8d242",
+      "product_id": "B00J2LC9J8",
+      "product_name": "Tom's of Maine Natural Clean and Gentle Toothpaste, Peppermint, 4.7 Ounce",
+      "published_at_utc": "2015-05-30T01:37:04+00:00",
+      "source_line": 32450,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-474b3862c94365da6ce09de2",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-28T05:23:33+00:00",
+      "source_line": 33168,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-d527c83c5b57273f7e8af222",
+      "product_id": "B00E9SMTWQ",
+      "product_name": "Shaklee New Concept Organic Dentifrice - Wintergreen",
+      "published_at_utc": "2013-12-12T23:36:15+00:00",
+      "source_line": 56972,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-df43cbb250f076c275644e8c",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-12T17:21:36+00:00",
+      "source_line": 67585,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-a422eaec57cf0779b47b8bb8",
+      "product_id": "B07J9JGZZV",
+      "product_name": "Piksters Plaque Glo - Plaque Disclosing Toothpaste and torch system (Tropical)",
+      "published_at_utc": "2021-05-18T18:17:14.213000+00:00",
+      "source_line": 70134,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-f8c6e3d43a35b5f1d0e85bc8",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2018-08-03T02:42:54.689000+00:00",
+      "source_line": 73350,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-2a79598937990ad8b5041bee",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-29T11:31:16+00:00",
+      "source_line": 74650,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-3e25690044ab13e8870b665a",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2017-11-30T13:16:14.851000+00:00",
+      "source_line": 77613,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-d2a3d6b1eec93ae932e23277",
+      "product_id": "B09PJZ6CHF",
+      "product_name": "Automatic Toothbrush Ultrasonic Toothbrush 360\u00b0 Electric Portable U Shaped Toothbrush with foam toothpaste, Washable and Rechargeable with Automatic LED Lights for Travel and Household Use (White)",
+      "published_at_utc": "2023-02-19T03:38:47.406000+00:00",
+      "source_line": 91306,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-d640afaa31ed7639d03b4ba1",
+      "product_id": "B07J9JGZZV",
+      "product_name": "Piksters Plaque Glo - Plaque Disclosing Toothpaste and torch system (Tropical)",
+      "published_at_utc": "2019-11-18T14:54:18.708000+00:00",
+      "source_line": 107389,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-026924b23b2ea3023ba23987",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-26T00:12:38+00:00",
+      "source_line": 120220,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-2d5b29c3a3c97791dd4b7f5d",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2017-08-03T17:12:51.220000+00:00",
+      "source_line": 124376,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5e6035ba6c63af363742f7cc",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-01T23:03:38+00:00",
+      "source_line": 127151,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-7413a91415f8411164eef59a",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-09-04T16:57:57+00:00",
+      "source_line": 127651,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-44616f801a365412e6fe4138",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-09-03T16:13:52+00:00",
+      "source_line": 128274,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-88f1862806fc413301eb480c",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-28T23:33:10+00:00",
+      "source_line": 151040,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-24892edf15e70d28626062a0",
+      "product_id": "B013BWQ01Q",
+      "product_name": "K.P.Namboodiri's Ayurvedic Tooth Paste 100 gm (Pack of 2)",
+      "published_at_utc": "2021-07-08T20:52:22.400000+00:00",
+      "source_line": 154973,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-c3c538c14b2aea352888ca1b",
+      "product_id": "B000HNKZAK",
+      "product_name": "Crest Pro Health Toothpaste Clean Mint - 4.2 Oz",
+      "published_at_utc": "2011-01-04T21:13:57+00:00",
+      "source_line": 155858,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-c3e0c448fbcad556c0d36423",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-09-01T18:07:36+00:00",
+      "source_line": 157332,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-a46b0d10d8454617171c1525",
+      "product_id": "B00PH7XOFY",
+      "product_name": "Anticavity Flouride Toothpaste - 0.85 Ounce Tube - Bulk Pack 144 Tubes",
+      "published_at_utc": "2017-08-11T18:41:54.596000+00:00",
+      "source_line": 169971,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-c11444fced451020e64a7808",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-26T02:23:27+00:00",
+      "source_line": 173126,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-b8127c3ede662f8a66187208",
+      "product_id": "B00OZ42276",
+      "product_name": "Aloe Vera Tooth Gel - Extra Freshness Flouride-Free Toothpaste by LR of Germany - 100 Ml - Active dental cleaning with Echinacea (1)",
+      "published_at_utc": "2022-05-23T22:13:56.055000+00:00",
+      "source_line": 173583,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-43c107a4235840a894c346c0",
+      "product_id": "B0B8V1Z37H",
+      "product_name": "Teeth Whitening Foam Toothpaste,Baking Soda Toothpaste, Intensive Stain Removal Toothpaste,Baking Soda Spearmint Whitening Mousse",
+      "published_at_utc": "2022-09-27T14:08:27.513000+00:00",
+      "source_line": 178782,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-f1c1402a26d59c80a0ed900c",
+      "product_id": "B0973KY9PL",
+      "product_name": "Terra & Co., Brilliant Black Toothpaste (2 Ounces, 3 Count) | Natural Ingredients with Activated Charcoal | Organic Teeth Whitening Products | Vegan & Cruelty Free | Luxury Dental Care\u2026",
+      "published_at_utc": "2021-08-14T16:49:43.315000+00:00",
+      "source_line": 179427,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-a700d7aee1c6c38989d96f50",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-28T21:45:17+00:00",
+      "source_line": 181559,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    }
+  ],
+  "need_result_language": [
+    {
+      "record_id": "AMZ-HPC-02e018f3b78ed524b149a8a0",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-03-10T14:22:01.201000+00:00",
+      "source_line": 839,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5546acab4f869b0e4f64e102",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2020-03-26T07:53:12.692000+00:00",
+      "source_line": 880,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-ee90e97fd6ea7ec2e4ead827",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-07-06T15:20:29.617000+00:00",
+      "source_line": 947,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-cfb13be098ee4735efb55646",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-14T20:21:34.052000+00:00",
+      "source_line": 1174,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-cb5da6cc47da20098b528be8",
+      "product_id": "B0B8V1Z37H",
+      "product_name": "Teeth Whitening Foam Toothpaste,Baking Soda Toothpaste, Intensive Stain Removal Toothpaste,Baking Soda Spearmint Whitening Mousse",
+      "published_at_utc": "2022-09-16T02:13:25.415000+00:00",
+      "source_line": 2407,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-bcbfd501ca63f5ccc41a2d78",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-06-23T18:12:40.328000+00:00",
+      "source_line": 2436,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-c026e911db9683e121946dbe",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-12T02:13:19.229000+00:00",
+      "source_line": 2930,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-0ebe9721610202b32938de46",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-16T14:46:11.856000+00:00",
+      "source_line": 2986,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-55767585146cfa265f6c0436",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-03-27T16:46:13.959000+00:00",
+      "source_line": 3801,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4804514c089f88f6ca879e75",
+      "product_id": "B07KF56TWK",
+      "product_name": "AROMATICA Tea Tree Toothpaste 5.29oz / 150g Flouride Free, Anti-Plaque, SLS Free, PEG Free, Advanced Teeth Whitening, Safe for The Whole Family",
+      "published_at_utc": "2020-06-26T15:36:10.167000+00:00",
+      "source_line": 4393,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-47c84d8e0a8877eec8a6a3db",
+      "product_id": "B086VTLF63",
+      "product_name": "Natural Sensitive Toothpaste (3PK) - Fluoride Free - Toothpaste for Sensitive Teeth and Gums - Vegan, SLS Free, No Artificial Flavor, Sweetener, Color - Healthy Tooth & Gum Oral Care",
+      "published_at_utc": "2020-06-26T12:53:07.698000+00:00",
+      "source_line": 4419,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-333f76a2fa770d76e4b4327f",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2017-11-07T15:11:17.313000+00:00",
+      "source_line": 5915,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-77b8727b661b43834a927552",
+      "product_id": "B07YJN56SY",
+      "product_name": "Soda\u00a0Toothpaste,Whitening Toothpaste,Stain Removal Toothpaste,Mint Flavour 100% Naturally Derived,Teeth Whitening Toothpaste Fluoride-Free,Flow Gold Quicksand Toothpaste - Polishes Teeth",
+      "published_at_utc": "2020-06-02T14:22:57.435000+00:00",
+      "source_line": 6438,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-83cc6e5470db14c75fb942e1",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2016-11-26T17:35:01+00:00",
+      "source_line": 6555,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-629eeed53230a1907c4d5390",
+      "product_id": "B01GAUE0GI",
+      "product_name": "Charcoal Toothpaste, Activated Charcoal Toothpaste,Sensitive Toothpaste, No Fluoride,SLS Free,Activated Charcoal Coconut | Eliminates Bad Breath| Travel Toothpaste Bulk | Size 50 G (3 pack)",
+      "published_at_utc": "2017-08-05T04:32:23.576000+00:00",
+      "source_line": 7598,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-742ab8daefda1857fc8ab279",
+      "product_id": "B086WQBYXT",
+      "product_name": "Periogen Toothpaste - Super Cleaning Plaque & Tartar Control Formula",
+      "published_at_utc": "2020-07-06T19:25:16.102000+00:00",
+      "source_line": 7818,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-b9117aa9438c44fdba33522b",
+      "product_id": "B01CZ5DVGM",
+      "product_name": "Black is White Set (Toothpaste 90 ml and Toothbrush Ultrasoft) by Curaprox",
+      "published_at_utc": "2017-04-03T02:31:52+00:00",
+      "source_line": 8119,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-5fac912a81933245734036d4",
+      "product_id": "B07MP3NK6X",
+      "product_name": "Colgate Total Toothpaste, Clean Mint - 4.8 Ounce, 2 Count",
+      "published_at_utc": "2019-08-02T15:45:16.763000+00:00",
+      "source_line": 8193,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-4a0119ac07fa7f892e0fc3de",
+      "product_id": "B016V93EVA",
+      "product_name": "Anima Mundi Tooth Polish - Fluoride-Free Toothpaste Substitute with Bentonite Clay, Coconut Oil + Baking Soda, Raw + Vegan (2oz)",
+      "published_at_utc": "2016-09-18T17:56:23+00:00",
+      "source_line": 8470,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-466b0880c76f7a563b2c0805",
+      "product_id": "B08QSLN7BC",
+      "product_name": "Spotlight Oral Care Toothpaste for Whitening",
+      "published_at_utc": "2021-02-27T14:12:12.629000+00:00",
+      "source_line": 9629,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-c22fdba3d1e805402b5bc873",
+      "product_id": "B07JBK8SBH",
+      "product_name": "Natural Bamboo Activated Charcoal Essential Toothpaste (100% Fluoride Free) (1 Tube)",
+      "published_at_utc": "2022-03-15T22:51:56.990000+00:00",
+      "source_line": 9875,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-a76abaae16f3f3588a707015",
+      "product_id": "B06Y6MGLT8",
+      "product_name": "Natural Charcoal Teeth Whitening Toothpaste| Charcoal Toothpaste Made in USA| Acti-vated Charcoal Toothpaste for Healthy Gums & Pearly Whites| Organic Vegan Coconut Char-coal Toothpaste Whitening",
+      "published_at_utc": "2019-01-21T17:33:31.405000+00:00",
+      "source_line": 10320,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-68d9853ddaa639a23c716c66",
+      "product_id": "B09JL17YH6",
+      "product_name": "Colgate Optic White Toothpaste, Stain Fighter, Fresh Mint Gel, Travel Size 2.0 oz (Pack of 2)",
+      "published_at_utc": "2022-11-23T16:38:52.332000+00:00",
+      "source_line": 12103,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-a8ef59683c8ae613fce7f069",
+      "product_id": "B08QSKXHKF",
+      "product_name": "Spotlight Oral Care Toothpaste for Sensitive Teeth",
+      "published_at_utc": "2021-05-11T18:53:00.158000+00:00",
+      "source_line": 12890,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-f8de66d9a91d4890b599bb28",
+      "product_id": "B001JJ69RE",
+      "product_name": "Crest Pro-Health Toothpaste Whitening Fresh Clean Mint 4.2 Oz",
+      "published_at_utc": "2014-08-30T20:17:04+00:00",
+      "source_line": 15490,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-e1e3037ed28d182b4ace5eba",
+      "product_id": "B086SG4S1R",
+      "product_name": "Spotlight Oral Care Toothpaste for Total Care | Prevents Cavities & Desensitizes Hypersensitivity | Vegan & Gluten-Free | Active Ingredients of Fluoride & Pentasodium Triphosphate | 100 mL/3.4 fl oz",
+      "published_at_utc": "2021-03-17T15:40:07.864000+00:00",
+      "source_line": 16240,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-2f12426df57304c708dded79",
+      "product_id": "B076PRZ9J3",
+      "product_name": "SprinJene White Boost Natural \u2122 Cavity Protection Toothpaste",
+      "published_at_utc": "2018-04-25T18:13:55.336000+00:00",
+      "source_line": 17957,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-89157ba03d737604c2a58963",
+      "product_id": "B0007KPCLU",
+      "product_name": "Sonicare Crest IntelliClean Toothpaste, Refills, Fresh Mint (6 Pack)",
+      "published_at_utc": "2006-02-17T00:18:40+00:00",
+      "source_line": 18353,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-062686687b707d8715f96b87",
+      "product_id": "B09PJZ6CHF",
+      "product_name": "Automatic Toothbrush Ultrasonic Toothbrush 360\u00b0 Electric Portable U Shaped Toothbrush with foam toothpaste, Washable and Rechargeable with Automatic LED Lights for Travel and Household Use (White)",
+      "published_at_utc": "2022-10-26T15:11:15.680000+00:00",
+      "source_line": 18601,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    },
+    {
+      "record_id": "AMZ-HPC-7d391ee664ea713395f082b7",
+      "product_id": "B01CZ5DVGM",
+      "product_name": "Black is White Set (Toothpaste 90 ml and Toothbrush Ultrasoft) by Curaprox",
+      "published_at_utc": "2017-09-01T20:19:44.611000+00:00",
+      "source_line": 19254,
+      "source_url": "https://huggingface.co/datasets/McAuley-Lab/Amazon-Reviews-2023/resolve/main/raw/review_categories/Health_and_Personal_Care.jsonl",
+      "scope": "nonIndonesia historical comparator; lexical candidate only"
+    }
+  ]
+}

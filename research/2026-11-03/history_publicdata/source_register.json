@@ -1,0 +1,82 @@
+[
+  {
+    "source_id": "HP01",
+    "url": "https://www.indomaret.co.id/wp-content/uploads/2025/06/PDF-SH-26-Juni-2025-JawaBaliLombok-Compressed.pdfFF_.pdf",
+    "title": "Indomaret Super Hemat 26 June–9 July 2025",
+    "file": "raw/indomaret_20250626.pdf",
+    "access": "downloaded; PDF page18 visually verified",
+    "scope": "Java/Bali/Lombok flyer; not branch stock"
+  },
+  {
+    "source_id": "HP02",
+    "url": "https://www.indomaret.co.id/wp-content/uploads/2025/07/PDF-SH-24-Juli-2025-JawaBaliLombok-Com.pdf",
+    "title": "Indomaret Super Hemat 24 July–6 August 2025",
+    "file": "raw/indomaret_20250724.pdf",
+    "access": "downloaded; PDF pages15–16 visually verified",
+    "scope": "Java/Bali/Lombok; excludes Indomaret Point"
+  },
+  {
+    "source_id": "HP03",
+    "url": "https://www.bankmandiri.co.id/documents/20143/175704414/FAQ%2BDaftar%2BProduk%2BCentury%2BAnniversary.pdf/6ca1b5bc-bb75-072e-c8db-9e0fcd250bde?t=1758859152400&version=1.0",
+    "title": "Century Anniversary QRIS Livin Mandiri promo product list",
+    "file": "raw/century_mandiri_202411.pdf",
+    "access": "downloaded; PDF page9 rows355,358,359 visually verified",
+    "scope": "6–30 November2024; campaign payment context"
+  },
+  {
+    "source_id": "HP04",
+    "url": "https://blog.klikindomaret.com/wp-content/uploads/2024/09/PDF-SH-5-September-2024-Dengan-Link.pdf",
+    "title": "Indomaret Super Hemat5–18 September2024",
+    "file": "raw/open05.json",
+    "access": "web PDF open+screenshots; direct HTTP403; PDFpage14 visually verified",
+    "scope": "flyer; no branch stock"
+  },
+  {
+    "source_id": "HP05",
+    "url": "https://www.tanyapepsodent.com/pepsodent-halodoc-terms-conditions.html",
+    "title": "Pepsodent×Halodoc terms",
+    "file": "raw/halodoc_terms.txt",
+    "access": "downloaded; web lines138–158",
+    "scope": "August2024–July2025; special-marked packs"
+  },
+  {
+    "source_id": "HP06",
+    "url": "https://www.tanyapepsodent.com/promo-fifa-unjukgigi-terms-conditions.html",
+    "title": "Pepsodent FIFA Unjuk Gigi terms",
+    "file": "raw/fifa_terms.txt",
+    "access": "downloaded; web lines138–159",
+    "scope": "16May–30June2024; campaign title refers FIFA2026"
+  },
+  {
+    "source_id": "HP07",
+    "url": "https://repository.badankebijakan.kemkes.go.id/5534/1/04%20factsheet%20Gilut_bahasa.pdf",
+    "title": "Kesehatan Gigi dan Mulut di Indonesia—SKI2023 factsheet",
+    "file": "raw/ski_factsheet.pdf",
+    "access": "downloaded; PDFpage2 visually verified",
+    "scope": "national≥3years;2018/2023; reported interview behavior"
+  },
+  {
+    "source_id": "HP08",
+    "url": "https://sirusa.bps.go.id/metadata/variabel/3bf88b6a-eaa5-5ada-82e6-8ab10e95fe5a",
+    "title": "BPS Pengeluaran Aneka Barang dan Jasa variable metadata",
+    "file": "raw/bps_variable.txt",
+    "access": "direct HTTP200; web page403; saved HTML/text",
+    "scope": "related activity Susenas2025; variableR268; value code269 groups personal care"
+  },
+  {
+    "source_id": "HP09",
+    "url": "https://www.unilever.co.id/news/press-releases/2026/kinerja-semester-i-2026-unvr-penjualan-bersih-rp169-triliun-fundamental-semakin-kuat-dan-pertumbuhan-berkelanjutan/",
+    "title": "Unilever Indonesia H1 2026 performance release",
+    "file": "raw/search02.json",
+    "access": "official search full-text retrieval; release date28July2026 verified investor page",
+    "scope": "continuing company operations excluding SariWangi, not brand-tier"
+  },
+  {
+    "source_id": "HP10",
+    "url": "https://www.unilever.co.id/investor/lihat-hasil-dan-presentasi-perusahaan/ikhtisar-perusahaan-fy-2025/",
+    "title": "Unilever Indonesia FY2025 overview",
+    "file": "raw/search01.json",
+    "access": "official search retrieval",
+    "scope": "company continuing operations, not Pepsodent Premium"
+  }
+]

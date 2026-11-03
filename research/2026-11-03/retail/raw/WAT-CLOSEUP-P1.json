@@ -1,0 +1,3599 @@
+{
+  "type": "productCategorySearchPageWsDTO",
+  "breadcrumbs": [
+    {
+      "facetCode": "productBrandCode",
+      "facetName": "productBrandCode",
+      "facetValueCode": "CLOSE-UP",
+      "facetValueName": "CLOSE UP",
+      "removeQuery": {
+        "query": {
+          "value": ":bestSeller"
+        },
+        "url": "/search?q=%3AbestSeller"
+      }
+    }
+  ],
+  "consultantList": [],
+  "currentQuery": {
+    "query": {
+      "value": ":bestSeller:productBrandCode:CLOSE-UP"
+    },
+    "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP"
+  },
+  "elabIsAdultOnly": false,
+  "elabIsFoundation": false,
+  "facets": [
+    {
+      "category": true,
+      "code": "category",
+      "multiSelect": true,
+      "name": "Category",
+      "priority": 90000,
+      "values": [
+        {
+          "code": "020000",
+          "count": 10,
+          "name": "Perawatan Tubuh",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:category:020000"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3Acategory%3A020000"
+          },
+          "selected": false
+        },
+        {
+          "code": "020500",
+          "count": 10,
+          "name": "Kesehatan Mulut",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:category:020500"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3Acategory%3A020500"
+          },
+          "selected": false
+        },
+        {
+          "code": "020503",
+          "count": 1,
+          "name": "Sikat Gigi",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:category:020503"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3Acategory%3A020503"
+          },
+          "selected": false
+        },
+        {
+          "code": "020504",
+          "count": 9,
+          "name": "Pasta Gigi",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:category:020504"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3Acategory%3A020504"
+          },
+          "selected": false
+        },
+        {
+          "code": "1",
+          "count": 10,
+          "name": "Product Categories",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:category:1"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3Acategory%3A1"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 4,
+      "type": "string"
+    },
+    {
+      "category": false,
+      "code": "isStorePickupAllowed",
+      "multiSelect": true,
+      "name": "Pick Up Options",
+      "priority": 80000,
+      "values": [
+        {
+          "code": "false",
+          "count": 9,
+          "name": "homeDelivery",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:isStorePickupAllowed:false:isStorePickupAllowed:1"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AisStorePickupAllowed%3Afalse%3AisStorePickupAllowed%3A1"
+          },
+          "selected": false
+        },
+        {
+          "code": "true",
+          "count": 1,
+          "name": "clickAndCollect",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:isStorePickupAllowed:true"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AisStorePickupAllowed%3Atrue"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "boolean"
+    },
+    {
+      "category": false,
+      "code": "masterBrandName",
+      "multiSelect": true,
+      "name": "Brand",
+      "priority": 70000,
+      "values": [
+        {
+          "code": "CLOSE UP",
+          "count": 10,
+          "name": "CLOSE UP",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:masterBrandName:CLOSE+UP"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AmasterBrandName%3ACLOSE%2BUP"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "string"
+    },
+    {
+      "category": false,
+      "code": "priceValue",
+      "multiSelect": true,
+      "name": "Price From",
+      "priority": 60000,
+      "values": [
+        {
+          "code": "13500.0",
+          "count": 1,
+          "name": "13500.0",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:priceValue:13500.0"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3ApriceValue%3A13500.0"
+          },
+          "selected": false
+        },
+        {
+          "code": "13900.0",
+          "count": 1,
+          "name": "13900.0",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:priceValue:13900.0"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3ApriceValue%3A13900.0"
+          },
+          "selected": false
+        },
+        {
+          "code": "16500.0",
+          "count": 2,
+          "name": "16500.0",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:priceValue:16500.0"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3ApriceValue%3A16500.0"
+          },
+          "selected": false
+        },
+        {
+          "code": "25100.0",
+          "count": 1,
+          "name": "25100.0",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:priceValue:25100.0"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3ApriceValue%3A25100.0"
+          },
+          "selected": false
+        },
+        {
+          "code": "25500.0",
+          "count": 1,
+          "name": "25500.0",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:priceValue:25500.0"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3ApriceValue%3A25500.0"
+          },
+          "selected": false
+        },
+        {
+          "code": "27500.0",
+          "count": 1,
+          "name": "27500.0",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:priceValue:27500.0"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3ApriceValue%3A27500.0"
+          },
+          "selected": false
+        },
+        {
+          "code": "28500.0",
+          "count": 1,
+          "name": "28500.0",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:priceValue:28500.0"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3ApriceValue%3A28500.0"
+          },
+          "selected": false
+        },
+        {
+          "code": "58000.0",
+          "count": 2,
+          "name": "58000.0",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:priceValue:58000.0"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3ApriceValue%3A58000.0"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "string"
+    },
+    {
+      "category": false,
+      "code": "allPromotions",
+      "multiSelect": true,
+      "name": "Promotion",
+      "priority": 50000,
+      "values": [
+        {
+          "code": "Beli 2 Bayar 1",
+          "count": 2,
+          "name": "Beli 2 Bayar 1",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:allPromotions:Beli+2+Bayar+1"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AallPromotions%3ABeli%2B2%2BBayar%2B1"
+          },
+          "selected": false
+        },
+        {
+          "code": "–35%",
+          "count": 3,
+          "name": "–35%",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:allPromotions:%E2%80%9335%25"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AallPromotions%3A%25E2%2580%259335%2525"
+          },
+          "selected": false
+        },
+        {
+          "code": "–40%",
+          "count": 3,
+          "name": "–40%",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:allPromotions:%E2%80%9340%25"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AallPromotions%3A%25E2%2580%259340%2525"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "string"
+    },
+    {
+      "category": false,
+      "code": "isColorMe",
+      "multiSelect": false,
+      "name": "Is Color Me",
+      "priority": 40000,
+      "values": [
+        {
+          "code": "false",
+          "count": 10,
+          "name": "false",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:isColorMe:false"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AisColorMe%3Afalse"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "boolean"
+    },
+    {
+      "category": false,
+      "code": "isInStock",
+      "multiSelect": false,
+      "name": "In Stock",
+      "priority": 30000,
+      "values": [
+        {
+          "code": "true",
+          "count": 10,
+          "name": "true",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:isInStock:true"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AisInStock%3Atrue"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "boolean"
+    },
+    {
+      "category": true,
+      "code": "categoriesHierarchy",
+      "multiSelect": true,
+      "name": "categoriesHierarchy",
+      "priority": 8000,
+      "values": [
+        {
+          "code": "020000||Perawatan Tubuh;1||Product Categories",
+          "count": 10,
+          "name": "020000||Perawatan Tubuh;1||Product Categories",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:020000%7C%7CPerawatan+Tubuh%3B1%7C%7CProduct+Categories"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3A020000%257C%257CPerawatan%2BTubuh%253B1%257C%257CProduct%2BCategories"
+          },
+          "selected": false
+        },
+        {
+          "code": "020500||Kesehatan Mulut;020000||Perawatan Tubuh",
+          "count": 10,
+          "name": "020500||Kesehatan Mulut;020000||Perawatan Tubuh",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:020500%7C%7CKesehatan+Mulut%3B020000%7C%7CPerawatan+Tubuh"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3A020500%257C%257CKesehatan%2BMulut%253B020000%257C%257CPerawatan%2BTubuh"
+          },
+          "selected": false
+        },
+        {
+          "code": "020503||Sikat Gigi;020500||Kesehatan Mulut",
+          "count": 1,
+          "name": "020503||Sikat Gigi;020500||Kesehatan Mulut",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:020503%7C%7CSikat+Gigi%3B020500%7C%7CKesehatan+Mulut"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3A020503%257C%257CSikat%2BGigi%253B020500%257C%257CKesehatan%2BMulut"
+          },
+          "selected": false
+        },
+        {
+          "code": "020504||Pasta Gigi;020500||Kesehatan Mulut",
+          "count": 9,
+          "name": "020504||Pasta Gigi;020500||Kesehatan Mulut",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:020504%7C%7CPasta+Gigi%3B020500%7C%7CKesehatan+Mulut"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3A020504%257C%257CPasta%2BGigi%253B020500%257C%257CKesehatan%2BMulut"
+          },
+          "selected": false
+        },
+        {
+          "code": "1||Product Categories",
+          "count": 10,
+          "name": "1||Product Categories",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:1%7C%7CProduct+Categories"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3A1%257C%257CProduct%2BCategories"
+          },
+          "selected": false
+        },
+        {
+          "code": "better-packaging||Better Packaging",
+          "count": 5,
+          "name": "better-packaging||Better Packaging",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:better-packaging%7C%7CBetter+Packaging"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Abetter-packaging%257C%257CBetter%2BPackaging"
+          },
+          "selected": false
+        },
+        {
+          "code": "member-special-of-month||Member Special of Month",
+          "count": 1,
+          "name": "member-special-of-month||Member Special of Month",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:member-special-of-month%7C%7CMember+Special+of+Month"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Amember-special-of-month%257C%257CMember%2BSpecial%2Bof%2BMonth"
+          },
+          "selected": false
+        },
+        {
+          "code": "merdeka-sale||PCO Merdeka Sale",
+          "count": 6,
+          "name": "merdeka-sale||PCO Merdeka Sale",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:merdeka-sale%7C%7CPCO+Merdeka+Sale"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Amerdeka-sale%257C%257CPCO%2BMerdeka%2BSale"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-22-2025||Promo 2.2 Limitless Beauty",
+          "count": 2,
+          "name": "promo-22-2025||Promo 2.2 Limitless Beauty",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-22-2025%7C%7CPromo+2.2+Limitless+Beauty"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-22-2025%257C%257CPromo%2B2.2%2BLimitless%2BBeauty"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-33-old-2025||Promo 3.3 Ramadan Sale",
+          "count": 2,
+          "name": "promo-33-old-2025||Promo 3.3 Ramadan Sale",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-33-old-2025%7C%7CPromo+3.3+Ramadan+Sale"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-33-old-2025%257C%257CPromo%2B3.3%2BRamadan%2BSale"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-33||Promo 3.3 Ramadan Sale",
+          "count": 1,
+          "name": "promo-33||Promo 3.3 Ramadan Sale",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-33%7C%7CPromo+3.3+Ramadan+Sale"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-33%257C%257CPromo%2B3.3%2BRamadan%2BSale"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-44-2025-old||Mega Day 4.4 Glam for Eid",
+          "count": 4,
+          "name": "promo-44-2025-old||Mega Day 4.4 Glam for Eid",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-44-2025-old%7C%7CMega+Day+4.4+Glam+for+Eid"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-44-2025-old%257C%257CMega%2BDay%2B4.4%2BGlam%2Bfor%2BEid"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-44||Promo Watsons 4.4 Great Sale",
+          "count": 1,
+          "name": "promo-44||Promo Watsons 4.4 Great Sale",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-44%7C%7CPromo+Watsons+4.4+Great+Sale"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-44%257C%257CPromo%2BWatsons%2B4.4%2BGreat%2BSale"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-55-old-2025||5.5 Ultimate Sale",
+          "count": 4,
+          "name": "promo-55-old-2025||5.5 Ultimate Sale",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-55-old-2025%7C%7C5.5+Ultimate+Sale"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-55-old-2025%257C%257C5.5%2BUltimate%2BSale"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-88||Promo 8.8 Shopathon",
+          "count": 2,
+          "name": "promo-88||Promo 8.8 Shopathon",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-88%7C%7CPromo+8.8+Shopathon"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-88%257C%257CPromo%2B8.8%2BShopathon"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-99||Promo Watsons 9.9 Super Sale 2026",
+          "count": 1,
+          "name": "promo-99||Promo Watsons 9.9 Super Sale 2026",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-99%7C%7CPromo+Watsons+9.9+Super+Sale+2026"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-99%257C%257CPromo%2BWatsons%2B9.9%2BSuper%2BSale%2B2026"
+          },
+          "selected": false
+        },
+        {
+          "code": "promo-lucky-deals-cny||Promo Lucky Deals",
+          "count": 2,
+          "name": "promo-lucky-deals-cny||Promo Lucky Deals",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:promo-lucky-deals-cny%7C%7CPromo+Lucky+Deals"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Apromo-lucky-deals-cny%257C%257CPromo%2BLucky%2BDeals"
+          },
+          "selected": false
+        },
+        {
+          "code": "unilever-personal-care||Unilever Personal care",
+          "count": 9,
+          "name": "unilever-personal-care||Unilever Personal care",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:unilever-personal-care%7C%7CUnilever+Personal+care"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Aunilever-personal-care%257C%257CUnilever%2BPersonal%2Bcare"
+          },
+          "selected": false
+        },
+        {
+          "code": "watsons-brand-deals||Promo Watsons Brand Deals",
+          "count": 1,
+          "name": "watsons-brand-deals||Promo Watsons Brand Deals",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:watsons-brand-deals%7C%7CPromo+Watsons+Brand+Deals"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Awatsons-brand-deals%257C%257CPromo%2BWatsons%2BBrand%2BDeals"
+          },
+          "selected": false
+        },
+        {
+          "code": "watsons-weekend-special||Promo Watsons Weekend Special",
+          "count": 5,
+          "name": "watsons-weekend-special||Promo Watsons Weekend Special",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:categoriesHierarchy:watsons-weekend-special%7C%7CPromo+Watsons+Weekend+Special"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AcategoriesHierarchy%3Awatsons-weekend-special%257C%257CPromo%2BWatsons%2BWeekend%2BSpecial"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "string"
+    },
+    {
+      "category": false,
+      "code": "isVirtualBundle",
+      "multiSelect": false,
+      "name": "Set Bundle",
+      "priority": 100,
+      "values": [
+        {
+          "code": "false",
+          "count": 10,
+          "name": "false",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:isVirtualBundle:false"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AisVirtualBundle%3Afalse"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "boolean"
+    },
+    {
+      "category": false,
+      "code": "elabIsRefillPack",
+      "multiSelect": false,
+      "name": "Refill Pack",
+      "priority": 0,
+      "values": [
+        {
+          "code": "false",
+          "count": 1,
+          "name": "false",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:elabIsRefillPack:false"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AelabIsRefillPack%3Afalse"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "boolean"
+    },
+    {
+      "category": false,
+      "code": "productBrandCode",
+      "multiSelect": false,
+      "name": "productBrandCode",
+      "priority": 0,
+      "values": [
+        {
+          "code": "WATSONS",
+          "count": 264,
+          "name": "WATSONS",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:WATSONS"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AWATSONS"
+          },
+          "selected": false
+        },
+        {
+          "code": "WARDAH",
+          "count": 231,
+          "name": "WARDAH",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:WARDAH"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AWARDAH"
+          },
+          "selected": false
+        },
+        {
+          "code": "REVLON",
+          "count": 160,
+          "name": "REVLON",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:REVLON"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AREVLON"
+          },
+          "selected": false
+        },
+        {
+          "code": "170285",
+          "count": 153,
+          "name": "170285",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170285"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170285"
+          },
+          "selected": false
+        },
+        {
+          "code": "158094",
+          "count": 135,
+          "name": "158094",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:158094"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A158094"
+          },
+          "selected": false
+        },
+        {
+          "code": "159111",
+          "count": 129,
+          "name": "159111",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:159111"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A159111"
+          },
+          "selected": false
+        },
+        {
+          "code": "169075",
+          "count": 121,
+          "name": "169075",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:169075"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A169075"
+          },
+          "selected": false
+        },
+        {
+          "code": "156127",
+          "count": 115,
+          "name": "156127",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:156127"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A156127"
+          },
+          "selected": false
+        },
+        {
+          "code": "EMINA",
+          "count": 112,
+          "name": "EMINA",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:EMINA"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AEMINA"
+          },
+          "selected": false
+        },
+        {
+          "code": "MAKE-OVER",
+          "count": 106,
+          "name": "MAKE-OVER",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:MAKE-OVER"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AMAKE-OVER"
+          },
+          "selected": false
+        },
+        {
+          "code": "170277",
+          "count": 97,
+          "name": "170277",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170277"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170277"
+          },
+          "selected": false
+        },
+        {
+          "code": "160063",
+          "count": 96,
+          "name": "160063",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:160063"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A160063"
+          },
+          "selected": false
+        },
+        {
+          "code": "LOREAL",
+          "count": 92,
+          "name": "LOREAL",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:LOREAL"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ALOREAL"
+          },
+          "selected": false
+        },
+        {
+          "code": "QVS",
+          "count": 92,
+          "name": "QVS",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:QVS"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AQVS"
+          },
+          "selected": false
+        },
+        {
+          "code": "ELISE",
+          "count": 90,
+          "name": "ELISE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:ELISE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AELISE"
+          },
+          "selected": false
+        },
+        {
+          "code": "NIVEA",
+          "count": 90,
+          "name": "NIVEA",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:NIVEA"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ANIVEA"
+          },
+          "selected": false
+        },
+        {
+          "code": "172028",
+          "count": 87,
+          "name": "172028",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:172028"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A172028"
+          },
+          "selected": false
+        },
+        {
+          "code": "BLINK-CHARM",
+          "count": 78,
+          "name": "BLINK-CHARM",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:BLINK-CHARM"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ABLINK-CHARM"
+          },
+          "selected": false
+        },
+        {
+          "code": "160065",
+          "count": 74,
+          "name": "160065",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:160065"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A160065"
+          },
+          "selected": false
+        },
+        {
+          "code": "161063",
+          "count": 74,
+          "name": "161063",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:161063"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A161063"
+          },
+          "selected": false
+        },
+        {
+          "code": "DOVE",
+          "count": 71,
+          "name": "DOVE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:DOVE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ADOVE"
+          },
+          "selected": false
+        },
+        {
+          "code": "FOCALLURE",
+          "count": 67,
+          "name": "FOCALLURE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:FOCALLURE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AFOCALLURE"
+          },
+          "selected": false
+        },
+        {
+          "code": "163121",
+          "count": 66,
+          "name": "163121",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:163121"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A163121"
+          },
+          "selected": false
+        },
+        {
+          "code": "VASELINE",
+          "count": 64,
+          "name": "VASELINE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:VASELINE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AVASELINE"
+          },
+          "selected": false
+        },
+        {
+          "code": "165168",
+          "count": 60,
+          "name": "165168",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:165168"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A165168"
+          },
+          "selected": false
+        },
+        {
+          "code": "176026",
+          "count": 60,
+          "name": "176026",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:176026"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A176026"
+          },
+          "selected": false
+        },
+        {
+          "code": "Pepsodent",
+          "count": 60,
+          "name": "Pepsodent",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:Pepsodent"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3APepsodent"
+          },
+          "selected": false
+        },
+        {
+          "code": "MAKARIZO",
+          "count": 59,
+          "name": "MAKARIZO",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:MAKARIZO"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AMAKARIZO"
+          },
+          "selected": false
+        },
+        {
+          "code": "NUTRIMAX",
+          "count": 59,
+          "name": "NUTRIMAX",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:NUTRIMAX"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ANUTRIMAX"
+          },
+          "selected": false
+        },
+        {
+          "code": "153213",
+          "count": 58,
+          "name": "153213",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:153213"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A153213"
+          },
+          "selected": false
+        },
+        {
+          "code": "161064",
+          "count": 58,
+          "name": "161064",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:161064"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A161064"
+          },
+          "selected": false
+        },
+        {
+          "code": "GARNIER",
+          "count": 57,
+          "name": "GARNIER",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:GARNIER"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AGARNIER"
+          },
+          "selected": false
+        },
+        {
+          "code": "160070",
+          "count": 53,
+          "name": "160070",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:160070"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A160070"
+          },
+          "selected": false
+        },
+        {
+          "code": "170289",
+          "count": 53,
+          "name": "170289",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170289"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170289"
+          },
+          "selected": false
+        },
+        {
+          "code": "171151",
+          "count": 52,
+          "name": "171151",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:171151"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A171151"
+          },
+          "selected": false
+        },
+        {
+          "code": "MAYBELLINE",
+          "count": 48,
+          "name": "MAYBELLINE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:MAYBELLINE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AMAYBELLINE"
+          },
+          "selected": false
+        },
+        {
+          "code": "156112",
+          "count": 47,
+          "name": "156112",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:156112"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A156112"
+          },
+          "selected": false
+        },
+        {
+          "code": "162086",
+          "count": 46,
+          "name": "162086",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:162086"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A162086"
+          },
+          "selected": false
+        },
+        {
+          "code": "BIORE",
+          "count": 46,
+          "name": "BIORE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:BIORE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ABIORE"
+          },
+          "selected": false
+        },
+        {
+          "code": "NUXE",
+          "count": 46,
+          "name": "NUXE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:NUXE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ANUXE"
+          },
+          "selected": false
+        },
+        {
+          "code": "COLGATE",
+          "count": 45,
+          "name": "COLGATE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:COLGATE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACOLGATE"
+          },
+          "selected": false
+        },
+        {
+          "code": "LAURIER",
+          "count": 45,
+          "name": "LAURIER",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:LAURIER"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ALAURIER"
+          },
+          "selected": false
+        },
+        {
+          "code": "WELLNESS",
+          "count": 44,
+          "name": "WELLNESS",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:WELLNESS"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AWELLNESS"
+          },
+          "selected": false
+        },
+        {
+          "code": "163118",
+          "count": 43,
+          "name": "163118",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:163118"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A163118"
+          },
+          "selected": false
+        },
+        {
+          "code": "HOLIKA-HOLIKA",
+          "count": 43,
+          "name": "HOLIKA-HOLIKA",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:HOLIKA-HOLIKA"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AHOLIKA-HOLIKA"
+          },
+          "selected": false
+        },
+        {
+          "code": "PANTENE",
+          "count": 43,
+          "name": "PANTENE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:PANTENE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3APANTENE"
+          },
+          "selected": false
+        },
+        {
+          "code": "PONDS",
+          "count": 43,
+          "name": "PONDS",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:PONDS"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3APONDS"
+          },
+          "selected": false
+        },
+        {
+          "code": "171139",
+          "count": 42,
+          "name": "171139",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:171139"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A171139"
+          },
+          "selected": false
+        },
+        {
+          "code": "153225",
+          "count": 41,
+          "name": "153225",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:153225"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A153225"
+          },
+          "selected": false
+        },
+        {
+          "code": "170294",
+          "count": 41,
+          "name": "170294",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170294"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170294"
+          },
+          "selected": false
+        },
+        {
+          "code": "155139",
+          "count": 40,
+          "name": "155139",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:155139"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A155139"
+          },
+          "selected": false
+        },
+        {
+          "code": "166072",
+          "count": 40,
+          "name": "166072",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:166072"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A166072"
+          },
+          "selected": false
+        },
+        {
+          "code": "156122",
+          "count": 39,
+          "name": "156122",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:156122"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A156122"
+          },
+          "selected": false
+        },
+        {
+          "code": "CETAPHIL",
+          "count": 39,
+          "name": "CETAPHIL",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CETAPHIL"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACETAPHIL"
+          },
+          "selected": false
+        },
+        {
+          "code": "LIFEBUOY",
+          "count": 39,
+          "name": "LIFEBUOY",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:LIFEBUOY"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ALIFEBUOY"
+          },
+          "selected": false
+        },
+        {
+          "code": "163154",
+          "count": 38,
+          "name": "163154",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:163154"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A163154"
+          },
+          "selected": false
+        },
+        {
+          "code": "170300",
+          "count": 38,
+          "name": "170300",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170300"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170300"
+          },
+          "selected": false
+        },
+        {
+          "code": "BIODERMA",
+          "count": 38,
+          "name": "BIODERMA",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:BIODERMA"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ABIODERMA"
+          },
+          "selected": false
+        },
+        {
+          "code": "ELLIPS",
+          "count": 38,
+          "name": "ELLIPS",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:ELLIPS"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AELLIPS"
+          },
+          "selected": false
+        },
+        {
+          "code": "HANSAPLAST",
+          "count": 38,
+          "name": "HANSAPLAST",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:HANSAPLAST"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AHANSAPLAST"
+          },
+          "selected": false
+        },
+        {
+          "code": "152151",
+          "count": 37,
+          "name": "152151",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:152151"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A152151"
+          },
+          "selected": false
+        },
+        {
+          "code": "153241",
+          "count": 37,
+          "name": "153241",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:153241"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A153241"
+          },
+          "selected": false
+        },
+        {
+          "code": "163119",
+          "count": 37,
+          "name": "163119",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:163119"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A163119"
+          },
+          "selected": false
+        },
+        {
+          "code": "164238",
+          "count": 37,
+          "name": "164238",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:164238"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A164238"
+          },
+          "selected": false
+        },
+        {
+          "code": "HERBORIST",
+          "count": 36,
+          "name": "HERBORIST",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:HERBORIST"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AHERBORIST"
+          },
+          "selected": false
+        },
+        {
+          "code": "REXONA",
+          "count": 36,
+          "name": "REXONA",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:REXONA"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AREXONA"
+          },
+          "selected": false
+        },
+        {
+          "code": "153227",
+          "count": 35,
+          "name": "153227",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:153227"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A153227"
+          },
+          "selected": false
+        },
+        {
+          "code": "170302",
+          "count": 35,
+          "name": "170302",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170302"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170302"
+          },
+          "selected": false
+        },
+        {
+          "code": "DEAR-ME",
+          "count": 34,
+          "name": "DEAR-ME",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:DEAR-ME"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ADEAR-ME"
+          },
+          "selected": false
+        },
+        {
+          "code": "LAMICA",
+          "count": 34,
+          "name": "LAMICA",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:LAMICA"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ALAMICA"
+          },
+          "selected": false
+        },
+        {
+          "code": "164222",
+          "count": 33,
+          "name": "164222",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:164222"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A164222"
+          },
+          "selected": false
+        },
+        {
+          "code": "165160",
+          "count": 33,
+          "name": "165160",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:165160"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A165160"
+          },
+          "selected": false
+        },
+        {
+          "code": "170298",
+          "count": 33,
+          "name": "170298",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170298"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170298"
+          },
+          "selected": false
+        },
+        {
+          "code": "BLACKMORES",
+          "count": 33,
+          "name": "BLACKMORES",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:BLACKMORES"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ABLACKMORES"
+          },
+          "selected": false
+        },
+        {
+          "code": "HERBANA",
+          "count": 32,
+          "name": "HERBANA",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:HERBANA"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AHERBANA"
+          },
+          "selected": false
+        },
+        {
+          "code": "SAFI",
+          "count": 32,
+          "name": "SAFI",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:SAFI"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ASAFI"
+          },
+          "selected": false
+        },
+        {
+          "code": "154219",
+          "count": 31,
+          "name": "154219",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:154219"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A154219"
+          },
+          "selected": false
+        },
+        {
+          "code": "170246",
+          "count": 31,
+          "name": "170246",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170246"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170246"
+          },
+          "selected": false
+        },
+        {
+          "code": "160077",
+          "count": 30,
+          "name": "160077",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:160077"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A160077"
+          },
+          "selected": false
+        },
+        {
+          "code": "170325",
+          "count": 30,
+          "name": "170325",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170325"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170325"
+          },
+          "selected": false
+        },
+        {
+          "code": "HEAD-AND-SHOULDER",
+          "count": 30,
+          "name": "HEAD-AND-SHOULDER",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:HEAD-AND-SHOULDER"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AHEAD-AND-SHOULDER"
+          },
+          "selected": false
+        },
+        {
+          "code": "JOHNSON-AND-JOHNSON",
+          "count": 30,
+          "name": "JOHNSON-AND-JOHNSON",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:JOHNSON-AND-JOHNSON"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AJOHNSON-AND-JOHNSON"
+          },
+          "selected": false
+        },
+        {
+          "code": "170301",
+          "count": 29,
+          "name": "170301",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:170301"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A170301"
+          },
+          "selected": false
+        },
+        {
+          "code": "HADA-LABO",
+          "count": 29,
+          "name": "HADA-LABO",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:HADA-LABO"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AHADA-LABO"
+          },
+          "selected": false
+        },
+        {
+          "code": "154213",
+          "count": 28,
+          "name": "154213",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:154213"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A154213"
+          },
+          "selected": false
+        },
+        {
+          "code": "157149",
+          "count": 27,
+          "name": "157149",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:157149"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A157149"
+          },
+          "selected": false
+        },
+        {
+          "code": "160059",
+          "count": 27,
+          "name": "160059",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:160059"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A160059"
+          },
+          "selected": false
+        },
+        {
+          "code": "156142",
+          "count": 25,
+          "name": "156142",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:156142"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A156142"
+          },
+          "selected": false
+        },
+        {
+          "code": "CHARM",
+          "count": 25,
+          "name": "CHARM",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CHARM"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACHARM"
+          },
+          "selected": false
+        },
+        {
+          "code": "152180",
+          "count": 24,
+          "name": "152180",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:152180"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A152180"
+          },
+          "selected": false
+        },
+        {
+          "code": "156139",
+          "count": 24,
+          "name": "156139",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:156139"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A156139"
+          },
+          "selected": false
+        },
+        {
+          "code": "166082",
+          "count": 24,
+          "name": "166082",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:166082"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A166082"
+          },
+          "selected": false
+        },
+        {
+          "code": "169083",
+          "count": 24,
+          "name": "169083",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:169083"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A169083"
+          },
+          "selected": false
+        },
+        {
+          "code": "CUSSONS",
+          "count": 24,
+          "name": "CUSSONS",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CUSSONS"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACUSSONS"
+          },
+          "selected": false
+        },
+        {
+          "code": "HIMALAYA",
+          "count": 24,
+          "name": "HIMALAYA",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:HIMALAYA"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3AHIMALAYA"
+          },
+          "selected": false
+        },
+        {
+          "code": "LISTERINE",
+          "count": 24,
+          "name": "LISTERINE",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:LISTERINE"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ALISTERINE"
+          },
+          "selected": false
+        },
+        {
+          "code": "NUTRIWELL",
+          "count": 24,
+          "name": "NUTRIWELL",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:NUTRIWELL"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ANUTRIWELL"
+          },
+          "selected": false
+        },
+        {
+          "code": "151007",
+          "count": 23,
+          "name": "151007",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:151007"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A151007"
+          },
+          "selected": false
+        },
+        {
+          "code": "157154",
+          "count": 23,
+          "name": "157154",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:157154"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A157154"
+          },
+          "selected": false
+        },
+        {
+          "code": "165152",
+          "count": 23,
+          "name": "165152",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:165152"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3A165152"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "string"
+    },
+    {
+      "category": false,
+      "code": "elabIsOrganic",
+      "multiSelect": false,
+      "name": "Organic",
+      "priority": 0,
+      "values": [
+        {
+          "code": "false",
+          "count": 8,
+          "name": "false",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:elabIsOrganic:false"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AelabIsOrganic%3Afalse"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "boolean"
+    },
+    {
+      "category": false,
+      "code": "elabIsHalal",
+      "multiSelect": false,
+      "name": "Halal",
+      "priority": 0,
+      "values": [
+        {
+          "code": "false",
+          "count": 8,
+          "name": "false",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:elabIsHalal:false"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AelabIsHalal%3Afalse"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "boolean"
+    },
+    {
+      "category": false,
+      "code": "elabIsCleanBeauty",
+      "multiSelect": false,
+      "name": "Clean Beauty",
+      "priority": 0,
+      "values": [
+        {
+          "code": "false",
+          "count": 8,
+          "name": "false",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:elabIsCleanBeauty:false"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AelabIsCleanBeauty%3Afalse"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "boolean"
+    },
+    {
+      "category": false,
+      "code": "elabBetterPackaging",
+      "multiSelect": false,
+      "name": "Better Packaging",
+      "priority": 0,
+      "values": [
+        {
+          "code": "Kertas berkelanjutan",
+          "count": 5,
+          "name": "Kertas berkelanjutan",
+          "query": {
+            "query": {
+              "value": ":bestSeller:productBrandCode:CLOSE-UP:elabBetterPackaging:Kertas+berkelanjutan"
+            },
+            "url": "/search?q=%3AbestSeller%3AproductBrandCode%3ACLOSE-UP%3AelabBetterPackaging%3AKertas%2Bberkelanjutan"
+          },
+          "selected": false
+        }
+      ],
+      "visible": true,
+      "topValueCount": 6,
+      "type": "string"
+    }
+  ],
+  "freeTextSearch": "",
+  "isNotExactMatchResult": false,
+  "pagination": {
+    "currentPage": 0,
+    "pageSize": 32,
+    "sort": "bestSeller",
+    "totalPages": 1,
+    "totalResults": 10
+  },
+  "productCategoryHierarchy": {
+    "code": "1",
+    "count": 10,
+    "level": 0,
+    "name": "Root Category",
+    "subCategories": [
+      {
+        "code": "020000",
+        "count": 10,
+        "level": 1,
+        "name": "Perawatan Tubuh",
+        "query": ":bestSeller:productBrandCode:CLOSE-UP:category:020000",
+        "subCategories": [
+          {
+            "code": "020500",
+            "count": 10,
+            "level": 2,
+            "name": "Kesehatan Mulut",
+            "query": ":bestSeller:productBrandCode:CLOSE-UP:category:020500",
+            "subCategories": [
+              {
+                "code": "020503",
+                "count": 1,
+                "level": 3,
+                "name": "Sikat Gigi",
+                "query": ":bestSeller:productBrandCode:CLOSE-UP:category:020503"
+              },
+              {
+                "code": "020504",
+                "count": 9,
+                "level": 3,
+                "name": "Pasta Gigi",
+                "query": ":bestSeller:productBrandCode:CLOSE-UP:category:020504"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "products": [
+    {
+      "averageRating": 4.9933554817275745,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_45024",
+      "defaultVariantCode": "45024",
+      "ean": "8999999609467",
+      "elabBetterPackaging": "Kertas berkelanjutan",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp58.000",
+        "priceType": "BUY",
+        "value": 58000
+      },
+      "elabPackItem": false,
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp58.000",
+        "priceType": "BUY",
+        "value": 58000
+      },
+      "elabProductName": "Close Up White Now Purple Pasta Gigi 95g",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantProductContentSizeUnits": [
+        "95 GR"
+      ],
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-45024-front-prodcat.jpg?version=1741792521",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Close Up White Now Purple Pasta Gigi 95g",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp58.000",
+        "priceType": "BUY",
+        "value": 58000
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionFirstTag": "Beli 2 Bayar 1",
+      "promotionFirstTagEndDate": "2026-11-22 23:59:00",
+      "promotionFirstTagStartDate": "2026-10-26 00:00:00",
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "4.9933554817275745",
+      "selectedStoreOnly": false,
+      "sellQuantity": 434,
+      "sellQuantityMsg": "400+ Terjual",
+      "shortDescription": "Close Up White Now Purple Pasta Gigi 95g",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 58000,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {
+          "label": "Beli 2 Bayar 1"
+        },
+        "title": "BUY 1 FREE 2"
+      },
+      "url": "/close-up-close-up-white-now-purple-pasta-gigi-95g/p/BP_45024",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "close-up-white-now-purple-pasta-gigi-95g",
+      "nameHtml": "Close Up White Now Purple Pasta Gigi 95g",
+      "ngNormalizedUrl": "/p/BP_45024",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Close Up White Now Purple Pasta Gigi 95g"
+    },
+    {
+      "averageRating": 4.96875,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_44936",
+      "defaultVariantCode": "44936",
+      "ean": "8999999706487",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": true,
+      "elabIsVirtualProduct": false,
+      "elabMarkDownPrice": {
+        "currencyIso": "IDR",
+        "discountAmount": 14000,
+        "discountAmountFormattedValue": "Rp14.000",
+        "discountRate": 35,
+        "formattedValue": "Rp25.500",
+        "priceType": "BUY",
+        "value": 25500
+      },
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp39.500",
+        "priceType": "BUY",
+        "value": 39500
+      },
+      "elabPackItem": false,
+      "elabPackSize": "65 gr",
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp39.500",
+        "priceType": "BUY",
+        "value": 39500
+      },
+      "elabProductName": "Icy White Pasta Gigi 160g",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantProductContentSizeUnits": [
+        "160 GR"
+      ],
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-44936-front-prodcat.jpg?version=1734939660",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Icy White Pasta Gigi 160g",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp25.500",
+        "priceType": "BUY",
+        "value": 25500
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionFirstTag": "–35%",
+      "promotionFirstTagEndDate": "2026-11-22 23:59:00",
+      "promotionFirstTagStartDate": "2026-11-02 00:00:00",
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "4.96875",
+      "selectedStoreOnly": false,
+      "sellQuantity": 117,
+      "sellQuantityMsg": "100+ Terjual",
+      "shortDescription": "Icy White Pasta Gigi 160g",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 39500,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {
+          "label": "–35%"
+        },
+        "title": "LESS 35%"
+      },
+      "url": "/close-up-icy-white-pasta-gigi-160g/p/BP_44936",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "icy-white-pasta-gigi-160g",
+      "nameHtml": "Icy White Pasta Gigi 160g",
+      "ngNormalizedUrl": "/p/BP_44936",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Icy White Pasta Gigi 160g"
+    },
+    {
+      "averageRating": 5,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_42750",
+      "defaultVariantCode": "42750",
+      "ean": "8999999605728",
+      "elabBetterPackaging": "Kertas berkelanjutan",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMarkDownPrice": {
+        "currencyIso": "IDR",
+        "discountAmount": 11000,
+        "discountAmountFormattedValue": "Rp11.000",
+        "discountRate": 40,
+        "formattedValue": "Rp16.500",
+        "priceType": "BUY",
+        "value": 16500
+      },
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp27.500",
+        "priceType": "BUY",
+        "value": 27500
+      },
+      "elabPackItem": false,
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp27.500",
+        "priceType": "BUY",
+        "value": 27500
+      },
+      "elabProductName": "Close Up Pasta Gigi Fresh Charcoal Mint 95g",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantProductContentSizeUnits": [
+        "95 GR"
+      ],
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-42750-front-prodcat.jpg?version=1777303365",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Close Up Pasta Gigi Fresh Charcoal Mint 95g",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp16.500",
+        "priceType": "BUY",
+        "value": 16500
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionFirstTag": "–40%",
+      "promotionFirstTagEndDate": "2026-11-03 23:59:00",
+      "promotionFirstTagStartDate": "2026-11-03 00:00:00",
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "5.0",
+      "selectedStoreOnly": false,
+      "sellQuantity": 61,
+      "sellQuantityMsg": "60+ Terjual",
+      "shortDescription": "Close Up Pasta Gigi Fresh Charcoal Mint 95g",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 27500,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {
+          "label": "–40%"
+        },
+        "title": "LESS 40%"
+      },
+      "url": "/close-up-close-up-pasta-gigi-fresh-charcoal-mint-95g/p/BP_42750",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "close-up-pasta-gigi-fresh-charcoal-mint-95g",
+      "nameHtml": "Close Up Pasta Gigi Fresh Charcoal Mint 95g",
+      "ngNormalizedUrl": "/p/BP_42750",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Close Up Pasta Gigi Fresh Charcoal Mint 95g"
+    },
+    {
+      "averageRating": 4.958083832335329,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_73780",
+      "defaultVariantCode": "73780",
+      "ean": "8999999519957",
+      "elabBetterPackaging": "Kertas berkelanjutan",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMarkDownPrice": {
+        "currencyIso": "IDR",
+        "discountAmount": 11000,
+        "discountAmountFormattedValue": "Rp11.000",
+        "discountRate": 40,
+        "formattedValue": "Rp16.500",
+        "priceType": "BUY",
+        "value": 16500
+      },
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp27.500",
+        "priceType": "BUY",
+        "value": 27500
+      },
+      "elabPackItem": false,
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp27.500",
+        "priceType": "BUY",
+        "value": 27500
+      },
+      "elabProductName": "Close Up White Fresh Lemon Sea Salt 95g",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantProductContentSizeUnits": [
+        "100 GR"
+      ],
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-73780-front-prodcat.jpg?version=1739287269",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Close Up White Fresh Lemon Sea Salt 95g",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp16.500",
+        "priceType": "BUY",
+        "value": 16500
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionFirstTag": "–40%",
+      "promotionFirstTagEndDate": "2026-11-22 23:59:00",
+      "promotionFirstTagStartDate": "2026-11-02 12:25:00",
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "4.958083832335329",
+      "selectedStoreOnly": false,
+      "sellQuantity": 60,
+      "sellQuantityMsg": "60 Terjual",
+      "shortDescription": "Close Up White Fresh Lemon Sea Salt 95g",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 27500,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {
+          "label": "–40%"
+        },
+        "title": "LESS 40%"
+      },
+      "url": "/close-up-close-up-white-fresh-lemon-sea-salt-95g/p/BP_73780",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "close-up-white-fresh-lemon-sea-salt-95g",
+      "nameHtml": "Close Up White Fresh Lemon Sea Salt 95g",
+      "ngNormalizedUrl": "/p/BP_73780",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Close Up White Fresh Lemon Sea Salt 95g"
+    },
+    {
+      "averageRating": 4.777777777777778,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_45026",
+      "defaultVariantCode": "45026",
+      "ean": "8999999609474",
+      "elabBetterPackaging": "Kertas berkelanjutan",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp58.000",
+        "priceType": "BUY",
+        "value": 58000
+      },
+      "elabPackItem": false,
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp58.000",
+        "priceType": "BUY",
+        "value": 58000
+      },
+      "elabProductName": "Close Up White Now Kaolin Pasta Gigi 95g",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantProductContentSizeUnits": [
+        "95 GR"
+      ],
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-45026-front-prodcat.jpg?version=1741792292",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Close Up White Now Kaolin Pasta Gigi 95g",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp58.000",
+        "priceType": "BUY",
+        "value": 58000
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionFirstTag": "Beli 2 Bayar 1",
+      "promotionFirstTagEndDate": "2026-11-22 23:59:00",
+      "promotionFirstTagStartDate": "2026-10-26 00:00:00",
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "4.777777777777778",
+      "selectedStoreOnly": false,
+      "sellQuantity": 32,
+      "sellQuantityMsg": "30+ Terjual",
+      "shortDescription": "Close Up White Now Kaolin Pasta Gigi 95g",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 58000,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {
+          "label": "Beli 2 Bayar 1"
+        },
+        "title": "BUY 1 FREE 2"
+      },
+      "url": "/close-up-close-up-white-now-kaolin-pasta-gigi-95g/p/BP_45026",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "close-up-white-now-kaolin-pasta-gigi-95g",
+      "nameHtml": "Close Up White Now Kaolin Pasta Gigi 95g",
+      "ngNormalizedUrl": "/p/BP_45026",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Close Up White Now Kaolin Pasta Gigi 95g"
+    },
+    {
+      "averageRating": 4.959183673469388,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_41554",
+      "defaultVariantCode": "41554",
+      "ean": "8999999601621",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp25.100",
+        "priceType": "BUY",
+        "value": 25100
+      },
+      "elabPackItem": false,
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp25.100",
+        "priceType": "BUY",
+        "value": 25100
+      },
+      "elabProductName": "Close Up Sikat Gigi Lipat Travel (1pc + 20g)",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantProductContentSizeUnits": [
+        "1 + 20 GR"
+      ],
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-41554-front-prodcat.jpg?version=1777304002",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Close Up Sikat Gigi Lipat Travel (1pc + 20g)",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp25.100",
+        "priceType": "BUY",
+        "value": 25100
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "4.959183673469388",
+      "selectedStoreOnly": false,
+      "sellQuantity": 21,
+      "shortDescription": "Close Up Sikat Gigi Lipat Travel (1pc + 20g)",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 25100,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {}
+      },
+      "url": "/close-up-close-up-sikat-gigi-lipat-travel-1pc-20g/p/BP_41554",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "close-up-sikat-gigi-lipat-travel-1pc-20g-",
+      "nameHtml": "Close Up Sikat Gigi Lipat Travel (1pc + 20g)",
+      "ngNormalizedUrl": "/p/BP_41554",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Close Up Sikat Gigi Lipat Travel (1pc + 20g)"
+    },
+    {
+      "averageRating": 5,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_44935",
+      "defaultVariantCode": "44935",
+      "ean": "8999999707859",
+      "elabBetterPackaging": "Kertas berkelanjutan",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp27.500",
+        "priceType": "BUY",
+        "value": 27500
+      },
+      "elabPackItem": false,
+      "elabPackSize": "160g",
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp27.500",
+        "priceType": "BUY",
+        "value": 27500
+      },
+      "elabProductName": "Green Ever Fresh Pasta Gigi 160g",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantProductContentSizeUnits": [
+        "160 GR"
+      ],
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-44935-front-prodcat.jpg?version=1734941018",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Green Ever Fresh Pasta Gigi 160g",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp27.500",
+        "priceType": "BUY",
+        "value": 27500
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "5.0",
+      "selectedStoreOnly": false,
+      "sellQuantity": 21,
+      "shortDescription": "geen Ever Fresh Pasta Gigi 160g",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 27500,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {}
+      },
+      "url": "/close-up-green-ever-fresh-pasta-gigi-160g/p/BP_44935",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "green-ever-fresh-pasta-gigi-160g",
+      "nameHtml": "Green Ever Fresh Pasta Gigi 160g",
+      "ngNormalizedUrl": "/p/BP_44935",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Green Ever Fresh Pasta Gigi 160g"
+    },
+    {
+      "averageRating": 4.902777777777778,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_29893",
+      "defaultVariantCode": "29893",
+      "ean": "8999999586706",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMarkDownPrice": {
+        "currencyIso": "IDR",
+        "discountAmount": 7400,
+        "discountAmountFormattedValue": "Rp7.400",
+        "discountRate": 35,
+        "formattedValue": "Rp13.500",
+        "priceType": "BUY",
+        "value": 13500
+      },
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp20.900",
+        "priceType": "BUY",
+        "value": 20900
+      },
+      "elabPackItem": false,
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp20.900",
+        "priceType": "BUY",
+        "value": 20900
+      },
+      "elabProductName": "Close Up Tooth Paste Complete Fresh Protection 100g",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantProductContentSizeUnits": [
+        "100 GR"
+      ],
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-29893-front-prodcat.jpg?version=1737129874",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Close Up Tooth Paste Complete Fresh Protection 100g",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp13.500",
+        "priceType": "BUY",
+        "value": 13500
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionFirstTag": "–35%",
+      "promotionFirstTagEndDate": "2026-11-22 23:59:00",
+      "promotionFirstTagStartDate": "2026-11-02 00:00:00",
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "4.902777777777778",
+      "selectedStoreOnly": false,
+      "sellQuantity": 16,
+      "shortDescription": "Close Up Tooth Paste Complete Fresh Protection 100g",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 20900,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {
+          "label": "–35%"
+        },
+        "title": "LESS 35%"
+      },
+      "url": "/close-up-close-up-tooth-paste-complete-fresh-protection-100g/p/BP_29893",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "close-up-tooth-paste-complete-fresh-protection-100g",
+      "nameHtml": "Close Up Tooth Paste Complete Fresh Protection 100g",
+      "ngNormalizedUrl": "/p/BP_29893",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Close Up Tooth Paste Complete Fresh Protection 100g"
+    },
+    {
+      "averageRating": 5,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020503",
+          "level": 3,
+          "name": "Sikat Gigi"
+        }
+      ],
+      "code": "BP_52443",
+      "defaultVariantCode": "52443",
+      "ean": "8999999609573",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp28.500",
+        "priceType": "BUY",
+        "value": 28500
+      },
+      "elabPackItem": false,
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp28.500",
+        "priceType": "BUY",
+        "value": 28500
+      },
+      "elabProductName": "Sikat Gigi Precision Clean 2'S",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Sikat Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-52443-front-prodcat.jpg?version=1762269059",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Sikat Gigi Precision Clean 2'S",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp28.500",
+        "priceType": "BUY",
+        "value": 28500
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "5.0",
+      "selectedStoreOnly": false,
+      "sellQuantity": 13,
+      "shortDescription": "Sikat Gigi Precision Clean 2'S",
+      "stock": {
+        "stockLevelStatus": "inStock"
+      },
+      "strikeThroughPrice": 28500,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {}
+      },
+      "url": "/close-up-sikat-gigi-precision-clean-2-s/p/BP_52443",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "sikat-gigi-precision-clean-2-s",
+      "nameHtml": "Sikat Gigi Precision Clean 2'S",
+      "ngNormalizedUrl": "/p/BP_52443",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Sikat Gigi Precision Clean 2'S"
+    },
+    {
+      "averageRating": 5,
+      "canBuyByOriginPrice": false,
+      "categoryNameLevels": [
+        {
+          "code": "020000",
+          "level": 1,
+          "name": "Perawatan Tubuh"
+        },
+        {
+          "code": "020500",
+          "level": 2,
+          "name": "Kesehatan Mulut"
+        },
+        {
+          "code": "020504",
+          "level": 3,
+          "name": "Pasta Gigi"
+        }
+      ],
+      "code": "BP_75445",
+      "defaultVariantCode": "75445",
+      "ean": "8999999618100",
+      "elabCleanBeauty": false,
+      "elabColorVariantProductData": [],
+      "elabExclusiveBrand": "Normal",
+      "elabHalal": false,
+      "elabIsAdultOnly": false,
+      "elabIsDonate": false,
+      "elabIsForMembershipApplication": false,
+      "elabIsOrganic": false,
+      "elabIsOutlet": false,
+      "elabIsPointRedemption": false,
+      "elabIsPoison2": false,
+      "elabIsSCProduct": false,
+      "elabIsSDD": false,
+      "elabIsStoreOnly": false,
+      "elabIsStorePickupAllowed": false,
+      "elabIsVirtualProduct": false,
+      "elabMarkDownPrice": {
+        "currencyIso": "IDR",
+        "discountAmount": 11200,
+        "discountAmountFormattedValue": "Rp11.200",
+        "discountRate": 44,
+        "formattedValue": "Rp13.900",
+        "priceType": "BUY",
+        "value": 13900
+      },
+      "elabMaxOrderQuantity": 15,
+      "elabOldPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp25.100",
+        "priceType": "BUY",
+        "value": 25100
+      },
+      "elabPackItem": false,
+      "elabPreOrderProduct": false,
+      "elabPrescription": false,
+      "elabPrice": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp25.100",
+        "priceType": "BUY",
+        "value": 25100
+      },
+      "elabProductName": "Pasta Gigi FIFA World Cup 2026™ Antibacterial 95g",
+      "elabRefillPack": false,
+      "elabSubscribable": false,
+      "elabTprPriceFlag": false,
+      "elabVariantType": "GenericVariant",
+      "elabWineRating": {},
+      "firstReceivedFlag": false,
+      "freeGiftThresholdType": "QUANTITY",
+      "freeGiftThresholdValue": 1,
+      "giftWrappable": false,
+      "gtmCategoryPath": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+      "homeDeliveryOnly": false,
+      "homeExpressEligible": false,
+      "images": {
+        "PRIMARY": {
+          "thumbnail": {
+            "imageType": "PRIMARY",
+            "url": "https://medias.watsons.co.id/publishing/WTCID-75445-front-prodcat.jpg?version=1776870788",
+            "format": "thumbnail"
+          }
+        }
+      },
+      "isEstampProduct": false,
+      "isFreeGift": false,
+      "isLoyaltyCardProduct": false,
+      "isLoyaltyProduct": false,
+      "isMultiDimension": false,
+      "isSFLockerNotAllowed": false,
+      "isSiteSurveyFlag": false,
+      "isStockLoaded": false,
+      "isVirtualBundle": false,
+      "masterBrand": {
+        "abrand": false,
+        "brandUrl": "/all-brands/b/CLOSE-UP/close-up",
+        "code": "CLOSE-UP",
+        "isFeatured": false,
+        "name": "CLOSE UP",
+        "smallLogo": {
+          "url": "/medias/logo-close-up-300x200.jpg?context=bWFzdGVyfHJvb3R8Mjg4MDN8aW1hZ2UvanBlZ3xhR0ZtTDJoaE5DOHhOalF3TkRZM05ERTRNekU1T0M5c2IyZHZMV05zYjNObExYVndMVE13TUhneU1EQXVhbkJufDllNjEyNGI3YTEzMTkwNDZjMmI2MmJiZjQzOTE0OWRhMGY5NGM4MzZiNDMxOWMzYzBjNWI4MWViNzhiMWFlYzU"
+        }
+      },
+      "maxOrderQuantity": 15,
+      "name": "Pasta Gigi FIFA World Cup 2026™ Antibacterial 95g",
+      "pharmacy": false,
+      "pickupExpressEligible": false,
+      "potentialLoyaltyPoints": 0,
+      "preOrder": false,
+      "price": {
+        "currencyIso": "IDR",
+        "formattedValue": "Rp13.900",
+        "priceType": "BUY",
+        "value": 13900
+      },
+      "priceRange": {},
+      "productLoyaltyPoints": 0,
+      "promotionFirstTag": "–40%",
+      "promotionFirstTagEndDate": "2026-11-03 23:59:00",
+      "promotionFirstTagStartDate": "2026-11-03 00:00:00",
+      "promotionTags": [],
+      "purchasable": false,
+      "reviewAvgRating": "5.0",
+      "selectedStoreOnly": false,
+      "sellQuantity": 6,
+      "shortDescription": "Pasta Gigi FIFA World Cup 2026™ Antibacterial 95g",
+      "stock": {
+        "stockLevelStatus": "lowStock"
+      },
+      "strikeThroughPrice": 25100,
+      "topPromotion": {
+        "badge": {
+          "image": {}
+        },
+        "isEliteMemberPromotionFlag": false,
+        "isEstampPromotionFlag": false,
+        "isFlashSalePromotionFlag": false,
+        "isMemberPromotionFlag": false,
+        "tag": {
+          "label": "–40%"
+        },
+        "title": "LESS 40%"
+      },
+      "url": "/close-up-pasta-gigi-fifa-world-cup-2026™-antibacterial-95g/p/BP_75445",
+      "volumePricesFlag": false,
+      "videos": {},
+      "slug": "pasta-gigi-fifa-world-cup-2026™-antibacterial-95g",
+      "nameHtml": "Pasta Gigi FIFA World Cup 2026™ Antibacterial 95g",
+      "ngNormalizedUrl": "/p/BP_75445",
+      "isXBorderDeliveryAllowed": false,
+      "isCVSPickupAllowed": false,
+      "ngProductNameWithoutHTMLTag": "Pasta Gigi FIFA World Cup 2026™ Antibacterial 95g"
+    }
+  ],
+  "sorts": [
+    {
+      "code": "mostRelevant",
+      "name": "Most Relevant",
+      "selected": false
+    },
+    {
+      "code": "topRated",
+      "name": "Top Rated",
+      "selected": false
+    },
+    {
+      "code": "new",
+      "name": "New",
+      "selected": false
+    },
+    {
+      "code": "bestSeller",
+      "name": "Best Seller",
+      "selected": true
+    },
+    {
+      "code": "price-asc",
+      "name": "Price Low to High",
+      "selected": false
+    },
+    {
+      "code": "price-desc",
+      "name": "Price High to Low",
+      "selected": false
+    },
+    {
+      "code": "brand",
+      "name": "Brand name",
+      "selected": false
+    },
+    {
+      "code": "redemptionPoints-asc",
+      "name": "Points Low to High",
+      "selected": false
+    },
+    {
+      "code": "redemptionPoints-desc",
+      "name": "Points High to Low",
+      "selected": false
+    },
+    {
+      "code": "flashSaleQuota",
+      "selected": false
+    }
+  ],
+  "spellCheckList": [],
+  "suggestions": []
+}

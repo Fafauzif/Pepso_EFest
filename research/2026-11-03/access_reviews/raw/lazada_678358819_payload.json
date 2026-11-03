@@ -1,0 +1,114 @@
+{
+  "seoMetadata": {
+    "otherData": null,
+    "description": "Kumpulan review dan pengalaman pengguna PEPSODENT GUMEXPERT WHITENING 100g untuk membantu sebelum membeli.",
+    "robots": "index,follow",
+    "canonical": "https://www.lazada.co.id/product-reviews/?item_id=678358819",
+    "title": "Review PEPSODENT GUMEXPERT WHITENING 100g – Pengalaman Pengguna",
+    "class": "com.lazada.seo.dto.base.SeoBaseMetadataDTO",
+    "structuredData": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"PEPSODENT GUMEXPERT WHITENING 100g\",\"image\":\"https://filebroker-cdn.lazada.co.id/kf/S34916d53f4144517b1899d55c97cdee6a.jpg\",\"description\":\"Kumpulan review dan pengalaman pengguna PEPSODENT GUMEXPERT WHITENING 100g untuk membantu sebelum membeli.\",\"sku\":\"13588304391\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Pepsodent\"},\"offers\":{\"@type\":\"AggregateOffer\",\"offerCount\":0,\"lowPrice\":23900.0,\"highPrice\":29000.0,\"priceCurrency\":\"IDR\",\"availability\":\"https://schema.org/OutOfStock\",\"seller\":{\"@type\":\"Organization\",\"name\":\"Qaila olzhop\"}},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.80\",\"reviewCount\":\"81\"},\"review\":[{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"G****3\"},\"datePublished\":\"2023-02-22\",\"reviewBody\":\"realpict ori Cepet kemasannya aman\",\"name\":\"realpict ori Cepet kemasannya aman\",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"9****k\"},\"datePublished\":\"2026-08-27\",\"reviewBody\":\"oke mantap \",\"name\":\"oke mantap \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"p****m\"},\"datePublished\":\"2021-01-02\",\"reviewBody\":\"makasih banyak\",\"name\":\"makasih banyak\",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"6****v\"},\"datePublished\":\"2021-01-05\",\"reviewBody\":\"barang realpick\",\"name\":\"barang realpick\",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}}]}"
+    ],
+    "propertyData": "{\"og:title\":\"Review PEPSODENT GUMEXPERT WHITENING 100g – Pengalaman Pengguna\",\"og:description\":\"Kumpulan review dan pengalaman pengguna PEPSODENT GUMEXPERT WHITENING 100g untuk membantu sebelum membeli.\",\"og:image\":\"https://filebroker-cdn.lazada.co.id/kf/S34916d53f4144517b1899d55c97cdee6a.jpg\",\"og:url\":\"https://www.lazada.co.id/product-reviews/?item_id=678358819\",\"og:type\":\"product\"}"
+  },
+  "innerLinks": null,
+  "reviewZone": {
+    "reviews": [
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "realpict ori Cepet kemasannya aman",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "G****3",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1132207960658819,
+        "reviewTime": 1677025757249,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "oke mantap ",
+        "rating": 5,
+        "upVotes": 2,
+        "deliveredTime": null,
+        "userName": "9****k",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 2058240223458819,
+        "reviewTime": 1787871327390,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "makasih banyak",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "p****m",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 509885831858819,
+        "reviewTime": 1609605707343,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "barang realpick",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "6****v",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 512943632358819,
+        "reviewTime": 1609849756140,
+        "reviewTitle": null
+      }
+    ],
+    "productId": "678358819",
+    "ratingCnt": 81,
+    "ratingAvg": 4.802469135802469,
+    "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO",
+    "likeJumpUrl": "https://www.lazada.co.id/products/-i678358819.html"
+  },
+  "class": "com.lazada.seo.dto.SeoReviewPageDTO",
+  "products": [
+    {
+      "currentPriceFormatted": "Rp23.900",
+      "shop": {
+        "sellerId": "******",
+        "sellerRating": 5,
+        "shopLogo": "https://filebroker-cdn.lazada.co.id/kf/Sf1dbce3a591c410ab78b80e39a3d59efr.jpg",
+        "shopName": "Qaila olzhop",
+        "shopId": null,
+        "shopUrl": "https://www.lazada.co.id/shop/qaila-olzhop",
+        "class": "com.lazada.seo.dto.base.ProductShopDTO"
+      },
+      "productId": "678358819",
+      "urlLazada": "https://www.lazada.co.id/products/-i678358819.html",
+      "ratingCnt": 81,
+      "totalOrdersLast4Weeks": null,
+      "priceFormatted": "Rp29.000",
+      "currentPrice": "23900.0",
+      "currencySymbol": "Rp",
+      "payUnitCntStd": 26,
+      "urlImages": null,
+      "video": null,
+      "productName": "PEPSODENT GUMEXPERT WHITENING 100g",
+      "totalOrderL1y": null,
+      "urlMainImage": "https://filebroker-cdn.lazada.co.id/kf/S34916d53f4144517b1899d55c97cdee6a.jpg",
+      "price": "29000.0",
+      "ratingAvg": 4.802469135802469,
+      "class": "com.lazada.seo.dto.base.ProductSkuDTO",
+      "brand": null,
+      "currencyCode": "IDR",
+      "skuId": "13588304391"
+    }
+  ]
+}

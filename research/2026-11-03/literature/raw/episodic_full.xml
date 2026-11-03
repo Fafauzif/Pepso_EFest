@@ -1,0 +1,453 @@
+
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Archiving and Interchange DTD with MathML3 v1.4 20241031//EN" "JATS-archivearticle1-4-mathml3.dtd">
+<article article-type="research-article" xml:lang="en" dtd-version="1.4"><front><journal-meta><journal-id journal-id-type="nlm-ta">BDJ Open</journal-id><journal-id journal-id-type="iso-abbrev">BDJ Open</journal-id><journal-id journal-id-type="pmc-domain-id">3309</journal-id><journal-id journal-id-type="pmc-domain">bdjopen</journal-id><journal-id journal-id-type="nlm-id">101709456</journal-id><journal-title-group><journal-title>BDJ Open</journal-title></journal-title-group><issn pub-type="epub">2056-807X</issn><?publisher_abbrev naturepg?><publisher><publisher-name>Nature Publishing Group</publisher-name></publisher></journal-meta><article-meta><article-id pub-id-type="pmcid">PMC5962890</article-id><article-id pub-id-type="pmcid-ver">PMC5962890.1</article-id><article-id pub-id-type="pmcaid">5962890</article-id><article-id pub-id-type="pmcaiid">5962890</article-id><article-id pub-id-type="pmid">29789771</article-id><article-id pub-id-type="doi">10.1038/bdjopen.2017.11</article-id><article-id pub-id-type="pii">bdjopen201711</article-id><article-version article-version-type="pmc-version">1</article-version><article-categories><subj-group subj-group-type="heading"><subject>Article</subject></subj-group></article-categories><title-group><article-title>Clinical study to monitor dentinal hypersensitivity with episodic use of a
+desensitising dentifrice</article-title><alt-title alt-title-type="running">Clinical study to monitor dentinal hypersensitivity</alt-title></title-group><contrib-group><contrib contrib-type="author"><name name-style="western"><surname>Mason</surname><given-names initials="S">Stephen</given-names></name><contrib-id contrib-id-type="orcid" authenticated="false">http://orcid.org/0000-0002-3841-2313</contrib-id><xref ref-type="aff" rid="aff1">1</xref><xref ref-type="corresp" rid="caf1">*</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Kingston</surname><given-names initials="R">Rose</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Shneyer</surname><given-names initials="L">Lucy</given-names></name><xref ref-type="aff" rid="aff3">3</xref></contrib><contrib contrib-type="author"><name name-style="western"><surname>Harding</surname><given-names initials="M">Máiréad</given-names></name><xref ref-type="aff" rid="aff2">2</xref></contrib><aff id="aff1"><label>1</label><institution>Oral Care Medical Affairs, Research and
+Development, GSK Consumer Healthcare, Weybridge</institution>, Surrey,
+<country>UK</country></aff><aff id="aff2"><label>2</label><institution>Oral Health Services Research Centre, Cork
+University Dental School and Hospital</institution>, Wilton, Cork,
+<country>Ireland</country></aff><aff id="aff3"><label>3</label><institution>Shneyer Statistics LLC</institution>,
+Denville, NJ, <country>USA</country></aff></contrib-group><author-notes><corresp id="caf1"><label>*</label> (<email>stephen.x.mason@gsk.com</email>)</corresp><fn id="contrib" fn-type="con"><p>SM contributed to the design, conduct and reporting of the study. RK and MH were
+involved in the conduct of the study and interpretation of results. LS contributed to
+the statistical analyses of the study data and interpretation of results. All authors
+had access to the final study report, made contributions to the development of the
+manuscript, had final responsibility for the decision to submit and approved the
+submitted version.</p></fn></author-notes><pub-date pub-type="epub"><day>23</day><month>06</month><year>2017</year></pub-date><pub-date pub-type="collection"><year>2017</year></pub-date><volume>3</volume><issue-id pub-id-type="pmc-issue-id">307496</issue-id><fpage>17011</fpage><lpage/><history><date date-type="received"><day>07</day><month>10</month><year>2016</year></date><date date-type="rev-recd"><day>16</day><month>03</month><year>2017</year></date><date date-type="accepted"><day>12</day><month>04</month><year>2017</year></date></history><pub-history><event event-type="pmc-release"><date><day>23</day><month>06</month><year>2017</year></date></event><event event-type="pmc-live"><date><day>22</day><month>05</month><year>2018</year></date></event><event event-type="pmc-last-change"><date iso-8601-date="2018-05-24 19:38:21.480"><day>24</day><month>05</month><year>2018</year></date></event></pub-history><permissions><copyright-statement>Copyright © 2017 The Author(s)</copyright-statement><copyright-year>2017</copyright-year><copyright-holder>The Author(s)</copyright-holder><license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><ali:license_ref xmlns:ali="http://www.niso.org/schemas/ali/1.0/" specific-use="textmining" content-type="ccbylicense">https://creativecommons.org/licenses/by/4.0/</ali:license_ref><license-p>This work is licensed under a Creative Commons Attribution 4.0 International
+License. The images or other third party material in this article are included in the
+article’s Creative Commons license, unless indicated otherwise in the credit line;
+if the material is not included under the Creative Commons license, users will need to
+obtain permission from the license holder to reproduce the material. To view a copy of
+this license, visit <ext-link ext-link-type="uri" xlink:href="http://creativecommons.org/licenses/by/4.0/">http://creativecommons.org/licenses/by/4.0/</ext-link></license-p></license></permissions><self-uri xmlns:xlink="http://www.w3.org/1999/xlink" content-type="pmc-pdf" xlink:href="bdjopen201711.pdf"><?pdf-name bdjopen201711.pdf?><?pdf-size 617194?><?pdf-md5 abb9728a0cbe876587d492e16a00ac1b?><?pdf-image-server-status NEVER_LOAD?><?pdf-cloudpmc-urn urn:app:7e3e/5962890/abb9728a0cbe/bdjopen201711.pdf?></self-uri><abstract><sec><title>Objectives/Aims:</title><p>To evaluate continuous and episodic twice-daily usage regimens of a desensitising
+dentifrice containing 5% calcium sodium phosphosilicate (CSPS).</p></sec><sec><title>Materials and Methods:</title><p>In this exploratory, single-centre, randomised, examiner-blind study, subjects with
+dentinal hypersensitivity were randomised to continuous (24 weeks) use of a 5%
+CSPS-containing dentifrice or episodic use of the dentifrice comprising two 8-week
+treatment periods separated by 8 weeks′ use of a standard fluoride dentifrice.
+Sensitivity was assessed by tactile threshold (Yeaple probe) and evaporative (air)
+sensitivity (Schiff sensitivity score). Other measures included labelled magnitude
+scales to assess subjects′ responses to the evaporative stimulus, the Dentine
+Hypersensitivity Experience Questionnaire and a tooth sensitivity question.</p></sec><sec><title>Results:</title><p>Seventy-six subjects were randomised to continuous (<italic toggle="yes">n</italic>=38) or episodic
+(<italic toggle="yes">n</italic>=38) use. Small but statistically significant improvements from baseline in
+Schiff sensitivity scores were observed at weeks 8, 16 and 24 with both regimens (all
+<italic toggle="yes">P</italic>&lt;0.05). Increases from baseline in tactile threshold were not
+statistically significant. No significant between-regimen difference was observed for
+any endpoint. No treatment-related adverse events were reported.</p></sec><sec><title>Discussion:</title><p>Dentifrice containing 5% CSPS improved dentinal hypersensitivity with both episodic and
+continuous twice-daily usage regimens over 24 weeks and was well tolerated.</p></sec><sec><title>Conclusion:</title><p>No performance differences were observed between the two usage regimens.</p></sec></abstract><custom-meta-group><custom-meta><meta-name>pmc-status-qastatus</meta-name><meta-value>0</meta-value></custom-meta><custom-meta><meta-name>pmc-status-live</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-status-embargo</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-status-released</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-open-access</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-olf</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-manuscript</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-legally-suppressed</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-pdf</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-has-supplement</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-pdf-only</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-suppress-copyright</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-real-version</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-is-scanned-article</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-preprint</meta-name><meta-value>no</meta-value></custom-meta><custom-meta><meta-name>pmc-prop-in-epmc</meta-name><meta-value>yes</meta-value></custom-meta><custom-meta><meta-name>pmc-license-ref</meta-name><meta-value>CC BY</meta-value></custom-meta></custom-meta-group></article-meta></front><body><sec><title>Introduction</title><p>Dentinal hypersensitivity is a common oral condition characterised by pain derived from
+exposed dentine in response to chemical, thermal, tactile or osmotic stimuli, which cannot
+be accounted for by any other dental defect or disease.<sup>
+<xref ref-type="bibr" rid="bib1">1</xref>,<xref ref-type="bibr" rid="bib2">2</xref>,<xref ref-type="bibr" rid="bib3">3</xref></sup> Hypersensitivity develops as a result of gingival recession, and/or
+erosion and abrasion of enamel, leading to exposure of the underlying
+dentine.<sup><xref ref-type="bibr" rid="bib4">4</xref></sup> The hydrodynamic theory of dentinal
+hypersensitivity hypothesises that when a stimulus is applied to dentine, the movement of
+fluid within exposed patent dentinal tubules stimulates the nerve processes in the pulpal
+area of the dentine to transmit a signal that is perceived as pain.<sup><xref ref-type="bibr" rid="bib5">5</xref></sup></p><p>Treatments for dentinal hypersensitivity are generally based on one of two
+approaches—the use of depolarising agents, such as potassium ions, with the aim of
+blocking neural transmission of the pain stimulus, or the use of tubule-occluding agents
+that physically block exposed dentinal tubules. These blocking agents include strontium,
+oxalate or stannous salts; arginine; bioglasses; and silicas, which serve to seal the
+dentine tubules, thereby reducing dentinal-fluid movement in response to external
+stimuli.<sup><xref ref-type="bibr" rid="bib6">6</xref>,<xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib8">8</xref>, <xref ref-type="bibr" rid="bib9">9</xref>,<xref ref-type="bibr" rid="bib10">10</xref>,<xref ref-type="bibr" rid="bib11">11</xref></sup> Calcium sodium phosphosilicate
+(CSPS; Novamin, GSK Consumer Healthcare, Weybridge, UK) is a particulate, bioactive
+material incorporated into oral healthcare products indicated for the treatment of
+dentinal hypersensitivity. When CSPS particles come into contact with an aqueous
+environment, such as saliva, there is an immediate release of sodium ions, leading to a
+localised pH increase due to cation exchange. Together with a release of calcium and
+phosphate ions, this facilitates the precipitation of an occlusive calcium phosphate
+hydroxycarbonate apatite-like layer over the exposed dentine.<sup><xref ref-type="bibr" rid="bib7">7</xref>, <xref ref-type="bibr" rid="bib12">12</xref>,<xref ref-type="bibr" rid="bib13">13</xref>,<xref ref-type="bibr" rid="bib14">14</xref>, <xref ref-type="bibr" rid="bib15">15</xref></sup> The efficacy of dentifrices containing 5% CSPS in reducing dentinal
+hypersensitivity has been demonstrated in randomised controlled clinical studies of up to
+8 weeks′ duration.<sup><xref ref-type="bibr" rid="bib16">16</xref>,<xref ref-type="bibr" rid="bib17">17</xref>,<xref ref-type="bibr" rid="bib18">18</xref>,<xref ref-type="bibr" rid="bib19">19</xref>,<xref ref-type="bibr" rid="bib20">20</xref>,<xref ref-type="bibr" rid="bib21">21</xref>,<xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib23">23</xref>,<xref ref-type="bibr" rid="bib24">24</xref><xref ref-type="bibr" rid="bib25">25</xref></sup>
+A reduction in sensitivity is generally reported following 2–4 weeks′
+treatment with 5% CSPS, with further improvements observed with continued twice-daily
+brushing. <italic toggle="yes">In vitro</italic> studies of CSPS-containing dentifrices have demonstrated
+maintenance of the occlusive layer following exposure to dietary acid.<sup><xref ref-type="bibr" rid="bib26">26</xref></sup></p><p>Currently there is no available evidence-based information on which the dental healthcare
+professional can base advice regarding continuous versus episodic long-term approaches to
+daily use of a desensitising dentifrice for the management of dentinal hypersensitivity. A
+number of clinical studies have shown that when use of a desensitising dentifrice is
+discontinued, the pain relief achieved during treatment is gradually lost and sensitivity
+begins to return.<sup><xref ref-type="bibr" rid="bib23">23</xref>,<xref ref-type="bibr" rid="bib27">27</xref>,<xref ref-type="bibr" rid="bib28">28</xref></sup> For example, one study has
+reported a degree of recurrence of sensitivity pain within 3 weeks of discontinuation of a
+dentifrice containing 5% CSPS.<sup><xref ref-type="bibr" rid="bib23">23</xref></sup> Given the
+episodic nature of dentinal hypersensitivity and the effectiveness of treatment, it is
+likely that individuals with the condition will use desensitising products intermittently,
+depending on the resolution and recurrence of their symptoms. However, in general, the
+design of clinical studies investigating desensitising agents has not reflected this
+real-world consumer behaviour. Insights into the consequences of intermittent use can be
+provided by incorporation into the clinical study design of a transient
+treatment-withdrawal or ‘regression’ phase, during which evaluation of
+treatment outcomes continues following cessation of active treatment.</p><p>This exploratory study was designed to compare dentine hypersensitivity over a 24-week
+period of either episodic or continuous use of a desensitising dentifrice containing 5%
+CSPS and 1,426 p.p.m. fluoride (as sodium monofluorophosphate (SMFP)) as measured
+by Schiff sensitivity score and tactile threshold (Yeaple probe). The episodic-use regimen
+comprised two 8-week treatment periods separated by an 8-week non-treatment period (use of
+a standard fluoride dentifrice). Other exploratory objectives were: to monitor dentine
+hypersensitivity using labelled magnitude scales (LMSs), the Dentine Hypersensitivity
+Experience Questionnaire (DHEQ) and a tooth sensitivity question (TSQ); to investigate the
+relationship between frequency of dietary ‘acidic challenge’ and dentinal
+hypersensitivity; and to monitor oral tolerability.</p></sec><sec><title>Materials and Methods</title><sec><title>Study design</title><p>This was an exploratory, 24-week, single-centre, randomised, examiner-blind,
+two-treatment arm, parallel-group study in healthy adult volunteers with self-reported
+and clinically diagnosed dentinal hypersensitivity. The study was conducted at the Oral
+Health Services Research Centre, Cork, Ireland. The protocol was approved by an
+independent ethics committee (Clinical Research Ethics Committee of Cork University
+Teaching Hospitals) and the study was carried out in accordance with the requirements of
+the Declaration of Helsinki. There was one minor protocol amendment to clarify the
+meaning of ‘study site’ as stated in the exclusion criteria.</p><p>All subjects were required to provide written informed consent before participating in
+the study. Eligible subjects completed study visits at screening, baseline (⩾7
+days post screening), and after 2, 4, 8, 10, 12, 16, 18, 20 and 24 weeks of study
+treatment. At the screening visit, subjects’ demographics and medical history
+were recorded and an oral soft tissue (OST) examination was conducted. Each
+subject’s dentition was then assessed sequentially for: evidence of erosion,
+abrasion and facial/cervical gingival recession; gingival health status; tooth mobility;
+and sensitivity to an air-blast stimulus (where a ‘yes’ response from the
+subject when questioned indicated sensitivity). To provide a standardised oral hygiene
+regimen before the start of the treatment period, eligible subjects were supplied with a
+standard fluoride dentifrice (Colgate Cavity Protection, containing 1,000 p.p.m.
+fluoride as SMFP and 450 p.p.m. fluoride as NaF; Colgate-Palmolive UK, Guildford,
+UK) and a toothbrush (Aquafresh Clean Control; GSK Consumer Healthcare, Weybridge, UK)
+for twice-daily brushing (1 min in the morning and evening) for at least 1 week
+between screening and the baseline visit. Brushing with the lead-in dentifrice was
+supervised on first use at the study site and was recorded thereafter by subjects in a
+daily diary.</p><p>At the baseline visit, subjects were assessed for ongoing eligibility, their compliance
+with the lead-in dentifrice was monitored and an OST assessment was conducted. The
+sensitivity of the eligible teeth identified at screening was assessed using a tactile
+stimulus (Yeaple probe).<sup><xref ref-type="bibr" rid="bib29">29</xref></sup> Teeth with a
+tactile threshold ⩽20 g were then evaluated for sensitivity to an
+evaporative (air) stimulus (using the Schiff Sensitivity Scale<sup><xref ref-type="bibr" rid="bib30">30</xref></sup> and LMSs).<sup><xref ref-type="bibr" rid="bib31">31</xref>,<xref ref-type="bibr" rid="bib32">32</xref></sup> Based on the Schiff sensitivity score, the dental
+examiner selected two eligible test teeth to be evaluated for the rest of the study.
+Subjects were then randomised (1:1) to a continuous or episodic usage regimen of the
+study dentifrice, which contained 5% (w/w) CSPS and 1,426 p.p.m. fluoride as SMFP
+(Sensodyne Repair and Protect; GSK Consumer Healthcare, Weybridge, UK).</p><p>Randomisation was stratified by maximum baseline Schiff sensitivity score (either 2 or
+3) of the two selected test teeth according to a randomisation schedule generated by the
+Biostatistics Department of GSK Consumer Healthcare. Subjects within each stratum were
+sequentially assigned a randomisation number in ascending order. The dental examiner,
+study statistician, data management staff and employees of the sponsor who might
+influence the study outcomes were blinded to treatment allocations. The study dentifrice
+and the lead-in dentifrice were supplied in commercial tubes; the study dentifrices were
+overwrapped to mask their identity as far as possible. Maintenance of the blind was
+confirmed by inspection of supplied products returned after each 8-week period of the
+study and by checking that the emergency-use randomisation list had not been
+accessed.</p><p>Subjects were instructed to apply the study dentifrices with the supplied standard
+manual toothbrush for 1 min twice daily (morning and evening). Those randomised
+to the continuous-regimen group used the 5% CSPS dentifrice over a continuous 24-week
+period. Subjects randomised to episodic treatment used the same dentifrice over two
+8-week treatment periods separated by an 8-week phase during which they used the
+standard fluoride dentifrice (Colgate Cavity Protection), which has no known
+desensitising efficacy. First use of the study treatment was supervised at the study
+site. Subjects in both groups received new dentifrice and toothbrushes at the start of
+each 8-week treatment phase. Subjects’ compliance with the administration of the
+dentifrices was assessed by review of subject-completed diaries at each study visit.</p><p>The sensitivity of the two test teeth selected at baseline was re-assessed in response
+to a tactile stimulus (tactile threshold) and evaporative (air) stimulus (Schiff
+sensitivity score and LMSs) by the same dental examiner for each measure (one examiner
+per measure) at weeks 2, 4, 8, 10, 12, 16, 18, 20 and 24. Subjects underwent an OST
+examination at each visit, before the clinical assessments of sensitivity. Supervised
+brushing was carried out at each visit to facilitate compliance.</p><p>Other evaluations included the DHEQ, completed by subjects at baseline and 8, 16 and 24
+weeks; subjects’ weekly responses to the TSQ; and subjects’ estimates of
+the number of dietary acidic challenges per day.</p><p>During the study, subjects were not permitted to use any oral-care products other than
+those provided or any dental products (including home remedies) intended for treating
+tooth sensitivity. Subjects were required to abstain from use of interdental cleaning
+aids (except to remove impacted food) and to avoid any non-emergency dental treatment,
+including prophylaxis. Subjects were requested to refrain from excessive alcohol
+consumption for 24 h before each visit, from all oral hygiene procedures and use
+of chewing gum for at least 8 h, and from eating, drinking and smoking for at
+least 4 h.</p></sec><sec><title>Subjects</title><p>Eligible subjects were aged 18–50 years and in good general health with
+pre-existing (⩾6 months and ⩽10 years), self-reported and clinically
+diagnosed dentinal hypersensitivity. At screening, subjects were required to have at
+least 20 natural teeth, including at least four accessible non-adjacent teeth (incisors,
+canines or premolars) that met all of the following criteria: evidence of erosion,
+abrasion and facial/cervical gingival recession; a Gingival Index (GI) score ⩽1;
+a clinical mobility score ⩽1; and sensitivity to an air-blast stimulus. At
+baseline, subjects eligible for randomisation were required to have at least two
+accessible, non-adjacent teeth (incisors, canines or premolars) demonstrating signs of
+sensitivity as determined by a tactile threshold ⩽20 g and a Schiff
+sensitivity score ⩾2.</p><p>General exclusion criteria included pregnancy; breastfeeding; intolerance or
+hypersensitivity to the study dentifrices or their ingredients; participation in a
+clinical study or receipt of an investigational drug within 30 days of screening;
+participation in a tooth-desensitising study within 8 weeks of screening; use of
+sensitivity oral care products within the previous 8 weeks; presence of any chronic
+debilitating disease that could influence study outcomes; any condition causing
+clinically relevant xerostomia; daily use of any medications that might influence the
+perception of pain or cause xerostomia; and a requirement for antibiotic prophylaxis
+before dental treatment.</p><p>General dentition exclusion criteria were: dental prophylaxis within 4 weeks of
+screening; tongue or lip piercing; desensitising treatment or tooth bleaching within 8
+weeks of screening; gross periodontal disease; treatment of periodontal disease
+(including surgery) within 12 months of screening; scaling or root planing within 3
+months of screening; active caries or periodontitis; and partial dentures, orthodontic
+appliances, implants or restorations in a poor state of repair that could influence
+study outcomes. Specific exclusions for the two selected test teeth were: evidence of
+current/recurrent caries or decay in the previous 12 months; exposed dentine but with
+deep, defective or facial restorations; teeth used as abutments for fixed or removable
+partial dentures; teeth with full crowns or veneers, orthodontic bands or cracked
+enamel; and sensitive teeth with contributing aetiologies other than erosion, abrasion
+and facial/cervical gingival recession or considered by the investigator as unlikely to
+respond to an over-the-counter dentifrice.</p></sec><sec><title>Assessments</title><p>At screening, eligibility assessments included evaluation of gingival health using the
+four-point (0–3) GI scale.<sup><xref ref-type="bibr" rid="bib33">33</xref></sup> For teeth
+with a GI score ⩽1, tooth mobility was scored from 0 to 3 using a modification to
+the Miller index<sup><xref ref-type="bibr" rid="bib34">34</xref></sup> as follows: 0=no movement
+or mobility of the crown of the tooth &lt;0.2 mm in a horizontal direction;
+1=mobility 0.2–1.0 mm in a horizontal direction; 2=mobility
+&gt;1 mm in a horizontal direction; 3=mobility in a vertical direction as well as
+in a horizontal direction.</p><p>At each post-screening visit, as recommended by consensus guidelines,<sup><xref ref-type="bibr" rid="bib35">35</xref></sup> two independent stimulus-based efficacy measures were
+used to assess dentinal hypersensitivity: tactile sensitivity was assessed for the two
+designated test teeth, followed by an evaporative (air) sensitivity test with a minimum
+of 5 min between tests. Each measure was assessed by a single, different examiner
+for the duration of the study. Examiners were already experienced in the use of these
+assessments and were also expected to undergo calibration, refresher training and
+re-familiarisation with the techniques, as necessary. Tactile sensitivity was measured
+by applying a constant-pressure Yeaple probe<sup><xref ref-type="bibr" rid="bib29">29</xref></sup>
+that was calibrated on each day it was used. Testing was initiated at 10 g and
+increased in increments of 10 g until either two consecutive ‘yes’
+responses (with ‘yes’ indicating that the stimulus caused pain or
+discomfort) were elicited from the subject at the same pressure setting (which was
+recorded as the tactile threshold in grams) or the maximum force was reached. At
+baseline, the maximum force was set at 20 g; at subsequent visits it was
+80 g. The greater the tactile threshold (i.e., the greater the pressure the
+subject was able to tolerate), the less sensitive the tooth.</p><p>The evaporative (air) sensitivity test was assessed by application of a 1-s blast of
+air from a triple air dental syringe to the exposed dentine surface of the isolated test
+tooth. The subject’s response was recorded by the examiner on the four-point
+Schiff Sensitivity Scale as: 0=no response; 1=subject responds to air stimulus but does
+not require withdrawal of stimulus; 2=subject responds to air stimulus and requests
+withdrawal of stimulus or moves from stimulus; 3=subject responds to air stimulus,
+considers stimulus to be painful, and requests discontinuation of stimulus.<sup><xref ref-type="bibr" rid="bib30">30</xref></sup> In addition, subjects used the LMSs immediately after
+the evaporative (air) stimulus to rate the intensity, duration, tolerability and
+descriptive quality of their response to the stimulus.<sup><xref ref-type="bibr" rid="bib31">31</xref>,<xref ref-type="bibr" rid="bib32">32</xref></sup> Training in the use of the
+LMSs was given at baseline, and weeks 8, 16 and 24.</p><p>Before OST examination and tooth sensitivity assessments were conducted, subjects also
+completed the 48-item DHEQ, a validated condition-specific questionnaire used to assess
+the impact of dentinal hypersensitivity on oral health-related quality of
+life.<sup><xref ref-type="bibr" rid="bib36">36</xref>,<xref ref-type="bibr" rid="bib37">37</xref></sup>
+The questionnaire assesses an individual’s experience of dentinal
+hypersensitivity in terms of sensation, their impression of the impact of the condition
+on various aspects of daily life and their global oral health.</p><p>Subjects also used the TSQ to score the sensitivity of their teeth on a scale of 0 (no
+discomfort) to 3 (severe pain in response to things that usually cause sensitivity). In
+addition, subjects recorded the number of daily dietary ‘acidic
+challenges’ (i.e., the number of times they consumed an acidic food or beverage
+that day), based on provided examples of typical acidic challenges.</p></sec><sec><title>Safety</title><p>Adverse events (AEs) and OST abnormalities were monitored at each study visit. AEs were
+recorded from the first use of the acclimatisation dentifrice (at the screening visit)
+until 5 days after the last use of study treatment. Any relationship between study
+treatment and the occurrence of an AE was assessed by the investigators, who also graded
+the intensity of the AE as mild, moderate or severe.</p></sec><sec><title>Data analyses</title><p>As the study was exploratory and was not powered to detect any treatment differences,
+no formal sample-size calculations were performed. Sufficient numbers of subjects were
+screened to allow ~35 subjects per randomised group.</p><p>The intent-to-treat (ITT; primary analysis) population comprised all randomised
+subjects who received study treatment at least once and had at least one post-baseline
+assessment of efficacy. An analysis of the per-protocol population (i.e., all subjects
+in the ITT population who had at least one assessment of efficacy considered unaffected
+by protocol violations) was not performed as &lt;10% of data were excluded from the
+per-protocol population. Treatment-emergent AEs were reported for the safety population,
+which included all randomised subjects who received at least one administration of study
+treatment.</p><p>Mean Schiff sensitivity score, tactile threshold and LMS scores, and changes from
+baseline were calculated across the two test teeth at each timepoint for each subject.
+Changes from baseline at weeks 8, 16 and 24 were analysed using a repeated-measures
+analysis of covariance model with fixed effects for treatment, visit, treatment by visit
+interaction and baseline Schiff sensitivity score stratification (except for the model
+for Schiff sensitivity score analysis), and with baseline Schiff sensitivity scores,
+tactile threshold or LMS score as a covariate, dependent on the variable being analysed.
+Subject was included as a random effect. Assumptions of normality were investigated for
+all endpoints. Tactile threshold data were found to violate that assumption, therefore
+for this endpoint median differences are presented with 95% confidence intervals (CIs)
+based on the Hodges–Lehmann method and <italic toggle="yes">P</italic> values for between-regimen
+comparisons were based on the Wilcoxon rank-sum test.</p><p>Additional measures were analysed as unadjusted means (±s.e.) for single DHEQ
+questions, DHEQ subscale and composite scores, and total score; medians for TSQ scores
+and number of subjects experiencing total relief (post-treatment response of 0=no
+discomfort or awareness of sensitivity); number of improvers (post-treatment improvement
+in response); and means for number of acidic challenges per day. Full data for these
+endpoints will not be presented.</p></sec></sec><sec><title>Results</title><sec><title>Subjects</title><p>The first subject was enroled on 29 October 2013 and the last subject completed the
+study on 2 May 2014. A total of 156 subjects were screened and 76 were randomised to
+continuous (<italic toggle="yes">n</italic>=38) or episodic use (<italic toggle="yes">n</italic>=38) of the study dentifrice and
+were included in the ITT and safety populations (<xref ref-type="fig" rid="fig1">Figure 1</xref>).
+Characteristics were comparable between the two groups (<xref rid="tbl1" ref-type="table">Table
+1</xref>). There was a higher proportion of female versus male subjects: 57.9 versus
+42.1% overall. The mean age of the subjects was 29.8 (s.d. 10.29; range 18–48)
+years and almost all (98.7%) were White. Similar proportions of subjects in each of the
+strata were defined by maximum baseline Schiff sensitivity score of 2 or 3.</p></sec><sec><title>Efficacy</title><p>The mean Schiff sensitivity scores (±s.e.) for the episodic- and continuous-use
+groups over the study duration are shown in <xref ref-type="fig" rid="fig2">Figure 2</xref>. The
+two treatment groups showed similar profiles over the 24-week study period, with small
+but statistically significant (<italic toggle="yes">P</italic>&lt;0.05) decreases from baseline, indicating
+an improvement in sensitivity (see <xref rid="tbl2" ref-type="table">Table 2</xref> for adjusted mean
+change from baseline including 95% CIs). No statistically significant differences
+between continuous and episodic use were observed for change from baseline at weeks 8,
+16 or 24 (<xref rid="tbl2" ref-type="table">Table 2</xref>).</p><p>Small reductions were observed in mean tactile sensitivity, based on the tactile
+threshold scores, over the 24-week study period (see <xref ref-type="fig" rid="fig3">Figure
+3</xref> for mean scores (±s.e.) and <xref rid="tbl2" ref-type="table">Table 2</xref> for
+adjusted mean change from baseline including 95% CIs). The profiles for the continuous-
+and episodic-use regimens were similar. Owing to the non-normal distribution of the
+data, median values were used to assess the change from baseline at weeks 8, 16 and 24
+(<xref rid="tbl2" ref-type="table">Table 2</xref>); no statistically significant changes from
+baseline or differences between regimens were demonstrated at weeks 8, 16 or 24.</p><p>The profiles of the mean LMS scores for ‘intensity’,
+‘duration’, ‘tolerability’ and ‘description’
+were also similar for both regimens. Statistically significant (<italic toggle="yes">P</italic>&lt;0.05)
+improvements from baseline to weeks 8, 16 and 24 were demonstrated for all LMS
+parameters except ‘duration’ scores at week 8 for the continuous-use
+group. There were no statistically significant between-treatment differences for change
+from baseline in LMS scores.</p><p>Similar profiles were also demonstrated for mean DHEQ endpoints for the continuous- and
+episodic-use groups, with little or no reduction in subject-perceived sensitivity over
+time. The two groups showed comparable profiles for raw TSQ scores, with little change
+over time in subject-reported sensitivity for either treatment regimen over the 24-week
+study period. The two treatment regimens demonstrated similar profiles with regard to
+the number of daily acidic challenges.</p></sec><sec><title>Safety</title><p>A total of 23 treatment-emergent AEs were reported by 14 subjects (36.8%) in the
+episodic-use group (including two oral events in two subjects) and 36 treatment-emergent
+AEs were reported by 19 subjects (50.0%) in the continuous-use group (including 10 oral
+events in 10 subjects). None of the AEs were considered by the examiner to be treatment
+related. Two serious AEs were reported: one subject in the episodic-use group had severe
+concussion leading to withdrawal from the study; one subject in the continuous-use group
+reported bruised ribs. All AEs were of mild intensity with the exception of the severe
+concussion and a moderate laceration, experienced by the same subject.</p></sec></sec><sec><title>Discussion</title><p>This study demonstrated statistically significant improvements from baseline in dentinal
+hypersensitivity, as determined by Schiff sensitivity scores, with both episodic and
+continuous usage regimens of a 5% CSPS-containing desensitising dentifrice over a 24-week
+period. However, in this study no significant changes from baseline in tactile sensitivity
+were observed for either regimen. There were no significant between-regimen differences
+revealed by assessment of evaporative or tactile sensitivity. Similarly, subject-assessed
+endpoints demonstrated no difference between the two regimens. The study product was well
+tolerated when used continuously or episodically for 24 weeks.</p><p>Desensitising dentifrices are likely to be used intermittently in practice; however, very
+few published studies have attempted to investigate the consequences of episodic compared
+with continuous long-term usage of desensitising products. Studies by Jeandot <italic toggle="yes">et
+al.</italic><sup><xref ref-type="bibr" rid="bib27">27</xref></sup> and Leight <italic toggle="yes">et
+al.</italic><sup><xref ref-type="bibr" rid="bib28">28</xref></sup> demonstrated a return of
+sensitivity within 4 weeks of discontinuing potassium-containing dentifrices after 8 weeks
+of treatment. In addition, a comparison of dentifrices containing 5% CSPS and 5% potassium
+nitrate showed that both reduced sensitivity after 3 weeks’ treatment.<sup><xref ref-type="bibr" rid="bib23">23</xref></sup> Sensitivity started to increase again within 3 weeks of
+stopping treatment but to a greater extent following use of the dentifrice containing 5%
+potassium nitrate than the 5% CSPS-containing dentifrice.</p><p>Based on these studies, it was hypothesised that a return of sensitivity would be
+observed during a period of use of a standard dentifrice following regular use of a
+dentifrice containing 5% CSPS. However, owing to the lack of clinical evidence, the timing
+and degree of regression were unknown. The current study was therefore designed to explore
+these aspects of episodic use of a desensitising dentifrice. In contrast to standard
+efficacy studies,<sup><xref ref-type="bibr" rid="bib35">35</xref></sup> this study incorporated a
+parallel active-control arm for comparison of sensitivity during the off-treatment phase.
+Subjects who stopped active treatment were also monitored after recommencing active
+treatment to provide information on intermittent use.</p><p>Unexpectedly, this study did not demonstrate a difference in sensitivity between the
+episodic and continuous treatment regimens. One likely reason is the small improvement
+from baseline observed for both examiner-based measures of sensitivity with active
+treatment. These changes were inconsistent with previous studies of 5% CSPS
+dentifrices.<sup><xref ref-type="bibr" rid="bib19">19</xref>,<xref ref-type="bibr" rid="bib25">25</xref></sup> For example, Sufi <italic toggle="yes">et al.</italic><sup><xref ref-type="bibr" rid="bib25">25</xref></sup> reported an adjusted mean change from baseline of −0.80
+(95% CI −1.05, −0.56) for Schiff sensitivity score and a median change of 5
+(range 0–80) g for tactile threshold (Yeaple probe) after 8 weeks of treatment with
+a 5% CSPS-containing dentifrice. In comparison, the adjusted mean change from baseline in
+Schiff sensitivity score reported in the current study at 8 weeks was −0.36 and the
+median change from baseline in tactile threshold was 0.9 g. This may have
+confounded any impact on the overall findings of this study, making it difficult to
+demonstrate a statistically significant difference in sensitivity between regimens during
+the 8-week, off-treatment phase. The reasons behind the relatively small change in
+sensitivity from baseline in the current study are, however, unclear.</p><p>Another possible reason for the lack of detectable difference between the regimens is
+that an 8-week duration of withdrawal of 5% CSPS treatment was insufficient to demonstrate
+a measurable return of sensitivity, i.e., the protective effect of the occlusive calcium
+phosphate hydroxycarbonate apatite-like layer formed over the exposed dentine from the
+reaction when CSPS particles come into contact with the aqueous environment of
+saliva<sup><xref ref-type="bibr" rid="bib7">7</xref>,<xref ref-type="bibr" rid="bib13">13</xref>,<xref ref-type="bibr" rid="bib14">14</xref></sup> was not diminished. Future trials of episodic use may
+need to incorporate off-treatment periods of different lengths as well as other types of
+episodic regimens in order to provide guidance for dental professionals and patients on
+optimal use of desensitising dentifrices.</p><p>Twice-daily use of the 5% CSPS-containing dentifrice was generally well tolerated when
+used continuously for up to 24 weeks and almost all AEs were of mild intensity. No AEs
+considered to be related to the treatment were reported. This AE profile was consistent
+with that reported in studies of up to 8 weeks’ duration.<sup><xref ref-type="bibr" rid="bib16">16</xref>,<xref ref-type="bibr" rid="bib17">17</xref>,<xref ref-type="bibr" rid="bib18">18</xref>,
+<xref ref-type="bibr" rid="bib19">19</xref>,<xref ref-type="bibr" rid="bib20">20</xref>,<xref ref-type="bibr" rid="bib21">21</xref>, <xref ref-type="bibr" rid="bib22">22</xref>,<xref ref-type="bibr" rid="bib23">23</xref>,<xref ref-type="bibr" rid="bib24">24</xref>, <xref ref-type="bibr" rid="bib25">25</xref></sup></p><p>In conclusion, this exploratory study has demonstrated that twice-daily brushing with a
+5% CSPS-containing desensitising dentifrice significantly improves dentinal
+hypersensitivity with either episodic or continuous long-term use and is generally well
+tolerated. However, the study did not demonstrate a difference in sensitivity control
+between the continuous and episodic regimens. Further studies incorporating different
+design elements may be necessary to provide information on intermittent use of
+desensitising dentifrices.</p></sec></body><back><ack><p>We thank Claire Hall, formerly of GSK Consumer Healthcare, and Sarah Young and Alex Ferrier
+of GSK Consumer Healthcare, for design, conduct and reporting of the study. Editorial
+assistance was provided by Dr Kirsteen Munn of Anthemis Consulting Ltd and Dr Eleanor
+Roberts of Beeline Science Communications Ltd, both funded by GSK Consumer Healthcare.</p></ack><fn-group><fn fn-type="COI-statement"><p>SM is an employee of GSK Consumer Healthcare; RK and MH are employed by Oral Health
+Services Research Centre, which has received funding from GSK Consumer Healthcare; LS is a
+consultant who received funding from GSK Consumer Healthcare.</p></fn></fn-group><ref-list><ref id="bib1"><mixed-citation publication-type="book">Addy M, Mostafa P, Absi EG, Adams D. <article-title>Cervical dentine hypersensitivity. Etiology and management with particular reference
+to toothpaste.</article-title> In: Rowe NH (ed.). <source>Proceedings of Symposium on Hypersensitive Dentin. Origin and Management</source>. University of Michigan: Ann Arbor, MI, USA, <year>1985</year>, pp <fpage>147</fpage>–167.</mixed-citation></ref><ref id="bib2"><mixed-citation publication-type="journal">Addy M. <article-title>Dentin hypersensitivity: new perspective on an old problem</article-title>. <source>Int Dent J</source>
+<year>2002</year>; <volume>52</volume>(Suppl): <fpage>367</fpage>–375.</mixed-citation></ref><ref id="bib3"><mixed-citation publication-type="journal">Canadian Advisory Board on Dentin Hypersensitivity. <article-title>Consensus-based recommendations for the diagnosis and management of dentin
+hypersensitivity</article-title>. <source>J Can Dent Assoc</source>
+<year>2003</year>; <volume>69</volume>: <fpage>221</fpage>–226.<pub-id pub-id-type="pmid">12662460</pub-id></mixed-citation></ref><ref id="bib4"><mixed-citation publication-type="journal">Orchardson R, Collins WJN. <article-title>Clinical features of hypersensitive teeth</article-title>. <source>Br Dent J</source>
+<year>1987</year>; <volume>162</volume>: <fpage>253</fpage>–256.<pub-id pub-id-type="pmid">3472555</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1038/sj.bdj.4806096</pub-id></mixed-citation></ref><ref id="bib5"><mixed-citation publication-type="book">Brännström M. <article-title>A hydrodynamic mechanism in the transmission of pain producing stimuli through
+dentine</article-title>. In: Anderson DJ (ed.). <source>Sensory Mechanisms in Dentine. Proceedings of a Symposium Held at the Royal Society
+of Medicine, London, September 24th, 1962</source>. Pergamon Press: Oxford, <year>1963</year>, pp <fpage>73</fpage>–79.</mixed-citation></ref><ref id="bib6"><mixed-citation publication-type="journal">Addy M, Smith SR. <article-title>Dentin hypersensitivity: an overview on which to base tubule occlusion as a
+management concept</article-title>. <source>J Clin Dent</source>
+<year>2010</year>; <volume>21</volume>: <fpage>25</fpage>–30.<pub-id pub-id-type="pmid">20669812</pub-id></mixed-citation></ref><ref id="bib7"><mixed-citation publication-type="journal">Greenspan DC. <article-title>NovaMin and tooth sensitivity—an overview</article-title>. <source>J Clin Dent</source>
+<year>2010</year>; <volume>21</volume>: <fpage>61</fpage>–65.<pub-id pub-id-type="pmid">21207915</pub-id></mixed-citation></ref><ref id="bib8"><mixed-citation publication-type="journal">Ling TY, Gillam DG. <article-title>The effectiveness of desensitizing agents for the treatment of cervical dentine
+sensitivity (CDS)—a review</article-title>. <source>J West Soc Periodontol Periodontal Abstr</source>
+<year>1996</year>; <volume>44</volume>: <fpage>5</fpage>–12.<pub-id pub-id-type="pmid">9477862</pub-id></mixed-citation></ref><ref id="bib9"><mixed-citation publication-type="journal">Markowitz K, Pashley DH. <article-title>Discovering new treatments for sensitive teeth: the long path from biology to
+therapy.</article-title>
+<source>J Oral Rehabil</source>
+<year>2008</year>; <volume>35</volume>: <fpage>300</fpage>–315.<pub-id pub-id-type="pmid">18321266</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1365-2842.2007.01798.x</pub-id></mixed-citation></ref><ref id="bib10"><mixed-citation publication-type="journal">West N, Seong J, Davies M. <article-title>Dentine hypersensitivity</article-title>. <source>Monogr Oral Sci</source>
+<year>2014</year>; <volume>25</volume>: <fpage>108</fpage>–122.<pub-id pub-id-type="pmid">24993261</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1159/000360749</pub-id></mixed-citation></ref><ref id="bib11"><mixed-citation publication-type="journal">Zaidel L, Patel R, Mello S, Heu R, Stranick M, Chopra S
+et al.
+<article-title>Anti-hypersensitivity mechanism of action for a dentifrice containing 0.3%
+triclosan, 2.0% PVM/MA copolymer, 0.243% NaF and specially-designed silica</article-title>. <source>Am J Dent</source>
+<year>2011</year>; <volume>24</volume>(Spec No A): <fpage>6a</fpage>–13a.<pub-id pub-id-type="pmid">22216652</pub-id></mixed-citation></ref><ref id="bib12"><mixed-citation publication-type="journal">Efflandt SE, Magne P, Douglas WH, Francis LF. <article-title>Interaction between bioactive glasses and human dentin</article-title>. <source>J Mater Sci Mater Med</source>
+<year>2002</year>; <volume>26</volume>: <fpage>557</fpage>–565.<pub-id pub-id-type="doi" assigning-authority="pmc">10.1023/a:1015174726415</pub-id><pub-id pub-id-type="pmid">15348585</pub-id></mixed-citation></ref><ref id="bib13"><mixed-citation publication-type="journal">La Torre G, Greenspan DC. <article-title>The role of ionic release from NovaMin (calcium sodium phosphosilicate) in tubule
+occlusion: an exploratory <italic toggle="yes">in vitro</italic> study using radio-labeled isotopes</article-title>. <source>J Clin Dent</source>
+<year>2010</year>; <volume>21</volume>: <fpage>72</fpage>–76.<pub-id pub-id-type="pmid">21207917</pub-id></mixed-citation></ref><ref id="bib14"><mixed-citation publication-type="journal">Earl JS, Leary RK, Muller KH, Langford RM, Greenspan DC. <article-title>Physical and chemical characterization of dentin surface following treatment with
+NovaMin technology</article-title>. <source>J Clin Dent</source>
+<year>2011</year>; <volume>22</volume>: <fpage>62</fpage>–67.<pub-id pub-id-type="pmid">21905399</pub-id></mixed-citation></ref><ref id="bib15"><mixed-citation publication-type="journal">Earl JS, Topping N, Elle J, Langford RM, Greenspan DC. <article-title>Physical and chemical characterization of the surface layers formed on dentin
+following treatment with a fluoridated toothpaste containing NovaMin</article-title>. <source>J Clin Dent</source>
+<year>2011</year>; <volume>22</volume>: <fpage>68</fpage>–73.<pub-id pub-id-type="pmid">21905400</pub-id></mixed-citation></ref><ref id="bib16"><mixed-citation publication-type="journal">Du Min Q, Bian Z, Jiang H, Greenspan DC, Burwell AK, Zhong J
+et al.
+<article-title>Clinical evaluation of a dentifrice containing calcium sodium phosphosilicate
+(NovaMin) for the treatment of dentin hypersensitivity</article-title>. <source>Am J Dent</source>
+<year>2008</year>; <volume>21</volume>: <fpage>210</fpage>–214.<pub-id pub-id-type="pmid">18795515</pub-id></mixed-citation></ref><ref id="bib17"><mixed-citation publication-type="journal">Pradeep AR, Sharma A. <article-title>Comparison of the clinical efficacy of a dentifrice containing calcium sodium
+phosphosilicate with a dentifrice containing potassium nitrate and a placebo on dentinal
+hypersensitivity: a randomized clinical trial</article-title>. <source>J Periodontol</source>
+<year>2010</year>; <volume>81</volume>: <fpage>1167</fpage>–1173.<pub-id pub-id-type="pmid">20370417</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1902/jop.2010.100056</pub-id></mixed-citation></ref><ref id="bib18"><mixed-citation publication-type="journal">Salian S, Thakur S, Kulkarni S, LaTorre G. <article-title>A randomised controlled clinical study evaluating the efficacy of two desensitizing
+dentifrices</article-title>. <source>J Clin Dent</source>
+<year>2010</year>; <volume>21</volume>: <fpage>82</fpage>–87.<pub-id pub-id-type="pmid">21207919</pub-id></mixed-citation></ref><ref id="bib19"><mixed-citation publication-type="journal">Gendreau L, Barlow AP, Mason SC. <article-title>Overview of the clinical evidence for the use of Novamin in providing relief from
+the pain of dentin hypersensitivity</article-title>. <source>J Clin Dent</source>
+<year>2011</year>; <volume>22</volume>: <fpage>90</fpage>–95.<pub-id pub-id-type="pmid">21905403</pub-id></mixed-citation></ref><ref id="bib20"><mixed-citation publication-type="journal">Pradeep AR, Agarwal E, Naik SB, Bajaj P, Kalra N. <article-title>Comparison of efficacy of three commercially available dentifrices [corrected] on
+dentinal hypersensitivity: a randomized clinical trial</article-title>. <source>Aust Dent J</source>
+<year>2012</year>; <volume>57</volume>: <fpage>429</fpage>–434.<pub-id pub-id-type="pmid">23186566</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1834-7819.2012.01726.x</pub-id></mixed-citation></ref><ref id="bib21"><mixed-citation publication-type="journal">Rajesh KS, Hedge S, Arun Kumar MS, Shetty DG. <article-title>Evaluation of the efficacy of a 5% calcium sodium phosphosilicate (Novamin)
+containing dentifrice for the relief of dentinal hypersensitivity: a clinical
+study</article-title>. <source>Indian J Dent Res</source>
+<year>2012</year>; <volume>23</volume>: <fpage>363</fpage>–367.<pub-id pub-id-type="pmid">23059574</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/0970-9290.102228</pub-id></mixed-citation></ref><ref id="bib22"><mixed-citation publication-type="journal">Acharya AB, Surve SM, Thakur SL. <article-title>A clinical study of the effect of calcium sodium phosphosilicate on dentin
+hypersensitivity</article-title>. <source>J Clin Exp Dent</source>
+<year>2013</year>; <volume>5</volume>: <fpage>e18</fpage>–e22.<pub-id pub-id-type="pmid">24455046</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4317/jced.50955</pub-id><pub-id pub-id-type="pmcid">PMC3892235</pub-id></mixed-citation></ref><ref id="bib23"><mixed-citation publication-type="journal">Satyapal T, Mali R, Mali A, Patil V. <article-title>Comparative evaluation of a dentifrice containing calcium sodium phosphosilicate to
+a dentifrice containing potassium nitrate for dentinal hypersensitivity: a clinical
+study</article-title>. <source>J Indian Soc Periodontol</source>
+<year>2014</year>; <volume>18</volume>: <fpage>581</fpage>–585.<pub-id pub-id-type="pmid">25425819</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.4103/0972-124X.142447</pub-id><pub-id pub-id-type="pmcid">PMC4239747</pub-id></mixed-citation></ref><ref id="bib24"><mixed-citation publication-type="journal">Sufi F, Hall C, Mason S, Shaw D, Kennedy L, Gallob JT. <article-title>Efficacy of an experimental toothpaste containing 5% calcium sodium phosphosilicate
+in the relief of dentin hypersensitivity: an 8-week randomized study (Study 1)</article-title>. <source>Am J Dent</source>
+<year>2016</year>; <volume>29</volume>: <fpage>93</fpage>–100.<pub-id pub-id-type="pmid">27295867</pub-id></mixed-citation></ref><ref id="bib25"><mixed-citation publication-type="journal">Sufi F, Hall C, Mason S, Shaw D, Milleman J, Milleman K. <article-title>Efficacy of an experimental toothpaste containing 5% calcium sodium phosphosilicate
+in the relief of dentin hypersensitivity: an 8-week randomized study (Study 2)</article-title>. <source>Am J Dent</source>
+<year>2016</year>; <volume>29</volume>: <fpage>101</fpage>–109.<pub-id pub-id-type="pmid">27295868</pub-id></mixed-citation></ref><ref id="bib26"><mixed-citation publication-type="journal">Parkinson CR, Willson RJ. <article-title>A comparative <italic toggle="yes">in vitro</italic> study investigating the occlusion and mineralization
+properties of commercial toothpastes in a four-day dentin disc model</article-title>. <source>J Clin Dent</source>
+<year>2011</year>; <volume>22</volume>(Spec Iss): <fpage>74</fpage>–81.<pub-id pub-id-type="pmid">21905401</pub-id></mixed-citation></ref><ref id="bib27"><mixed-citation publication-type="journal">Jeandot J, Fricain J, Nadal J. <article-title>Efficacy of toothpastes containing potassium chloride or potassium nitrate on dentin
+sensitivity</article-title>. <source>Clinic</source>
+<year>2007</year>; <volume>28</volume>: <fpage>379</fpage>–384.</mixed-citation></ref><ref id="bib28"><mixed-citation publication-type="journal">Leight RS, Sufi F, Gross R, Mason SC, Barlow AP. <article-title>Dentinal hypersensitivity: a 12-week study of a novel dentifrice delivery system
+comparing different brushing times and assessing the efficacy for hard-to-reach molar
+teeth</article-title>. <source>J Clin Dent</source>
+<year>2008</year>; <volume>19</volume>: <fpage>147</fpage>–153.<pub-id pub-id-type="pmid">19278086</pub-id></mixed-citation></ref><ref id="bib29"><mixed-citation publication-type="journal">Polson AM, Caton JG, Yeaple RN, Zander HA. <article-title>Histological determination of probe tip penetration into gingival sulcus of humans
+using an electronic pressure-sensitive probe</article-title>. <source>J Clin Periodontol</source>
+<year>1980</year>; <volume>7</volume>: <fpage>479</fpage>–488.<pub-id pub-id-type="pmid">6938528</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1600-051x.1980.tb02154.x</pub-id></mixed-citation></ref><ref id="bib30"><mixed-citation publication-type="journal">Schiff T, Dotson M, Cohen S, De Vizio W, McCool J, Volpe A. <article-title>Efficacy of a dentifrice containing potassium nitrate, soluble pyrophosphate, PVM/MA
+copolymer, and sodium fluoride on dentinal hypersensitivity: a twelve-week clinical
+study</article-title>. <source>J Clin Dent</source>
+<year>1994</year>; <volume>5</volume>(Spec No): <fpage>87</fpage>–92.<pub-id pub-id-type="pmid">8534380</pub-id></mixed-citation></ref><ref id="bib31"><mixed-citation publication-type="journal">Gracely RH, McGrath F, Dubner R. <article-title>Ratio scales of sensory and affective verbal pain descriptors</article-title>. <source>Pain</source>
+<year>1978</year>; <volume>5</volume>: <fpage>5</fpage>–18.<pub-id pub-id-type="pmid">673440</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1016/0304-3959(78)90020-9</pub-id></mixed-citation></ref><ref id="bib32"><mixed-citation publication-type="journal">Heaton LJ, Barlow AP, Coldwell SE. <article-title>Development of labeled magnitude scales for the assessment of pain of dentin
+hypersensitivity</article-title>. <source>J Orofac Pain</source>
+<year>2013</year>; <volume>27</volume>: <fpage>72</fpage>–81.<pub-id pub-id-type="pmid">23424722</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.11607/jop.954</pub-id><pub-id pub-id-type="pmcid">PMC3610536</pub-id></mixed-citation></ref><ref id="bib33"><mixed-citation publication-type="journal">Löe H, Silness J. <article-title>Periodontal disease in pregnancy. I. Prevalence and severity</article-title>. <source>Acta Odontol Scand</source>
+<year>1963</year>; <volume>21</volume>: <fpage>533</fpage>–551.<pub-id pub-id-type="pmid">14121956</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.3109/00016356309011240</pub-id></mixed-citation></ref><ref id="bib34"><mixed-citation publication-type="journal">Laster L, Laudenbach KW, Stoller NH. <article-title>An evaluation of clinical tooth mobility measurements</article-title>. <source>J Periodontol</source>
+<year>1975</year>; <volume>46</volume>: <fpage>603</fpage>–607.<pub-id pub-id-type="pmid">1058939</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1902/jop.1975.46.10.603</pub-id></mixed-citation></ref><ref id="bib35"><mixed-citation publication-type="journal">Holland R, Narhi MN, Addy M, Gangarosa L, Orchardson R. <article-title>Guidelines for the design and conduct of clinical trials on dentine
+hypersensitivity</article-title>. <source>J Clin Periodontol</source>
+<year>1997</year>; <volume>24</volume>: <fpage>808</fpage>–813.<pub-id pub-id-type="pmid">9402502</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1600-051x.1997.tb01194.x</pub-id></mixed-citation></ref><ref id="bib36"><mixed-citation publication-type="journal">Boiko OV, Baker SR, Locker D, Sufi F, Barlow AP, Robinson PG. <article-title>Construction and validation of the quality of life measure for dentine
+hypersensitivity</article-title>. <source>J Clin Periodontol</source>
+<year>2010</year>; <volume>37</volume>: <fpage>973</fpage>–980.<pub-id pub-id-type="pmid">20860720</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/j.1600-051X.2010.01618.x</pub-id></mixed-citation></ref><ref id="bib37"><mixed-citation publication-type="journal">Baker SR, Gibson BJ, Sufi F, Barlow A, Robinson PG. <article-title>The Dentine Hypersensitivity Experience Questionnaire: a longitudinal validation
+study</article-title>. <source>J Clin Periodontol</source>
+<year>2014</year>; <volume>41</volume>: <fpage>52</fpage>–59.<pub-id pub-id-type="pmid">24117696</pub-id><pub-id pub-id-type="doi" assigning-authority="pmc">10.1111/jcpe.12181</pub-id></mixed-citation></ref></ref-list></back><floats-group><fig id="fig1" position="float" orientation="portrait"><label>Figure 1</label><caption><p>Subject disposition. CSPS, calcium sodium phosphosilicate; ITT, intent-to-treat; PP,
+per protocol.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bdjopen201711-f1.jpg"><?image-name bdjopen201711-f1.jpg?><?image-size 110575?><?image-md5 70da91dc5cffe7f7db2fcca4dbdefb42?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 1108?><?image-original-width 1575?><?image-scaled-height 554?><?image-scaled-width 787?><?image-cloudpmc-urn urn:cdn:blobs/7e3e/5962890/70da91dc5cff/bdjopen201711-f1.jpg?><?thumb-name bdjopen201711-f1.gif?><?thumb-size 8487?><?thumb-md5 25442759f44747baf2e029c309b15c6c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 79?><?thumb-scaled-width 113?><?thumb-cloudpmc-urn urn:cdn:blobs/7e3e/5962890/25442759f447/bdjopen201711-f1.gif?></graphic></fig><fig id="fig2" position="float" orientation="portrait"><label>Figure 2</label><caption><p>Mean (±s.e.) Schiff sensitivity scores during continuous and episodic use of a
+desensitising dentifrice containing 5% calcium sodium phosphosilicate (intent-to-treat
+population). Data have been offset for clarity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bdjopen201711-f2.jpg"><?image-name bdjopen201711-f2.jpg?><?image-size 73447?><?image-md5 7ea0ddb2cdc9253d12a56c13c9b13d78?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 734?><?image-original-width 1050?><?image-scaled-height 489?><?image-scaled-width 700?><?image-cloudpmc-urn urn:cdn:blobs/7e3e/5962890/7ea0ddb2cdc9/bdjopen201711-f2.jpg?><?thumb-name bdjopen201711-f2.gif?><?thumb-size 8367?><?thumb-md5 6e839c88592421d89dfd6c25c508cc85?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 114?><?thumb-cloudpmc-urn urn:cdn:blobs/7e3e/5962890/6e839c885924/bdjopen201711-f2.gif?></graphic></fig><fig id="fig3" position="float" orientation="portrait"><label>Figure 3</label><caption><p>Mean (±s.e.) tactile threshold during continuous and episodic use of a
+desensitising dentifrice containing 5% calcium sodium phosphosilicate (intent-to-treat
+population). Tactile-threshold range 0–80 g. Data have been offset for
+clarity.</p></caption><graphic xmlns:xlink="http://www.w3.org/1999/xlink" position="float" orientation="portrait" xlink:href="bdjopen201711-f3.jpg"><?image-name bdjopen201711-f3.jpg?><?image-size 79004?><?image-md5 f3727ea2d4fd16e6ea306189f1d8d7bf?><?image-image-server-status LOAD_COMPLETED?><?image-original-height 730?><?image-original-width 1050?><?image-scaled-height 487?><?image-scaled-width 700?><?image-cloudpmc-urn urn:cdn:blobs/7e3e/5962890/f3727ea2d4fd/bdjopen201711-f3.jpg?><?thumb-name bdjopen201711-f3.gif?><?thumb-size 8928?><?thumb-md5 27b2e2dd0e5a4ca4d8801ae6ed4d526c?><?thumb-image-server-status NEVER_LOAD?><?thumb-scaled-height 80?><?thumb-scaled-width 115?><?thumb-cloudpmc-urn urn:cdn:blobs/7e3e/5962890/27b2e2dd0e5a/bdjopen201711-f3.gif?></graphic></fig><table-wrap id="tbl1" position="float" orientation="portrait"><label>Table 1</label><caption><title>Demographic and baseline characteristics (safety population)</title></caption><table frame="hsides" rules="groups" border="1"><colgroup span="1"><col align="left" span="1"/><col align="char" char="(" span="1"/><col align="char" char="(" span="1"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </th><th align="center" valign="top" char="(" charoff="50" colspan="1" rowspan="1"><italic toggle="yes">Episodic use (</italic>n<italic toggle="yes">=38)</italic></th><th align="center" valign="top" char="(" charoff="50" colspan="1" rowspan="1"><italic toggle="yes">Continuous use (</italic>n<italic toggle="yes">=38)</italic></th></tr></thead><tbody valign="top"><tr><td colspan="3" align="left" valign="top" charoff="50" rowspan="1"><italic toggle="yes">Sex,</italic> n <italic toggle="yes">(%)</italic><hr/></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Male</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">15 (39.5)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">17 (44.7)</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Female</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">23 (60.5)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">21 (55.3)</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td></tr><tr><td colspan="3" align="left" valign="top" charoff="50" rowspan="1">
+<italic toggle="yes">Age, years</italic>
+<hr/></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Mean</td><td align="center" valign="top" char="(" charoff="50" colspan="1" rowspan="1">27.8</td><td align="center" valign="top" char="(" charoff="50" colspan="1" rowspan="1">31.9</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Range</td><td align="center" valign="top" char="(" charoff="50" colspan="1" rowspan="1">19–48</td><td align="center" valign="top" char="(" charoff="50" colspan="1" rowspan="1">18–48</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td></tr><tr><td colspan="3" align="left" valign="top" charoff="50" rowspan="1"><italic toggle="yes">Race,</italic> n <italic toggle="yes">(%)</italic><hr/></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Black or African American</td><td align="center" valign="top" char="(" charoff="50" colspan="1" rowspan="1">0</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">1 (2.6)</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> White</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">38 (100)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">37 (97.4)</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td></tr><tr><td colspan="3" align="left" valign="top" charoff="50" rowspan="1"><italic toggle="yes">Stratification (by maximum baseline Schiff sensitivity
+score),</italic> n <italic toggle="yes">(%)</italic><hr/></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> 2</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">20 (52.6)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">20 (52.6)</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> 3</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">18 (47.4)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">18 (47.4)</td></tr></tbody></table><table-wrap-foot><fn id="t1-tfoot1"><p>Abbreviation: CSPS, calcium sodium phosphosilicate.</p></fn></table-wrap-foot></table-wrap><table-wrap id="tbl2" position="float" orientation="portrait"><label>Table 2</label><caption><title>Change from baseline to weeks 8, 16 and 24 for Schiff sensitivity score and tactile
+threshold (intent-to-treat population)</title></caption><table frame="hsides" rules="groups" border="1"><colgroup span="1"><col align="left" span="1"/><col align="center" span="1"/><col align="center" span="1"/><col align="char" char="(" span="1"/></colgroup><thead valign="bottom"><tr><th align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </th><th align="center" valign="top" charoff="50" colspan="1" rowspan="1"><italic toggle="yes">Episodic use (</italic>n<italic toggle="yes">=38)</italic></th><th align="center" valign="top" charoff="50" colspan="1" rowspan="1"><italic toggle="yes">Continuous use (</italic>n<italic toggle="yes">=38)</italic></th><th align="center" valign="top" char="(" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">Continuous versus episodic use</italic>
+</th></tr></thead><tbody valign="top"><tr><td colspan="4" align="left" valign="top" charoff="50" rowspan="1">
+<italic toggle="yes">Schiff sensitivity score</italic>
+<hr/></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Baseline mean (s.e.)</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">2.37 (0.07)</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">2.42 (0.08)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">—</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td colspan="2" align="center" valign="top" charoff="50" rowspan="1">
+<italic toggle="yes">Change from baseline, adjusted mean (95% CI)</italic>
+<hr/></td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">Difference (95% CI), P-value</italic>
+<xref ref-type="fn" rid="t2-fn1">a</xref>
+</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Week 8</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">−0.36 (−0.52, −0.21)*</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">−0.26 (−0.42, −0.11)*</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">0.1 (−0.12, 0.32), 0.358</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Week 16</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">−0.24 (−0.39, −0.09)*</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">−0.39 (−0.55, −0.24)*</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">−0.15 (−0.37, 0.07), 0.170</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Week 24</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">−0.48 (−0.67, −0.29)*</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">−0.47 (−0.66, −0.29)*</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">0.01 (−0.25, 0.27), 0.941</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td></tr><tr><td colspan="4" align="left" valign="top" charoff="50" rowspan="1">
+<italic toggle="yes">Tactile threshold (g)</italic>
+<hr/></td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Baseline mean (s.e.) (median)</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">10.92 (0.370) (10.00)</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">10.92 (0.370) (10.00)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">—</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1"> </td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> </td><td colspan="2" align="center" valign="top" charoff="50" rowspan="1">
+<italic toggle="yes">Change from baseline, mean (±s.e.) (median)</italic>
+<hr/></td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">
+<italic toggle="yes">Difference (95% CI), P-value</italic>
+<xref ref-type="fn" rid="t2-fn2">b</xref>
+</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Week 8</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">0.71 (0.965) (0.00)</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">2.57 (2.313) (0.00)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">0 (0.00, 0.00), 0.857</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Week 16</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">2.65 (2.103) (0.00)</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">8.38 (3.382) (0.00)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">0 (0.00, 0.00), 0.253</td></tr><tr><td align="left" valign="top" charoff="50" colspan="1" rowspan="1"> Week 24</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">8.48 (3.485) (0.00)</td><td align="center" valign="top" charoff="50" colspan="1" rowspan="1">5.59 (2.791) (0.00)</td><td align="char" valign="top" char="(" charoff="50" colspan="1" rowspan="1">0 (0.00, 0.00), 0.563</td></tr></tbody></table><table-wrap-foot><fn id="t2-tfoot1"><p>Abbreviations: CI, confidence interval; s.e., standard error.</p></fn><fn id="t2-fn1"><label>a</label><p>ANCOVA with fixed effects for treatment, visit and treatment-by-visit interaction;
+baseline Schiff score as covariate.</p></fn><fn id="t2-fn2"><label>b</label><p>CI for median difference based on Hodges–Lehmann method,
+<italic toggle="yes">P</italic>-value based on Wilcoxon rank-sum test.</p></fn><fn id="t2-tfoot2"><p>*<italic toggle="yes">P</italic>&lt;0.05, <italic toggle="yes">t</italic> test.</p></fn></table-wrap-foot></table-wrap></floats-group></article>

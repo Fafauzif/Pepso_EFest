@@ -1,0 +1,8 @@
+{
+  "as_of_date": "2026-11-03",
+  "actor_runs_executed": 0,
+  "apify_credits_spent": 0,
+  "authorized_user_run_budget_ceiling_usd": 15,
+  "actual_account_balances_verified": false,
+  "notes": "All collection in this folder is public GET-only metadata/documentation. Input files are proposed user-run jobs."
+}

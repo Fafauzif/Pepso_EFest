@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "product_code": "71175",
+    "product_name": "Pasta Gigi Repair & Protect Extra Fresh 100g",
+    "unique_review_ids": 571,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 571,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-71175-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/71175/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:54.457003+00:00",
+      "product_code": "71175",
+      "product_name": "Pasta Gigi Repair & Protect Extra Fresh 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/71175_p0_s500.json",
+      "sha256": "3f95998f32a0e302fa0be0d201cef34891ed819c12e71c6a4da4e93305177dbd",
+      "bytes": 170399,
+      "pagination": {
+        "count": 500,
+        "hasNext": true,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 571,
+        "totalPages": 2
+      },
+      "rows": 500
+    },
+    {
+      "source_id": "WATREV-71175-P1-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/71175/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=1&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:55:04.592892+00:00",
+      "product_code": "71175",
+      "product_name": "Pasta Gigi Repair & Protect Extra Fresh 100g",
+      "page_requested": 1,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/71175_p1_s500.json",
+      "sha256": "a5bf0d4de1f87cae4d86d19dbcdcb414b0f70a53f60d3b56ff4c3c1669d082e2",
+      "bytes": 23883,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": true,
+        "page": 1,
+        "totalCount": 571,
+        "totalPages": 2
+      },
+      "rows": 71
+    }
+  ]
+}

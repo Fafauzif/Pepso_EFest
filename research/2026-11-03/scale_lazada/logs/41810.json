@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "41810",
+    "product_name": "Pepsodent Pasta Gigi Gum Expert Whitening 100g",
+    "unique_review_ids": 291,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 291,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-41810-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/41810/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:51:57.418569+00:00",
+      "product_code": "41810",
+      "product_name": "Pepsodent Pasta Gigi Gum Expert Whitening 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/41810_p0_s500.json",
+      "sha256": "c5ee7aed5820a4f3db49bfe0f18fd881572531e1fe3ddcc0030fb72e07c8e133",
+      "bytes": 107064,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 291,
+        "totalPages": 1
+      },
+      "rows": 291
+    }
+  ]
+}

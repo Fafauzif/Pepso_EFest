@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "44935",
+    "product_name": "Green Ever Fresh Pasta Gigi 160g",
+    "unique_review_ids": 107,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 107,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-44935-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/44935/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:20.020907+00:00",
+      "product_code": "44935",
+      "product_name": "Green Ever Fresh Pasta Gigi 160g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/44935_p0_s500.json",
+      "sha256": "717f4e8dc36afa9ca37f15150b054a8314e9cf82d92b1cce985ac9cb26b5455b",
+      "bytes": 37317,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 107,
+        "totalPages": 1
+      },
+      "rows": 107
+    }
+  ]
+}

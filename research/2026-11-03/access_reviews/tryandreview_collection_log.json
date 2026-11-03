@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=1",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:45.774184+00:00",
+    "sha256": "faa1cfa7503a951f236a849077b947043c6b3e76fe1899f81e44d8e842907a23",
+    "raw_file": "raw/tar_59741_p1.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=2",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:45.774909+00:00",
+    "sha256": "2f5aa6fd100408e711ef97928457384251d8e8194de661b8a746e0afb8d645c7",
+    "raw_file": "raw/tar_59741_p2.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=3",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:45.775523+00:00",
+    "sha256": "a503f4197260b6b62ce7e47e99dc0f8c5106e97f94043fc63582678b57bb3658",
+    "raw_file": "raw/tar_59741_p3.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=4",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:45.775792+00:00",
+    "sha256": "f022fc1dd2d3a4b14ee7ea0a6f48cab6805e440909afe501f602dde4208a57ef",
+    "raw_file": "raw/tar_59741_p4.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=5",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:52.916359+00:00",
+    "sha256": "ce70c7ede23ca2f573e7212e63e3e659d1e4c145dc51fbd37a3276664b64079e",
+    "raw_file": "raw/tar_59741_p5.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=6",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:52.927356+00:00",
+    "sha256": "4e11017d81bc5f17930cc2c953f7ab58bf547a4be3f7e83b1ae6eeddfd95f427",
+    "raw_file": "raw/tar_59741_p6.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=7",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:52.945547+00:00",
+    "sha256": "2ddde7381afb5d408e85b44b7ccce3f0aa3801d9e06bee25a3c7607ba2fc6565",
+    "raw_file": "raw/tar_59741_p7.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=8",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:52.953893+00:00",
+    "sha256": "e7441a1b5aca9e17dd9349f0f3baf6f144511c6b1cb4ab7f419f1ef99c6e81eb",
+    "raw_file": "raw/tar_59741_p8.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=9",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:36:59.735943+00:00",
+    "sha256": "8843f57181b63bc241ce3ca5c40a0acc30dc40b2646ec3b534a6ed9272bb7d14",
+    "raw_file": "raw/tar_59741_p9.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/59741?page=10",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:00.026756+00:00",
+    "sha256": "8cb536da55c75ef9fc28f250c7fa6eb63fc348729bd4eb7aa7fd6c2a7aab7791",
+    "raw_file": "raw/tar_59741_p10.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=1",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:00.032816+00:00",
+    "sha256": "1fba265e55f99cba0b37acba7a4e2d4ff26522f9a2a66d2353c3b80b777cb4eb",
+    "raw_file": "raw/tar_23607_p1.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=2",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:00.048725+00:00",
+    "sha256": "dc147f03b44ccc32eb49bed31afe5e3e4e6d9f8f69cd353a6816fae010611902",
+    "raw_file": "raw/tar_23607_p2.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=3",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:06.882625+00:00",
+    "sha256": "71fd75f8b32d5ab0c39ec091bba9e6183da5ba04bc63682f94ac089a398cd9f5",
+    "raw_file": "raw/tar_23607_p3.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=4",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:06.905849+00:00",
+    "sha256": "4e76d88157a7218215baf346a4e6d396c0b234f2af78dd12ae3cdf5739353f40",
+    "raw_file": "raw/tar_23607_p4.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=5",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:06.966720+00:00",
+    "sha256": "d3f5aea2745b19e4956984a2670d67594cf4e5baa41ee7edf23e3fba828083df",
+    "raw_file": "raw/tar_23607_p5.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=6",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:06.974617+00:00",
+    "sha256": "31989c0f8a93da7e3e41b23800fc52b0a3a21a43a079385587f7125f6462e313",
+    "raw_file": "raw/tar_23607_p6.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=7",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:14.087672+00:00",
+    "sha256": "4cf59f3337ec13d39762071c57edf7d755c7f9d8f465f6e97354bc33443b6ed1",
+    "raw_file": "raw/tar_23607_p7.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=8",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:14.090051+00:00",
+    "sha256": "549b96e8cc5182c5729c6923ae062ba959dbd4a50df450d985f942cfe636d4a0",
+    "raw_file": "raw/tar_23607_p8.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=9",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:14.114784+00:00",
+    "sha256": "3837c99002358c90e9b9c6b8ec31bf4dbe9944d168a289bcd5e9cbf86a818a26",
+    "raw_file": "raw/tar_23607_p9.html"
+  },
+  {
+    "url": "https://www.tryandreview.com/id/reviews/23607?page=10",
+    "status": "success",
+    "rows": 5,
+    "retrieved_at_utc": "2026-11-03T10:37:14.312206+00:00",
+    "sha256": "1f1d406435732f83261368f75f38dc79cf74ff4197797602715813add0307e99",
+    "raw_file": "raw/tar_23607_p10.html"
+  }
+]

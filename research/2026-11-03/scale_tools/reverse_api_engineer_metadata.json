@@ -1,0 +1,68 @@
+{
+  "url": "https://github.com/kalil0321/reverse-api-engineer",
+  "commit": "c644f8af453136ac69489370d6c581d89b9e1bf9",
+  "project_version": "0.14.0",
+  "audit_time": "2026-11-03T11:03:55.538049+00:00",
+  "static_parse_files": 34,
+  "static_parse_errors": [],
+  "runtime_executed": false,
+  "installed": false,
+  "capture_executed": false,
+  "new_collected_observations": 0,
+  "cost_usd": 0,
+  "declared_core_dependencies": [
+    "click>=8.3.3",
+    "claude-agent-sdk>=0.2.174",
+    "rich>=13.0.0",
+    "markdown-it-py>=2.2.0",
+    "prompt-toolkit>=3.0.40",
+    "questionary>=2.0.0",
+    "watchdog>=3.0.0",
+    "setproctitle>=1.3.0",
+    "requests>=2.33.0",
+    "aiohttp>=3.14.4",
+    "pygments>=2.20.0",
+    "cryptography>=50.0.0",
+    "httpx2>=2.12.0",
+    "anyio>=4.14.2",
+    "certifi>=2026.10.19",
+    "multidict>=6.9.1",
+    "opentelemetry-api>=1.45.1",
+    "PyJWT>=2.15.0",
+    "python-multipart>=0.0.31",
+    "starlette>=1.3.1",
+    "urllib3>=2.8.0"
+  ],
+  "optional_dependencies": {
+    "manual": [
+      "playwright>=1.40.0",
+      "playwright-stealth>=1.0.0"
+    ],
+    "collector": [
+      "markdownify>=0.14.1",
+      "beautifulsoup4>=4.12.0",
+      "soupsieve>=2.9.0"
+    ],
+    "copilot": [
+      "github-copilot-sdk>=1.0.26,<2"
+    ]
+  },
+  "module_availability": {
+    "claude_agent_sdk": false,
+    "click": false,
+    "rich": false,
+    "requests": false,
+    "playwright": false
+  },
+  "source_hashes": {
+    "README.md": "d29fa2d7139bd748c496d14c49eeba935165aa9cc1bc03944c3f63c01aded803",
+    "pyproject.toml": "690028c4e10e5d15d9aa8719812b66850c7f23072fc90488cbecee3d83573f3d",
+    "src/reverse_api/collector.py": "1d8a1526e95af0836451376286c278975031df51f6e3fa66415258c48fb126e8",
+    "src/reverse_api/auto_engineer.py": "1b9f27480b5e0a55d970746e3ff29f5305d7f6c7c90b5544de2fe98b64078773",
+    "src/reverse_api/browser.py": "39aded83b1581c5f9972a899f1be5a0329378593781a966aac51fadf96201bd3",
+    "src/reverse_api/agent_browser.py": "ef1196994ffaa9008b176c39d4401e407b6fc4019d07474ef81eef7411d0780a",
+    "src/reverse_api/engineer.py": "f3107722efcf391a3f59d5e3f4e283cd437c32c3e5976f424eb359e940d16583",
+    "src/reverse_api/utils.py": "d3d337c0c44b0d016e271f8b2082cd86e5738c401e9a7c1e5f836c9016856d7b",
+    "skills/reverse-api-engineer/SKILL.md": "27caaff1f9cdeee5c1f51b0d8bfa62e3351d9c9337960dc60d9d34a880b63f55"
+  }
+}

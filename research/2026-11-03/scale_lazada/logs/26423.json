@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "26423",
+    "product_name": "Pasta Gigi Optic White O2 Aromatic 85g",
+    "unique_review_ids": 80,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 80,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-26423-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/26423/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:46.372805+00:00",
+      "product_code": "26423",
+      "product_name": "Pasta Gigi Optic White O2 Aromatic 85g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/26423_p0_s500.json",
+      "sha256": "cdf77c66c7047147cc531ba8a45aef16a6720c018981e58ac1e2fb75d0b352d7",
+      "bytes": 44440,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 80,
+        "totalPages": 1
+      },
+      "rows": 80
+    }
+  ]
+}

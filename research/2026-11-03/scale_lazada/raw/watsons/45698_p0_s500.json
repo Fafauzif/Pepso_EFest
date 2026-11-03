@@ -1,0 +1,58 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 3,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 3
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "rossa rossa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-12T07:57:24+0000",
+      "headline" : "review-45698-WTCID21184362",
+      "id" : "9090625798193",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Gretalia Limas",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-12-03T03:16:36+0000",
+      "headline" : "review-45698-WTCID18367169",
+      "id" : "9008981049393",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Gretalia Limas",
+      "approvalStatus" : "APPROVED",
+      "comment" : "membantu tone up warna gigi",
+      "date" : "2025-09-08T08:07:06+0000",
+      "headline" : "review-45698-WTCID17308016",
+      "id" : "8997609078833",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

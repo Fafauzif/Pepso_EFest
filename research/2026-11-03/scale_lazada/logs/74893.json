@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "74893",
+    "product_name": "Pasta Gigi Gum Expert Plaque Shield 100g",
+    "unique_review_ids": 4,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 4,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-74893-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/74893/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:48.699480+00:00",
+      "product_code": "74893",
+      "product_name": "Pasta Gigi Gum Expert Plaque Shield 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/74893_p0_s500.json",
+      "sha256": "b7d3a354b4b83f407b95742686a7719666175a91fc23f90e239d2e2d925c803c",
+      "bytes": 2420,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 4,
+        "totalPages": 1
+      },
+      "rows": 4
+    }
+  ]
+}

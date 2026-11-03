@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "product_code": "71068",
+    "product_name": "Pepsodent Pasta Gigi SensitivExpert Fresh 100g",
+    "unique_review_ids": 954,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 954,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-71068-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/71068/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:48.683599+00:00",
+      "product_code": "71068",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Fresh 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/71068_p0_s500.json",
+      "sha256": "003d840dfee435216e9b9c538fcefda7a1de2c201d24a3cc2751af6680e74efc",
+      "bytes": 206211,
+      "pagination": {
+        "count": 500,
+        "hasNext": true,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 954,
+        "totalPages": 2
+      },
+      "rows": 500
+    },
+    {
+      "source_id": "WATREV-71068-P1-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/71068/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=1&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:59.845561+00:00",
+      "product_code": "71068",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Fresh 100g",
+      "page_requested": 1,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/71068_p1_s500.json",
+      "sha256": "3edb5090f28f041cf31dea26af415636ed159f5d63c0499c71b86f7e3aa02b80",
+      "bytes": 170057,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": true,
+        "page": 1,
+        "totalCount": 954,
+        "totalPages": 2
+      },
+      "rows": 454
+    }
+  ]
+}

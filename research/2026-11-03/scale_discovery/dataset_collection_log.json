@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://data.mendeley.com/public-api/datasets/74xrbd4vxy/files?folder_id=root&version=1",
+    "raw_file": "raw/mendeley_74xrbd4vxy_files.json",
+    "status": "success",
+    "retrieved_at_utc": "2026-11-03T10:49:13.210393+00:00",
+    "bytes": 1419,
+    "sha256": "f6455179ce1736fc624dbe1a814ce935f87d3e7b52df4830775e27a455a57768"
+  },
+  {
+    "url": "https://data.mendeley.com/public-files/datasets/74xrbd4vxy/files/58e30eaf-ca4e-4bf1-91dd-4647d272da41/file_downloaded",
+    "raw_file": "raw/74xrbd4vxy_Raw_Dataset.csv",
+    "status": "success",
+    "retrieved_at_utc": "2026-11-03T10:49:19.799199+00:00",
+    "bytes": 30011428,
+    "sha256": "8f127d13125f82b53b35d268165e6395568f76e727437844bea7de431dd78259"
+  },
+  {
+    "url": "https://data.mendeley.com/public-api/datasets/574v66hf2v/files?folder_id=root&version=1",
+    "raw_file": "raw/mendeley_574v66hf2v_files.json",
+    "status": "success",
+    "retrieved_at_utc": "2026-11-03T10:49:40.308995+00:00",
+    "bytes": 712,
+    "sha256": "29a5a9191b7f1abd7ba2490f376b31864b5df40717ce6f46389f3635723c76da"
+  },
+  {
+    "url": "https://data.mendeley.com/public-files/datasets/574v66hf2v/files/f258d159-c678-42f1-9634-edf091a0b1f3/file_downloaded",
+    "raw_file": "raw/574v66hf2v_PRDECT-ID_Dataset.csv",
+    "status": "success",
+    "retrieved_at_utc": "2026-11-03T10:49:48.446174+00:00",
+    "bytes": 1262177,
+    "sha256": "1dfdde6bb169ad57aab4211ecf45a75a4111b774ab43932f6d39c349bfd92bde"
+  }
+]

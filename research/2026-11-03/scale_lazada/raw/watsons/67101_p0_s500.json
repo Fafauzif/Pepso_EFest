@@ -1,0 +1,40 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 1,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 1
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Aniee Aniee",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-04T14:00:10+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 4
+      },
+      "headline" : "review-67101-WTCID21874246",
+      "id" : "9109713289265",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

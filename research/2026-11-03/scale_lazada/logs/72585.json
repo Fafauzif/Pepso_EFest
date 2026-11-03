@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "72585",
+    "product_name": "Colgate Maximum Cavity Protection Fresh Cool Mint Toothpaste 180g - Pasta Gigi",
+    "unique_review_ids": 52,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 52,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-72585-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/72585/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:55:10.589098+00:00",
+      "product_code": "72585",
+      "product_name": "Colgate Maximum Cavity Protection Fresh Cool Mint Toothpaste 180g - Pasta Gigi",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/72585_p0_s500.json",
+      "sha256": "00ab06ee0017afcfbdd473095e86a4dab526a2aaefdaff21d8c0f69c72088c5f",
+      "bytes": 18183,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 52,
+        "totalPages": 1
+      },
+      "rows": 52
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "record_id": "WATREV-9104008020017",
+    "source_id": "WATREV-74900-P0-S500",
+    "platform": "Watsons Indonesia",
+    "source_url": "https://api.watsons.co.id/api/v2/wtcid/products/74900/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+    "product_url": "https://www.watsons.co.id/id/pepsodent-value-pack-sensitive-expert-original-100g/p/BP_74900",
+    "product_code": "74900",
+    "product_name": "Value Pack Sensitive Expert Original 100g",
+    "brand": "Pepsodent",
+    "review_id": "9104008020017",
+    "review_text": "",
+    "rating": 5.0,
+    "published_raw": "2026-09-02T14:03:41+0000",
+    "published_at_utc": "2026-09-02T14:03:41+00:00",
+    "within_case_period": false,
+    "retrieved_at_utc": "2026-11-03T10:53:16.482101+00:00",
+    "raw_file": "raw/watsons/74900_p0_s500.json",
+    "raw_locator": "reviews[0]",
+    "approval_status": "APPROVED",
+    "incentive_status": "not_established",
+    "age_verified": false,
+    "premium_to_basic_verified": false,
+    "selection_caveat": "Public approved retailer reviews, date-desc pagination; product/variant histories can overlap. No verified age, switching, usage or organic/unincentivized status.",
+    "country_evidence": "Indonesian Watsons site; reviewer residence not verified"
+  }
+]

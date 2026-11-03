@@ -1,0 +1,370 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 31,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.97",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 1,
+      "rating5Count" : 30
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Tatik Widyana MUud'har",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-03T09:21:52+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-70611-WTCID20275178",
+      "id" : "9109842657329",
+      "like" : 0,
+      "rating" : 4.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nida Dusturia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-09-01T22:46:15+0000",
+      "headline" : "review-70611-WTCID21630001",
+      "id" : "9104007561265",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Putri Nurhayati",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi untuk bantu memutihkan, ukurannya pas untuk sekeluarga",
+      "date" : "2026-08-25T04:26:12+0000",
+      "headline" : "review-70611-WTCID21326005",
+      "id" : "9095978876977",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rizky Ayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Andalan bgt pasta gigi initu, selalu repurcahse",
+      "date" : "2026-08-15T00:55:13+0000",
+      "headline" : "review-70611-WTCID20673011",
+      "id" : "9092728422449",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Erliysha Saputri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "kualitas produk bagus dan pengemasan rapi",
+      "date" : "2026-08-02T13:54:49+0000",
+      "headline" : "review-70611-WTCID21055370",
+      "id" : "9084109750321",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rahma Danti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi yang bagus dan aku suka",
+      "date" : "2026-07-25T08:43:28+0000",
+      "headline" : "review-70611-WTCID20735004",
+      "id" : "9081892143153",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dyn Hafi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "membersihkan sampe ke inti bumi",
+      "date" : "2026-07-08T01:20:52+0000",
+      "headline" : "review-70611-WTCID20287218",
+      "id" : "9062036373553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dian Silviana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Nwjjwjsjskskskwkwmamamamamamamamma\nAmwmwmwmwmw.wmmwmwmwmwmw",
+      "date" : "2026-07-05T14:34:58+0000",
+      "headline" : "review-70611-WTCID20282148",
+      "id" : "9061649842225",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Selvia D",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Bebebbenednndr rnnrrnnrnrnrbrr r rbrnrnrnrnrnnrrntntntnntntt tntntjtntjtt tbtjtjtjtjtjtjt fbfbfnfnfnfnff fbnfnfnfnfnff fbbfbf",
+      "date" : "2026-07-02T22:31:07+0000",
+      "headline" : "review-70611-WTCID20275167",
+      "id" : "9060052631601",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Selvia D",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Halo gofood hajsjsjs hshshbs shdbddbhdhdhhd hdhdjdj hshshshb hehehhhd. Dbehe. Ehdhbehehe rhrhrjdjrjrj dhdhdhhehrhr dhdhdhdhhdjd jjjjj",
+      "date" : "2026-06-30T01:10:45+0000",
+      "headline" : "review-70611-WTCID20253003",
+      "id" : "9059245654065",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "KIKI EDWARD",
+      "approvalStatus" : "APPROVED",
+      "comment" : "1. Barang yang dikirim sesuai dengan pesanan. \n2. Pengiriman dengan packing yang rapi. \n3. Harga yang kompetitif dibandingkan kompetitor lainnya. ",
+      "date" : "2026-06-21T14:37:31+0000",
+      "headline" : "review-70611-WTCID19924045",
+      "id" : "9049804341297",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jie",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Membersihkan gigi dari kotoran yang menempel di gigi , memutihkan gigi , menguatkan gigi , membuat gigi bersih , putih , napas menjadi segar",
+      "date" : "2026-06-12T01:38:44+0000",
+      "headline" : "review-70611-WTCID19639010",
+      "id" : "9047287726129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jonson Yuliadi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-06-08T23:10:16+0000",
+      "headline" : "review-70611-WTCID19322495",
+      "id" : "9045976252465",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Eko Agus Wahyudi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Dapat harga termurah cuma di sini",
+      "date" : "2026-02-04T19:17:25+0000",
+      "headline" : "review-70611-WTCID18410096",
+      "id" : "9017634390065",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jonson Yuliadi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-02-04T00:43:03+0000",
+      "headline" : "review-undefined-WTCID18709101",
+      "id" : "9017862225969",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nabilla Im",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-12-18T12:13:31+0000",
+      "headline" : "review-70611-WTCID17534008",
+      "id" : "9008403120177",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Denise Dewanto Setiawan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-20T21:57:11+0000",
+      "headline" : "review-70611-WTCID17091288",
+      "id" : "8995020505137",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Riqqa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-07-22T05:22:57+0000",
+      "headline" : "review-70611-WTCID16956265",
+      "id" : "8992268025905",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Bona Rina Ria",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-06-23T09:00:59+0000",
+      "headline" : "review-70611-WTCID15397373",
+      "id" : "8989355606065",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Humairah Hakim",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-03-12T03:37:49+0000",
+      "headline" : "review-undefined-WTCID16409228",
+      "id" : "8978310594609",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Fatimah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-10-30T12:17:19+0000",
+      "headline" : "review-70611-WTCID15733181",
+      "id" : "8961467154481",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Lilis",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-06-06T05:46:06+0000",
+      "headline" : "review-70611-WTCID14274001",
+      "id" : "8941051576369",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-05-25T16:18:59+0000",
+      "headline" : "review-70611-WTCID13237035",
+      "id" : "8938663903281",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fakhriyan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-03-02T11:49:33+0000",
+      "headline" : "review-70611-WTCID14304434",
+      "id" : "8928376946737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rizka",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-12-11T18:55:31+0000",
+      "headline" : "review-70611-WTCID13033050",
+      "id" : "8904571191345",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dhimas Ilham",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rasa pasta gigi enak",
+      "date" : "2023-07-22T15:19:58+0000",
+      "headline" : "review-70611-WTCID13075000",
+      "id" : "8894066884657",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fadila",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-05-31T04:36:05+0000",
+      "headline" : "review-70611-WTCID13159175",
+      "id" : "8888806899761",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Tri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-05-04T06:53:38+0000",
+      "headline" : "review-70611-WTCID09431191",
+      "id" : "8884802519089",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Annisa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-03-27T16:27:22+0000",
+      "headline" : "review-70611-WTCID12383032",
+      "id" : "8876828852273",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Denafa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-02-27T07:10:56+0000",
+      "headline" : "review-70611-WTCID12364395",
+      "id" : "8870628163633",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ferdia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk sesuai, packing super aman",
+      "date" : "2022-12-15T11:38:10+0000",
+      "headline" : "review-70611-WTCID12021402",
+      "id" : "8864951271473",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

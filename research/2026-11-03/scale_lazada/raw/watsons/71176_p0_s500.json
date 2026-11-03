@@ -1,0 +1,204 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 16,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 16
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Luthfiah Yulianti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Udah biasa pakai ini kebetulan lagi ada promo langsung aja cekout, sering-sering adain promo yaaa hehehe",
+      "date" : "2026-07-11T15:15:00+0000",
+      "headline" : "review-71176-WTCID20427059",
+      "id" : "9065997860913",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/71176/9065997860913/WTCID20427059_71176_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/71176/9065997860913/WTCID20427059_71176_1.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nia Rahmawiyanti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "fokus untuk repair gigi sensitive ",
+      "date" : "2026-06-28T07:26:14+0000",
+      "headline" : "review-71176-WTCID19344065",
+      "id" : "9053938712625",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Mikael Tambunan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-06-08T18:16:55+0000",
+      "headline" : "review-71176-WTCID19785096",
+      "id" : "9046042804273",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "lisa lisa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Very satisfied with this item",
+      "date" : "2026-04-28T20:53:41+0000",
+      "headline" : "review-71176-WTCID19333422",
+      "id" : "9032317534257",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "gida gida",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Very satisfied with this item",
+      "date" : "2026-04-28T20:52:26+0000",
+      "headline" : "review-71176-WTCID19333420",
+      "id" : "9032317435953",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Farah Adiba Khisni",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-21T16:35:39+0000",
+      "headline" : "review-71176-WTCID19167526",
+      "id" : "9030016598065",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Carmen nita",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-03-30T16:22:26+0000",
+      "headline" : "review-71176-WTCID15118222",
+      "id" : "9025729953841",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Amar Junaidi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-03-10T04:07:10+0000",
+      "headline" : "review-71176-WTCID18816446",
+      "id" : "9024448987185",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ence",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-04-27T02:54:04+0000",
+      "headline" : "review-71176-WTCID14609026",
+      "id" : "8934259753009",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Angeline",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-01-20T16:16:43+0000",
+      "headline" : "review-71176-WTCID13327447",
+      "id" : "8913799839793",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "reni kurnia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-12-05T05:19:32+0000",
+      "headline" : "review-71176-WTCID13733048",
+      "id" : "8904126824497",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Debby",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-07-29T22:49:35+0000",
+      "headline" : "review-71176-WTCID13236053",
+      "id" : "8894158012465",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Bina",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-07-28T20:01:23+0000",
+      "headline" : "review-71176-WTCID13358001",
+      "id" : "8894155292721",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "undefined",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-06-24T10:01:53+0000",
+      "headline" : "review-71176-WTCID12557022",
+      "id" : "8892405874737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "cecilia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-09-04T04:19:43+0000",
+      "headline" : "review-71176-WTCID11084186",
+      "id" : "8854244687921",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Kezia Giovani",
+      "approvalStatus" : "APPROVED",
+      "date" : "2019-05-27T11:52:33+0000",
+      "id" : "8822716530737",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

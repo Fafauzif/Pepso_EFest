@@ -1,0 +1,9 @@
+{
+  "household_payer": "\\b(parents?|family|families|household|mother|father|husband|wife|keluarga|ortu|bonyok|dibeliin|dibelikan|suami|istri|anak kos|dikosan|di kos|mamaku|ibuku|ayahku)\\b",
+  "price_promotion": "\\b(prices?|expensive|afford\\w*|discount\\w*|promo\\w*|cheap\\w*|mahal|murah|diskon|harga|hemat|cashback|voucher)\\b",
+  "repeat_continuation": "\\b(repurchase\\w*|reorder\\w*|repeat\\w*|buy again|buying again|keep using|bought again|beli lagi|repeat order|langganan|selalu pak[ae]i?|sudah lama pak[ae]i?|sdh lama pak[ae]i?|bertahun|thnan)\\b",
+  "switching": "\\b(switch\\w*|changed brands?|ganti|berganti|beralih|balik lagi|kembali ke|pindah)\\b",
+  "availability": "\\b(out of stock|in stock|hard to find|unavailable|availability|sold out|stok|stock|kosong|langka|langkah|susah cari|susah nyari|susah dicari|habis|alfamart|indomaret|warung|minimarket)\\b",
+  "sensory": "\\b(taste\\w*|aftertaste|foam\\w*|fresh\\w*|dry\\w*|irritat\\w*|mint\\w*|busa|rasa|segar|kering|perih|sariawan|pedes|pedas|asem|huek|mual)\\b",
+  "benefit_need": "\\b(sensitiv\\w*|whiten\\w*|pain|relief|sensitivity|ngilu|sensitif|putih|kuning|gusi|berlubang|bersih)\\b"
+}

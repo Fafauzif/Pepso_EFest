@@ -1,0 +1,86 @@
+review_index	codes	interpretation	alternative_or_limit
+2	generic_gratitude	Thanks without product experience.	No evidence of benefit or repeat.
+10	fulfilment;future_intention	Positive fulfilment and intent to order again.	The future order may concern the seller; not an observed repeat; outside case period.
+11	symbol_only	Positive emoji only.	No mechanism or experience can be established.
+12	vague_sensory	A brief positive taste label.	No comparison or continued-use evidence.
+13	fulfilment	Safe arrival and packing praise.	Does not evaluate toothpaste benefit.
+23	generic_praise	Generic positive adjective.	No stated mechanism.
+25	generic_praise;other_language	Chinese text gives generic positive praise.	No Indonesian residency or experience inference.
+28	sensory;pack	Reports sweet mint and freshness plus simple packaging.	Self-reported experience; no repurchase or clinical result.
+30	before_use;advertising_expectation	Explicitly not used but performance praised as advertised.	The five-star rating reflects expectation rather than validated benefit.
+31	before_use;fulfilment	Received but not tried.	High rating cannot establish product satisfaction.
+40	pack;vague_performance	Positive packaging and vague performance labels.	No specialist benefit or repeat sequence.
+59	numeric_only	Single numeral.	Uninterpretable as product experience.
+68	fulfilment	Correct order, safe packing.	No product effect or retention claim.
+89	household;specialist_fit	Family-favourite toothpaste associated with sensitive gums.	Does not reveal who selected or paid; post-case context.
+90	fulfilment_complaint	Three-star complaint concerns untidy packing.	Cannot be treated as a toothpaste efficacy complaint.
+96	fulfilment;generic_recommendation	Arrival and vague recommendation.	No mechanism or proof of use.
+108	fulfilment	Safe packing and product matching description.	No experience beyond receipt.
+114	fulfilment	Received in good condition and matching order.	No benefit claim.
+118	fulfilment	Rapid seller response and same-day arrival.	Channel convenience rather than toothpaste performance.
+133	continued_use;specialist_fit	Claims always using it and fit with sensitive teeth.	Self-report lacks purchase history, payer, age and comparator.
+139	generic_gratitude	Thanks only.	Not a product-outcome observation.
+141	symbol_only	Thumbs-up only.	No mechanism inferred.
+146	fulfilment;authenticity	Originality claim and delivery within SLA.	Authenticity is claimed, not independently verified.
+153	claimed_benefit	Claims product does not make tartar form.	A clinical causal claim from a reviewer; not validated effectiveness.
+154	fulfilment	Very fast arrival.	Not a retention mechanism by itself.
+157	loyalty_ambiguous	Says already a regular customer.	May refer to store rather than brand; no actual purchase count.
+158	generic_praise	Generic enthusiastic praise.	No specific experience.
+177	fulfilment;gratitude	Order matched and thanks.	No toothpaste performance evidence.
+185	generic_praise	OK only, four stars.	Stars do not specify the reason.
+186	fit_expectation	Hopes product will fit.	An expectation, not experienced compatibility.
+199	generic_praise	Good only.	No mechanism.
+206	fulfilment	Goods received in satisfactory condition.	Condition is not the promised specialist benefit.
+212	generic_template	Flavor, packaging and performance each rated OK.	Structured fields still give little detail or repeat evidence.
+213	vague_performance	Performance described as good.	No precise effect, baseline or usage duration.
+223	pack;vague_performance	Good packaging and vague performance.	No causal or repeat conclusion.
+225	vague_performance	Performance good only.	No observable specialist result described.
+230	fit;fulfilment	Reports already fitting and liking product with good fulfilment.	Suggests experience, but not an explicit completed repeat purchase.
+246	fulfilment	Order and packaging praised.	Not evidence about formulation or need.
+253	fulfilment_complaint	One-star allegation that parcel never arrived.	A delivery grievance; accusations are unverified and cannot establish toothpaste dissatisfaction.
+257	fulfilment	Paste received and packaging OK.	No reported use or benefit.
+8	promotion_request	Asks seller to offer discounts often.	Promotion interest does not establish deal dependence or nonrepeat at regular price.
+17	before_use	Explicitly not tried, assigns four stars provisionally.	Rating cannot measure experienced benefit.
+18	before_use	Explicitly does not yet know the result despite five stars.	Expected use is not efficacy or retention evidence.
+24	before_use	Explicitly has not tried Pepsodent yet.	No experienced result.
+27	sensory_fit	Reports this paste avoids the usual gagging feeling while brushing.	A personal fit account, not proof of a formulation mechanism or age eligibility.
+36	explicit_repurchase;fit	Says bought again because it fits.	Strong repeat wording but no receipt sequence, payer, age or full-price information.
+39	before_use	Not tried yet, five stars.	No inference about product outcome.
+47	free_product;giveaway	Explicitly received Pepsodent free from Sanofi.	Exclude from ordinary paid-purchase/price inference; listing is labelled gimmick.
+61	possible_misassignment	Toothpaste-linked text claims prevention of body odour.	Possible product mismatch or copied review; cannot validate purchase/benefit or promotion-linked loyalty.
+67	pack;usage_duration	Mentions new 190 g pack and approximately one month of use.	Users per tube and actual dose unspecified; not a general consumption-rate estimate.
+86	fulfilment_complaint	Two stars for delivery taking too long.	No evidence that sensitivity relief failed.
+87	promotion;fulfilment	Pleased with promotion, long expiry and safe quick delivery.	No proof promotion caused purchase or sustained use.
+99	claimed_benefit	Claims fewer dentist visits after using paste.	Cannot attribute causally; not verified care avoidance or clinical improvement.
+100	price;fulfilment	Reports a low price despite no free shipping.	Total paid price and comparison absent; not price elasticity.
+101	sensory_fit;claimed_benefit	Calls paste pleasant and not nauseating, with perceived health benefit.	Personal account, post-case, no measured clinical effect.
+115	explicit_repurchase;continued_use;specialist_fit	Longtime sensitivity-paste user explicitly reports repeat order.	Counterexample to obligatory episodic use; unknown age and household roles.
+119	continued_use	Reports routine use and long expiry.	Routine use is self-reported, not measured retention.
+123	benefit_supports_loyalty	Having felt benefits, reviewer says they do not want to change toothpaste.	Direct counterexample to improvement necessarily ending use; not a completed future purchase.
+124	claimed_benefit;fit	Reports less pain while rinsing and chewing.	No clinical verification, controlled comparator or symptom diagnosis.
+128	fulfilment_complaint	Four-star criticism of packing that dented tubes.	Separate packaging risk from toothpaste benefit.
+131	continued_use;professional_recommendation;promotion	Years of use, dentist recommendation and favourable promo price coexist.	Cannot establish dentist recommendation caused loyalty or that discounts are necessary.
+138	continued_use;sensory;claimed_benefit	Habitual Sensodyne use with pleasant taste, freshness and claimed tooth benefits.	Unverified medical beliefs; no actual purchase sequence.
+145	stocking_up	Long expiry valued because product is for stock.	Stocking is not evidence of usage rate; outside case period.
+152	low_foam;sensory	Likes mint and lack of foam.	Counterexample to assuming more foam always means cleaner.
+156	continued_use;sensory_discomfort;promotion_request	Always uses Enzim because alternatives feel unpleasant and are associated with mouth ulcers; also requests promotions.	Symptoms and causality unverified; post-case, but loyalty and deal interest coexist.
+159	sensory_comfort	Reports mild sweetness without sharp/spicy feeling on lips.	Comfort account, not clinically proven reduced irritation.
+161	pack;fit;claimed_benefit	Small pack described positively with fit and gum/tooth comfort claims.	Does not establish willingness to pay per gram or verified therapeutic effect.
+166	pack_expectation_mismatch	Expected a large size but received two small packs.	Mismatch concerns expectation and listing interpretation, not necessarily premium rejection.
+167	continued_use;fit	Always uses Enzim because it fits.	No evidence of switching direction or payer.
+168	travel_pack	Size considered suitable for travelling.	Smallness has a use benefit; not necessarily poor household value.
+169	household;sensory	Family likes the non-spicy paste.	Shared preference, not identified household payer or chooser.
+170	claimed_benefit;future_loyalty	Claims improved oral comfort and intention not to change paste.	Intention is not future observed behaviour; claims are not clinical validation.
+173	minimum_order;choice_friction	Minimum order of three is said to prevent trying other flavours.	A seller checkout restriction, not proof of brand-level choice overload.
+174	continued_use;channel_price_comparison	Longtime Enzim user buys online after seeing a cheaper price than offline.	Shows shopping-channel price response without brand switching; no paid amount or causal estimate.
+180	future_repurchase	Plans next order after current product runs out.	Explicit replenishment intention, not completed repeat.
+202	explicit_repurchase;exclusive_fit	Says purchased multiple times because only Enzim fits.	Self-report; collection-day/post-case context, not verified target switcher.
+204	before_use;social_influence	Not tried; purchase attributed to FOMO.	Trial motivation is not continued use, actual influencer exposure is unspecified.
+234	continued_use;low_foam	Habitual Enzim use because not accustomed to high-foam paste.	Sensory habit account, no clinical mechanism or target demographics.
+235	fit;low_detergent_belief;specialist_fit	Describes no detergent and fit for sensitive teeth.	Claims do not establish exact formulation or clinical efficacy.
+237	explicit_repurchase	Explicit repeat order with generic quality praise.	Does not reveal regular price, time interval or payer.
+238	sensory_discomfort;low_foam	No-foam paste preferred because foam reportedly hurts sensitive lips.	Personal symptom attribution, not proven allergy or clinical recommendation.
+241	continued_use;channel_discovery;promotion;sensory	Longtime Enzim user discovers a TikTok bundle promotion and values low-foam lip comfort.	One record can support loyalty plus deal interest; no causal incrementality or platform-independent purchase validation.
+262	store_loyalty;promotion	Regular official-store buying, originality claims and free shipping praised.	Store loyalty is not proof of brand exclusivity or repeat at regular price.
+264	uninterpretable	Lyi alone supplies no interpretable product information.	Do not turn the five-star rating into an experience claim.
+265	adjacent_product;fulfilment	Order arrival review attached to a whitening spray.	Keep as adjacent context, exclude from toothpaste-only comparisons.

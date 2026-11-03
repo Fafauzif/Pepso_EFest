@@ -1,0 +1,23 @@
+{
+  "as_of": "2026-11-03",
+  "ready_ingested": [
+    "scale_discovery/clean/oresa_new_reviews.json",
+    "scale_reddit/reddit_records.json",
+    "access_reviews/clean/lazada_reviews.json",
+    "access_reviews/clean/oresa_incentivized_reviews.json",
+    "scale_amazon/clean/reviews_classified.jsonl.gz",
+    "scale_reviews/clean/tryandreview_reviews.json",
+    "scale_lazada/clean/reviews.json",
+    "scale_amazon/health_household/clean/reviews_classified.jsonl.gz"
+  ],
+  "deliberately_not_ingested": {
+    "access_reviews/clean/tryandreview_reviews.json": "Superseded by full UTF-8-corrected scaled TAR corpus; early parser mojibake is documented upstream.",
+    "access_reviews/clean/reddit_comments.json": "Curated line-ID excerpts overlap later native-ID archive extraction; preserve files but do not double count as additional observations.",
+    "scale_discovery/clean/dataset_toothpaste_candidates.json": "Discovery candidates are not established consumer records.",
+    "scale_amazon/clean/reviews.jsonl": "Use classified version instead; title keyword broad candidates include excluded product types.",
+    "all CSV duplicates of selected JSON files": "Same records in another serialization, not additional evidence."
+  },
+  "status": "Finalized: canonical inputs ingested, integrity checked, compressed exports parsed and counts reconciled.",
+  "scope_note": "Includes external Amazon title-matched candidates with explicit product_scope; never report combined corpus as Indonesian youth consumers.",
+  "source_input_count": 8
+}

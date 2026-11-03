@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "78843",
+    "product_name": "Pro Care Complete White 90g",
+    "unique_review_ids": 0,
+    "stop_reason": "no_more_reviews",
+    "reported_total": 0,
+    "complete": false
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-78843-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/78843/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:38.168048+00:00",
+      "product_code": "78843",
+      "product_name": "Pro Care Complete White 90g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/78843_p0_s500.json",
+      "sha256": "f67cc0e196ec14dc782b232e11c1d67520c2bdd8973e1da557197f3fa9eedc9e",
+      "bytes": 281,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 0,
+        "totalPages": 0
+      },
+      "rows": 0
+    }
+  ]
+}

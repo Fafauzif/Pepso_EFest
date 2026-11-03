@@ -1,0 +1,11 @@
+{
+  "thread_targets": 11,
+  "threads_attempted": 11,
+  "records_retained": 389,
+  "keyword_candidate_records": 266,
+  "context_only_records": 123,
+  "excluded_comment_nodes": 193,
+  "max_records_cap": 5000,
+  "paid_spend_usd": 0,
+  "representative": false
+}

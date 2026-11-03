@@ -1,0 +1,757 @@
+<!doctype html>
+<html class="no-js" lang="en" data-content_root="../">
+  <head><meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="color-scheme" content="light dark"><meta name="viewport" content="width=device-width, initial-scale=1" />
+<link rel="index" title="Index" href="../genindex.html"><link rel="search" title="Search" href="../search.html"><link rel="next" title="Configuring PRAW" href="configuration.html"><link rel="prev" title="Installing PRAW" href="installation.html">
+
+    <!-- Generated with Sphinx 9.1.0 and Furo 2025.12.19 -->
+        <title>Authenticating via OAuth - PRAW 8.0.3 documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=d111a655" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo.css?v=7bdb33bb" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/furo-extensions.css?v=8dab3a3b" />
+    <link rel="stylesheet" type="text/css" href="../_static/praw8_migration.css?v=7b666ec3" />
+    
+    
+
+
+<style>
+  body {
+    --color-code-background: #f2f2f2;
+  --color-code-foreground: #1e1e1e;
+  
+  }
+  @media not print {
+    body[data-theme="dark"] {
+      --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+    }
+    @media (prefers-color-scheme: dark) {
+      body:not([data-theme="light"]) {
+        --color-code-background: #202020;
+  --color-code-foreground: #d0d0d0;
+  
+      }
+    }
+  }
+</style><script async type="text/javascript" src="/_/static/javascript/readthedocs-addons.js"></script><meta name="readthedocs-project-slug" content="praw" /><meta name="readthedocs-version-slug" content="stable" /><meta name="readthedocs-resolver-filename" content="/getting_started/authentication.html" /><meta name="readthedocs-http-status" content="200" /></head>
+  <body>
+    
+    <script>
+      document.body.dataset.theme = localStorage.getItem("theme") || "auto";
+    </script>
+    
+
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="svg-toc" viewBox="0 0 24 24">
+    <title>Contents</title>
+    <svg stroke="currentColor" fill="currentColor" stroke-width="0" viewBox="0 0 1024 1024">
+      <path d="M408 442h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8zm-8 204c0 4.4 3.6 8 8 8h480c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8H408c-4.4 0-8 3.6-8 8v56zm504-486H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zm0 632H120c-4.4 0-8 3.6-8 8v56c0 4.4 3.6 8 8 8h784c4.4 0 8-3.6 8-8v-56c0-4.4-3.6-8-8-8zM115.4 518.9L271.7 642c5.8 4.6 14.4.5 14.4-6.9V388.9c0-7.4-8.5-11.5-14.4-6.9L115.4 505.1a8.74 8.74 0 0 0 0 13.8z"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-menu" viewBox="0 0 24 24">
+    <title>Menu</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-menu">
+      <line x1="3" y1="12" x2="21" y2="12"></line>
+      <line x1="3" y1="6" x2="21" y2="6"></line>
+      <line x1="3" y1="18" x2="21" y2="18"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-arrow-right" viewBox="0 0 24 24">
+    <title>Expand</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather-chevron-right">
+      <polyline points="9 18 15 12 9 6"></polyline>
+    </svg>
+  </symbol>
+  <symbol id="svg-sun" viewBox="0 0 24 24">
+    <title>Light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="feather-sun">
+      <circle cx="12" cy="12" r="5"></circle>
+      <line x1="12" y1="1" x2="12" y2="3"></line>
+      <line x1="12" y1="21" x2="12" y2="23"></line>
+      <line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+      <line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+      <line x1="1" y1="12" x2="3" y2="12"></line>
+      <line x1="21" y1="12" x2="23" y2="12"></line>
+      <line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+      <line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon" viewBox="0 0 24 24">
+    <title>Dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-moon">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" />
+    </svg>
+  </symbol>
+  <symbol id="svg-sun-with-moon" viewBox="0 0 24 24">
+    <title>Auto light/dark, in light mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path style="opacity: 50%" d="M 5.411 14.504 C 5.471 14.504 5.532 14.504 5.591 14.504 C 3.639 16.319 4.383 19.569 6.931 20.352 C 7.693 20.586 8.512 20.551 9.25 20.252 C 8.023 23.207 4.056 23.725 2.11 21.184 C 0.166 18.642 1.702 14.949 4.874 14.536 C 5.051 14.512 5.231 14.5 5.411 14.5 L 5.411 14.504 Z"/>
+      <line x1="14.5" y1="3.25" x2="14.5" y2="1.25"/>
+      <line x1="14.5" y1="15.85" x2="14.5" y2="17.85"/>
+      <line x1="10.044" y1="5.094" x2="8.63" y2="3.68"/>
+      <line x1="19" y1="14.05" x2="20.414" y2="15.464"/>
+      <line x1="8.2" y1="9.55" x2="6.2" y2="9.55"/>
+      <line x1="20.8" y1="9.55" x2="22.8" y2="9.55"/>
+      <line x1="10.044" y1="14.006" x2="8.63" y2="15.42"/>
+      <line x1="19" y1="5.05" x2="20.414" y2="3.636"/>
+      <circle cx="14.5" cy="9.55" r="3.6"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-moon-with-sun" viewBox="0 0 24 24">
+    <title>Auto light/dark, in dark mode</title>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round"
+      class="icon-custom-derived-from-feather-sun-and-tabler-moon">
+      <path d="M 8.282 7.007 C 8.385 7.007 8.494 7.007 8.595 7.007 C 5.18 10.184 6.481 15.869 10.942 17.24 C 12.275 17.648 13.706 17.589 15 17.066 C 12.851 22.236 5.91 23.143 2.505 18.696 C -0.897 14.249 1.791 7.786 7.342 7.063 C 7.652 7.021 7.965 7 8.282 7 L 8.282 7.007 Z"/>
+      <line style="opacity: 50%" x1="18" y1="3.705" x2="18" y2="2.5"/>
+      <line style="opacity: 50%" x1="18" y1="11.295" x2="18" y2="12.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="4.816" x2="14.464" y2="3.964"/>
+      <line style="opacity: 50%" x1="20.711" y1="10.212" x2="21.563" y2="11.063"/>
+      <line style="opacity: 50%" x1="14.205" y1="7.5" x2="13.001" y2="7.5"/>
+      <line style="opacity: 50%" x1="21.795" y1="7.5" x2="23" y2="7.5"/>
+      <line style="opacity: 50%" x1="15.316" y1="10.184" x2="14.464" y2="11.036"/>
+      <line style="opacity: 50%" x1="20.711" y1="4.789" x2="21.563" y2="3.937"/>
+      <circle style="opacity: 50%" cx="18" cy="7.5" r="2.169"/>
+    </svg>
+  </symbol>
+  <symbol id="svg-pencil" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-pencil-code">
+      <path d="M4 20h4l10.5 -10.5a2.828 2.828 0 1 0 -4 -4l-10.5 10.5v4" />
+      <path d="M13.5 6.5l4 4" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+  <symbol id="svg-eye" viewBox="0 0 24 24">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+      stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="icon-tabler-eye-code">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M10 12a2 2 0 1 0 4 0a2 2 0 0 0 -4 0" />
+      <path
+        d="M11.11 17.958c-3.209 -.307 -5.91 -2.293 -8.11 -5.958c2.4 -4 5.4 -6 9 -6c3.6 0 6.6 2 9 6c-.21 .352 -.427 .688 -.647 1.008" />
+      <path d="M20 21l2 -2l-2 -2" />
+      <path d="M17 17l-2 2l2 2" />
+    </svg>
+  </symbol>
+</svg>
+
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle site navigation sidebar">
+<input type="checkbox" class="sidebar-toggle" name="__toc" id="__toc" aria-label="Toggle table of contents sidebar">
+<label class="overlay sidebar-overlay" for="__navigation"></label>
+<label class="overlay toc-overlay" for="__toc"></label>
+
+<a class="skip-to-content muted-link" href="#furo-main-content">Skip to content</a>
+
+
+
+<div class="page">
+  <header class="mobile-header">
+    <div class="header-left">
+      <label class="nav-overlay-icon" for="__navigation">
+        <span class="icon"><svg><use href="#svg-menu"></use></svg></span>
+      </label>
+    </div>
+    <div class="header-center">
+      <a href="../index.html"><div class="brand">PRAW 8.0.3 documentation</div></a>
+    </div>
+    <div class="header-right">
+      <div class="theme-toggle-container theme-toggle-header">
+        <button class="theme-toggle" aria-label="Toggle Light / Dark / Auto color theme">
+          <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+          <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+          <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+          <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+        </button>
+      </div>
+      <label class="toc-overlay-icon toc-header-icon" for="__toc">
+        <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
+      </label>
+    </div>
+  </header>
+  <aside class="sidebar-drawer">
+    <div class="sidebar-container">
+      
+      <div class="sidebar-sticky"><a class="sidebar-brand" href="../index.html">
+  
+  <span class="sidebar-brand-text">PRAW 8.0.3 documentation</span>
+  
+</a><form class="sidebar-search-container" method="get" action="../search.html" role="search">
+  <input class="sidebar-search" placeholder="Search" name="q" aria-label="Search">
+  <input type="hidden" name="check_keywords" value="yes">
+  <input type="hidden" name="area" value="default">
+</form>
+<div id="searchbox"></div><div class="sidebar-scroll"><div class="sidebar-tree">
+  <p class="caption" role="heading"><span class="caption-text">Getting Started</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="quick_start.html">Quick Start</a></li>
+<li class="toctree-l1"><a class="reference internal" href="installation.html">Installing PRAW</a></li>
+<li class="toctree-l1 current current-page"><a class="current reference internal" href="#">Authenticating via OAuth</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="configuration.html">Configuring PRAW</a><input aria-label="Toggle navigation of Configuring PRAW" class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" role="switch" type="checkbox"/><label for="toctree-checkbox-1"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="configuration/options.html">Configuration Options</a></li>
+<li class="toctree-l2"><a class="reference internal" href="configuration/prawini.html">praw.ini Files</a></li>
+<li class="toctree-l2"><a class="reference internal" href="configuration/reddit_initialization.html">Keyword Arguments to <code class="xref py py-class docutils literal notranslate"><span class="pre">Reddit</span></code></a></li>
+<li class="toctree-l2"><a class="reference internal" href="configuration/environment_variables.html">PRAW Environment Variables</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="multiple_instances.html">Running Multiple Instances of PRAW</a></li>
+<li class="toctree-l1"><a class="reference internal" href="logging.html">Logging in PRAW</a></li>
+<li class="toctree-l1"><a class="reference internal" href="ratelimits.html">Ratelimits</a></li>
+<li class="toctree-l1"><a class="reference internal" href="faq.html">Frequently Asked Questions</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Code Overview</span></p>
+<ul>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../code_overview/reddit_instance.html">The Reddit Instance</a><input aria-label="Toggle navigation of The Reddit Instance" class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" role="switch" type="checkbox"/><label for="toctree-checkbox-2"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/announcements.html">reddit.announcements</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/drafts.html">reddit.drafts</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/front.html">reddit.front</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/inbox.html">reddit.inbox</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/live.html">reddit.live</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/multireddit.html">reddit.multireddit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/redditors.html">reddit.redditors</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/subreddit.html">reddit.subreddit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/subreddits.html">reddit.subreddits</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/reddit/user.html">reddit.user</a></li>
+</ul>
+</li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../code_overview/praw_models.html">Working with PRAW’s Models</a><input aria-label="Toggle navigation of Working with PRAW’s Models" class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" role="switch" type="checkbox"/><label for="toctree-checkbox-3"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/announcement.html">Announcement</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/comment.html">Comment</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/draft.html">Draft</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/livethread.html">LiveThread</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/liveupdate.html">LiveUpdate</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/message.html">Message</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/modmailconversation.html">ModmailConversation</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/more.html">MoreComments</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/multireddit.html">Multireddit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/redditor.html">Redditor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/submission.html">Submission</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/subreddit.html">Subreddit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/models/wikipage.html">WikiPage</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../code_overview/exceptions.html">Exceptions in PRAW</a></li>
+<li class="toctree-l1 has-children"><a class="reference internal" href="../code_overview/other.html">Other Classes</a><input aria-label="Toggle navigation of Other Classes" class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" role="switch" type="checkbox"/><label for="toctree-checkbox-4"><span class="icon"><svg><use href="#svg-arrow-right"></use></svg></span></label><ul>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/collection.html">Collection</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/collectionmoderation.html">CollectionModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditcollections.html">SubredditCollections</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditcollectionsmoderation.html">SubredditCollectionsModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/submissionflair.html">SubmissionFlair</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditflair.html">SubredditFlair</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditflairtemplates.html">SubredditFlairTemplates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditlinkflairtemplates.html">SubredditLinkFlairTemplates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditredditorflairtemplates.html">SubredditRedditorFlairTemplates</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/inlinegif.html">InlineGif</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/inlineimage.html">InlineImage</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/inlinemedia.html">InlineMedia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/inlinevideo.html">InlineVideo</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/emojimedia.html">EmojiMedia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/media.html">Media</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/postmedia.html">PostMedia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/stylesheetasset.html">StylesheetAsset</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/stylesheetimage.html">StylesheetImage</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/widgetmedia.html">WidgetMedia</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/base_mod_notes.html">BaseModNotes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/mod_note.html">ModNote</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/mod_note_mixin.html">ModNoteMixin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/reddit_mod_notes.html">RedditModNotes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/redditor_mod_notes.html">RedditorModNotes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subreddit_mod_notes.html">SubredditModNotes</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/commentmoderation.html">CommentModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/rulemoderation.html">RuleModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/submissionmoderation.html">SubmissionModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditmoderation.html">SubredditModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditrulesmoderation.html">SubredditRulesModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditwidgetsmoderation.html">SubredditWidgetsModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/thingmoderationmixin.html">ThingModerationMixin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/usersubredditmoderation.html">UserSubredditModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/widgetmoderation.html">WidgetModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/wikipagemoderation.html">WikiPageModeration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/livecontributorrelationship.html">LiveContributorRelationship</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/livethreadcontribution.html">LiveThreadContribution</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/livethreadstream.html">LiveThreadStream</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/liveupdatecontribution.html">LiveUpdateContribution</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/contributorrelationship.html">ContributorRelationship</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/moderatorrelationship.html">ModeratorRelationship</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditrelationship.html">SubredditRelationship</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditemoji.html">SubredditEmoji</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditfilters.html">SubredditFilters</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditmoderationstream.html">SubredditModerationStream</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditquarantine.html">SubredditQuarantine</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditremovalreasons.html">SubredditRemovalReasons</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditrules.html">SubredditRules</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditstream.html">SubredditStream</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditstylesheet.html">SubredditStylesheet</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditwidgets.html">SubredditWidgets</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditwiki.html">SubredditWiki</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/button.html">Button</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/buttonwidget.html">ButtonWidget</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/calendar.html">Calendar</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/calendarconfiguration.html">CalendarConfiguration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/communitylist.html">CommunityList</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/customwidget.html">CustomWidget</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/hover.html">Hover</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/idcard.html">IDCard</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/image.html">Image</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/imagedata.html">ImageData</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/imagewidget.html">ImageWidget</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/menu.html">Menu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/menulink.html">MenuLink</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/moderatorswidget.html">ModeratorsWidget</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/postflairwidget.html">PostFlairWidget</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/ruleswidget.html">RulesWidget</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/styles.html">Styles</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/submenu.html">Submenu</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/textarea.html">TextArea</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/widget.html">Widget</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/announcementlisting.html">AnnouncementListing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/auth.html">Auth</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/baselist.html">BaseList</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/commentforest.html">CommentForest</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/commenthelper.html">CommentHelper</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/config.html">Config</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/domainlisting.html">DomainListing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/draftlist.html">DraftList</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/emoji.html">Emoji</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/fullnamemixin.html">FullnameMixin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/inboxablemixin.html">InboxableMixin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/listing.html">Listing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/listinggenerator.html">ListingGenerator</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/listinggeneratorkwargs.html">ListingGeneratorKwargs</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/mod_action.html">ModAction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/moderatedlist.html">ModeratedList</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/moderatorlisting.html">ModeratorListing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/modmail.html">Modmail</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/modmailaction.html">ModmailAction</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/modmailconversationslisting.html">ModmailConversationsListing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/modmailmessage.html">ModmailMessage</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/polldata.html">PollData</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/polloption.html">PollOption</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/partialredditor.html">PartialRedditor</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/prawbase.html">PRAWBase</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/preferences.html">Preferences</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/redditbase.html">RedditBase</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/redditorlist.html">RedditorList</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/redditorstream.html">RedditorStream</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/removalreason.html">RemovalReason</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/rule.html">Rule</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/stylesheet.html">Stylesheet</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/sublisting.html">SubListing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditlistingmixin.html">SubredditListingMixin</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/subredditmessage.html">SubredditMessage</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/trophy.html">Trophy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/trophylist.html">TrophyList</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/usersubreddit.html">UserSubreddit</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../code_overview/other/util.html">Util</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Tutorials</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../tutorials/comments.html">Comment Extraction and Parsing</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tutorials/refresh_token.html">Working with Refresh Tokens</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tutorials/reply_bot.html">Submission Stream Reply Bot</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Package Info</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../package_info/change_log.html">Change Log</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../package_info/contributing.html">Contributing to PRAW</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../package_info/glossary.html">Glossary</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../package_info/praw8_migration.html">Migrating to PRAW 8</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../package_info/references.html">References</a></li>
+</ul>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../genindex.html">Index</a></li>
+</ul>
+
+</div>
+</div>
+
+      </div>
+      
+    </div>
+  </aside>
+  <div class="main">
+    <div class="content">
+      <div class="article-container">
+        <a href="#" class="back-to-top muted-link">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+            <path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12z"></path>
+          </svg>
+          <span>Back to top</span>
+        </a>
+        <div class="content-icon-container">
+          <div class="view-this-page">
+  <a class="muted-link" href="../_sources/getting_started/authentication.rst.txt" title="View this page">
+    <svg><use href="#svg-eye"></use></svg>
+    <span class="visually-hidden">View this page</span>
+  </a>
+</div>
+<div class="theme-toggle-container theme-toggle-content">
+            <button class="theme-toggle" aria-label="Toggle Light / Dark / Auto color theme">
+              <svg class="theme-icon-when-auto-light"><use href="#svg-sun-with-moon"></use></svg>
+              <svg class="theme-icon-when-auto-dark"><use href="#svg-moon-with-sun"></use></svg>
+              <svg class="theme-icon-when-dark"><use href="#svg-moon"></use></svg>
+              <svg class="theme-icon-when-light"><use href="#svg-sun"></use></svg>
+            </button>
+          </div>
+          <label class="toc-overlay-icon toc-content-icon" for="__toc">
+            <span class="icon"><svg><use href="#svg-toc"></use></svg></span>
+          </label>
+        </div>
+        <article role="main" id="furo-main-content">
+          <section id="authenticating-via-oauth">
+<span id="oauth"></span><h1>Authenticating via OAuth<a class="headerlink" href="#authenticating-via-oauth" title="Link to this heading">¶</a></h1>
+<p>PRAW supports all three types of applications that can be registered on Reddit. Those
+are:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/reddit-archive/reddit/wiki/OAuth2-App-Types#web-app">Web Applications</a></p></li>
+<li><p><a class="reference external" href="https://github.com/reddit-archive/reddit/wiki/OAuth2-App-Types#installed-app">Installed Applications</a></p></li>
+<li><p><a class="reference external" href="https://github.com/reddit-archive/reddit/wiki/OAuth2-App-Types#script-app">Script Applications</a></p></li>
+</ul>
+<p>Before you can use any one of these with PRAW, you must first <a class="reference external" href="https://old.reddit.com/prefs/apps/">register</a> an application of the appropriate type on Reddit.</p>
+<p>If your application does not require a user context, it is <a class="reference internal" href="#read-only-application"><span class="std std-ref">read-only</span></a>.</p>
+<p>PRAW supports the flows that each of these applications can use. The following table
+defines which application types can use which flows:</p>
+<div class="table-wrapper center-table-items docutils container">
+<table class="center-table-items docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head"><p>Application Type</p></th>
+<th class="head"><p>Script</p></th>
+<th class="head"><p>Web</p></th>
+<th class="head"><p>Installed</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><td><p>Default Flow</p></td>
+<td><p><a class="reference internal" href="#password-flow"><span class="std std-ref">Password</span></a></p></td>
+<td colspan="2"><p><a class="reference internal" href="#code-flow"><span class="std std-ref">Code</span></a></p></td>
+</tr>
+<tr class="row-odd"><td rowspan="3"><p>Alternative Flows</p></td>
+<td><p><a class="reference internal" href="#code-flow"><span class="std std-ref">Code</span></a></p></td>
+<td rowspan="2"><p><a class="reference internal" href="#application-only-client-credentials-flow"><span class="std std-ref">Application-Only (Client Credentials)</span></a></p></td>
+<td rowspan="2"><p><a class="reference internal" href="#implicit-flow"><span class="std std-ref">Implicit</span></a></p></td>
+</tr>
+<tr class="row-even"><td><p><a class="reference internal" href="#application-only-client-credentials-flow"><span class="std std-ref">Application-Only (Client Credentials)</span></a></p></td>
+</tr>
+<tr class="row-odd"><td colspan="3"><p><a class="reference internal" href="#application-only-installed-client-flow"><span class="std std-ref">Application-Only (Installed Client)</span></a></p></td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="admonition warning">
+<p class="admonition-title">Warning</p>
+<p>For the sake of brevity, the following examples pass authentication information via
+arguments to <a class="reference internal" href="../code_overview/reddit_instance.html#praw.Reddit" title="praw.Reddit"><code class="xref py py-class docutils literal notranslate"><span class="pre">Reddit</span></code></a>. If you do this, you need to be careful not to reveal
+this information to the outside world if you share your code. It is recommended to
+use a <a class="reference internal" href="configuration/prawini.html#praw-ini"><span class="std std-ref">praw.ini file</span></a> in order to keep your authentication
+information separate from your code.</p>
+</div>
+<section id="password-flow">
+<span id="id1"></span><h2>Password Flow<a class="headerlink" href="#password-flow" title="Link to this heading">¶</a></h2>
+<p><strong>Password Flow</strong> is the simplest type of authentication flow to work with because no
+callback process is involved in obtaining an <code class="docutils literal notranslate"><span class="pre">access_token</span></code>.</p>
+<p>While <strong>password flow</strong> applications do not involve a redirect URI, Reddit still
+requires that you provide one when registering your script application –
+<code class="docutils literal notranslate"><span class="pre">http://localhost:8080</span></code> is a simple one to use.</p>
+<p>In order to use a <strong>password flow</strong> application with PRAW you need four pieces of
+information:</p>
+<dl class="field-list simple">
+<dt class="field-odd">client_id<span class="colon">:</span></dt>
+<dd class="field-odd"><p>The client ID is at least a 14-character string listed just under “personal
+use script” for the desired <a class="reference external" href="https://www.reddit.com/prefs/apps/">developed application</a></p>
+</dd>
+<dt class="field-even">client_secret<span class="colon">:</span></dt>
+<dd class="field-even"><p>The client secret is at least a 27-character string listed adjacent to
+<code class="docutils literal notranslate"><span class="pre">secret</span></code> for the application.</p>
+</dd>
+<dt class="field-odd">password<span class="colon">:</span></dt>
+<dd class="field-odd"><p>The password for the Reddit account used to register the application.</p>
+</dd>
+<dt class="field-even">username<span class="colon">:</span></dt>
+<dd class="field-even"><p>The username of the Reddit account used to register the application.</p>
+</dd>
+</dl>
+<p>With this information authorizing as <code class="docutils literal notranslate"><span class="pre">username</span></code> using a <strong>password flow</strong> app is as
+simple as:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">reddit</span> <span class="o">=</span> <span class="n">praw</span><span class="o">.</span><span class="n">Reddit</span><span class="p">(</span>
+    <span class="n">client_id</span><span class="o">=</span><span class="s2">&quot;SI8pN3DSbt0zor&quot;</span><span class="p">,</span>
+    <span class="n">client_secret</span><span class="o">=</span><span class="s2">&quot;xaxkj7HNh8kwg8e5t4m6KvSrbTI&quot;</span><span class="p">,</span>
+    <span class="n">password</span><span class="o">=</span><span class="s2">&quot;1guiwevlfo00esyy&quot;</span><span class="p">,</span>
+    <span class="n">user_agent</span><span class="o">=</span><span class="s2">&quot;testscript by u/fakebot3&quot;</span><span class="p">,</span>
+    <span class="n">username</span><span class="o">=</span><span class="s2">&quot;fakebot3&quot;</span><span class="p">,</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<p>To verify that you are authenticated as the correct user run:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">reddit</span><span class="o">.</span><span class="n">user</span><span class="o">.</span><span class="n">me</span><span class="p">())</span>
+</pre></div>
+</div>
+<p>The output should contain the same name as you entered for <code class="docutils literal notranslate"><span class="pre">username</span></code>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>If the following exception is raised, double-check your credentials, and ensure that
+the username and password you are using are for the same user with which the
+application is associated:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="n">OAuthException</span><span class="p">:</span> <span class="n">invalid_grant</span> <span class="n">error</span> <span class="n">processing</span> <span class="n">request</span>
+</pre></div>
+</div>
+</div>
+<section id="two-factor-authentication">
+<span id="fa"></span><h3>Two-Factor Authentication<a class="headerlink" href="#two-factor-authentication" title="Link to this heading">¶</a></h3>
+<p>A 2FA token can be used by joining it to the password with a colon:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">reddit</span> <span class="o">=</span> <span class="n">praw</span><span class="o">.</span><span class="n">Reddit</span><span class="p">(</span>
+    <span class="n">client_id</span><span class="o">=</span><span class="s2">&quot;SI8pN3DSbt0zor&quot;</span><span class="p">,</span>
+    <span class="n">client_secret</span><span class="o">=</span><span class="s2">&quot;xaxkj7HNh8kwg8e5t4m6KvSrbTI&quot;</span><span class="p">,</span>
+    <span class="n">password</span><span class="o">=</span><span class="s2">&quot;1guiwevlfo00esyy:955413&quot;</span><span class="p">,</span>
+    <span class="n">user_agent</span><span class="o">=</span><span class="s2">&quot;testscript by u/fakebot3&quot;</span><span class="p">,</span>
+    <span class="n">username</span><span class="o">=</span><span class="s2">&quot;fakebot3&quot;</span><span class="p">,</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<p>However, for such an app there is little benefit to using 2FA. The token must be
+refreshed after one hour; therefore, the 2FA secret would have to be stored along with
+the rest of the credentials in order to generate the token, which defeats the point of
+having an extra credential beyond the password.</p>
+<p>If you do choose to use 2FA, you must handle the <code class="docutils literal notranslate"><span class="pre">prawcore.OAuthException</span></code> that will
+be raised by API calls after one hour.</p>
+</section>
+</section>
+<section id="code-flow">
+<span id="id2"></span><h2>Code Flow<a class="headerlink" href="#code-flow" title="Link to this heading">¶</a></h2>
+<p>A <strong>code flow</strong> application is useful for two primary purposes:</p>
+<ul class="simple">
+<li><p>You have an application and want to be able to access Reddit from your users’
+accounts.</p></li>
+<li><p>You have a personal-use script application and you either want to</p>
+<ul>
+<li><p>limit the access one of your PRAW-based programs has to Reddit</p></li>
+<li><p>avoid the hassle of 2FA (described above)</p></li>
+<li><p>not pass your username and password to PRAW (and thus not keep it in memory)</p></li>
+</ul>
+</li>
+</ul>
+<p>When registering your application you must provide a valid redirect URI. If you are
+running a website you will want to enter the appropriate callback URL and configure that
+endpoint to complete the code flow.</p>
+<p>If you aren’t actually running a website, you can follow the <a class="reference internal" href="../tutorials/refresh_token.html#refresh-token"><span class="std std-ref">Working with Refresh Tokens</span></a>
+tutorial to learn how to obtain and use the initial refresh token.</p>
+<p>Whether or not you follow the <a class="reference internal" href="../tutorials/refresh_token.html#refresh-token"><span class="std std-ref">Working with Refresh Tokens</span></a> tutorial there are two processes
+involved in obtaining access or refresh tokens.</p>
+<section id="obtain-the-authorization-url">
+<span id="auth-url"></span><h3>Obtain the Authorization URL<a class="headerlink" href="#obtain-the-authorization-url" title="Link to this heading">¶</a></h3>
+<p>The first step to completing the <strong>code flow</strong> is to obtain the authorization URL. You
+can do that as follows:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">reddit</span> <span class="o">=</span> <span class="n">praw</span><span class="o">.</span><span class="n">Reddit</span><span class="p">(</span>
+    <span class="n">client_id</span><span class="o">=</span><span class="s2">&quot;SI8pN3DSbt0zor&quot;</span><span class="p">,</span>
+    <span class="n">client_secret</span><span class="o">=</span><span class="s2">&quot;xaxkj7HNh8kwg8e5t4m6KvSrbTI&quot;</span><span class="p">,</span>
+    <span class="n">redirect_uri</span><span class="o">=</span><span class="s2">&quot;http://localhost:8080&quot;</span><span class="p">,</span>
+    <span class="n">user_agent</span><span class="o">=</span><span class="s2">&quot;testscript by u/fakebot3&quot;</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">reddit</span><span class="o">.</span><span class="n">auth</span><span class="o">.</span><span class="n">url</span><span class="p">(</span><span class="n">scopes</span><span class="o">=</span><span class="p">[</span><span class="s2">&quot;identity&quot;</span><span class="p">],</span> <span class="n">state</span><span class="o">=</span><span class="s2">&quot;...&quot;</span><span class="p">,</span> <span class="n">duration</span><span class="o">=</span><span class="s2">&quot;permanent&quot;</span><span class="p">))</span>
+</pre></div>
+</div>
+<p>The above will output an authorization URL for a permanent token (i.e., the resulting
+authorization will include both a short-lived <code class="docutils literal notranslate"><span class="pre">access_token</span></code>, and a longer-lived,
+single use <code class="docutils literal notranslate"><span class="pre">refresh_token</span></code>) that has only the <code class="docutils literal notranslate"><span class="pre">identity</span></code> scope. See <a class="reference internal" href="../code_overview/other/auth.html#praw.models.Auth.url" title="praw.models.Auth.url"><code class="xref py py-meth docutils literal notranslate"><span class="pre">url()</span></code></a> for
+more information on these parameters.</p>
+<p>This URL should be accessed by the account that desires to authorize their Reddit access
+to your application. On completion of that flow, the user’s browser will be redirected
+to the specified <code class="docutils literal notranslate"><span class="pre">redirect_uri</span></code>. After verifying the <code class="docutils literal notranslate"><span class="pre">state</span></code> and extracting the
+<code class="docutils literal notranslate"><span class="pre">code</span></code> you can obtain the refresh token via:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">reddit</span><span class="o">.</span><span class="n">auth</span><span class="o">.</span><span class="n">authorize</span><span class="p">(</span><span class="n">code</span><span class="p">))</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">reddit</span><span class="o">.</span><span class="n">user</span><span class="o">.</span><span class="n">me</span><span class="p">())</span>
+</pre></div>
+</div>
+<p>The first line of output is the <code class="docutils literal notranslate"><span class="pre">refresh_token</span></code>. You can save this for later use (see
+<a class="reference internal" href="#using-refresh-tokens"><span class="std std-ref">Using a Saved Refresh Token</span></a>).</p>
+<p>The second line of output reveals the name of the <a class="reference internal" href="../code_overview/models/redditor.html#praw.models.Redditor" title="praw.models.Redditor"><code class="xref py py-class docutils literal notranslate"><span class="pre">Redditor</span></code></a> that completed the
+code flow. It also indicates that the <a class="reference internal" href="../code_overview/reddit_instance.html#praw.Reddit" title="praw.Reddit"><code class="xref py py-class docutils literal notranslate"><span class="pre">Reddit</span></code></a> instance is now associated with
+that account.</p>
+<p>The code flow can be used with an <strong>installed</strong> application just as described above with
+one change: set the value of <code class="docutils literal notranslate"><span class="pre">client_secret</span></code> to <code class="docutils literal notranslate"><span class="pre">None</span></code> when initializing
+<a class="reference internal" href="../code_overview/reddit_instance.html#praw.Reddit" title="praw.Reddit"><code class="xref py py-class docutils literal notranslate"><span class="pre">Reddit</span></code></a>.</p>
+</section>
+</section>
+<section id="implicit-flow">
+<span id="id3"></span><h2>Implicit Flow<a class="headerlink" href="#implicit-flow" title="Link to this heading">¶</a></h2>
+<p>The <strong>implicit flow</strong> requires a similar instantiation of the <a class="reference internal" href="../code_overview/reddit_instance.html#praw.Reddit" title="praw.Reddit"><code class="xref py py-class docutils literal notranslate"><span class="pre">Reddit</span></code></a> class as
+done in <a class="reference internal" href="#code-flow"><span class="std std-ref">Code Flow</span></a>, however, the token is returned directly as part of the
+redirect. For the implicit flow call <a class="reference internal" href="../code_overview/other/auth.html#praw.models.Auth.url" title="praw.models.Auth.url"><code class="xref py py-meth docutils literal notranslate"><span class="pre">url()</span></code></a> like so:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="nb">print</span><span class="p">(</span><span class="n">reddit</span><span class="o">.</span><span class="n">auth</span><span class="o">.</span><span class="n">url</span><span class="p">(</span><span class="n">scopes</span><span class="o">=</span><span class="p">[</span><span class="s2">&quot;identity&quot;</span><span class="p">],</span> <span class="n">state</span><span class="o">=</span><span class="s2">&quot;...&quot;</span><span class="p">,</span> <span class="n">implicit</span><span class="o">=</span><span class="kc">True</span><span class="p">))</span>
+</pre></div>
+</div>
+<p>Then use <a class="reference internal" href="../code_overview/other/auth.html#praw.models.Auth.implicit" title="praw.models.Auth.implicit"><code class="xref py py-meth docutils literal notranslate"><span class="pre">implicit()</span></code></a> to provide the authorization to the <a class="reference internal" href="../code_overview/reddit_instance.html#praw.Reddit" title="praw.Reddit"><code class="xref py py-class docutils literal notranslate"><span class="pre">Reddit</span></code></a>
+instance.</p>
+</section>
+<section id="read-only-mode">
+<span id="read-only-application"></span><h2>Read-Only Mode<a class="headerlink" href="#read-only-mode" title="Link to this heading">¶</a></h2>
+<p>All application types support a read-only mode. Read-only mode provides access to Reddit
+like a logged out user would see including the default subreddits in the
+<code class="docutils literal notranslate"><span class="pre">reddit.front</span></code> listings.</p>
+<p>In the absence of a <code class="docutils literal notranslate"><span class="pre">refresh_token</span></code> both <a class="reference internal" href="#code-flow"><span class="std std-ref">Code Flow</span></a> and <a class="reference internal" href="#implicit-flow"><span class="std std-ref">Implicit Flow</span></a>
+applications start in the <strong>read-only</strong> mode. With such applications <strong>read-only</strong> mode
+is disabled when <a class="reference internal" href="../code_overview/other/auth.html#praw.models.Auth.authorize" title="praw.models.Auth.authorize"><code class="xref py py-meth docutils literal notranslate"><span class="pre">authorize()</span></code></a>, or <a class="reference internal" href="../code_overview/other/auth.html#praw.models.Auth.implicit" title="praw.models.Auth.implicit"><code class="xref py py-meth docutils literal notranslate"><span class="pre">implicit()</span></code></a> are successfully called.
+<a class="reference internal" href="#password-flow"><span class="std std-ref">Password Flow</span></a> applications start up with <strong>read-only</strong> mode disabled.</p>
+<p>Read-only mode can be toggled via:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="c1"># Enable read-only mode</span>
+<span class="n">reddit</span><span class="o">.</span><span class="n">read_only</span> <span class="o">=</span> <span class="kc">True</span>
+
+<span class="c1"># Disable read-only mode (must have a valid authorization)</span>
+<span class="n">reddit</span><span class="o">.</span><span class="n">read_only</span> <span class="o">=</span> <span class="kc">False</span>
+</pre></div>
+</div>
+<section id="application-only-flows">
+<h3>Application-Only Flows<a class="headerlink" href="#application-only-flows" title="Link to this heading">¶</a></h3>
+<p>The following flows are the <strong>read-only mode</strong> flows for Reddit applications</p>
+<section id="application-only-client-credentials">
+<span id="application-only-client-credentials-flow"></span><h4>Application-Only (Client Credentials)<a class="headerlink" href="#application-only-client-credentials" title="Link to this heading">¶</a></h4>
+<p>This is the default flow for <strong>read-only mode</strong> in script and web applications. The idea
+behind this is that Reddit <em>can</em> trust these applications as coming from a given
+developer, however the application requires no logged-in user context.</p>
+<p>An installed application <em>cannot</em> use this flow, because Reddit requires a
+<code class="docutils literal notranslate"><span class="pre">client_secret</span></code> to be given if this flow is being used. In other words, installed
+applications are not considered confidential clients.</p>
+</section>
+<section id="application-only-installed-client">
+<span id="application-only-installed-client-flow"></span><h4>Application-Only (Installed Client)<a class="headerlink" href="#application-only-installed-client" title="Link to this heading">¶</a></h4>
+<p>This is the default flow for <strong>read-only mode</strong> in installed applications. The idea
+behind this is that Reddit <em>might not be able</em> to trust these applications as coming
+from a given developer. This would be able to happen if someone other than the developer
+can potentially replicate the client information and then pretend to be the application,
+such as in installed applications where the end user could retrieve the <code class="docutils literal notranslate"><span class="pre">client_id</span></code>.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>No benefit is really gained from this in script or web apps. The one exception is
+for when a script or web app has multiple end users, this will allow you to give
+Reddit the information needed in order to distinguish different users of your app
+from each other (as the supplied device ID <em>should</em> be a unique string per both
+device (in the case of a web app, server) and user (in the case of a web app,
+browser session).</p>
+</div>
+</section>
+</section>
+</section>
+<section id="using-a-saved-refresh-token">
+<span id="using-refresh-tokens"></span><h2>Using a Saved Refresh Token<a class="headerlink" href="#using-a-saved-refresh-token" title="Link to this heading">¶</a></h2>
+<p>A saved refresh token can be used to immediately obtain an authorized instance of
+<a class="reference internal" href="../code_overview/reddit_instance.html#praw.Reddit" title="praw.Reddit"><code class="xref py py-class docutils literal notranslate"><span class="pre">Reddit</span></code></a> like so:</p>
+<div class="highlight-python notranslate"><div class="highlight"><pre><span></span><span class="n">reddit</span> <span class="o">=</span> <span class="n">praw</span><span class="o">.</span><span class="n">Reddit</span><span class="p">(</span>
+    <span class="n">client_id</span><span class="o">=</span><span class="s2">&quot;SI8pN3DSbt0zor&quot;</span><span class="p">,</span>
+    <span class="n">client_secret</span><span class="o">=</span><span class="s2">&quot;xaxkj7HNh8kwg8e5t4m6KvSrbTI&quot;</span><span class="p">,</span>
+    <span class="n">refresh_token</span><span class="o">=</span><span class="s2">&quot;WeheY7PwgeCZj4S3QgUcLhKE5S2s4eAYdxM&quot;</span><span class="p">,</span>
+    <span class="n">user_agent</span><span class="o">=</span><span class="s2">&quot;testscript by u/fakebot3&quot;</span><span class="p">,</span>
+<span class="p">)</span>
+<span class="nb">print</span><span class="p">(</span><span class="n">reddit</span><span class="o">.</span><span class="n">auth</span><span class="o">.</span><span class="n">scopes</span><span class="p">())</span>
+</pre></div>
+</div>
+<p>The output from the above code displays which scopes are available on the
+<a class="reference internal" href="../code_overview/reddit_instance.html#praw.Reddit" title="praw.Reddit"><code class="xref py py-class docutils literal notranslate"><span class="pre">Reddit</span></code></a> instance.</p>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>Observe that <code class="docutils literal notranslate"><span class="pre">redirect_uri</span></code> does not need to be provided in such cases. It is only
+needed when <a class="reference internal" href="../code_overview/other/auth.html#praw.models.Auth.url" title="praw.models.Auth.url"><code class="xref py py-meth docutils literal notranslate"><span class="pre">url()</span></code></a> is used.</p>
+</div>
+</section>
+</section>
+
+        </article>
+      </div>
+      <footer>
+        
+        <div class="related-pages">
+          <a class="next-page" href="configuration.html">
+              <div class="page-info">
+                <div class="context">
+                  <span>Next</span>
+                </div>
+                <div class="title">Configuring PRAW</div>
+              </div>
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+            </a>
+          <a class="prev-page" href="installation.html">
+              <svg class="furo-related-icon"><use href="#svg-arrow-right"></use></svg>
+              <div class="page-info">
+                <div class="context">
+                  <span>Previous</span>
+                </div>
+                
+                <div class="title">Installing PRAW</div>
+                
+              </div>
+            </a>
+        </div>
+        <div class="bottom-of-page">
+          <div class="left-details">
+            <div class="copyright">
+                Copyright &#169; 2026, Bryce Boe
+            </div>
+            Made with <a href="https://www.sphinx-doc.org/">Sphinx</a> and <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
+            
+            <a href="https://github.com/pradyunsg/furo">Furo</a>
+            
+          </div>
+          <div class="right-details">
+            
+          </div>
+        </div>
+        
+      </footer>
+    </div>
+    <aside class="toc-drawer">
+      
+      
+      <div class="toc-sticky toc-scroll">
+        <div class="toc-title-container">
+          <span class="toc-title">
+            On this page
+          </span>
+        </div>
+        <div class="toc-tree-container">
+          <div class="toc-tree">
+            <ul>
+<li><a class="reference internal" href="#">Authenticating via OAuth</a><ul>
+<li><a class="reference internal" href="#password-flow">Password Flow</a><ul>
+<li><a class="reference internal" href="#two-factor-authentication">Two-Factor Authentication</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#code-flow">Code Flow</a><ul>
+<li><a class="reference internal" href="#obtain-the-authorization-url">Obtain the Authorization URL</a></li>
+</ul>
+</li>
+<li><a class="reference internal" href="#implicit-flow">Implicit Flow</a></li>
+<li><a class="reference internal" href="#read-only-mode">Read-Only Mode</a><ul>
+<li><a class="reference internal" href="#application-only-flows">Application-Only Flows</a><ul>
+<li><a class="reference internal" href="#application-only-client-credentials">Application-Only (Client Credentials)</a></li>
+<li><a class="reference internal" href="#application-only-installed-client">Application-Only (Installed Client)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a class="reference internal" href="#using-a-saved-refresh-token">Using a Saved Refresh Token</a></li>
+</ul>
+</li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+      
+      
+    </aside>
+  </div>
+</div><script src="../_static/documentation_options.js?v=c19b6120"></script>
+    <script src="../_static/doctools.js?v=fd6eb6e6"></script>
+    <script src="../_static/sphinx_highlight.js?v=6ffebe34"></script>
+    <script src="../_static/scripts/furo.js?v=46bd48cc"></script>
+    </body>
+</html>

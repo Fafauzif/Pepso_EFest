@@ -1,0 +1,80 @@
+[
+  {
+    "source_id": "APIFY_xquik_actor",
+    "url": "https://api.apify.com/v2/acts/xquik~x-tweet-scraper",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/xquik_actor_api.json",
+    "source_type": "public actor metadata, not scraping run",
+    "record_locator": "data.pricingInfos or data.inputSchema",
+    "actor_executed": false
+  },
+  {
+    "source_id": "APIFY_xquik_build",
+    "url": "https://api.apify.com/v2/acts/xquik~x-tweet-scraper/builds/default",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/xquik_build.json",
+    "source_type": "public actor metadata, not scraping run",
+    "record_locator": "data.pricingInfos or data.inputSchema",
+    "actor_executed": false
+  },
+  {
+    "source_id": "APIFY_scrapewise_actor",
+    "url": "https://api.apify.com/v2/acts/scrapewise~shopee-reviews-scraper",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/scrapewise_actor.json",
+    "source_type": "public actor metadata, not scraping run",
+    "record_locator": "data.pricingInfos or data.inputSchema",
+    "actor_executed": false
+  },
+  {
+    "source_id": "APIFY_scrapewise_build",
+    "url": "https://api.apify.com/v2/acts/scrapewise~shopee-reviews-scraper/builds/default",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/scrapewise_build.json",
+    "source_type": "public actor metadata, not scraping run",
+    "record_locator": "data.pricingInfos or data.inputSchema",
+    "actor_executed": false
+  },
+  {
+    "source_id": "APIFY_clockworks_actor",
+    "url": "https://api.apify.com/v2/acts/clockworks~tiktok-comments-scraper",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/clockworks_actor.json",
+    "source_type": "public actor metadata, not scraping run",
+    "record_locator": "data.pricingInfos or data.inputSchema",
+    "actor_executed": false
+  },
+  {
+    "source_id": "APIFY_clockworks_build",
+    "url": "https://api.apify.com/v2/acts/clockworks~tiktok-comments-scraper/builds/default",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/clockworks_build.json",
+    "source_type": "public actor metadata, not scraping run",
+    "record_locator": "data.pricingInfos or data.inputSchema",
+    "actor_executed": false
+  },
+  {
+    "source_id": "RUN_OPTIONS_DOCUMENTATION",
+    "url": "https://docs.apify.com/api/v2/actors-runs-post",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/run_options_documentation.html",
+    "source_type": "official documentation",
+    "actor_executed": false
+  },
+  {
+    "source_id": "CLOCKWORKS_PRICING",
+    "url": "https://apify.com/clockworks/tiktok-comments-scraper/pricing",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/clockworks_pricing.html",
+    "source_type": "official documentation",
+    "actor_executed": false
+  },
+  {
+    "source_id": "SHOPEE_TARGET",
+    "url": "https://shopee.co.id/Pepsodent-Sensitiv-Expert-Complete-Care-100g-i.1647008809.41674486015",
+    "retrieved_date": "2026-11-03",
+    "raw_file": "raw/shopee_target.html",
+    "source_type": "product listing",
+    "actor_executed": false
+  }
+]

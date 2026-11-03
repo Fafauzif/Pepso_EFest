@@ -1,0 +1,276 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 22,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 22
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "istani phing",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-16T07:52:53+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 2
+      },
+      "headline" : "review-19523-261009013700300009210231384054",
+      "id" : "9111806148657",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dila Fadilah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-07-15T04:09:20+0000",
+      "headline" : "headline2",
+      "id" : "9069011599409",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Muslih Moes",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Mqkanat qkahaiwhjqjjjw terimakasih nakkak",
+      "date" : "2026-07-06T09:28:50+0000",
+      "headline" : "review-undefined-WTCID20277182",
+      "id" : "9061499502641",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/19523/9061499502641/WTCID20277182_19523_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/19523/9061499502641/WTCID20277182_19523_1.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dita Klustiana Dewi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas nya bagus, packing rapi",
+      "date" : "2026-06-18T05:36:54+0000",
+      "headline" : "review-19523-WTCID15874130",
+      "id" : "9049200656433",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Moh Wahyu Sholihuddin",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Bagus, untuk gigi sensitif, varian mineral ini seperti rasa Batu",
+      "date" : "2026-04-07T07:02:53+0000",
+      "headline" : "review-19523-WTCID18377777",
+      "id" : "9027371270193",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Cattelia Liefank",
+      "approvalStatus" : "APPROVED",
+      "comment" : "krn gigiku sensitive jd ak hrs pakai pasta gigi yg sensitive jg, enak seger seh",
+      "date" : "2026-01-05T09:21:34+0000",
+      "headline" : "review-19523-WTCID18477013",
+      "id" : "9009944952881",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Chr m",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-03-12T04:58:02+0000",
+      "headline" : "review-19523-WTCID13325636",
+      "id" : "8977950965809",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Poly",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-02-10T16:18:28+0000",
+      "headline" : "review-19523-WTCID13504230",
+      "id" : "8974228029489",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nerissa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-11-08T06:13:51+0000",
+      "headline" : "review-19523-WTCID12383011",
+      "id" : "8962881749041",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dita Klustiana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-11-05T05:12:03+0000",
+      "headline" : "review-19523-WTCID13592186",
+      "id" : "8962617049137",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "cyindi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-04-27T05:58:20+0000",
+      "headline" : "review-19523-WTCID13738433",
+      "id" : "8934287769649",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Adhi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-02-05T13:23:53+0000",
+      "headline" : "review-19523-WTCID14300077",
+      "id" : "8922056720433",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "cyindi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-10-05T03:02:38+0000",
+      "headline" : "review-19523-WTCID13461089",
+      "id" : "8899722936369",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dwi Ira",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-05-27T18:44:02+0000",
+      "headline" : "review-19523-WTCID12425022",
+      "id" : "8888927322161",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-04-10T06:02:04+0000",
+      "headline" : "review-19523-WTCID12761034",
+      "id" : "8878938030129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rika",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-04-08T07:26:33+0000",
+      "headline" : "review-19523-WTCID12742208",
+      "id" : "8879062319153",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Di aku ini bener2 ngebabtu ngurangin ngilu gigi pas makan dingin / gigit makanan terlalu manis. Biasanya suka ngilu, tp setelah beberap bulan pake ini jd berkurang bgt.",
+      "date" : "2023-03-24T04:53:38+0000",
+      "headline" : "review-19523-WTCID12525006",
+      "id" : "8875778441265",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Anto",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-03-08T09:06:54+0000",
+      "headline" : "review-19523-WTCID12400166",
+      "id" : "8870863274033",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Annisa maulida",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-02-24T14:19:11+0000",
+      "headline" : "review-19523-WTCID12196947",
+      "id" : "8869513134129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "cyindi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-02-13T10:48:14+0000",
+      "headline" : "review-19523-WTCID10628000",
+      "id" : "8869590794289",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-02-12T06:33:00+0000",
+      "headline" : "review-19523-WTCID12280242",
+      "id" : "8869557403697",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "diajeng",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-01-14T09:41:55+0000",
+      "headline" : "review-19523-WTCID10040832",
+      "id" : "8867297132593",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

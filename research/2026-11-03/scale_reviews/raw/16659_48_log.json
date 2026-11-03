@@ -1,0 +1,7 @@
+{
+  "source_id": "TARFULL-16659-p48",
+  "url": "https://www.tryandreview.com/id/reviews/16659?page=48",
+  "status": "failed",
+  "error": "ValueError: invalid literal for int() with base 10: '3.8'",
+  "retrieved_at_utc": "2026-11-03T10:56:22.410605+00:00"
+}

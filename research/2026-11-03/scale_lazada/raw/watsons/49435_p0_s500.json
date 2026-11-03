@@ -1,0 +1,187 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 15,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 15
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Desy Susanti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-16T03:26:25+0000",
+      "headline" : "review-49435-WTCID21275018",
+      "id" : "9092699619377",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Tia Siringo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-05-04T16:03:46+0000",
+      "headline" : "review-49435-WTCID19370172",
+      "id" : "9034114957361",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "amee amee",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Very satisfied with this item",
+      "date" : "2026-04-28T20:50:41+0000",
+      "headline" : "review-49435-WTCID19333418",
+      "id" : "9032317304881",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "yuna yuna",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Very satisfied with this item",
+      "date" : "2026-04-28T20:49:00+0000",
+      "headline" : "review-49435-WTCID19326322",
+      "id" : "9032317141041",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Mitha",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-07-03T16:22:59+0000",
+      "headline" : "review-49435-WTCID16807369",
+      "id" : "8990312005681",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Oskar",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-04-25T23:03:33+0000",
+      "headline" : "review-49435-WTCID15697090",
+      "id" : "8982834053169",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Melly Melati",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-03-19T07:46:31+0000",
+      "headline" : "review-49435-WTCID16461082",
+      "id" : "8979259719729",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "undefined",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-11-14T11:43:42+0000",
+      "headline" : "review-49435-WTCID15972000",
+      "id" : "8964911693873",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Desta",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-10-15T07:47:04+0000",
+      "headline" : "review-49435-WTCID15800238",
+      "id" : "8960267321393",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Hikari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-11-09T12:45:09+0000",
+      "headline" : "review-49435-WTCID12627036",
+      "id" : "8902561824817",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Hikari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-11-09T12:44:42+0000",
+      "headline" : "review-49435-WTCID13455509",
+      "id" : "8902561562673",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Aulia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-08-17T15:17:08+0000",
+      "headline" : "review-49435-WTCID13309440",
+      "id" : "8896490897457",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Atmasatriani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-10-24T07:30:02+0000",
+      "headline" : "review-49435-WTCID06633400",
+      "id" : "8857756893233",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Maulina Ria",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Ok",
+      "date" : "2020-06-29T06:10:46+0000",
+      "id" : "8823256875057",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sanjaya",
+      "approvalStatus" : "APPROVED",
+      "date" : "2019-12-04T22:57:08+0000",
+      "id" : "8822630318129",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

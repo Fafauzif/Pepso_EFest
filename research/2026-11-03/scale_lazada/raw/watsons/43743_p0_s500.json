@@ -1,0 +1,128 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 9,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 9
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Adriansyah Arsyad",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-28T12:32:45+0000",
+      "displayTime" : {
+         "unit" : "DAY",
+         "value" : 5
+      },
+      "headline" : "review-43743-WTCID20720016",
+      "id" : "9114133397553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "miranda ayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Baru coba ternyata fresh bgt rasanya",
+      "date" : "2026-07-23T12:55:39+0000",
+      "headline" : "review-43743-WTCID20853002",
+      "id" : "9080875876401",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jenny Suryani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget dengan pasta gigi dari Colgate harganya juga ok lagi promo",
+      "date" : "2026-07-08T02:25:44+0000",
+      "headline" : "review-43743-WTCID18413555",
+      "id" : "9059726950449",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rosad Ihsan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-05-14T06:11:30+0000",
+      "headline" : "review-43743-WTCID19374388",
+      "id" : "9035966414897",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Kristina Chandra",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Enak gigi jadi fresh dan segar",
+      "date" : "2026-05-10T02:08:06+0000",
+      "headline" : "review-43743-WTCID19179154",
+      "id" : "9036046794801",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "KIKI EDWARD",
+      "approvalStatus" : "APPROVED",
+      "comment" : "1.\tBarang yang dikirim sesuai dengan pesanan.\n2.\tPengiriman dengan packing yang rapi.\n3.\tHarga yang kompetitif dibandingkan dengan kompetitor lainnya.",
+      "date" : "2026-03-26T08:04:30+0000",
+      "headline" : "headline",
+      "id" : "9026051702833",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fita Wijaya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Good quality and suitable for sensitive gums",
+      "date" : "2026-02-17T11:55:30+0000",
+      "headline" : "review-43743-WTCID18812298",
+      "id" : "9017889521713",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yani Yani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Salah satu varian pasta gigi colgate yang nyaman di pakai, tidak buat gigi ngilu juga.\n",
+      "date" : "2025-12-13T01:54:56+0000",
+      "headline" : "review-43743-WTCID18419427",
+      "id" : "9008437952561",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Reza Artamevia Julianti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-10-25T14:00:04+0000",
+      "headline" : "review-43743-WTCID17449196",
+      "id" : "9002628087857",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

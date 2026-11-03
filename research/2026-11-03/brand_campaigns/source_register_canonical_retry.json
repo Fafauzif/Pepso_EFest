@@ -1,0 +1,60 @@
+[
+  {
+    "url": "https://www.tanyapepsodent.com/p/pasta-gigi-pepsodent-gum-expert-whitening.html/08999999598808",
+    "collected_at_utc": "2026-11-03T10:33:42.144658+00:00",
+    "id": "BC-1ab561d3e4c2",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/p/pasta-gigi-pepsodent-gum-expert-whitening.html/08999999598808",
+    "raw_file": "raw/http/1ab561d3e4c2.html",
+    "sha256": "ebdac49682c4ebdc60110cd621bb23810e133482bdb10f53cc47cddaa1e59c4b",
+    "bytes": 1556065
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/p/sensitif-sensitive-mineral-expert-fresh.html/08999999035563",
+    "collected_at_utc": "2026-11-03T10:33:42.149374+00:00",
+    "id": "BC-e89238df6446",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/p/sensitif-sensitive-mineral-expert-fresh.html/08999999035563",
+    "raw_file": "raw/http/e89238df6446.html",
+    "sha256": "11168c3a060d1ed2c4741a3db45d3a2f8b26d9606c4ec1f4774839e173c6eb7d",
+    "bytes": 1548949
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/p/sensitif-sensitive-mineral-expert-original.html/08999999008505",
+    "collected_at_utc": "2026-11-03T10:33:42.153107+00:00",
+    "id": "BC-8656debc7544",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/p/sensitif-sensitive-mineral-expert-original.html/08999999008505",
+    "raw_file": "raw/http/8656debc7544.html",
+    "sha256": "3cb914cf43a4300c7b5a97bbf6b13355588661bcb8281d053584295cde857e8b",
+    "bytes": 1548747
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/p/sensitif-sensitive-mineral-expert-whitening.html/08999999032890",
+    "collected_at_utc": "2026-11-03T10:33:42.161145+00:00",
+    "id": "BC-2e3a80c7b3b4",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/p/ultra-white-gentle-radiance.html/08999999616335",
+    "collected_at_utc": "2026-11-03T10:33:48.986111+00:00",
+    "id": "BC-e78b5c7be200",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "final_url": "https://www.tanyapepsodent.com/p/ultra-white-gentle-radiance.html/08999999616335",
+    "raw_file": "raw/http/e78b5c7be200.html",
+    "sha256": "1d1158ada3bc838816027db57d4cc4744024d86d7b56d513728c8abd3ae33b81",
+    "bytes": 1542720
+  },
+  {
+    "url": "https://www.tanyapepsodent.com/p/complete-8-multi-protection.html/08999999564421",
+    "collected_at_utc": "2026-11-03T10:33:48.986591+00:00",
+    "id": "BC-92d3bb3571a4",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

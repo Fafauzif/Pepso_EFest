@@ -1,0 +1,68 @@
+[
+  {
+    "query_id": "arctic_posts_2024",
+    "url": "https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=indonesia&query=pepsodent&after=2024-01-01&before=2025-01-01&limit=5&sort=desc",
+    "retrieved_at": "2026-11-03T10:49:09.956917+00:00",
+    "status": 200,
+    "bytes": 6025,
+    "headers": {
+      "date": "Tue, 03 Nov 2026 10:49:21 GMT",
+      "content-type": "application/json; charset=utf-8",
+      "access-control-allow-origin": "*",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=7XLxEfcCm0kcVLJV6efZqXYaWNCcILke%2FWk8GUZufvBJZ0bYgwXXga5IvKdoJ4jIhEK9a4XtykfQP8LJOc12y5bRGqWj%2FHG6CGM4CAxG6RYi%2FZjuyyXxz3nNE6smEso1L82bcNKLvgQegLHdN1x%2BG3dgrREt2AknSkvwbHw%3D\"}]}",
+      "etag": "W/\"1789-bz/pA2LUgtsJewug/NCbW8ytJm4\"",
+      "server": "envoy",
+      "vary": "Accept-Encoding",
+      "x-powered-by": "Express",
+      "x-ratelimit-reset": "42",
+      "x-ratelimit-reset-at": "1793703000000",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "server-timing": "cfCacheStatus;desc=\"MISS\"",
+      "cf-ray": "a54acfc05da62ca8-DFW",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-envoy-upstream-service-time": "3091",
+      "connection": "close",
+      "transfer-encoding": "chunked"
+    },
+    "rows": 1,
+    "outcome": "retrieved"
+  },
+  {
+    "query_id": "arctic_posts_2025",
+    "url": "https://arctic-shift.photon-reddit.com/api/posts/search?subreddit=indonesia&query=odol&after=2025-01-01&before=2025-02-01&limit=5&sort=desc",
+    "retrieved_at": "2026-11-03T10:49:21.212477+00:00",
+    "outcome": "failed",
+    "status": 422,
+    "error": "{\"data\":null,\"error\":\"Timeout. Maybe slow down a bit\"}"
+  },
+  {
+    "query_id": "arctic_known_thread",
+    "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1215fxx&limit=100",
+    "retrieved_at": "2026-11-03T10:49:30.916343+00:00",
+    "status": 200,
+    "bytes": 113756,
+    "headers": {
+      "date": "Tue, 03 Nov 2026 10:49:39 GMT",
+      "content-type": "application/json; charset=utf-8",
+      "access-control-allow-origin": "*",
+      "report-to": "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=jU6%2FnpuAHI0IPkwKxWSRT09V6nUWjVGLxnBVj5ogCTlF4z3mnIhtoD%2FwaIHAYnFzwVZSGcRf%2Fya1drqS2ulE%2Fjx3saNxvWDR8XuEB7aDMDIJE%2Fs59p8i44PK8BuqRPSsHF0Xu%2FRti%2FPSm6EWjtzj7B6Aqj5jXaKBDwpd0eg%3D\"}]}",
+      "etag": "W/\"1bc5c-Em6SeDeFW/7mscYtzx9GuXOljQg\"",
+      "server": "envoy",
+      "vary": "Accept-Encoding",
+      "x-powered-by": "Express",
+      "x-ratelimit-reset": "22",
+      "x-ratelimit-reset-at": "1793703000000",
+      "cf-cache-status": "MISS",
+      "nel": "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "server-timing": "cfCacheStatus;desc=\"MISS\"",
+      "cf-ray": "a54ad03e2f072ca8-DFW",
+      "alt-svc": "h3=\":443\"; ma=86400",
+      "x-envoy-upstream-service-time": "1046",
+      "connection": "close",
+      "transfer-encoding": "chunked"
+    },
+    "rows": 35,
+    "outcome": "retrieved"
+  }
+]

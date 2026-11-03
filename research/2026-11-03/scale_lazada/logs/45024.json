@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "45024",
+    "product_name": "Close Up White Now Purple Pasta Gigi 95g",
+    "unique_review_ids": 301,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 301,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-45024-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/45024/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:28.205276+00:00",
+      "product_code": "45024",
+      "product_name": "Close Up White Now Purple Pasta Gigi 95g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/45024_p0_s500.json",
+      "sha256": "fb23af3cf5726a2fc8d3e5c288771c7a821358095325a66e1416ef342d449e41",
+      "bytes": 104059,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 301,
+        "totalPages": 1
+      },
+      "rows": 301
+    }
+  ]
+}

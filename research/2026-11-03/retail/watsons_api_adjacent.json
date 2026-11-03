@@ -1,0 +1,39 @@
+[
+  {
+    "observation_id": "WATAPI-COLGATE-033",
+    "source_id": "WATAPI-COLGATE",
+    "url": "https://www.watsons.co.id/id/colgate-colgate-optic-white-purple-serum-40ml-serum-pemutih-gigi/p/BP_45698",
+    "catalogue_url": "https://api.watsons.co.id/api/v2/wtcid/products/search?query=%3AbestSeller%3AproductBrandCode%3ACOLGATE&pageSize=100&currentPage=0&lang=id&curr=IDR&fields=FULL",
+    "retrieved_at": "2026-11-03T10:34:21.093141+00:00",
+    "evidence_level": "live_public_catalogue_API",
+    "record_locator": "products[32]",
+    "raw_file": "raw/WATAPI-COLGATE.json",
+    "product_code": "BP_45698",
+    "ean": "6920354840326",
+    "brand": "COLGATE",
+    "product_name": "Colgate Optic White Purple Serum 40ml - Serum Pemutih Gigi",
+    "category_path": "Perawatan Tubuh/Kesehatan Mulut/Pasta Gigi",
+    "is_toothpaste": false,
+    "grams_single_named_unit": null,
+    "content_size_raw": [
+      "40 ML"
+    ],
+    "price_idr": 169900.0,
+    "reference_price_idr": 227600.0,
+    "original_price_idr": 227600.0,
+    "markdown_price_idr": 169900.0,
+    "promo_tag": "–25%",
+    "promo_start_raw": "2026-11-02 00:00:00",
+    "promo_end_raw": "2026-11-03 23:59:00",
+    "promotion_title": "LESS 25%",
+    "catalogue_stock_flag": "inStock",
+    "purchasable_flag": false,
+    "is_stock_loaded": false,
+    "seller": "Watsons Indonesia",
+    "country": "Indonesia",
+    "location_verified": false,
+    "availability_status": "catalogue_flag_only_no_location_checkout",
+    "notes": "Public catalogue API. No branch or delivery postcode selected; stock flags not confirmed transactional or shelf availability. Named-unit grams not necessarily total bundle grams.",
+    "product_scope": "adjacent_whitening_serum"
+  }
+]

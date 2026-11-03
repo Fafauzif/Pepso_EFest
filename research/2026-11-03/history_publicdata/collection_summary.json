@@ -1,0 +1,10 @@
+{
+  "promotion_event_count": 12,
+  "price_offer_rows": 10,
+  "health_indicator_rows": 8,
+  "metadata_rows": 1,
+  "sources": 10,
+  "google_trends_series_obtained": false,
+  "google_trends_failure": "HTTP429 on first direct explore request; no retries",
+  "paid_spend_usd": 0
+}

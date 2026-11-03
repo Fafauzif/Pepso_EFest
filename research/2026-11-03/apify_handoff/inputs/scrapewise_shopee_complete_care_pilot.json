@@ -1,0 +1,12 @@
+{
+  "startUrls": [
+    "https://shopee.co.id/Pepsodent-Sensitiv-Expert-Complete-Care-100g-i.1647008809.41674486015"
+  ],
+  "country": "ID",
+  "maxReviews": 20,
+  "minRating": 1,
+  "maxRating": 5,
+  "onlyWithComment": true,
+  "onlyWithMedia": false,
+  "includeShopSummary": true
+}

@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "73916",
+    "product_name": "Pasta Gigi Optic White Mint Plus 100g",
+    "unique_review_ids": 138,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 138,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-73916-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/73916/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:55:29.120065+00:00",
+      "product_code": "73916",
+      "product_name": "Pasta Gigi Optic White Mint Plus 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/73916_p0_s500.json",
+      "sha256": "864b8e4a3893a14b351a1b07b022e8620ebc92d75c60bfbfcb11499090155e07",
+      "bytes": 40918,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 138,
+        "totalPages": 1
+      },
+      "rows": 138
+    }
+  ]
+}

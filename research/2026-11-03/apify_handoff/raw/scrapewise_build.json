@@ -1,0 +1,455 @@
+{
+  "data": {
+    "id": "pAH7zfa8YSUxCqdug",
+    "actId": "Sgg7mCpNv1pMIivJE",
+    "userId": "KXpvttL6f6sVs4K4A",
+    "startedAt": "2026-11-02T19:38:03.309Z",
+    "finishedAt": "2026-11-02T19:38:08.661Z",
+    "status": "SUCCEEDED",
+    "meta": {
+      "origin": "CLI"
+    },
+    "stats": {
+      "durationMillis": 5284,
+      "runTimeSecs": 5.284,
+      "computeUnits": 0.005871111111111111,
+      "imageSizeBytes": 357733888
+    },
+    "options": {
+      "useCache": true,
+      "betaPackages": false,
+      "memoryMbytes": 4096,
+      "diskMbytes": 8192
+    },
+    "exitCode": 0,
+    "inputSchema": "{\n  \"title\": \"Shopee Reviews Scraper input\",\n  \"type\": \"object\",\n  \"schemaVersion\": 1,\n  \"properties\": {\n    \"startUrls\": {\n      \"title\": \"Shopee shop or product links\",\n      \"type\": \"array\",\n      \"editor\": \"stringList\",\n      \"items\": {\n        \"type\": \"string\"\n      },\n      \"prefill\": [\n        \"https://shopee.sg/shop/64922680\"\n      ],\n      \"sectionCaption\": \"What to scrape\",\n      \"description\": \"Shop links (https://shopee.sg/shop/64922680 or https://shopee.sg/<shop-username>) or product links (https://shopee.sg/product/<shop>/<item> or any ...-i.<shop>.<item> link), from any of the 8 countries. A shop returns its newest reviews across all products; a product returns only its own reviews (read from its shop's reviews, see 'Max reviews'). Also accepts 'urls', 'productUrls', 'shopUrls' and 'url'.\"\n    },\n    \"shopIds\": {\n      \"title\": \"Shops by id or username\",\n      \"type\": \"array\",\n      \"editor\": \"stringList\",\n      \"items\": {\n        \"type\": \"string\"\n      },\n      \"description\": \"Numeric shop ids (64922680) or shop usernames (ugreen.sg). Uses the Country below. Also accepts 'shops'.\"\n    },\n    \"country\": {\n      \"title\": \"Country\",\n      \"type\": \"string\",\n      \"editor\": \"select\",\n      \"default\": \"SG\",\n      \"enum\": [\n        \"SG\",\n        \"BR\",\n        \"ID\",\n        \"MY\",\n        \"TH\",\n        \"PH\",\n        \"VN\",\n        \"TW\"\n      ],\n      \"enumTitles\": [\n        \"Singapore (shopee.sg)\",\n        \"Brazil (shopee.com.br)\",\n        \"Indonesia (shopee.co.id)\",\n        \"Malaysia (shopee.com.my)\",\n        \"Thailand (shopee.co.th)\",\n        \"Philippines (shopee.ph)\",\n        \"Vietnam (shopee.vn)\",\n        \"Taiwan (shopee.tw)\"\n      ],\n      \"description\": \"Shopee country for shop ids and usernames. Links always use the country of their own domain.\"\n    },\n    \"maxReviews\": {\n      \"title\": \"Max reviews per shop or product\",\n      \"type\": \"integer\",\n      \"editor\": \"number\",\n      \"default\": 100,\n      \"prefill\": 100,\n      \"minimum\": 1,\n      \"maximum\": 5000,\n      \"sectionCaption\": \"Limits and filters\",\n      \"description\": \"Reviews delivered per input, newest first. The most you can get from one shop is 5,000. For a product, the Actor reads its shop's reviews (up to that same limit) and keeps the ones of that product: a product of a very large shop may have fewer reviews in reach.\"\n    },\n    \"minRating\": {\n      \"title\": \"Min stars\",\n      \"type\": \"integer\",\n      \"editor\": \"number\",\n      \"minimum\": 1,\n      \"maximum\": 5,\n      \"default\": 1,\n      \"description\": \"Only reviews with at least this many stars (1 to 5). Set min 1 and max 2 to get only complaints.\"\n    },\n    \"maxRating\": {\n      \"title\": \"Max stars\",\n      \"type\": \"integer\",\n      \"editor\": \"number\",\n      \"minimum\": 1,\n      \"maximum\": 5,\n      \"default\": 5,\n      \"description\": \"Only reviews with at most this many stars (1 to 5). Filtering by stars reaches further back in time.\"\n    },\n    \"onlyWithComment\": {\n      \"title\": \"Only reviews with a written comment\",\n      \"type\": \"boolean\",\n      \"editor\": \"checkbox\",\n      \"default\": false,\n      \"description\": \"Skip star-only reviews. Skipped reviews are not charged.\"\n    },\n    \"onlyWithMedia\": {\n      \"title\": \"Only reviews with photos or videos\",\n      \"type\": \"boolean\",\n      \"editor\": \"checkbox\",\n      \"default\": false,\n      \"description\": \"Keep only reviews where the buyer attached at least one photo or video. The output has the counts, not the files.\"\n    },\n    \"newerThan\": {\n      \"title\": \"Only reviews newer than\",\n      \"type\": \"string\",\n      \"editor\": \"textfield\",\n      \"description\": \"A date (2026-09-01) or a period (30 days, 2 weeks, 6 months). Reading stops at the first older review, so a daily or weekly schedule only pays for what is new.\"\n    },\n    \"includeShopSummary\": {\n      \"title\": \"Add a shop summary row\",\n      \"type\": \"boolean\",\n      \"editor\": \"checkbox\",\n      \"default\": false,\n      \"sectionCaption\": \"Extra data (optional)\",\n      \"description\": \"Adds one free row (type 'shop') per shop: name, username, link, shop rating, total reviews split into good / normal / bad, followers, products, response rate, official badge and join date.\"\n    },\n    \"proxyConfiguration\": {\n      \"title\": \"Proxy\",\n      \"type\": \"object\",\n      \"editor\": \"proxy\",\n      \"default\": {\n        \"useApifyProxy\": true\n      },\n      \"prefill\": {\n        \"useApifyProxy\": true\n      },\n      \"sectionCaption\": \"Advanced\",\n      \"description\": \"Apify Proxy by default.\"\n    }\n  },\n  \"required\": []\n}",
+    "readme": "# Shopee Reviews Scraper: ratings, comments and seller replies by shop or product\n\nScrape **Shopee reviews** of any **shop** or **product** in **Singapore, Brazil, Indonesia, Malaysia, Thailand, the\nPhilippines, Vietnam and Taiwan** into one table: stars, the buyer's comment, product and variation bought, the three\ndetailed scores (product quality, seller service, delivery), the seller's reply, how many photos and videos the buyer\nattached, likes and date. Filter by stars, keep only reviews with a comment or with photos, and schedule it with\n**Only reviews newer than** to pay only for new reviews.\n\nNo Shopee account, no cookies, no API key. Works with Shopee's 2026 site, where product reviews are hidden from\nvisitors who are not logged in.\n\n## At a glance\n\n- **Price per 1,000 reviews, Free plan:** US$ 3.00 (US$ 2.55 on Gold and above)\n- **Fee per run:** US$ 0.005\n- **8 countries:** SG, BR, ID, MY, TH, PH, VN, TW\n- **Inputs:** shop links, shop ids, shop usernames, product links (`/product/<shop>/<item>` or `...-i.<shop>.<item>`)\n- **Depth:** up to 5,000 reviews per shop\n- **Filters:** min and max stars, only with a comment, only with photos or videos, newer than a date or period\n- **Shop summary (free):** shop rating, total reviews split into good / normal / bad, followers, products, response rate\n- **Speed:** about 1,000 reviews in 5 to 10 seconds\n- **Error rows** (invalid link, shop not found, product without reviews in reach): free, with an `errorCode`\n\n## One real row\n\nFrom a test on 2026-10-20, shop `https://shopee.sg/shop/64922680` (Ugreen Official Store, Singapore):\n\n```json\n{\n  \"type\": \"review\",\n  \"reviewId\": \"114695358760\",\n  \"country\": \"SG\",\n  \"shopId\": \"64922680\",\n  \"shopName\": \"Ugreen Official Store\",\n  \"itemId\": \"1427996834\",\n  \"productName\": \"UGREEN Waterproof Phone Case for Moblie Phone for iPhone 12 13 14 15 Pro Max , for moblie phones up to 7.9 inches\",\n  \"variation\": \"【7.2 inches】Crystal Upgraded\",\n  \"productUrl\": \"https://shopee.sg/product/64922680/1427996834\",\n  \"rating\": 5,\n  \"comment\": \"Value For Money:looks nice\\nProduct Quality:quality is nice\\n\\nBought this during discount time. Quality looks really nice\",\n  \"ratingProductQuality\": 5,\n  \"ratingSellerService\": 5,\n  \"ratingDeliveryService\": 5,\n  \"imageCount\": 1,\n  \"videoCount\": 0,\n  \"tags\": [\"Value For Money\", \"Product Quality\", \"Best Feature(s)\"],\n  \"likeCount\": 0,\n  \"sellerReply\": \"Thank you for your love and recognition of UGREEN! If you meet any issue with our product, please feel free to contact us.🥰\",\n  \"sellerReplyAt\": \"2026-10-20T11:24:28Z\",\n  \"isOverseasSeller\": false,\n  \"originRegion\": \"SG\",\n  \"createdAt\": \"2026-10-20T11:11:29Z\",\n  \"scrapedAt\": \"2026-10-20T11:27:35Z\",\n  \"sourceInput\": \"64922680\"\n}\n```\n\n## What you can do with it\n\n- **Product research before you source:** read the 1 and 2 star reviews of the best sellers in your niche and find\n  what buyers complain about (size, battery, packaging, fake items) before you pick a supplier.\n- **Competitor monitoring:** schedule a competitor's shop weekly with `newerThan: \"7 days\"` and follow their new\n  complaints, scores and how fast they reply.\n- **Brand protection:** watch your own official shop and your resellers in 8 countries from one Task.\n- **Sentiment and AI analysis:** feed comments, stars and the three detailed scores to an LLM or a sentiment model;\n  `variation` tells you which color or size the complaint is about.\n- **Seller service audit:** `sellerReply`, `sellerReplyAt` and `ratingSellerService` show who answers and how fast.\n- **Cross-border vs local sellers:** `isOverseasSeller` and `originRegion` separate shops shipping from abroad.\n\n## Input\n\nThe simplest input, one shop:\n\n```json\n{\n  \"startUrls\": [\"https://shopee.sg/shop/64922680\"],\n  \"maxReviews\": 100\n}\n```\n\nOne product, only complaints with a written comment:\n\n```json\n{\n  \"startUrls\": [\"https://shopee.sg/product/64922680/1427996834\"],\n  \"minRating\": 1,\n  \"maxRating\": 2,\n  \"onlyWithComment\": true,\n  \"maxReviews\": 200\n}\n```\n\nSeveral shops in other countries, last 30 days, with a shop summary row:\n\n```json\n{\n  \"shopIds\": [\"ugreen.my\", \"331309804\"],\n  \"country\": \"MY\",\n  \"startUrls\": [\"https://shopee.ph/ugreen.ph\"],\n  \"newerThan\": \"30 days\",\n  \"maxReviews\": 1000,\n  \"includeShopSummary\": true\n}\n```\n\n| Field | What it does |\n|---|---|\n| `startUrls` | Shop links (`/shop/<id>` or `/<shop-username>`) and product links (`/product/<shop>/<item>` or `...-i.<shop>.<item>`) from any of the 8 countries |\n| `shopIds` | Shop ids or shop usernames |\n| `country` | SG, BR, ID, MY, TH, PH, VN or TW, used for `shopIds`. Links use their own domain |\n| `maxReviews` | Reviews per shop or product (default 100, up to 5,000) |\n| `minRating`, `maxRating` | Star range, 1 to 5 |\n| `onlyWithComment` | Skip reviews without text |\n| `onlyWithMedia` | Keep only reviews with photos or videos |\n| `newerThan` | `2026-09-01`, `30 days`, `2 weeks`, `6 months` |\n| `includeShopSummary` | One free `type: \"shop\"` row per shop |\n\nInput names from other Shopee actors also work: `urls`, `productUrls`, `shopUrls`, `url`, `shops`, `maxItems`,\n`region`.\n\n## How it works, and its limit\n\nReviews come from the shop's public review page, newest first, **up to 5,000 reviews per shop** (measured on\n2026-10-20). Filtering by stars reaches further back in time.\n\n**Products:** Shopee does not let visitors open the review list of a single product without logging in. For a product\nlink, the Actor reads its shop's reviews and keeps the ones of that product. For a product in a small or medium shop\nthis covers its reviews of the last weeks or months. For a product in a very large shop (thousands of reviews a day),\nthe 5,000 reviews in reach may cover only a few days, and an older or rarely reviewed product may not show up at all:\nyou then get a free `NO_REVIEWS_FOUND` row that says how many shop reviews were read. Several products of the same\nshop in one run share the pages already read.\n\n## Output fields\n\n| Field | Meaning |\n|---|---|\n| `reviewId`, `createdAt` | Shopee review id and date (UTC) |\n| `rating`, `comment` | Stars (1 to 5) and the buyer's text |\n| `ratingProductQuality`, `ratingSellerService`, `ratingDeliveryService` | The three detailed scores (1 to 5) |\n| `itemId`, `productName`, `variation`, `productUrl` | Product reviewed and the variation bought |\n| `shopId`, `shopName`, `country` | Shop and country |\n| `imageCount`, `videoCount` | How many photos and videos the buyer attached |\n| `tags` | Shopee's review prompts the buyer answered (\"Value For Money\", \"Product Quality\") |\n| `likeCount` | Helpful votes |\n| `sellerReply`, `sellerReplyAt` | The shop's public answer and its date |\n| `isOverseasSeller`, `originRegion` | Cross-border seller flag and where the order shipped from |\n| `sourceInput`, `scrapedAt` | Which input produced the row, and when |\n\nWith `includeShopSummary`, rows with `type: \"shop\"` add `shopUsername`, `shopUrl`, `shopRating`, `ratingCount`,\n`ratingGood`, `ratingNormal`, `ratingBad`, `followers`, `productCount`, `responseRate`, `isOfficialShop` and\n`shopJoinedAt`.\n\n**Privacy by design:** the output never includes the buyer's username, user id, avatar, order id, or links to the\nphotos and videos they uploaded (they may show people). You get the counts only.\n\n### Error codes (never charged)\n\n| Code | When |\n|---|---|\n| `INVALID_INPUT` | Unknown country, a search or category link, a link that is not from Shopee, bad limits |\n| `NOT_FOUND` | The shop does not exist |\n| `NO_RESULTS` | The shop has no reviews, or none matched your filters |\n| `NO_REVIEWS_FOUND` | A product link, and none of its shop's reviews in reach were for that product |\n| `BLOCKED` | Shopee refused the request after several retries; run again |\n| `NOT_REACHED` | The run timeout came before this input |\n\n## Pricing\n\nPay per event, no monthly fee:\n\n| Event | Free plan | Gold and above |\n|---|---|---|\n| Review delivered | US$ 3.00 per 1,000 | US$ 2.55 per 1,000 |\n| Run start | US$ 0.005 | US$ 0.00425 |\n\nShop summary rows are free. Error rows, duplicates and reviews removed by your filters are never charged. Set a\nmaximum cost per run in Apify and the Actor stops cleanly when it is reached.\n\n## Use it from code and AI agents\n\n```python\nfrom apify_client import ApifyClient\n\nclient = ApifyClient(\"YOUR_API_TOKEN\")\nrun = client.actor(\"scrapewise/shopee-reviews-scraper\").call(run_input={\n    \"startUrls\": [\"https://shopee.sg/shop/64922680\"], \"maxRating\": 2, \"maxReviews\": 100})\nfor review in client.dataset(run[\"defaultDatasetId\"]).iterate_items():\n    print(review[\"createdAt\"], review[\"rating\"], review[\"productName\"], review[\"comment\"])\n```\n\nThe same works from the HTTP API (`run-sync-get-dataset-items`), n8n, Make, Zapier and Google Sheets. For AI agents: `https://mcp.apify.com/?actors=scrapewise/shopee-reviews-scraper`.\n\nRequests an agent can pass straight through:\n\n- \"What do buyers complain about at this Shopee shop?\" -> `{\"startUrls\": [\"https://shopee.sg/shop/64922680\"], \"maxRating\": 2, \"onlyWithComment\": true, \"maxReviews\": 200}`\n- \"Summarize the last week of reviews for this product\" -> `{\"startUrls\": [\"https://shopee.sg/product/64922680/1427996834\"], \"newerThan\": \"7 days\", \"maxReviews\": 500}`\n- \"Compare the review scores of this brand's shops in Malaysia and the Philippines\" -> `{\"startUrls\": [\"https://shopee.com.my/ugreen.my\", \"https://shopee.ph/ugreen.ph\"], \"maxReviews\": 300, \"includeShopSummary\": true}`\n\n## FAQ\n\n**Do I need a Shopee account or cookies?** No.\n\n**Why can't I get all reviews of a product?** Shopee hides the per-product review list from visitors since 2026. The\nshop review page is open, and it holds the same reviews mixed across the shop's products, up to 5,000 per shop. See\n\"How it works, and its limit\".\n\n**Can I get only new reviews every day?** Yes. Save a Task with `newerThan: \"1 day\"` (or `\"7 days\"` for weekly) and\nschedule it. Reading stops at the first older review, so you only pay for new ones.\n\n**Are comments translated?** No, they come in the language the buyer wrote (English, Portuguese, Indonesian, Thai,\nVietnamese, Chinese...).\n\n**Is it legal?** It reads public review pages that anyone can open without logging in, and leaves out the buyer's\nidentity and uploaded media. How you use the data is your responsibility under Shopee's terms and the privacy laws that\napply to you.\n\n## Changelog\n\n- **2026-10-20:** first release. Shops and products in 8 countries; up to 5,000 reviews per shop; star, comment,\n  media and date filters; free shop summary row.\n\nThis Actor collects only publicly visible data from Shopee. Independent tool, not affiliated with Shopee.\n",
+    "actorDefinition": {
+      "actorSpecification": 1,
+      "name": "shopee-reviews-scraper",
+      "title": "Shopee Reviews Scraper - Ratings & Comments in 8 Countries",
+      "description": "Scrape Shopee reviews of any shop or product in Singapore, Brazil, Indonesia, Malaysia, Thailand, Philippines, Vietnam and Taiwan: stars, comment, variation, quality, service and delivery scores, seller reply, photo and video counts. Up to 5,000 per shop. No login. Error rows are free.",
+      "version": "0.1",
+      "categories": [
+        "ECOMMERCE"
+      ],
+      "dockerfile": "../Dockerfile",
+      "input": {
+        "title": "Shopee Reviews Scraper input",
+        "type": "object",
+        "schemaVersion": 1,
+        "properties": {
+          "startUrls": {
+            "title": "Shopee shop or product links",
+            "type": "array",
+            "editor": "stringList",
+            "items": {
+              "type": "string"
+            },
+            "prefill": [
+              "https://shopee.sg/shop/64922680"
+            ],
+            "sectionCaption": "What to scrape",
+            "description": "Shop links (https://shopee.sg/shop/64922680 or https://shopee.sg/<shop-username>) or product links (https://shopee.sg/product/<shop>/<item> or any ...-i.<shop>.<item> link), from any of the 8 countries. A shop returns its newest reviews across all products; a product returns only its own reviews (read from its shop's reviews, see 'Max reviews'). Also accepts 'urls', 'productUrls', 'shopUrls' and 'url'."
+          },
+          "shopIds": {
+            "title": "Shops by id or username",
+            "type": "array",
+            "editor": "stringList",
+            "items": {
+              "type": "string"
+            },
+            "description": "Numeric shop ids (64922680) or shop usernames (ugreen.sg). Uses the Country below. Also accepts 'shops'."
+          },
+          "country": {
+            "title": "Country",
+            "type": "string",
+            "editor": "select",
+            "default": "SG",
+            "enum": [
+              "SG",
+              "BR",
+              "ID",
+              "MY",
+              "TH",
+              "PH",
+              "VN",
+              "TW"
+            ],
+            "enumTitles": [
+              "Singapore (shopee.sg)",
+              "Brazil (shopee.com.br)",
+              "Indonesia (shopee.co.id)",
+              "Malaysia (shopee.com.my)",
+              "Thailand (shopee.co.th)",
+              "Philippines (shopee.ph)",
+              "Vietnam (shopee.vn)",
+              "Taiwan (shopee.tw)"
+            ],
+            "description": "Shopee country for shop ids and usernames. Links always use the country of their own domain."
+          },
+          "maxReviews": {
+            "title": "Max reviews per shop or product",
+            "type": "integer",
+            "editor": "number",
+            "default": 100,
+            "prefill": 100,
+            "minimum": 1,
+            "maximum": 5000,
+            "sectionCaption": "Limits and filters",
+            "description": "Reviews delivered per input, newest first. The most you can get from one shop is 5,000. For a product, the Actor reads its shop's reviews (up to that same limit) and keeps the ones of that product: a product of a very large shop may have fewer reviews in reach."
+          },
+          "minRating": {
+            "title": "Min stars",
+            "type": "integer",
+            "editor": "number",
+            "minimum": 1,
+            "maximum": 5,
+            "default": 1,
+            "description": "Only reviews with at least this many stars (1 to 5). Set min 1 and max 2 to get only complaints."
+          },
+          "maxRating": {
+            "title": "Max stars",
+            "type": "integer",
+            "editor": "number",
+            "minimum": 1,
+            "maximum": 5,
+            "default": 5,
+            "description": "Only reviews with at most this many stars (1 to 5). Filtering by stars reaches further back in time."
+          },
+          "onlyWithComment": {
+            "title": "Only reviews with a written comment",
+            "type": "boolean",
+            "editor": "checkbox",
+            "default": false,
+            "description": "Skip star-only reviews. Skipped reviews are not charged."
+          },
+          "onlyWithMedia": {
+            "title": "Only reviews with photos or videos",
+            "type": "boolean",
+            "editor": "checkbox",
+            "default": false,
+            "description": "Keep only reviews where the buyer attached at least one photo or video. The output has the counts, not the files."
+          },
+          "newerThan": {
+            "title": "Only reviews newer than",
+            "type": "string",
+            "editor": "textfield",
+            "description": "A date (2026-09-01) or a period (30 days, 2 weeks, 6 months). Reading stops at the first older review, so a daily or weekly schedule only pays for what is new."
+          },
+          "includeShopSummary": {
+            "title": "Add a shop summary row",
+            "type": "boolean",
+            "editor": "checkbox",
+            "default": false,
+            "sectionCaption": "Extra data (optional)",
+            "description": "Adds one free row (type 'shop') per shop: name, username, link, shop rating, total reviews split into good / normal / bad, followers, products, response rate, official badge and join date."
+          },
+          "proxyConfiguration": {
+            "title": "Proxy",
+            "type": "object",
+            "editor": "proxy",
+            "default": {
+              "useApifyProxy": true
+            },
+            "prefill": {
+              "useApifyProxy": true
+            },
+            "sectionCaption": "Advanced",
+            "description": "Apify Proxy by default."
+          }
+        },
+        "required": []
+      },
+      "storages": {
+        "dataset": {
+          "actorSpecification": 1,
+          "fields": {
+            "$schema": "http://json-schema.org/draft-07/schema#",
+            "type": "object",
+            "properties": {
+              "type": {},
+              "reviewId": {},
+              "country": {},
+              "shopId": {},
+              "shopName": {},
+              "itemId": {},
+              "productName": {},
+              "variation": {},
+              "productUrl": {},
+              "rating": {},
+              "comment": {},
+              "ratingProductQuality": {},
+              "ratingSellerService": {},
+              "ratingDeliveryService": {},
+              "imageCount": {},
+              "videoCount": {},
+              "tags": {},
+              "likeCount": {},
+              "sellerReply": {},
+              "sellerReplyAt": {},
+              "isOverseasSeller": {},
+              "originRegion": {},
+              "createdAt": {},
+              "scrapedAt": {},
+              "sourceInput": {},
+              "shopUsername": {},
+              "shopUrl": {},
+              "shopRating": {},
+              "ratingCount": {},
+              "ratingGood": {},
+              "ratingNormal": {},
+              "ratingBad": {},
+              "followers": {},
+              "productCount": {},
+              "responseRate": {},
+              "isOfficialShop": {},
+              "shopJoinedAt": {},
+              "errorCode": {},
+              "error": {}
+            }
+          },
+          "views": {
+            "overview": {
+              "title": "Reviews",
+              "transformation": {
+                "fields": [
+                  "createdAt",
+                  "rating",
+                  "comment",
+                  "productName",
+                  "variation",
+                  "imageCount",
+                  "videoCount",
+                  "sellerReply",
+                  "productUrl"
+                ]
+              },
+              "display": {
+                "component": "table",
+                "properties": {
+                  "createdAt": {
+                    "label": "Date",
+                    "format": "date"
+                  },
+                  "rating": {
+                    "label": "Stars",
+                    "format": "number"
+                  },
+                  "comment": {
+                    "label": "Comment",
+                    "format": "text"
+                  },
+                  "productName": {
+                    "label": "Product",
+                    "format": "text"
+                  },
+                  "variation": {
+                    "label": "Variation",
+                    "format": "text"
+                  },
+                  "imageCount": {
+                    "label": "Photos",
+                    "format": "number"
+                  },
+                  "videoCount": {
+                    "label": "Videos",
+                    "format": "number"
+                  },
+                  "sellerReply": {
+                    "label": "Seller reply",
+                    "format": "text"
+                  },
+                  "productUrl": {
+                    "label": "Link",
+                    "format": "link"
+                  }
+                }
+              }
+            },
+            "scores": {
+              "title": "Scores by product",
+              "transformation": {
+                "fields": [
+                  "productName",
+                  "rating",
+                  "ratingProductQuality",
+                  "ratingSellerService",
+                  "ratingDeliveryService",
+                  "likeCount",
+                  "tags",
+                  "createdAt"
+                ]
+              },
+              "display": {
+                "component": "table",
+                "properties": {
+                  "productName": {
+                    "label": "Product",
+                    "format": "text"
+                  },
+                  "rating": {
+                    "label": "Stars",
+                    "format": "number"
+                  },
+                  "ratingProductQuality": {
+                    "label": "Quality",
+                    "format": "number"
+                  },
+                  "ratingSellerService": {
+                    "label": "Seller service",
+                    "format": "number"
+                  },
+                  "ratingDeliveryService": {
+                    "label": "Delivery",
+                    "format": "number"
+                  },
+                  "likeCount": {
+                    "label": "Likes",
+                    "format": "number"
+                  },
+                  "tags": {
+                    "label": "Tags",
+                    "format": "array"
+                  },
+                  "createdAt": {
+                    "label": "Date",
+                    "format": "date"
+                  }
+                }
+              }
+            },
+            "shops": {
+              "title": "Shop summary",
+              "transformation": {
+                "fields": [
+                  "shopName",
+                  "shopRating",
+                  "ratingCount",
+                  "ratingGood",
+                  "ratingNormal",
+                  "ratingBad",
+                  "followers",
+                  "productCount",
+                  "responseRate",
+                  "isOfficialShop",
+                  "shopJoinedAt",
+                  "shopUrl"
+                ]
+              },
+              "display": {
+                "component": "table",
+                "properties": {
+                  "shopName": {
+                    "label": "Shop",
+                    "format": "text"
+                  },
+                  "shopRating": {
+                    "label": "Shop rating",
+                    "format": "number"
+                  },
+                  "ratingCount": {
+                    "label": "Reviews",
+                    "format": "number"
+                  },
+                  "ratingGood": {
+                    "label": "Good",
+                    "format": "number"
+                  },
+                  "ratingNormal": {
+                    "label": "Normal",
+                    "format": "number"
+                  },
+                  "ratingBad": {
+                    "label": "Bad",
+                    "format": "number"
+                  },
+                  "followers": {
+                    "label": "Followers",
+                    "format": "number"
+                  },
+                  "productCount": {
+                    "label": "Products",
+                    "format": "number"
+                  },
+                  "responseRate": {
+                    "label": "Response rate %",
+                    "format": "number"
+                  },
+                  "isOfficialShop": {
+                    "label": "Official",
+                    "format": "boolean"
+                  },
+                  "shopJoinedAt": {
+                    "label": "Joined",
+                    "format": "date"
+                  },
+                  "shopUrl": {
+                    "label": "Link",
+                    "format": "link"
+                  }
+                }
+              }
+            },
+            "errors": {
+              "title": "Errors (not charged)",
+              "transformation": {
+                "fields": [
+                  "sourceInput",
+                  "errorCode",
+                  "error"
+                ]
+              },
+              "display": {
+                "component": "table",
+                "properties": {
+                  "sourceInput": {
+                    "label": "Input",
+                    "format": "text"
+                  },
+                  "errorCode": {
+                    "label": "Error code",
+                    "format": "text"
+                  },
+                  "error": {
+                    "label": "Error",
+                    "format": "text"
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "output": {
+        "actorOutputSchemaVersion": 1,
+        "title": "Shopee Reviews Scraper",
+        "properties": {
+          "results": {
+            "title": "Results (JSON)",
+            "template": "{{links.apiDefaultDatasetUrl}}/items",
+            "type": "string"
+          },
+          "resultsCsv": {
+            "title": "Results (CSV)",
+            "template": "{{links.apiDefaultDatasetUrl}}/items?format=csv",
+            "type": "string"
+          }
+        }
+      },
+      "defaultMemoryMbytes": 512,
+      "maxMemoryMbytes": 1024,
+      "readme": "# Shopee Reviews Scraper: ratings, comments and seller replies by shop or product\n\nScrape **Shopee reviews** of any **shop** or **product** in **Singapore, Brazil, Indonesia, Malaysia, Thailand, the\nPhilippines, Vietnam and Taiwan** into one table: stars, the buyer's comment, product and variation bought, the three\ndetailed scores (product quality, seller service, delivery), the seller's reply, how many photos and videos the buyer\nattached, likes and date. Filter by stars, keep only reviews with a comment or with photos, and schedule it with\n**Only reviews newer than** to pay only for new reviews.\n\nNo Shopee account, no cookies, no API key. Works with Shopee's 2026 site, where product reviews are hidden from\nvisitors who are not logged in.\n\n## At a glance\n\n- **Price per 1,000 reviews, Free plan:** US$ 3.00 (US$ 2.55 on Gold and above)\n- **Fee per run:** US$ 0.005\n- **8 countries:** SG, BR, ID, MY, TH, PH, VN, TW\n- **Inputs:** shop links, shop ids, shop usernames, product links (`/product/<shop>/<item>` or `...-i.<shop>.<item>`)\n- **Depth:** up to 5,000 reviews per shop\n- **Filters:** min and max stars, only with a comment, only with photos or videos, newer than a date or period\n- **Shop summary (free):** shop rating, total reviews split into good / normal / bad, followers, products, response rate\n- **Speed:** about 1,000 reviews in 5 to 10 seconds\n- **Error rows** (invalid link, shop not found, product without reviews in reach): free, with an `errorCode`\n\n## One real row\n\nFrom a test on 2026-10-20, shop `https://shopee.sg/shop/64922680` (Ugreen Official Store, Singapore):\n\n```json\n{\n  \"type\": \"review\",\n  \"reviewId\": \"114695358760\",\n  \"country\": \"SG\",\n  \"shopId\": \"64922680\",\n  \"shopName\": \"Ugreen Official Store\",\n  \"itemId\": \"1427996834\",\n  \"productName\": \"UGREEN Waterproof Phone Case for Moblie Phone for iPhone 12 13 14 15 Pro Max , for moblie phones up to 7.9 inches\",\n  \"variation\": \"【7.2 inches】Crystal Upgraded\",\n  \"productUrl\": \"https://shopee.sg/product/64922680/1427996834\",\n  \"rating\": 5,\n  \"comment\": \"Value For Money:looks nice\\nProduct Quality:quality is nice\\n\\nBought this during discount time. Quality looks really nice\",\n  \"ratingProductQuality\": 5,\n  \"ratingSellerService\": 5,\n  \"ratingDeliveryService\": 5,\n  \"imageCount\": 1,\n  \"videoCount\": 0,\n  \"tags\": [\"Value For Money\", \"Product Quality\", \"Best Feature(s)\"],\n  \"likeCount\": 0,\n  \"sellerReply\": \"Thank you for your love and recognition of UGREEN! If you meet any issue with our product, please feel free to contact us.🥰\",\n  \"sellerReplyAt\": \"2026-10-20T11:24:28Z\",\n  \"isOverseasSeller\": false,\n  \"originRegion\": \"SG\",\n  \"createdAt\": \"2026-10-20T11:11:29Z\",\n  \"scrapedAt\": \"2026-10-20T11:27:35Z\",\n  \"sourceInput\": \"64922680\"\n}\n```\n\n## What you can do with it\n\n- **Product research before you source:** read the 1 and 2 star reviews of the best sellers in your niche and find\n  what buyers complain about (size, battery, packaging, fake items) before you pick a supplier.\n- **Competitor monitoring:** schedule a competitor's shop weekly with `newerThan: \"7 days\"` and follow their new\n  complaints, scores and how fast they reply.\n- **Brand protection:** watch your own official shop and your resellers in 8 countries from one Task.\n- **Sentiment and AI analysis:** feed comments, stars and the three detailed scores to an LLM or a sentiment model;\n  `variation` tells you which color or size the complaint is about.\n- **Seller service audit:** `sellerReply`, `sellerReplyAt` and `ratingSellerService` show who answers and how fast.\n- **Cross-border vs local sellers:** `isOverseasSeller` and `originRegion` separate shops shipping from abroad.\n\n## Input\n\nThe simplest input, one shop:\n\n```json\n{\n  \"startUrls\": [\"https://shopee.sg/shop/64922680\"],\n  \"maxReviews\": 100\n}\n```\n\nOne product, only complaints with a written comment:\n\n```json\n{\n  \"startUrls\": [\"https://shopee.sg/product/64922680/1427996834\"],\n  \"minRating\": 1,\n  \"maxRating\": 2,\n  \"onlyWithComment\": true,\n  \"maxReviews\": 200\n}\n```\n\nSeveral shops in other countries, last 30 days, with a shop summary row:\n\n```json\n{\n  \"shopIds\": [\"ugreen.my\", \"331309804\"],\n  \"country\": \"MY\",\n  \"startUrls\": [\"https://shopee.ph/ugreen.ph\"],\n  \"newerThan\": \"30 days\",\n  \"maxReviews\": 1000,\n  \"includeShopSummary\": true\n}\n```\n\n| Field | What it does |\n|---|---|\n| `startUrls` | Shop links (`/shop/<id>` or `/<shop-username>`) and product links (`/product/<shop>/<item>` or `...-i.<shop>.<item>`) from any of the 8 countries |\n| `shopIds` | Shop ids or shop usernames |\n| `country` | SG, BR, ID, MY, TH, PH, VN or TW, used for `shopIds`. Links use their own domain |\n| `maxReviews` | Reviews per shop or product (default 100, up to 5,000) |\n| `minRating`, `maxRating` | Star range, 1 to 5 |\n| `onlyWithComment` | Skip reviews without text |\n| `onlyWithMedia` | Keep only reviews with photos or videos |\n| `newerThan` | `2026-09-01`, `30 days`, `2 weeks`, `6 months` |\n| `includeShopSummary` | One free `type: \"shop\"` row per shop |\n\nInput names from other Shopee actors also work: `urls`, `productUrls`, `shopUrls`, `url`, `shops`, `maxItems`,\n`region`.\n\n## How it works, and its limit\n\nReviews come from the shop's public review page, newest first, **up to 5,000 reviews per shop** (measured on\n2026-10-20). Filtering by stars reaches further back in time.\n\n**Products:** Shopee does not let visitors open the review list of a single product without logging in. For a product\nlink, the Actor reads its shop's reviews and keeps the ones of that product. For a product in a small or medium shop\nthis covers its reviews of the last weeks or months. For a product in a very large shop (thousands of reviews a day),\nthe 5,000 reviews in reach may cover only a few days, and an older or rarely reviewed product may not show up at all:\nyou then get a free `NO_REVIEWS_FOUND` row that says how many shop reviews were read. Several products of the same\nshop in one run share the pages already read.\n\n## Output fields\n\n| Field | Meaning |\n|---|---|\n| `reviewId`, `createdAt` | Shopee review id and date (UTC) |\n| `rating`, `comment` | Stars (1 to 5) and the buyer's text |\n| `ratingProductQuality`, `ratingSellerService`, `ratingDeliveryService` | The three detailed scores (1 to 5) |\n| `itemId`, `productName`, `variation`, `productUrl` | Product reviewed and the variation bought |\n| `shopId`, `shopName`, `country` | Shop and country |\n| `imageCount`, `videoCount` | How many photos and videos the buyer attached |\n| `tags` | Shopee's review prompts the buyer answered (\"Value For Money\", \"Product Quality\") |\n| `likeCount` | Helpful votes |\n| `sellerReply`, `sellerReplyAt` | The shop's public answer and its date |\n| `isOverseasSeller`, `originRegion` | Cross-border seller flag and where the order shipped from |\n| `sourceInput`, `scrapedAt` | Which input produced the row, and when |\n\nWith `includeShopSummary`, rows with `type: \"shop\"` add `shopUsername`, `shopUrl`, `shopRating`, `ratingCount`,\n`ratingGood`, `ratingNormal`, `ratingBad`, `followers`, `productCount`, `responseRate`, `isOfficialShop` and\n`shopJoinedAt`.\n\n**Privacy by design:** the output never includes the buyer's username, user id, avatar, order id, or links to the\nphotos and videos they uploaded (they may show people). You get the counts only.\n\n### Error codes (never charged)\n\n| Code | When |\n|---|---|\n| `INVALID_INPUT` | Unknown country, a search or category link, a link that is not from Shopee, bad limits |\n| `NOT_FOUND` | The shop does not exist |\n| `NO_RESULTS` | The shop has no reviews, or none matched your filters |\n| `NO_REVIEWS_FOUND` | A product link, and none of its shop's reviews in reach were for that product |\n| `BLOCKED` | Shopee refused the request after several retries; run again |\n| `NOT_REACHED` | The run timeout came before this input |\n\n## Pricing\n\nPay per event, no monthly fee:\n\n| Event | Free plan | Gold and above |\n|---|---|---|\n| Review delivered | US$ 3.00 per 1,000 | US$ 2.55 per 1,000 |\n| Run start | US$ 0.005 | US$ 0.00425 |\n\nShop summary rows are free. Error rows, duplicates and reviews removed by your filters are never charged. Set a\nmaximum cost per run in Apify and the Actor stops cleanly when it is reached.\n\n## Use it from code and AI agents\n\n```python\nfrom apify_client import ApifyClient\n\nclient = ApifyClient(\"YOUR_API_TOKEN\")\nrun = client.actor(\"scrapewise/shopee-reviews-scraper\").call(run_input={\n    \"startUrls\": [\"https://shopee.sg/shop/64922680\"], \"maxRating\": 2, \"maxReviews\": 100})\nfor review in client.dataset(run[\"defaultDatasetId\"]).iterate_items():\n    print(review[\"createdAt\"], review[\"rating\"], review[\"productName\"], review[\"comment\"])\n```\n\nThe same works from the HTTP API (`run-sync-get-dataset-items`), n8n, Make, Zapier and Google Sheets. For AI agents: `https://mcp.apify.com/?actors=scrapewise/shopee-reviews-scraper`.\n\nRequests an agent can pass straight through:\n\n- \"What do buyers complain about at this Shopee shop?\" -> `{\"startUrls\": [\"https://shopee.sg/shop/64922680\"], \"maxRating\": 2, \"onlyWithComment\": true, \"maxReviews\": 200}`\n- \"Summarize the last week of reviews for this product\" -> `{\"startUrls\": [\"https://shopee.sg/product/64922680/1427996834\"], \"newerThan\": \"7 days\", \"maxReviews\": 500}`\n- \"Compare the review scores of this brand's shops in Malaysia and the Philippines\" -> `{\"startUrls\": [\"https://shopee.com.my/ugreen.my\", \"https://shopee.ph/ugreen.ph\"], \"maxReviews\": 300, \"includeShopSummary\": true}`\n\n## FAQ\n\n**Do I need a Shopee account or cookies?** No.\n\n**Why can't I get all reviews of a product?** Shopee hides the per-product review list from visitors since 2026. The\nshop review page is open, and it holds the same reviews mixed across the shop's products, up to 5,000 per shop. See\n\"How it works, and its limit\".\n\n**Can I get only new reviews every day?** Yes. Save a Task with `newerThan: \"1 day\"` (or `\"7 days\"` for weekly) and\nschedule it. Reading stops at the first older review, so you only pay for new ones.\n\n**Are comments translated?** No, they come in the language the buyer wrote (English, Portuguese, Indonesian, Thai,\nVietnamese, Chinese...).\n\n**Is it legal?** It reads public review pages that anyone can open without logging in, and leaves out the buyer's\nidentity and uploaded media. How you use the data is your responsibility under Shopee's terms and the privacy laws that\napply to you.\n\n## Changelog\n\n- **2026-10-20:** first release. Shops and products in 8 countries; up to 5,000 reviews per shop; star, comment,\n  media and date filters; free shop summary row.\n\nThis Actor collects only publicly visible data from Shopee. Independent tool, not affiliated with Shopee.\n"
+    },
+    "buildNumber": "0.1.8",
+    "imageDigest": "074c205ae6b1a1031221c24611b95c562ef9cbd2430ee2ef4632770d6e0d433c",
+    "actVersion": {
+      "sourceType": "SOURCE_FILES",
+      "buildTag": "latest",
+      "versionNumber": "0.1"
+    },
+    "usage": {
+      "ACTOR_COMPUTE_UNITS": 0.005871111111111111
+    }
+  }
+}

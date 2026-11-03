@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "29893",
+    "product_name": "Close Up Tooth Paste Complete Fresh Protection 100g",
+    "unique_review_ids": 72,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 72,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-29893-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/29893/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:54.833244+00:00",
+      "product_code": "29893",
+      "product_name": "Close Up Tooth Paste Complete Fresh Protection 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/29893_p0_s500.json",
+      "sha256": "91efe7710d67d4bec1b1aac9bcb8a546d6de8d060051b03949bde34948a20196",
+      "bytes": 26642,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 72,
+        "totalPages": 1
+      },
+      "rows": 72
+    }
+  ]
+}

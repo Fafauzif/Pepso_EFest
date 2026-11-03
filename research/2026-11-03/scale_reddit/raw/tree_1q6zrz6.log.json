@@ -1,0 +1,15 @@
+{
+  "query_id": "tree_1q6zrz6",
+  "url": "https://arctic-shift.photon-reddit.com/api/comments/tree?link_id=1q6zrz6&limit=1000&start_breadth=100&start_depth=30",
+  "collected_at": "2026-11-03T10:51:58.663250+00:00",
+  "params": {
+    "link_id": "1q6zrz6",
+    "limit": 1000,
+    "start_breadth": 100,
+    "start_depth": 30
+  },
+  "status": 200,
+  "bytes": 130349,
+  "outcome": "retrieved",
+  "sha256": "3b3e442866cf00eea8531fb37ec24cde2a48f4b0132b94a4a8ade6e043563733"
+}

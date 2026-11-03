@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "67100",
+    "product_name": "Pasta Gigi Sensitivexpert Complete Care 160g",
+    "unique_review_ids": 2,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 2,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-67100-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/67100/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:24.043928+00:00",
+      "product_code": "67100",
+      "product_name": "Pasta Gigi Sensitivexpert Complete Care 160g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/67100_p0_s500.json",
+      "sha256": "ea1c58eee74f1a224f25c2589b28ebdda2fbf2091d0acd012c2860c6b9644606",
+      "bytes": 2120,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 2,
+        "totalPages": 1
+      },
+      "rows": 2
+    }
+  ]
+}

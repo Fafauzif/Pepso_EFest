@@ -1,0 +1,392 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : true,
+      "page" : 1,
+      "totalCount" : 531,
+      "totalPages" : 2
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.99",
+      "rating1Count" : 1,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 530
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-26T04:28:10+0000",
+      "headline" : "review-41811-WTCID18386358",
+      "id" : "9031069302833",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-26T04:23:52+0000",
+      "headline" : "review-41811-WTCID18381411",
+      "id" : "9031103643697",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-26T04:23:52+0000",
+      "headline" : "review-41811-WTCID18386355",
+      "id" : "9031462649905",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-26T04:19:26+0000",
+      "headline" : "review-41811-WTCID17954267",
+      "id" : "9031167705137",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-26T04:19:06+0000",
+      "headline" : "review-41811-WTCID17935225",
+      "id" : "9031462354993",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-26T04:19:06+0000",
+      "headline" : "review-41811-WTCID17950268",
+      "id" : "9031068713009",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-26T04:14:16+0000",
+      "headline" : "review-41811-WTCID17954266",
+      "id" : "9031068450865",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-23T16:01:31+0000",
+      "headline" : "review-41811-WTCID18393369",
+      "id" : "9031132184625",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-23T16:00:37+0000",
+      "headline" : "review-41811-WTCID18399134",
+      "id" : "9031395213361",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-23T15:50:49+0000",
+      "headline" : "review-41811-WTCID17941275",
+      "id" : "9031394361393",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "madya purnomo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "harga oke,kualitas terjamin dan sangat memuaskan bagi customer\nsayangnya pengiriman kardusnya peyok peyok\nminta kardus double",
+      "date" : "2026-04-23T15:50:49+0000",
+      "headline" : "review-41811-WTCID17954268",
+      "id" : "9031131627569",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Ibu saya semenjak menggunakan produk ini gusinya sudah tidak pernah bengkak",
+      "date" : "2026-04-22T00:22:27+0000",
+      "headline" : "review-41811-WTCID19189050",
+      "id" : "9030180634673",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9030180634673/WTCID19189050_41811_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9030180634673/WTCID19189050_41811_1.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jaka Jaka",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-04-21T00:24:53+0000",
+      "headline" : "review-41811-WTCID19162868",
+      "id" : "9028937482289",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "F Fixy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-04-21T00:23:30+0000",
+      "headline" : "review-41811-WTCID19162867",
+      "id" : "9028937351217",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Huwa Huwa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-04-21T00:21:59+0000",
+      "headline" : "review-41811-WTCID19162865",
+      "id" : "9028937220145",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Popo Popo",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-04-21T00:20:37+0000",
+      "headline" : "review-41811-WTCID19175051",
+      "id" : "9028937089073",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Susi Susi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-04-21T00:19:22+0000",
+      "headline" : "review-41811-WTCID19175050",
+      "id" : "9028936958001",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ceri Ceri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-04-21T00:18:04+0000",
+      "headline" : "review-41811-WTCID19175049",
+      "id" : "9028936826929",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Tegar Tegar",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-04-21T00:16:45+0000",
+      "headline" : "review-41811-WTCID19175048",
+      "id" : "9028936695857",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Reza Reza",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-04-21T00:14:46+0000",
+      "headline" : "review-41811-WTCID19175047",
+      "id" : "9028936564785",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Gibson G",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas baik, cocok untuk sehari-hari",
+      "date" : "2026-04-20T15:19:13+0000",
+      "headline" : "review-41811-WTCID19175046",
+      "id" : "9029035884593",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ghazi I",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas baik, cocok untuk sehari-hari",
+      "date" : "2026-04-20T15:18:08+0000",
+      "headline" : "review-41811-WTCID19175045",
+      "id" : "9029035786289",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Shafhira Briggita",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Bagus produknya, tersegel rapi. Semoga cocok. Packaging bagus juga",
+      "date" : "2026-04-19T12:05:05+0000",
+      "headline" : "review-41811-WTCID19161655",
+      "id" : "9028394385457",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_2_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_2.jpg"
+      }, {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_4_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_4.jpg"
+      }, {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_1.jpg"
+      }, {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_5_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_5.jpg"
+      }, {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_3_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/41811/9028394385457/WTCID19161655_41811_3.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Agnes Lie",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pesanan tidak sesuai , order yg gum expert dikirim  yg sensitive expert ",
+      "date" : "2026-04-08T01:16:20+0000",
+      "headline" : "review-41811-260407091000105837040183164578",
+      "id" : "9027210051633",
+      "like" : 0,
+      "rating" : 1.0,
+      "replyCount" : 1,
+      "reportable" : true
+   }, {
+      "alias" : "Dewi Arimbi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-02-10T03:34:35+0000",
+      "headline" : "review-41811-WTCID17848433",
+      "id" : "9017773293617",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Andika Hananto",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-01-06T00:33:52+0000",
+      "headline" : "review-41811-WTCID18472091",
+      "id" : "9010172887089",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Steven Hakim",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas bagus dan pengiriman cepat ",
+      "date" : "2026-01-01T17:47:19+0000",
+      "headline" : "review-41811-WTCID18462000",
+      "id" : "9010358157361",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Anns Widyawati",
+      "approvalStatus" : "APPROVED",
+      "comment" : "For keep heathy my teeths",
+      "date" : "2025-12-11T07:50:07+0000",
+      "headline" : "review-41811-WTCID18346964",
+      "id" : "9008495722545",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dewi Arimbi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-09-11T11:25:43+0000",
+      "headline" : "review-41811-WTCID17089182",
+      "id" : "8997035999281",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fuad",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-06-25T07:17:15+0000",
+      "headline" : "review-41811-WTCID16516240",
+      "id" : "8989422092337",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "DEWI SARTIKA SARI",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Muraaaah bangeeet",
+      "date" : "2025-04-12T11:55:47+0000",
+      "headline" : "review-41811-WTCID16536115",
+      "id" : "8981817294897",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

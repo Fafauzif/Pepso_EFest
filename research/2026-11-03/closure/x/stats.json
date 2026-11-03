@@ -1,0 +1,190 @@
+{
+  "exported_rows": 16165,
+  "unique_post_ids": 12990,
+  "repeated_identity_occurrences": 3175,
+  "runs": [
+    {
+      "filename": "dataset_x-tweet-scraper_2026-11-03_11-29-36-664.json",
+      "rows": 100,
+      "unique_ids": 100,
+      "new_ids_in_order": 100,
+      "overlap_previous_ids": 0
+    },
+    {
+      "filename": "dataset_x-tweet-scraper_2026-11-03_11-35-46-217.json",
+      "rows": 957,
+      "unique_ids": 957,
+      "new_ids_in_order": 927,
+      "overlap_previous_ids": 30
+    },
+    {
+      "filename": "dataset_x-tweet-scraper_2026-11-03_11-42-21-918.json",
+      "rows": 8468,
+      "unique_ids": 8468,
+      "new_ids_in_order": 7851,
+      "overlap_previous_ids": 617
+    },
+    {
+      "filename": "dataset_x-tweet-scraper_2026-11-03_11-49-14-919.json",
+      "rows": 6640,
+      "unique_ids": 6640,
+      "new_ids_in_order": 4112,
+      "overlap_previous_ids": 2528
+    }
+  ],
+  "source_inputs": [
+    {
+      "filename": "dataset_x-tweet-scraper_2026-11-03_11-29-36-664.json",
+      "sha256_original_bytes": "64a98e97f1c0d080d9639f7409a8ac1adb488c6dea47ce4cb04c531ad7373132",
+      "bytes_original": 582992,
+      "rows": 100
+    },
+    {
+      "filename": "dataset_x-tweet-scraper_2026-11-03_11-35-46-217.json",
+      "sha256_original_bytes": "58402761c86975e179ef828318a56165ca654fb793360e135c8187d8e51c8018",
+      "bytes_original": 6028419,
+      "rows": 957
+    },
+    {
+      "filename": "dataset_x-tweet-scraper_2026-11-03_11-42-21-918.json",
+      "sha256_original_bytes": "5720c4b0a839aaf4b64902d967ba02f752d7a8e58dd31bd68c09c175a74b1e87",
+      "bytes_original": 50442583,
+      "rows": 8468
+    },
+    {
+      "filename": "dataset_x-tweet-scraper_2026-11-03_11-49-14-919.json",
+      "sha256_original_bytes": "341c12e970f4165ca952bfb08b2f273059f67f03eef3298e4f5bba3b2adf2904",
+      "bytes_original": 37252251,
+      "rows": 6640
+    }
+  ],
+  "written_nonempty": 12990,
+  "retweets_flagged": 0,
+  "replies_flagged": 5263,
+  "date_scope": {
+    "case_historical": 12990
+  },
+  "language_actor": {
+    "in": 10057,
+    "tl": 165,
+    "pl": 8,
+    "it": 66,
+    "en": 2405,
+    "et": 10,
+    "ja": 18,
+    "cy": 1,
+    "no": 2,
+    "qme": 11,
+    "de": 27,
+    "ko": 3,
+    "hu": 4,
+    "es": 52,
+    "ca": 3,
+    "ht": 20,
+    "lt": 4,
+    "sl": 4,
+    "pt": 38,
+    "fi": 3,
+    "ro": 4,
+    "ar": 4,
+    "lv": 4,
+    "und": 10,
+    "zxx": 10,
+    "nl": 2,
+    "tr": 18,
+    "th": 25,
+    "fr": 3,
+    "hi": 3,
+    "da": 2,
+    "cs": 1,
+    "fa": 1,
+    "ne": 1,
+    "ru": 1
+  },
+  "relevance_rule_classes": {
+    "oralcare_candidate_not_individually_verified": 11758,
+    "odol_ambiguous": 559,
+    "brand_ambiguous_or_context_missing": 177,
+    "unresolved_other": 249,
+    "likely_figurative_nonexperience": 30,
+    "adjacent_accessory_candidate": 212,
+    "obvious_transport_nonoralcare": 5
+  },
+  "candidate_tag_counts": {
+    "question_candidate": 2042,
+    "need_benefit_candidate": 4160,
+    "commercial_listing_candidate": 1692,
+    "sensory_experience_candidate": 2495,
+    "first_person_candidate": 2419,
+    "switching_candidate": 491,
+    "figurative_marker": 81,
+    "availability_replenishment_candidate": 794,
+    "retail_commercial_marker": 1719,
+    "household_payer_candidate": 281,
+    "repeat_fit_candidate": 505,
+    "price_promotion_candidate": 1359,
+    "possible_ad_jingle_meme": 41,
+    "truck_transport_marker": 27,
+    "accessory_candidate": 213,
+    "boycott_candidate": 94
+  },
+  "distinct_author_pseudonyms": 6814,
+  "top_10_author_post_counts": [
+    [
+      "A-859f45b1d268ce44",
+      1401
+    ],
+    [
+      "A-9adcb39a22bfaddd",
+      347
+    ],
+    [
+      "A-f87d82e31ab5a451",
+      336
+    ],
+    [
+      "A-a908c2de191b4fe5",
+      137
+    ],
+    [
+      "A-9f857f9226ce45f6",
+      81
+    ],
+    [
+      "A-e3323ad43e2c8dc0",
+      76
+    ],
+    [
+      "A-13ebfa6d25f7e625",
+      75
+    ],
+    [
+      "A-298b1e5674450d85",
+      69
+    ],
+    [
+      "A-9f0336b4764c3c1e",
+      60
+    ],
+    [
+      "A-60b8523ee2446ad8",
+      60
+    ]
+  ],
+  "normalized_exact_text_duplicate_groups": 114,
+  "posts_in_normalized_exact_text_duplicate_groups": 461,
+  "possible_template_groups": 375,
+  "posts_in_possible_template_groups": 2152,
+  "same_id_multiple_text_versions": 0,
+  "legacy_records": 6,
+  "legacy_overlap": 1,
+  "legacy_additional_ids": 5,
+  "combined_platform_ids_including_legacy": 12995,
+  "age_verified_count": 0,
+  "target_switcher_verified_count": 0,
+  "new_export_geography_verified_count": 0,
+  "date_span": [
+    "2022-01-01T02:24:03+00:00",
+    "2026-06-30T08:30:47+00:00"
+  ]
+}

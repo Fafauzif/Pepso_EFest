@@ -1,0 +1,13 @@
+{
+  "initial_requests": 27,
+  "targeted_requests": 8,
+  "successful_http_requests": 30,
+  "initial_http429": 5,
+  "unique_discovery_candidates": 148,
+  "retained_studies": 25,
+  "relevant_fulltext_sections_read": 4,
+  "abstract_read": 21,
+  "published_table_transcription_rows": 12,
+  "new_respondent_microdata": 0,
+  "cost_usd": 0
+}

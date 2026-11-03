@@ -1,0 +1,50 @@
+[
+  {
+    "project_detail_id": 214,
+    "product_id": 1061,
+    "category": "Tooth Paste",
+    "name": "Pepsodent Pro.Care",
+    "total_review": 310,
+    "start_date_sampling": "2026-07-16",
+    "end_date_sampling": "2026-08-15",
+    "sampling_method": "online",
+    "show_review": 1,
+    "name_slug": "pepsodent-procare"
+  },
+  {
+    "project_detail_id": 206,
+    "product_id": 1053,
+    "category": "Tooth Paste",
+    "name": "Pepsodent Ultra White",
+    "total_review": 298,
+    "start_date_sampling": "2026-03-11",
+    "end_date_sampling": "2026-04-28",
+    "sampling_method": "online",
+    "show_review": 1,
+    "name_slug": "pepsodent-ultra-white"
+  },
+  {
+    "project_detail_id": 166,
+    "product_id": 1017,
+    "category": "Tooth Paste",
+    "name": "Pepsodent Gum Expert",
+    "total_review": 1069,
+    "start_date_sampling": "2024-09-23",
+    "end_date_sampling": "2024-12-31",
+    "sampling_method": "online",
+    "show_review": 1,
+    "name_slug": "pepsodent-gum-expert"
+  },
+  {
+    "project_detail_id": 147,
+    "product_id": 998,
+    "category": "Tooth Paste",
+    "name": "Pepsodent Siwak & Habbatussauda",
+    "total_review": 551,
+    "start_date_sampling": "2023-12-21",
+    "end_date_sampling": "2024-03-02",
+    "sampling_method": "online",
+    "show_review": 1,
+    "name_slug": "pepsodent-siwak-habbatussauda"
+  }
+]

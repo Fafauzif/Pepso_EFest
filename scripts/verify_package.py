@@ -29,8 +29,20 @@ assert len(csvrows)==len(rows)
 for a,b in zip(rows,csvrows):
     assert a['observation_id']==b['observation_id']
     assert (b['search_volume']=='')==(a['search_volume'] is None)
+normalized_sources=[]
 for s in report['sources']:
-    assert hashlib.sha256((root/s['path']).read_bytes()).hexdigest()==s['sha256']
+    data=(root/s['path']).read_bytes()
+    actual=hashlib.sha256(data).hexdigest()
+    if actual!=s['sha256']:
+        # Git's original '* text=auto' normalized CRLF source bytes to LF.
+        # Accept only the exact cryptographically verified reversible variant;
+        # keep source files and original captured hashes unchanged.
+        assert b'\r' not in data, s['path']
+        restored=data.replace(b'\n',b'\r\n')
+        assert hashlib.sha256(restored).hexdigest()==s['sha256'], s['path']
+        normalized_sources.append(s['path'])
+if normalized_sources:
+    print('Original source hashes match exact CRLF reconstruction after Git LF normalization: '+', '.join(normalized_sources))
 manifest=root/'MANIFEST.sha256'
 if manifest.exists():
     for line in manifest.read_text().splitlines():

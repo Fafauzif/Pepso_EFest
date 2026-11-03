@@ -1,0 +1,14 @@
+{
+  "documentation_and_metadata_http_requests": 17,
+  "public_route_and_source_probes": 8,
+  "known_url_followup_requests": 4,
+  "total_logged_http_requests": 29,
+  "http200": 25,
+  "installed_client_tools_tested": 2,
+  "usable_records_from_client_libraries": 0,
+  "actual_x_records_from_standard_library_http_and_lxml": 6,
+  "brand_owned_posts": 5,
+  "consumer_purchase_stories": 1,
+  "confirmed_target_age_premium_to_basic_switchers": 0,
+  "cost_usd": 0
+}

@@ -1,0 +1,26 @@
+{
+  "observation_count": 96,
+  "unit": "oralcare seller/product offer context",
+  "strict_toothpaste_count": 95,
+  "adjacent_whitening_serum_count": 1,
+  "taxonomy_correction_note": "2026-11-03: one Colgate whitening serum40ml had retailer toothpaste category; semantic product_scope now separates it. All96 contexts retained; raw source unchanged.",
+  "seller_counts": {
+    "Watsons Indonesia": 82,
+    "Apotek Hiro": 4,
+    "Hypermart online catalogue": 10
+  },
+  "brand_counts": {
+    "Pepsodent": 39,
+    "SENSODYNE": 11,
+    "CLOSE UP": 9,
+    "COLGATE": 23,
+    "DARLIE": 3,
+    "Enzim": 4,
+    "PEPSODENT": 7
+  },
+  "watsons_unique_codes": 82,
+  "location_verified_count": 0,
+  "price_per_100g_available": 90,
+  "children_named_count": 4,
+  "status": "validated IDs, provenance fields and unit-price arithmetic; catalogue only, not checkout"
+}

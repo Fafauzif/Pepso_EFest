@@ -1,0 +1,8 @@
+tool,pypi_version_observed,status,constraint,source_url,pypi_url,metadata_raw_file,installed_in_scratch,usable_records_from_client_test
+praw,8.0.3,docs_inspected_not_live_executed,registered Reddit app configuration required,https://praw.readthedocs.io/en/stable/getting_started/authentication.html,https://pypi.org/project/praw/,raw/pypi_praw.json,False,0
+asyncpraw,8.0.3,docs_inspected_not_live_executed,registered Reddit app configuration required,https://asyncpraw.readthedocs.io/en/stable/getting_started/authentication.html,https://pypi.org/project/asyncpraw/,raw/pypi_asyncpraw.json,False,0
+twscrape,0.20.1,source_inspected_not_executed,X account or valid authorized session required,https://github.com/vladkens/twscrape,https://pypi.org/project/twscrape/,raw/pypi_twscrape.json,False,0
+ntscraper,0.4.0,installed_and_executed_zero_records,requires functioning Nitter instance;tested endpoint served notice,https://github.com/bocchilorenzo/ntscraper,https://pypi.org/project/ntscraper/,raw/pypi_ntscraper.json,True,0
+snscrape,0.7.0.20230622,installed_and_executed_runtime_failure,Python3.12 legacy importer failure before network,https://github.com/JustAnotherArchivist/snscrape,https://pypi.org/project/snscrape/,raw/pypi_snscrape.json,True,0
+crawl4ai,0.9.5,source_dependencies_inspected_not_executed,general crawler;does not grant authentication,https://github.com/unclecode/crawl4ai,https://pypi.org/project/crawl4ai/,raw/pypi_crawl4ai.json,False,0
+scrapling,0.5,source_dependencies_inspected_not_executed,core parser vs optional fetchers;does not grant authentication,https://github.com/D4Vinci/Scrapling,https://pypi.org/project/scrapling/,raw/pypi_scrapling.json,False,0

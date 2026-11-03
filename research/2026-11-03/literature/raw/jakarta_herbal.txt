@@ -1,0 +1,628 @@
+Jurnal Aplikasi Manajemen dan Bisnis, Vol. 8 No.3, September 2022                                                  Available online
+Permalink/DOI: http://dx.doi.org/10.17358/jabm.8.3.758                                    http://journal.ipb.ac.id/index.php/jabm
+
+
+
+
+          Choosing herbal toothpaste: Study on consumer behavior and
+                    preferences in the Greater Jakarta Area
+
+
+Stevia Septiani*)1, Dikky Indrawan**), Galih Saputra Arista***), Asep Rakhmat***), Yessie W Sari***),
+                             Nur A Nuzulia****), Wulan T Wahyuni*****)
+                     *)
+                       Departement of Management, Faculty of Economic and Management, IPB University
+                                            Jl. Agatis, IPB Darmaga Campus, Bogor 16680
+                                                   **)
+                                                       School of Business, IPB University
+                                               Jl. Raya Pajajaran Bogor 16151, Indonesia
+                                             ***)
+                                                 Center for Tropical Animal, IPB University
+                                      Jl. Raya Dramaga, IPB Darmaga Campus, Bogor 16680
+                    ****)
+                         Department of Physics, Faculty of Mathematics and Natural Sciences, IPB University
+                               Jl. Raya Dramaga, IPB Darmaga Campus, Bogor 16680, Indonesia
+                                   *****)
+                                         Trophical Biopharmaca Research Center, IPB University
+                                          Jl. Taman Kencana No. 3, Bogor 16128, Indonesia
+
+
+                                Abstract: The research aims are investigating consumers’ psychology and behavioral
+                                characteristics and investigating the consumer’s characteristics that affects experienced
+                                preferences in the Greater Jakarta Area. Consumer profile and consumer behavior were carried
+                                out using descriptive statistics analysis and cross tabulation analysis. Meanwhile, to measure
+Article history:                consumer preferences for herbal toothpastes, logistic regression analysis (logit) was used. This
+Received                        survey was conducted on 459 respondents in the Greater Jakarta area. The results of the analysis
+13 June 2022                    show that in general the customers of toothpaste products are women aged 25-44 years and have
+                                more than 3 family members. The majority of customers are well educated segments, work as
+Revised                         private workers and belong to the SES A group. Based on cross tab analysis, it is known that
+22 June 2022                    gender (p value = 0.037) and age (p value = 0.025) have a significant correlation in choosing
+                                herbal toothpaste. These results were confirmed in the logit analysis where women prefer herbal
+Accepted                        toothpastes than men. Based on consumer psychological factors, most customers believe in
+5 July 2022                     buying toothpaste at offline stores, except for those who are under 30 years old. However, for
+                                consumers who live in DKI Jakarta, they prefer to buy toothpaste through online channels
+Available online                compared to those who live outside DKI Jakarta.
+30 September 2022
+                                Keywords: consumer behavior, consumer profile, herbal toothpastes, logistic regression
+
+This is an open access          Abstrak: Penelitian ini bertujuan menyelidiki psikologi dan karakteristik perilaku konsumen
+article under the CC BY         serta menyelidiki karakteristik konsumen yang mempengaruhi preferensi yang dialami di
+license (https://               wilayah Jabodetabek. Profil konsumen dan perilaku konsumen dilakukan dengan menggunakan
+creativecommons.org/            analisis statistik deskriptif dan analisis tabulasi silang. Sedangkan untuk mengukur preferensi
+licenses/by/4.0/)               konsumen terhadap pasta gigi herbal digunakan analisis regresi logistik (logit). Survei ini
+                                dilakukan terhadap 459 responden di wilayah Jabodetabek. Hasil analisis menunjukkan bahwa
+                                pada umumnya pelanggan produk pasta gigi adalah wanita berusia 25-44 tahun dan memiliki
+                                anggota keluarga lebih dari 3 orang. Mayoritas pelanggan adalah segmen berpendidikan
+                                tinggi, bekerja sebagai pekerja swasta dan termasuk dalam grup SES A. Berdasarkan analisis
+                                tabulasi silang diketahui bahwa jenis kelamin (p value = 0,037) dan usia (p value = 0,025)
+                                memiliki hubungan yang signifikan dalam pemilihan pasta gigi herbal. Hasil ini dikonfirmasi
+                                dalam analisis logit di mana wanita lebih memilih pasta gigi herbal daripada pria. Berdasarkan
+                                faktor psikologis konsumen, sebagian besar pelanggan percaya membeli pasta gigi di toko
+                                offline, kecuali yang berusia di bawah 30 tahun. Namun, bagi konsumen yang berdomisili di
+                                DKI Jakarta lebih memilih membeli pasta gigi melalui jalur online dibandingkan dengan yang
+                                tinggal di luar DKI Jakarta.
+
+                                Kata kunci: perilaku konsumen, profil konsumen, pasta gigi herbal, regresi logistik
+
+
+
+1
+    Corresponding author:
+    Email: steviaseptiani@apps.ipb.ac.id
+
+    758                                                                 Copyright © 2022, ISSN: 2528-5149/EISSN: 2460-7819
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                           Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                                 Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+
+Introduction                                                  of freshness, smell, perceived performance, brand
+                                                              awareness, and product attribute. Vani et al. (2010)
+Oral health is now seen as a significant and fundamental      conducted research to determine customer behavior,
+element of overall health. It is common knowledge that        examine consumer preferences, and determine
+a healthy mouth and body are inextricably linked. Any         consumer awareness of toothpaste brands. According
+deviation in oral health leads to poor oral health, which     to the findings, people’s opinions on toothpaste
+can lower a person’s quality of life and contribute to the    brands are formed by dentist recommendations, price,
+onset of oral illnesses (Agrawal and Gupta, 2020). Oral       availability, packaging, quality, brand, flavor, healthy
+care items are those that are used to clean the mouth,        teeth and gems, freshness, prevention of tooth erosion,
+freshen the breath, and keep oral hygiene in good             whiteness, and the impact of friends, kids, or parents.
+shape. As the dentistry industry grows, a wide range
+of oral care goods, such as toothbrushes, toothpaste,         The decision-making processes and actions of people
+mouthwash, floss, and whitening agents, are available         who buy and use things are referred to as buying
+on the market. However, toothbrushes and toothpaste           behavior (Acharya et al. 2018). The pattern of toothpaste
+are the most extensively used oral care items. It’s           usage differs greatly between countries and should be
+difficult to go a day without using toothpaste and a          investigated independently in diverse demographics
+toothbrush in today’s modern civilization, where the          (Soltani et al. 2018). Since, this behavior changes
+standard of living is rising by the day. The primary          depending on the individual’s characteristics (Acharya
+goal of using toothpaste is to reduce bacterial flora in      et al. 2018). Consumer behavior is assessed in terms of
+the mouth while also delivering fluoride to the teeth         the things they buy, the reason for purchasing, the time
+(Okpalugo et al. 2009) since oral hygiene was a top           of purchase, and the frequency of purchase. Several
+priority in society as early as 5000 BC.                      factors influence a consumer’s decision to purchase
+                                                              toothpaste, including peer recommendations, pricing,
+In the modern era, people rely on experience to make          product attributes, brand of product, commercials,
+decisions, including choosing toothpaste. Therefore,          toothpaste flavor, and manufacturer incentives (Soltani
+selecting toothpaste becoming more important these            et al. 2018). Consumer satisfaction was added to the
+days. Toothpaste selection, like other products, is           prevailing methodologies, both cognitive and affective
+based on learning that leads to experience. People learn      in some research (Palaci et al. 2019). With regards
+and enlighten themselves through the interaction of           to this context, many researchs have employed the
+knowledge. Product knowledge provides the consumer            cognition-affection-conation paradigm to describe
+with firsthand experience with the product, which helps       a consumer’s emotional intellectual processing and
+to brand the product. There has been a lot of research        purchasing behaviors (e.g., Hilgard, 1980; Kidwell et
+into the factors that influence consumer happiness, with      al. 2008; Wilkie, 1994; Kim et al. 2013).
+psychological processes playing a big part. Not only
+has the study of satisfaction become a focus of attention     Further research on women’s knowledge and attitudes
+for researchers, but it has also become a focus of            regarding toothpaste in the Greater Jakarta area
+attention for businesses that provide goods and services      has been suggested to determine the elements that
+to consumers and are competing in an increasingly             influence consumer’s oral toothpaste choice. A large
+competitive market (Palaci et al. 2019). As a result,         body of research has been performed to investigate the
+more than at any other time in recent memory, the             critical influence of consumer’s oral health knowledge
+growing interest for more varied items by consumers,          and attitudes. Similar studies have also been conducted
+combined with the current enormous amount of data             in Indonesia. These studies’ findings are relevant,
+accessible to buyers and the propensity to become             especially in societies where consumers play a
+more esteem cognizant with respect to consumers, has          significant role in family oral health. However, previous
+demonstrated the need to be exceptionally sensitive to        studies have examined more related to toothpaste
+customer needs and needs today than at any other time         consumer behavior in general such as understanding
+in recent memory (Acharya et al. 2018). Sarker et al.         the factors like demographic, social, cultural, price,
+(2013) investigated some of the factors that influence        quality, product attributes for buying toothpaste
+toothpaste brand selection and discovered that a              (Vani et al. 2010, Dani, 2013, Thakur, 2016). There is
+number of factors influence toothpaste brand selection,       limited research that examines toothpaste consumer
+including quality, benefits of using the product, duration    research with a more in-depth perspective, especially
+
+Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017                                            759
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                       Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                             Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+in investigating the relationship between consumer          income, family member, and location. Consumer
+demographic factors and consumer past behavior on           behavior were assessed by questions with regards
+consumer preferences for herbal toothpaste. Based on        toothpaste brand usage, amount of toothpaste used per
+this reasoning, the present study aimed to improve the      use, volume of toothpaste used, frequency of purchase
+understanding of consumers’ reactions to toothpaste         per month, frequency of use per day, regular dental
+stimuli by pursuing a twofold objective: i) investigating   checkups, today’s toothpaste varieties, switching
+consumers’ psychology and behavioral characteristics;       toothpaste brands experience, consumer reason for
+ii) investigating the consumer’s characteristics that       switching to another brand, how much toothpaste
+affects experienced preferences; and iii) analyzing         consumer used in the last 6 months, the main reason
+correlation between consumers’ characteristics and          consumer bought toothpaste, who influenced consumer
+toothpaste preferences. This study uses a grand theory      to buy toothpaste, promotions and promotional factors.
+of consumer behavior and consumer preferences which
+is a combination of relevant previous research (Spiggle     The survey used in this study was developed to
+and Sewall, 1987, Heider and Moeller, 2012, Indrawan        investigate market channels and consumer preferences
+et al. 2018).                                               for herbal toothpastes based on demographic factors
+                                                            and consumer behavior. The questionnaire consisted
+                                                            of 5 parts following a research framework adapted
+Methods                                                     from earlier retail selection research (Heider and
+                                                            Moeller 2012, Indrawan et al. 2018) shown in Figure
+Non-probability sampling was employed in this study.        1. The first determinant to be measured is the consumer
+Furthermore, convenience sampling was used, in              psychological factor using the trust model approach
+which data was obtained from population respondents         by de Jonge et al. (2008). To measure the consumer
+who were readily available to provide it (Sekaran and       psychological factor, several questions were asked
+Bougie, 2009). Consumers in the Greater Jakarta area        about consumer trust in various purchasing channels of
+constitute the study’s population. Data was gathered        toothpaste. This refers to several previous studies where
+through the use of self-administered questionnaires.        the trust in food as an important psychological factor (de
+Primary data collection was carried out by distributing     Jonge et al. 2007, 2008; Van Kleef et al. 2007). In the
+questionnaires through an online platform from August       questionnaire, trust is divided into 2 categories, namely
+to October 2021. There are several criteria to become       low trust and high trust, which are then tested for their
+respondents for this research, namely those who live        influence on herbal toothpaste preferences and market
+in Greater Jakarta and bought toothpaste within the         channel selection. The second part of the questionnaire
+last 1 month. From the data obtained as many as 560         consists of a collection of consumer demographic
+respondents there are some respondents who did not fill     questions including: gender, age, education, marital
+out the questionnaire questions completely. After data      status, occupation, monthly expenses, family member
+verification, there were 459 respondents who filled out     and domicile (Iton 2015; Indrawan et al. 2018). The
+the questionnaire completely and could continue for         third part includes measurements related to consumer
+further processing and analysis.                            behavior, namely the quantity of toothpaste product
+                                                            used, the frequency of monthly purchases, the frequency
+This study’s measurement instrument was created to          of toothpaste usage per day, and the frequency of regular
+collect primary data on customer profile and consumer       dental checkups. The fourth part of the questionnaire is
+behavior. The following procedures were taken in            aimed at the market channels where consumers usually
+the development of the instrument: measurement              buy toothpaste. Responses are grouped into 2 market
+instrument design, content validity, and formulation of     channels: online channel and offline channel. The last
+psychometric features, such as validity and reliability.    part of the questionnaire contains questions about
+The instrument consists of 21 items and were grouped        consumer preferences for herbal toothpastes. Details of
+into consumer profile (8 items) and consumer behavior       the operationalization of the variables can be seen in
+(13 items). Consumer profile constitutes age, gender,       Table 1.
+education, marital status, employment, monthly
+
+
+
+
+760                                         Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                           Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                                 Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+
+
+
+          Figure 1. Research framework for the choice of market channel and the toothpaste preferences
+
+
+
+Table 1. Operationalization of the variables
+Variable                       Indicator                     Scale                References
+Consumer Psychological         Trust in salesforce           Ordinal              de Jonge et al. (2007), de Jonge et al.
+                               Trust in doctor               Ordinal              (2008), Van Kleef et al. (2007)
+                               Trust in offline shop         Ordinal
+                               Trust in offline shop         Ordinal
+Consumer Characteristics       Gender                        Nominal              Iton (2015), Indrawan et al. (2018)
+                               Age                           Ordinal
+                               Education                     Ordinal
+                               Marital status                Nominal
+                               Occupation                    Nominal
+                               Monthly expenditure           Interval
+                               Family member                 Ordinal
+                               Domicile                      Nominal
+Consumer Behavior              Product volume                Interval             Spiggle and Sewall (1987), Heider and
+                               Monthly buying frequency      Interval             Moeller (2012), Indrawan et al. (2018),
+                               Usage per day                 Interval             Dani (2013), Thakur (2016)
+                               Check up to the doctor        Interval
+                               frequency
+The Choice of Market           Offline shop vs Online shop   Nominal              Spiggle and Sewall (1987)
+Channel
+Toothpaste preferences         Herbal vs Non-herbal          Nominal              Indrawan et al. (2018), Septiani &
+                                                                                  Indraswari (2018)
+
+
+
+
+Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017                                             761
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                         Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                               Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+Descriptive statistical analysis was conducted to             it is known that generally respondents belong to the
+summarize respondents’ responses using cross                  well-educated group which is dominated by those with
+tabulation. Differences between determinants in               undergraduate/postgraduate education at 78.9%, work
+different market channels and between determinants            as private employees (36.6%) and generally dominated
+of respondent behavior change were statistically tested       by those belonging to the SES A group with monthly
+using Pearson’s chi-square. Furthermore, multivariable        expenses of more than IDR 3 million (52.7%).
+logistic regression analysis was used to measure the
+determinants relevant to respondents to market channels       Furthermore, cross-tabulation analysis can be seen in
+and consumer preferences for herbal toothpastes.              Table 2. Table 2 provides an overview of 17 general
+Logistic regression is a robust test that predicts the        characteristics which include socio-demographic
+probability of an event occurring (Hair et al. 1998). The     factors and consumer behavior related to the usage of
+general format of the multivariate logistic regression        toothpaste. There are 2 demographic characteristics
+model is shown by Equation as follows:                        that are significantly correlated (p value < 0.05)
+                                                              with preference for herbal toothpaste. Gender was
+                                                              significantly correlated with preference for herbal
+                                                              toothpaste with a p value of 0.037. Cross tabulation
+                                                              shows that women seem to prefer herbal toothpaste
+where the log of the odds of the outcomes is represented      more than men. The level of environmental awareness of
+by estimated intercept is represented by β0, and the          consumers will significantly shape consumer attitudes
+coefficient regression of each independent variable is        in choosing a product (Riptiono 2022). In addition, the
+represented by β1 ... βp. The hypotheses of this research     age factor also has a significant relationship with the
+are: H0 = There is no significant correlation between         selection of herbal toothpaste (p value = 0.025). Based
+the two variables being measured and H1 = There is            on the distribution of respondents’ responses in the
+a significant correlation between the two variables           cross tabulation, it can be seen that in general, each age
+being measured. The test criteria are if the significance     level prefers herbal toothpaste even though the amount
+p-value is > 0.05 then accept H0 and if the significance      varies.
+p-value is <0.05 then accept H1.
+                                                              On the other hand, there are 5 socio-demographic
+                                                              factors that have a significant correlation with the choice
+Results                                                       of market channel. Consumer trust in offline stores (p
+                                                              value = 0.000) and online stores (p value = 0.001) was
+Consumer profile analysis was carried out using               found to be strongly associated with the selection of
+descriptive statistical approach and cross tabulation.        toothpaste market channels. Both groups that have
+Based on descriptive statistical analysis, it is known that   low trust and high trust, generally choose toothpaste
+62.7% of respondents are female and 37.3% are male.           directly in offline stores. Age factor is also significantly
+These results indicate that women have a dominant             correlated with the selection of toothpaste market
+role in making purchasing decisions in their families.        channels with a p value of 0.022. In general, every
+The majority of respondents’ ages were in the range           consumer at various age levels chooses toothpaste at
+of 25–34 years (37.7%) and 35–44 years (30.5%). In            offline stores, although there is an interesting trend for
+this age range, most of the respondents are married           those aged less than 40 years, there are still quite a lot of
+(78.9%). There are most of the respondents belonging          respondents who choose to buy toothpaste online and
+to the mature family group with the number of families        it is decreasing in consumers aged 40 years and over.
+living in 1 house the majority of which is more than 3        In addition, the consumer’s monthly expenditure (p
+people (57.3%). The large number of people who live           value = 0.027) and domicile (p value = 0.003) are also
+in one house will certainly determine the respondents         significantly correlated with the choice of toothpaste
+in making their purchasing decisions. In line with            market channel. Although in general every consumer
+research conducted by Vani et al. (2010) that a family        chooses the offline channel, the number of consumers
+exerts a complex influence on the behaviors of its            who choose toothpaste online is increasingly seen in
+members. When viewed from their latest education,             the SES A and SES B groups. Based on the results
+
+
+
+
+762                                           Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                           Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                                 Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+of this analysis, it is known that consumers in SES           SES A and B, the toothpaste products offered must have
+categories C and D, toothpaste products are positioned        special values such as herbal ingredients and others.
+as convenience goods which are generally easier to buy        Toothpaste products can be effectively promoted
+at offline stores. However, for customers belonging to        through online media.
+
+
+Table 2. Descriptive statistics of the social-demographic characteristics of the respondents in relation to their
+         choice of market channel and toothpaste preferences
+                                                      Toothpaste preferences                      Market channel
+              General Characteristics
+                                                 Herbal    Non-herbal     P Value         Offline    Online      P Value
+Toothpaste preferences
+Herbal                                              -            -               -          340          51         0.709
+Non-herbal                                          -            -               -          58           10
+Sales force
+Low trust                                          184           33           0.823         187          30         0.749
+High trust                                         207           35                         211          31
+Doctor
+Low trust                                          279           49           0.906         288          40         0.274
+High trust                                         112           19                         110          21
+Come to the store
+Low trust                                           61           10           0.851          48          23         0.000
+High trust                                         330           58                         350          38
+Online shop
+Low trust                                          258           44           0.837         273          29         0.001
+High trust                                         133           24                         125          32
+Gender
+Male                                               138           33           0.037         150          21         0.624
+Female                                             253           35                         248          40
+Age
+<25 yr old                                          50           13           0.025          52          11         0.022
+26 to 30 yr old                                     59            3                          47          15
+31 to 35 yr old                                    108           28                         122          14
+36 to 40 yr old                                     60            5                          54          11
+41 to 45 yr old                                    39             6                         41           4
+>45 yr old                                         75            13                         82           6
+Education
+lower education                                      5            0           0.641           5           0         0.407
+senior high school                                  47            8                          50           5
+university                                         339           60                         343          56
+ Marital status
+married                                            309           53           0.662         315          47         0.705
+single                                             80            14                         80           14
+divorced                                            2             1                          3            0
+Occupation
+non-housewife                                      313           57           0.468         319          51         0.525
+housewife                                          78            11                         79           10
+
+
+
+
+Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017                                            763
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                          Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                                Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+Table 2. Descriptive statistics of the social-demographic characteristics of the respondents in relation to their
+         choice of market channel and toothpaste preferences (continue)
+                                                        Toothpaste preferences                   Market channel
+             General Characteristics
+                                                   Herbal    Non-herbal     P Value      Offline    Online      P Value
+Monthly expenditure
+less than IDR 700k                                   18            3          0.862         16           5         0.027
+IDR 700k - 1 million                                 24            3                        27           0
+IDR 1 million - 2 million                            59            9                        55          13
+IDR 2 million - 3 million                            88           13                        93           8
+IDR more than 3 million                             202           40                       207          35
+Family member
+1                                                    26            5          0.806         27           4         0.772
+2                                                    43            7                        41           9
+3                                                   101           14                       101          14
+more than 3                                         221           42                       229          34
+Domicile
+DKI Jakarta                                          73           14          0.71          67          20         0.003
+Outside Jakarta (Bogor, Depok, Tangerang,           318           54                       331          41
+Bekasi)
+Product volume
+25 gr                                                17            1          0.461         17           1         0.477
+100 gr                                              121           26                       126          21
+150 gr                                              182           28                       179          31
+Others                                               71           13                        76           8
+Monthly buying frequency
+Once                                                237           44          0.636        245          36         0.882
+Twice                                               118           20                       118          20
+More than twice                                     36            4                        35            5
+Usage per day
+Once                                                 17            7          0.119         20           4         0.516
+Twice                                               272           43                       277          38
+More than twice                                     102           18                       101          19
+Check up to the doctor
+every 6 months                                       53           10          0.793         52          11         0.452
+once a year                                          53            7                        50          10
+not sure / if sick                                  260           45                       270          35
+never                                                25            6                        26           5
+
+
+
+Table 3 provides the results of 2 logistic regression          consumer purchasing decisions are influenced by
+models related to consumer preferences for toothpaste          psychological factors, namely motivation, perception,
+market channels and consumer preferences for herbal            learning, beliefs and attitudes. Herbal toothpaste is a
+toothpastes. The market channel choice logistic                psychological product that offers a need for recognition
+regression model was significant where 31.2% of the            or appreciation for consumers. Based on the Odd Ratio
+variation could be explained by the model (pseudo R2           value, it is known that, compared to female consumers,
+value = 0.312). There is one variable that has a significant   the chances of male consumers choosing herbal
+effect on toothpaste preferences, namely gender (p             toothpaste are smaller than non-herbal toothpastes
+value = 0.039). These results were confirmed in the            (OR=0.579). Women have a better perception of herbal
+logit analysis where women prefer herbal toothpastes           toothpaste (OR=1/0.579) so that this psychological
+than men. Kotler and Armstrong (2008) state that               factor can improve purchasing decisions in the future
+
+764                                            Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                           Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                                 Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+(Septiani & Indraswari, 2018). Based on consumer                Based on the toothpaste brand used today, the majority
+psychological factors, most customers believe in                of respondents use Pepsodent toothpaste (53.6%).
+buying toothpaste at offline stores, except for those           This is in line with previous research (Vani et al.
+who are under 30 years old. This refers to the Odd              2010, Zeithaml et al. 1988) that brand image plays
+Ratio value, namely those aged less than 25-30 years            an important role in the preference for toothpaste
+compared to those aged more than 45 years choosing              selection. Besides that, there are 10% of Close Up
+an offline store of 0.346 and 0.229 instead of choosing         users, 8.7% using the Sensodyne brand, 6.1% using the
+an online store. However, for consumers who live in             Enzyme brand, and 3.9% using the Colgate and Sasha
+DKI Jakarta, they prefer to buy toothpaste through              brands respectively. The rest use other brands with an
+online channels compared to those who live outside              average portion of less than 3%. This proportion shows
+DKI Jakarta (OR=1/0.415).                                       that herbal toothpaste that focuses on a niche market
+                                                                still has a good chance to be developed.
+
+Table 3. Odds ratio (OR) of the variables in the estimated logistic regression model for the consumers’ choice of
+         market channel and toothpaste preferences
+ Determinant                             Toothpaste preferences                       Choice of market channel
+                                      OR        95% CI         P value              OR             95% CI           P value
+ Consumer psychological factor
+ Salesforce
+ - Low trust (reference)              1                                              1
+ - High trust                       1.061     0.634 to 1.776      0.823            1.092          0.637 to 1.872     0.749
+ Doctor
+ - Low trust (reference)              1                                              1
+ - High trust                       1.035     0.584 to 1.837      0.906            0.728          0.411 to 1.289     0.276
+ Come to the store
+ - Low trust (reference)              1                                              1
+ - High trust                       0.933     0.452 to 1.925      0.851            4.413          2.424 to 8.036     0.000
+ Online shop
+ - Low trust (reference)              1                                              1
+ - High trust                       0.945     0.551 to 1.621      0.837            0.415          0.241 to 0.716     0.002
+ Consumer characteristics
+ Gender
+ - Male                             0.579     0.344 to 0.972      0.039            1.152          0.654 to 2.029     0.624
+ - Female (reference)                 1                                              1
+ Age
+ - <25 yr old                       1.500     0.642 to 3.502      0.349            0.346          0.121 to 0.992     0.048
+ - 26 to 30 yr old                  0.293     0.080 to 1.077      0.065            0.229          0.083 to 0.631     0.004
+ - 31 to 35 yr old                  1.496     0.728 to 3.075      0.274            0.638          0.235 to 1.727     0.376
+ - 36 to 40 yr old                  0.481     0.162 to 1.424      0.186            0.359          0.125 to 1.029     0.057
+ - 41 to 45 yr old                  0.888     0.313 to 2.516      0.822            0.750          0.200 to 2.806     0.669
+ - >45 yr old (reference)             1                                              1
+ Education
+ - lower education                  0.000        0.000 to -       0.999            0.000             0.000 to -      0.999
+ - senior high school               0.962     0.433 to 2.137      0.924            0.613          0.234 to 1.602     0.318
+ - university                         1                                              1
+ Marital status
+ - married                          2.915     0.260 to 32.720     0.386       241,028,599.826        0.000 to -      0.999
+ - single                           2.857     0.242 to 33.667     0.404       282,695,777.988        0.000 to -      0.999
+ - divorced (reference)               1                                              1
+
+
+
+Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017                                            765
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                         Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                               Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+Table 3. Odds ratio (OR) of the variables in the estimated logistic regression model for the consumers’ choice of
+         market channel and toothpaste preferences (continue)
+Determinant                                Toothpaste preferences                   Choice of market channel
+                                      OR          95% CI         P value          OR             95% CI           P value
+Occupation
+- non-housewife                   0.774        0.388 to 1.546    0.469           0.792          0.385 to 1.629     0.526
+- housewife (reference)             1                                              1
+Monthly expenditure
+- less than IDR 700k              0.842        0.237 to 2.992    0.790           1.848          0.636 to 5.368     0.259
+- IDR 700k - 1 million            0.631        0.181 to 2.197    0.470             -              0.000 to -       0.998
+- IDR 1 million - 2 million       0.770        0.353 to 1.679    0.512           1.398          0.692 to 2.822     0.350
+- IDR 2 million - 3 million       0.746        0.380 to 1.464    0.394           0.509          0.227 to 1.139     0.100
+- IDR more than 3 million           1                                              1
+Family member
+-1                                1.012        0.368 to 2.785    0.982           0.998          0.329 to 3.028     0.997
+-2                                0.857        0.361 to 2.033    0.726           1.478          0.660 to 3.312     0.342
+-3                                0.729        0.381 to 1.396    0.341           0.934          0.480 to 1.815     0.840
+- more than 3                       1                                              1
+Domicile
+- DKI Jakarta                     0.885        0.467 to 1.680    0.710           0.415          0.229 to 0.753     0.004
+- Outside Jakarta (Bogor,           1                                              1
+Depok, Tangerang, Bekasi)
+Consumer behavior
+Product volume
+- 25 gr                           0.321        0.039 to 2.628    0.290           0.559          0.065 to 4.770     0.595
+- 100 gr                          1.174        0.567 to 2.429    0.666           1.583          0.668 to 3.752     0.296
+- 150 gr                          0.840        0.412 to 1.714    0.632           1.645          0.723 to 3.744     0.235
+- Others (reference)                1                                              1
+Monthly buying frequency
+- Once                            1.671        0.566 to 4.930    0.352           1.029          0.378 to 2.797     0.956
+- Twice                           1.525        0.490 to 4.753    0.466           1.186          0.415 to 3.391     0.750
+- More than twice (reference)       1                                              1
+Usage per day
+- Once                            2.333        0.847 to 6.425    0.101           1.063          0.327 to 3.460     0.919
+- Twice                           0.896        0.494 to 1.625    0.717           0.729          0.402 to 1.323     0.299
+- More than twice (reference)       1                                              1
+Check up to the doctor
+- every 6 months                  0.786        0.257 to 2.405    0.673           1.100          0.346 to 3.499     0.872
+- once a year                     0.550        0.167 to 1.808    0.325           1.040          0.322 to 3.362     0.948
+- not sure / if sick              0.721        0.280 to 1.856    0.498           0.674          0.243 to 1.869     0.448
+- never (reference)                 1                                              1
+Constanta                                          -0.039                                           13.227
+Log likelihood                                    347.239                                          274.401
+Number of obs                                       459                                              459
+LR chi2                                           34.263                                            85.324
+Prob > chi2                                        0.360                                             0.000
+Pseudo R2                                          0.127                                             0.312
+
+
+
+
+766                                           Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                           Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                                 Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+In general, consumers buy toothpaste once a month             = 0.037) and age (p value = 0.025) have a significant
+(61.2%). However, there are also respondents who              correlation in choosing herbal toothpaste. These results
+buy toothpaste 2 times per month (30.1%) and make             were confirmed in the logit analysis where women
+purchases more than 2 times per month by 8.7%. Most           prefer herbal toothpastes than men. Based on consumer
+of the respondents have used toothpaste according to          psychological factors, most customers believe in
+the existing recommendations, namely 2 times a day            buying toothpaste at offline stores, except for those
+(68.6%). There are also those who use toothpaste more         who are under 30 years old. However, for consumers
+than 2 times a day, which is 26.1%. However, the level        who live in DKI Jakarta, they prefer to buy toothpaste
+of awareness of respondents to routinely check with           through online channels compared to those who live
+the dentist is still lacking. This can be seen from the       outside DKI Jakarta.
+majority of respondents (66.4%) who did not do regular
+dental check-ups. They check up to the dentist with an        Recommendations
+uncertain frequency or only if they got toothache. So
+that the government and companies are responsible for         However, the limitation of this study is the scope of
+creating public awareness through campaigns on dental         the variables that focus on internal variables from
+health (Vani et al. 2010).                                    the consumer’s perspective and has not measured
+                                                              consumers’ intention to buy herbal toothpaste. Further
+Managerial Implications                                       research can be directed at measuring preference
+                                                              attributes of herbal toothpaste and willingness to pay
+At the end, the government and the toothpaste industry        the herbal toothpaste. This can provide an overview of
+must work together in encouraging dental health               the opportunities for herbal toothpaste in Indonesia.
+campaigns. The use of herbal toothpaste is more
+chosen by female respondents as family purchasing
+decision makers. Campaigns and education about the            Acknowledgments
+importance of using herbal toothpaste can be given to
+women with SES A who live in urban areas by offering          This research was financially supported by research
+the concept of long-term health investment.                   grant provided by the Indonesia Endowment Funds for
+                                                              Education (LPDP).
+
+Conclusions and recommendations
+                                                              References
+Conclusions
+                                                              Acharya S, Ubeja S, Jain P, Loya A. 2018.
+In general, consumers have high trust in toothpaste                 Consumer            buying behaviour     towards
+sold through sales forces and offline stores. This                  toothpaste. International Journal of Computer
+is understandable considering that most of the                      Sciences and Engineering 6(9): 74-82. https://
+respondents still consume toothpaste products with                  doi.org/10.26438/ijcse/v6si9.7482
+well-known brands. The majority of respondents were           Agrawal A, Gupta A. 2020. Exploring the factors
+female (63.7%) in the range of 25–34 years (37.7%)                  influencing the choice of oral care products: a
+and 35–44 years (30.5%). In this age range, most of                 review on personalized approach. International
+the respondents are married (78.9%). The majority of                Journal of Oral and Dental Health 6:109. doi.
+respondents belonging to the well educated group are                org/10.23937/2469- 5734/1510109
+dominated by those with undergraduate/postgraduate            Dani V. 2013. Buying behavior of toothpaste in Urban
+education at 78.9%, which are generally dominated                   India: A study on Pune city. Pacific Business
+by those belonging to the SES A group with monthly                  Review International 5(11).
+expenditures of more than IDR 3 million (52.7%).              de Jonge J, Van Trijp H, Jan Renes R, Frewer L. 2007.
+Most of them buy toothpaste once a month (61.2%)                    Understanding consumer confidence in the
+and consume or used toothpaste 2 times a day (68.6%).               safety of food: Its two dimensional structure and
+However, the level of awareness of respondents to                   determinants. Risk Analysis 27:729–740.https://
+routinely check with the dentist is still lacking. Based            doi.org/10.1111/j.1539-6924.2007.00917.x
+on cross tab analysis, it is known that gender (p value       de Jonge J, Van Trijp J, van der Lans IA, Renes RJ,
+
+Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017                                            767
+P-ISSN: 2407-5434 E-ISSN: 2407-7321                                       Jurnal Aplikasi Bisnis dan Manajemen (JABM),
+                                                                                             Vol. 8 No. 3, September 2022
+Accredited by Ministry of RTHE Number 32a/E/KPT/2017
+
+      Frewer LJ. 2008. How trust in institutions                  Sustainability 11(2):431.
+      and organizations builds general consumer             Riptiono S. 2022. The effects of consumption value,
+      confidence in the safety of food: a decomposition           environmental concerns, and consumer attitudes
+      of effects. Appetite 51:311–317.https://doi.                towards consumer purchase intentions of electric
+      org/10.1016/j.appet.2008.03.008                             cars. Jurnal Aplikasi Bisnis Dan Manajemen
+Hair JF, Black WC, Babin BJ, Anderson RE, Tatham                  (JABM) 8(1):3–12. https://doi.org/10.17358/
+      RL. 1998. Multivariate Data Analysis. Upper                 jabm.8.1.23
+      Saddle River, NJ: Prentice Hall,                      Sarker S, Yousuf S, Monzoor ZM. 2013. Influences
+Heider R, Moeller S. 2012. Outlet patronage in on-                on brand selection decisions of staple goods: A
+      the-go consumption: an analysis of patronage                study on toothpaste users of Khulna city. Journal
+      preference drivers for convenience outlets versus           of World Economic Research 2(3):58-66. http:/
+      traditional retail outlets.Journal of Retailing             doi: 10.11648/j.jwer.20130203.14
+      and Consumer Services 19:313–324.https://doi.         Sekaran, Bougie R. 2009. Research Methods for
+      org/10.1016/j.jretconser.2012.03.004                        Business: A Skill-Building Approach. Ed. ke-5.
+Hilgard ER. 1980. The trilogy of mind: Cognition,                 New York: John Wiley and Sons Inc.
+      affection, and conation. Journal of the History of    Septiani S, Indraswari R. 2018. factors affecting
+      the Behavioral Sciences 16(2):107–117. https://             consumer behavior on halal cosmetic product
+      doi.org/10.1002/()1520-6696                                 in Bogor. Jurnal Manajemen dan Organisasi
+Indrawan D, Tacken G, Hogeveen H. 2018. What                      (JMO) 9(1):59-73. https://doi.org/10.29244/jmo.
+      drives the choice of poultry market channel and             v1i1.25370
+      the change of purchase behavior due to highly         Soltani R, Sharifirad G, Mahaki B, Eslami AA. 2018.
+      pathogenic avian influenza outbreaks? Poultry               Determinants of Oral health behavior among
+      Science 0:1–9. http://dx.doi.org/10.3382/ps/                preschool children: application of the theory of
+      pey222                                                      planned behavior. Journal of Dentistry Indonesia
+Iton CA. 2015. Factors influencing retail outlet choice           19(4):273–279.
+      of women purchasing fresh fruits in Trinidad          Spiggle S, Sewall MA. 1987. A choice sets model of
+      and Tobago. American Journal of Industrial and              retail selection. Journal of Marketing 51:97–111.
+      Business Management 4:38–48.                                https://doi.org/10.1177/002224298705100208
+Kidwell B, Hardesty DM, Childers TL. 2008. Consumer         Thakur M. 2016. Consumer behaviour with reference to
+      emotional intelligence: Conceptualization,                  oral care products –a study of toothpaste brands
+      measurement, and the prediction of consumer                 in Sambalpur City, Odisha. International Journal
+      decision making. Journal of Consumer Research               of Research in Business Studies 1(2):2455-2992.
+      35(1):154–166. https:// doi.org/10.1086/524417        Van Kleef E, Houghton J, Krystallis A, PfenningG U,
+Kim YH, Kim D, Wachter K. 2013. A study of                        Rowe H, Van Dijk I, Van der Lans LJ, Frewer.
+      mobile user engagement (MoEN): Engagement                   2007. Consumer evaluations of food risk
+      motivations, perceived value, satisfaction, and             management quality in Europe. Risk Analysis
+      continued engagement intention. Decision                    27:1565–1580.https://doi.org/10.1111/j.1539-
+      Support Systems 56(4):361–370. https://doi.                 6924.2007.00989.x
+      org/10.1016/j.dss.2013.07.002                         Vani G, Ganesh Babu M, Panchanatham N. 2010.
+Kotler P, Armstrong G. 2008. Principles of Marketing.             Toothpaste Brands –A Study of consumer
+      Ed. ke-12. Jakarta: Erlangga.                               behavior in Bangalore city. Journal of Economics
+Okpalugo J, Ibrahim K, Inyang US. 2009.Toothpaste                 and Behavioral Studies 1(1):27-39.https://doi.
+      formulation efficacy in reducing oral flora.                org/10.22610/jebs.v1i1.212
+      Tropical Journal of Pharmaceutical Research           Wiley, ZeithamlVA. 1988: Consumer perceptions
+      8(1):71-77.https://doi.org/10.4314/tjpr.                    of price, quality, and value: A means-end
+      v8i1.14714                                                  model and synthesis of evidence. Journal
+Palaci F, Salcedo A, Topa G. 2019. Cognitive and                  of      Marketing      52     (3):2-22.https://doi.
+      affective antecedents of consumers’ satisfaction:           org/10.1177/002224298805200302
+      a systematic review of two research approaches.
+
+
+
+
+768                                         Indonesian Journal of Business and Entrepreneurship, Vol. 3 No. 2, May 2017
+

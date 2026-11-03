@@ -1,0 +1,45 @@
+{
+  "product_contexts": 78,
+  "reported_complete_product_histories": 65,
+  "raw_review_observations": 10191,
+  "unique_review_ids": 10191,
+  "nonempty_review_text": 7419,
+  "within_case_period": 5022,
+  "duplicate_review_id_observations": 0,
+  "conflicting_ids": 0,
+  "http429_or403": 0,
+  "source_pages": 87,
+  "successful_source_pages": 87,
+  "paid_spend_usd": 0,
+  "apify_runs": 0,
+  "rating_counts": {
+    "5.0": 10027,
+    "1.0": 41,
+    "4.0": 99,
+    "2.0": 10,
+    "3.0": 14
+  },
+  "written_review_records": 7419,
+  "rating_only_or_blank_records": 2772,
+  "within_case_written_review_records": 3220,
+  "time_scope_counts": {
+    "post_case_period": 4778,
+    "within_case_period": 5022,
+    "pre_case_period": 391
+  },
+  "product_scope_counts": {
+    "toothpaste": 10188,
+    "adjacent_whitening_serum": 3
+  },
+  "incentive_counts": {
+    "not_established": 10191
+  },
+  "verified_residence_count": 0,
+  "verified_18_30_switcher_count": 0,
+  "country_scope": "Indonesian Watsons endpoint only; no reviewer residence/country or language field exposed",
+  "syndication_scope": "No syndication/origin field exposed; no duplicate IDs across captured SKU histories; cross-platform authorship or syndication not established",
+  "all_records_manually_read": false,
+  "exact_normalized_text_duplicate_groups": 335,
+  "written_review_records_in_duplicate_text_groups": 4321,
+  "excess_exact_text_records": 3986
+}

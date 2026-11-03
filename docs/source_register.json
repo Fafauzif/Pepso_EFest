@@ -36,5 +36,19 @@
     "original_name": "Pasted text (2)(1).txt",
     "library_file_id": "libfile_437fd389ab6c8191915ed9446c220198",
     "status": "unavailable; not read or included"
+  },
+  {
+    "path": "research/2026-11-03",
+    "role": "New assistant-led public research collection and synthesis",
+    "status": "included",
+    "notes": "See per-workstream source_register.json and synthesis/DATA_INVENTORY.json; not primary fieldwork; no paid actor run."
+  },
+  {
+    "id": "closure_user_runs_2026_11_03",
+    "kind": "user_executed_actor_exports_and_session_attachments",
+    "registry": "research/2026-11-03/closure/raw/UPLOAD_REGISTER.json",
+    "files": 11,
+    "analysis": "research/2026-11-03/closure/integrated/INVENTORY.json",
+    "limits": "Public records; no verified age or target switching. Errors, electronics, blanks, metadata, incentives and date uncertainty kept separate."
   }
 ]

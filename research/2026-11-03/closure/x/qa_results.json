@@ -1,0 +1,17 @@
+{
+  "status": "passed",
+  "checks": [
+    "Original decompressed bytes match four input SHA-256 values.",
+    "Every unique normalized text and every occurrence locator resolves to original source row.",
+    "109 close-reading annotations match original source ID and full text exactly.",
+    "Frozen sample has 40 uniform records plus 60 purposive-screen records; 9 supplementary records separately labelled.",
+    "Legacy six-source overlap reconciles to 12,995 platform IDs, without double-counting consumer post."
+  ],
+  "new_export_ids": 12990,
+  "occurrences": 16165,
+  "legacy_overlap": 1,
+  "combined_x_ids": 12995,
+  "close_read_records": 109,
+  "raw_sources_changed": false,
+  "new_network_collection": false
+}

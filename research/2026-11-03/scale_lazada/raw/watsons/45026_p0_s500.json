@@ -1,0 +1,124 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 9,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.78",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 1,
+      "rating4Count" : 0,
+      "rating5Count" : 8
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Tandy Dermawan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-13T07:55:10+0000",
+      "headline" : "review-45026-WTCID18709230",
+      "id" : "9091754131505",
+      "like" : 0,
+      "rating" : 3.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jie",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Rasa yang segar pas dipakai dan setelah pemakaian , memutihkan gigi , menguatkan gigi , membuat napas bebas dari bau tak sedap",
+      "date" : "2026-06-17T01:29:32+0000",
+      "headline" : "review-45026-WTCID19785075",
+      "id" : "9048533729329",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Almosyar Eprilio",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-12-29T02:39:44+0000",
+      "headline" : "review-45026-WTCID18448422",
+      "id" : "9010093850673",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nisa Andan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-12-28T04:54:01+0000",
+      "headline" : "review-undefined-WTCID18457238",
+      "id" : "9008999301169",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Lita Liana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-12-09T17:29:42+0000",
+      "headline" : "review-45026-WTCID18338053",
+      "id" : "9008433791025",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Naswa Desintia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Mantap bagus oke cepat keren",
+      "date" : "2025-11-24T17:05:48+0000",
+      "headline" : "review-45026-WTCID18352617",
+      "id" : "9008163651633",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Hani Rahayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "satunya 53rb,\nkalo beli 3 50rb keren banget promonya\uD83D\uDE0D",
+      "date" : "2025-11-07T03:38:05+0000",
+      "headline" : "review-45026-WTCID18081000",
+      "id" : "9003907579953",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Belinda Natalia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-10-23T02:32:27+0000",
+      "headline" : "review-45026-WTCID17785461",
+      "id" : "9002888167473",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Hani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-12T07:41:44+0000",
+      "headline" : "review-45026-WTCID17023553",
+      "id" : "8993528053809",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

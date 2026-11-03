@@ -1,0 +1,60 @@
+{
+  "lazada_reviews": {
+    "records": 681,
+    "lexical_counts_not_prevalence": {
+      "sensitivity_language": 123,
+      "household_language": 21,
+      "pre_use_or_uncertain_result": 20,
+      "service_delivery_language": 249,
+      "sensory_language": 241,
+      "price_promotion_language": 83,
+      "repeat_language": 29,
+      "stock_availability_language": 1
+    },
+    "incentive_counts": {
+      "not_established": 681
+    }
+  },
+  "reddit_comments": {
+    "records": 75,
+    "lexical_counts_not_prevalence": {
+      "sensory_language": 21,
+      "household_language": 10,
+      "price_promotion_language": 11,
+      "sensitivity_language": 10,
+      "repeat_language": 1,
+      "stock_availability_language": 3
+    },
+    "incentive_counts": {
+      "not_established": 75
+    }
+  },
+  "oresa_incentivized_reviews": {
+    "records": 298,
+    "lexical_counts_not_prevalence": {
+      "sensory_language": 186,
+      "sensitivity_language": 87,
+      "household_language": 94,
+      "service_delivery_language": 3,
+      "price_promotion_language": 7,
+      "repeat_language": 5
+    },
+    "incentive_counts": {
+      "campaign_cashback_and_review_tasks_explicit": 298
+    }
+  },
+  "tryandreview_reviews": {
+    "records": 100,
+    "lexical_counts_not_prevalence": {
+      "sensory_language": 72,
+      "household_language": 31,
+      "sensitivity_language": 22,
+      "price_promotion_language": 11,
+      "repeat_language": 1
+    },
+    "incentive_counts": {
+      "received_free_explicit": 51,
+      "not_established": 49
+    }
+  }
+}

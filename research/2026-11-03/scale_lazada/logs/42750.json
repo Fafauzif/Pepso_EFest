@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "42750",
+    "product_name": "Close Up Pasta Gigi Fresh Charcoal Mint 95g",
+    "unique_review_ids": 49,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 49,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-42750-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/42750/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:54:13.232845+00:00",
+      "product_code": "42750",
+      "product_name": "Close Up Pasta Gigi Fresh Charcoal Mint 95g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/42750_p0_s500.json",
+      "sha256": "b16f27f5594f5f72f977ce9485c44b70fbb2099c7854088a8dea311477bd2728",
+      "bytes": 22413,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 49,
+        "totalPages": 1
+      },
+      "rows": 49
+    }
+  ]
+}

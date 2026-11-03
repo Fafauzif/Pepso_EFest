@@ -1,0 +1,18 @@
+[
+  {
+    "product_id": "1017",
+    "url": "https://oresa.id/produk-sampel/166/1017/pepsodent-gum-expert",
+    "raw_file": "raw/oresa_context_1017.html",
+    "sha256": "ed76476be0385c48665ae5ebc1155a9ac0e61099b91116f81d8628be64e09c96",
+    "status": "success",
+    "retrieved_at_utc": "2026-11-03T10:51:28.285607+00:00"
+  },
+  {
+    "product_id": "1061",
+    "url": "https://oresa.id/produk-sampel/214/1061/pepsodent-procare",
+    "raw_file": "raw/oresa_context_1061.html",
+    "sha256": "9444a3b0648b357c14f7667c0c40ad16b7ded91d0aec810417c241c7f9beb589",
+    "status": "success",
+    "retrieved_at_utc": "2026-11-03T10:51:36.868786+00:00"
+  }
+]

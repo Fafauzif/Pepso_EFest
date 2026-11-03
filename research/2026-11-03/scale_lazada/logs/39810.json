@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "product_code": "39810",
+    "product_name": "Pepsodent Pasta Gigi SensitivExpert Original 100g",
+    "unique_review_ids": 947,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 947,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-39810-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/39810/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:51:39.053734+00:00",
+      "product_code": "39810",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Original 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/39810_p0_s500.json",
+      "sha256": "c28a973b63ebe86de2c2811ce111c8ba93f727365173aca1fe40ccc6ab0aa4b7",
+      "bytes": 209558,
+      "pagination": {
+        "count": 500,
+        "hasNext": true,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 947,
+        "totalPages": 2
+      },
+      "rows": 500
+    },
+    {
+      "source_id": "WATREV-39810-P1-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/39810/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=1&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:51:47.840708+00:00",
+      "product_code": "39810",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Original 100g",
+      "page_requested": 1,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/39810_p1_s500.json",
+      "sha256": "b65e310a2aaaa06925d2036ba4959d3aaccf10f96ce3350627a6396e6dc1a034",
+      "bytes": 181086,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": true,
+        "page": 1,
+        "totalCount": 947,
+        "totalPages": 2
+      },
+      "rows": 447
+    }
+  ]
+}

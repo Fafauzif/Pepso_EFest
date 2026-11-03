@@ -1,0 +1,69 @@
+[
+  {
+    "file": "indomaret_20250626.pdf",
+    "url": "https://www.indomaret.co.id/wp-content/uploads/2025/06/PDF-SH-26-Juni-2025-JawaBaliLombok-Compressed.pdfFF_.pdf",
+    "retrieved_at": "2026-11-03T10:31:39.807731+00:00",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 5773885,
+    "sha256": "48a0ede3512d87309b3a07e90cc972dcae1f305c12e4bde52b8d73edb81017e5",
+    "outcome": "downloaded"
+  },
+  {
+    "file": "century_mandiri_202411.pdf",
+    "url": "https://www.bankmandiri.co.id/documents/20143/175704414/FAQ%2BDaftar%2BProduk%2BCentury%2BAnniversary.pdf/6ca1b5bc-bb75-072e-c8db-9e0fcd250bde?t=1758859152400&version=1.0",
+    "retrieved_at": "2026-11-03T10:31:39.809812+00:00",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 1066656,
+    "sha256": "75ce26439057c24823edfec6205f65b9f58e71950aa13ab7a7fdc59319809763",
+    "outcome": "downloaded"
+  },
+  {
+    "file": "ski_factsheet.pdf",
+    "url": "https://repository.badankebijakan.kemkes.go.id/5534/1/04%20factsheet%20Gilut_bahasa.pdf",
+    "retrieved_at": "2026-11-03T10:31:39.810453+00:00",
+    "status": 200,
+    "content_type": "application/pdf",
+    "bytes": 201901,
+    "sha256": "663f46b0a400023b15fc9ede470840b775bc93248794e8133670ffb2c0ad7f9a",
+    "outcome": "downloaded"
+  },
+  {
+    "file": "bps_variable.html",
+    "url": "https://sirusa.bps.go.id/metadata/variabel/3bf88b6a-eaa5-5ada-82e6-8ab10e95fe5a",
+    "retrieved_at": "2026-11-03T10:31:39.811148+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 71090,
+    "sha256": "9433133b89a50a63d543bfc235c56b754928cc6a4ff11a14eb1d0c9c3871bdb8",
+    "outcome": "downloaded"
+  },
+  {
+    "file": "halodoc_terms.html",
+    "url": "https://www.tanyapepsodent.com/pepsodent-halodoc-terms-conditions.html",
+    "retrieved_at": "2026-11-03T10:31:39.811966+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 1509639,
+    "sha256": "53ad5a6fb8491a92d9c316ae66af03bba7be2bde25d6086f3810acc1044c7e83",
+    "outcome": "downloaded"
+  },
+  {
+    "file": "fifa_terms.html",
+    "url": "https://www.tanyapepsodent.com/promo-fifa-unjukgigi-terms-conditions.html",
+    "retrieved_at": "2026-11-03T10:31:48.473297+00:00",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 1530939,
+    "sha256": "57120c7ea3ee12d84d78878e752f8f380e1f070da1c5cf542277f4ea10f611ad",
+    "outcome": "downloaded"
+  },
+  {
+    "file": "google_trends_explore.json",
+    "url": "https://trends.google.com/trends/api/explore?hl=en-US&tz=-420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22pepsodent%22%2C%22geo%22%3A%22ID%22%2C%22time%22%3A%222022-01-01%202026-06-30%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+    "retrieved_at": "2026-11-03T10:31:50.383147+00:00",
+    "outcome": "failed",
+    "error": "HTTP Error 429: Too Many Requests"
+  }
+]

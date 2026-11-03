@@ -1,0 +1,20 @@
+[
+  {
+    "product_id": "59741",
+    "rows": 646,
+    "explicit_free": 599,
+    "age18_30_selfreport": 82
+  },
+  {
+    "product_id": "23607",
+    "rows": 332,
+    "explicit_free": 293,
+    "age18_30_selfreport": 14
+  },
+  {
+    "product_id": "16659",
+    "rows": 445,
+    "explicit_free": 345,
+    "age18_30_selfreport": 283
+  }
+]

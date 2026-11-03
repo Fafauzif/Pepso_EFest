@@ -1,76 +1,57 @@
-# Current project state - 3 November 2026 (Asia/Jakarta)
+# Current project state — 3 November 2026 (Asia/Jakarta)
 
-Read this supplement before treating the original 29 October pack as current. The original pack is preserved byte-for-byte in `context/E_Fest_2026_Pepsodent_Master_AI_Context_Pack.md`. Its historical statement that no team research dataset exists is superseded only to the extent described here: we now have 300 pasted keyword observations. We still have no team interview or survey dataset, no collected review/comment dataset, no validated switching mechanism and no selected solution.
+## Accepted scope
 
-## User objective and decisions
+The repository is intended for the private team. Analysis and teaching are in English; fieldwork tools are in Indonesian. Access to participants is uncertain, so the primary-research plan has flexible versions. The user requested all available research, data and substantive chat context in an extract-and-replace ZIP, delivered through Filebin. They will commit and push with GitHub Desktop.
 
-- Competition: Economics Festival 2026 Pepsodent business case, young adults aged 18-30 moving from Premium toward Basic. The case horizon ends H1 2026.
-- User wants broad preliminary exploration before locking into a diagnosis or solution. Preserve competing explanations and disconfirming evidence.
-- User owns/accesses Semrush, but export was unavailable. Ctrl+A / Ctrl+C / paste successfully supplied data, so keyword collection can continue without spending on Apify.
-- User has an Apify Free account with a stated $5 credit budget. No paid run or scraper output was provided or executed in this thread.
-- User requested a ZIP for manual upload to a private repository, including cleaned data, cleaning context, original master MD, guidebook and business-intuition material. User explicitly chose the guidebook transcript embedded in the master pack. No remote repository was supplied, cloned, created or published.
-- Intended future workflow: a new assistant clones the accessible private repo and reads the files below. Repo access depends on that assistant's tools and authentication. No repository can automatically import unseen chat memories, files or service accounts.
+The user confirmed no newer edits. The final remote HEAD/main check matched the starting commit, 423cce08921b611fd01fbf6d25a0f86b65986f76. The assistant has not pushed, changed visibility, contacted participants or executed paid actors.
 
-## New evidence inventory
+Secondary research is sufficient to prioritize and challenge hypotheses. No final strategy, verified target-switcher sample, primary interviews, target-cohort prevalence, price elasticity, normal-price retention estimate or causal uplift forecast exists.
 
-Three local pasted inputs supply 300 rows and 300 unique normalized keywords. There are 138 positive volumes, 11 explicit zero volumes, 107 blanks and 44 explicit `n/a` volumes. No duplicate keyword groups or conflicting duplicate values were found. These are dataset coverage counts, not population statistics.
+## Evidence inventory
 
-`Pasted text (2)(1).txt` was listed as unavailable and is absent from this ZIP. It has not been read, reconstructed, or assigned fabricated metrics. It appears to correspond to the earlier gum/freshness/ingredients and price/promotion seed block, but its actual contents remain unknown. `docs/MISSING_INPUTS.md` records this gap.
+The portable master contains **314,476 retained written platform records across all retained scopes**. This is an archive inventory, not a count of independent people, eligible toothpaste experiences or Indonesian young adults.
 
-Sources 01 and 02 are seven-column tab-separated captures without headers. Their semantic mapping remains inferred. Source 03 is a full-page vertical copy with explicit headers including `CPC (IDR)`, its entered 100-keyword list and 100 result rows. The parser validates the entered/result keyword sets match. Source 03's trend graphics and SERP icons were not copied as usable data.
+| Platform | Written inventory records |
+|---|---:|
+| Amazon external context | 286,706 |
+| Watsons | 7,419 |
+| Lazada | 681 |
+| ORESA | 2,228 |
+| TryandReview | 1,423 |
+| Reddit | 389 |
+| X | 12,995 |
+| TikTok | 2,372 |
+| Tokopedia | 263 |
 
-Indonesia was the user's requested location. None of these captures independently displays the selected country clearly enough for verification. `country_requested=Indonesia` and `country_verified_in_capture=false` make that limitation explicit. Source 03 confirms IDR as CPC currency. The other two files do not have an explicit currency header, so their currency is null pending confirmation. Exact collection timestamps are not available. Filenames and relative Updated labels are retained without converting them into absolute dates.
+The earlier integrated store contributes 298,846 records. Four new X exports contain 16,165 occurrences and 12,990 post IDs. One post overlaps the earlier six-post public sample; five additional brand excerpts are retained, giving 12,995 combined X IDs. Marketing and unresolved lexical candidates remain flagged. Author pseudonyms are not known people or verified demographics.
 
-Four pasted CPC numbers exceed the transparent diagnostic threshold of 100,000: pepsodent herbal (5,216,087.41), pepsodent pencegah gigi berlubang (5,205,573.67), pepsodent sensitive mineral expert (993,549.09), and odol untuk gigi kuning (536,019.83). These are flags for review, not proven errors. Raw values are unchanged; no decimal-shift correction was guessed. CPC analysis values are withheld for all currency-unconfirmed source 01/02 rows. Source 03 confirmed-IDR values are available.
+TikTok contains 2,380 IDs, including eight blank texts, across 18 videos. All 699 replies have their parent IDs in the export. Using Jakarta dates, 1,648 comments fall within 2022–H1 2026. Earlier chat counts of 1,649 used UTC; one comment crosses midnight at the H1 boundary. Both conventions are preserved.
 
-## What the new data can support
+Tokopedia contains 266 unique review IDs, including all 43 pilot IDs. There are 263 nonempty texts, 256 broad written-toothpaste candidates and 147 provisional case-period candidates under source-specific exclusions. Date fields disagree in 186 of the 198 records where both fields are present; another 68 lack reviewTime. Missing is not disagreement. A preliminary 254/266 comparison incorrectly counted missing fields as conflicts and is superseded. Source dates remain unverified.
 
-Keyword discovery, relative search-interest exploration, search wording, themes and follow-up research questions. It cannot establish consumer sentiment, clinical effectiveness, buyer age, sales, market share, unique people, willingness to pay, causation or actual switching. Brand names such as `close up` may have non-toothpaste meanings. Model-assigned search intent is not a respondent's stated motivation. Missing volume is not zero demand. Do not sum related keyword volumes into market size or treat this AI-seeded keyword sample as exhaustive or random.
+Shopee's two error rows and 100 Singapore UGREEN review records are archived but excluded from oral-care analysis. The reported 5,323 scanned shop reviews were not delivered. Product cards, billing notices, blanks, repeated observations and copied text are not additional independent consumer accounts.
 
-Examples preserved in the data: `pepsodent whitening` 4,400; `pepsodent sensitive expert` 3,600; `pepsodent herbal` 2,900. These are reported values in the capture, conditional on the unverified location/header mapping. They are not premium sales or preference shares. New current captures cannot automatically establish the causes of the case's H1 2026 decline. Month-by-month trends were not recovered from these pasted sources.
+The earlier Amazon pass screened 26,125,466 review rows and 857,856 metadata rows; the full upstream millions were not retained. International title candidates include adjacent, children's and accessory products, with documented classification errors. International evidence remains contextual. All target-age and Pepsodent Premium-to-Basic verification flags remain false.
 
-## Product-catalog research already discussed
+Earlier retail contexts, brand/campaign/history observations, literature appraisals, public indicators, original teaching material and 300 keyword observations remain included. Their units and overlapping subsets must not be added together as consumers or reviews. Source-specific eligibility and incentive limitations accompany any interpretation.
 
-Earlier browsing found Indonesian product pages for Sensitive Expert Original, Fresh and Whitening; Complete Care also appeared in official promotion terms and retail listings. Gum Expert Fresh/Whitening and Ultra White Ultimate Bright/Fresh Shine/Gentle Radiance/Purified Shine were also found. Complete 8 Plus Whitening and Complete 8 Herbal exist. Keep product existence separate from the case's precise premium SKU classification and historical availability by H1 2026. Sensitive Expert 100g at Rp41,900 is the case's premium price example, not a universal live retail price.
+## What the analysis changes
 
-Primary discovery links (checked in the preceding conversation, not revalidated during ZIP packaging):
-- https://www.tanyapepsodent.com/pepsodent-expert.html
-- https://www.tanyapepsodent.com/sensitive-expert.html
-- https://www.tanyapepsodent.com/rangkaian-produk/ultra-white.html
-- https://www.tanyapepsodent.com/pepsodent-halodoc-terms-conditions.html
-- https://www.tanyapepsodent.com/p/pasta-gigi-pepsodent-complete-8-herbal.html/08999999710873
+Payer transitions, household authority, sensory fit, experienced benefit, availability and regular refill affordability remain competing mechanisms. New examples include explicit Ultra White repurchase because it fits, benefit-driven Sensodyne continuation, Enzim loyalty alongside promotion interest, and parent-funded Sensodyne versus self-paid boarding-house affordability. The source-linked report presents counterexamples and alternative interpretations. These accounts do not establish the causes or shares of the case's decline.
 
-## Research/tool discussion retained
+The new close-reading set contains **294 annotations: 109 X, 100 TikTok and 85 Tokopedia**. Sampling methods and independent assistant consistency checks are documented. All 266 Tokopedia texts were also screened. Close reading is not a representative survey or human field validation.
 
-Semrush was selected for mapping search language and estimated search demand. Keyword Magic: Indonesia database, related terms and Questions, preserve low-volume searches. Keyword Overview: inspect selected terms, estimates, trends and search results. Standard search volume is an estimated monthly search frequency, not unique searchers. Keyword Magic cannot select historical date ranges; historical Overview access depends on plan. Sources: https://www.semrush.com/kb/617-keyword-magic-tool-manual ; https://www.semrush.com/kb/257-keyword-overview ; https://www.semrush.com/kb/683-what-is-search-volume-in-semrush ; https://www.semrush.com/kb/1138-date-range-in-kmt . These are reference links, not a claim of current feature or subscription entitlements in future sessions.
+Historical minimarket promotions and larger premium packs exist. Pepsodent already has ShadeScan AI, specialist education, professional-care activity and sampling history. A generic scanner, education or discount idea needs a specifically demonstrated unmet mechanism. Basic can be a rational sufficient choice.
 
-A 400-phrase brainstorming list was provided in eight groups of 50: general category; Pepsodent products; sensitivity; whitening; gum/freshness/cavities/ingredients; price/promotion/packs/channels; competitors; habits/trust/switching/adjacent care. The 300 observed phrases now cover the first four and final two groups. The missing capture must not be filled using invented volume data. Original seed wording included product-name probes, so a query does not prove a SKU exists.
+## Next work
 
-Social/review research design: combine marketplace reviews, social comments, search behaviour and exploratory purchase interviews. Search beyond brand terms. Include Basic, premium, competitors and needs. Read about 100 substantive items manually before expansion. A possible next collection is around 1,000-2,000 usable records spread across sources and posts, plus 6-10 exploratory conversations; these were planning suggestions, not completed samples or statistical targets. Do not claim saturation from a fixed interview count.
+Read the new decision brief, diagnosis/teaching report and 11-hypothesis matrix in research/2026-11-03/closure/synthesis/. Then use closure/primary_research/README.md to prepare two pilot interviews followed by an adaptable initial 8–12 substantive purchase-history interviews. Verify 18–30 eligibility and actual product/variant history; include contrasting retained-premium and Basic/competitor pathways.
 
-Preserve source URL, exact text, post context, date, product/variant/size, actual-use vs question/hearsay, rating, creator type and supporting phrase. Separate delivery/service reviews from product experience. Include independent, brand, dentist and affiliate posts; cap contribution per post. Keep purposive low-rating oversamples separate for prevalence estimates. Analyse need, experienced result, value, choice friction and stated behaviour, allowing emerging themes. Human-check AI tags and slang/sarcasm. Do not infer age or prior premium-to-basic switching from profile appearance. Ask confirmed 18-30 interviewees about actual last purchases, paid prices, payer, household users, prior products and repurchase.
+Ask who chose, paid and used the product; what was bought previously; pack, outlet and actual paid price; available alternatives; and what happened at replacement. Optional natural replenishment follow-up can observe action rather than only stated intention. All response templates are blank. No primary fieldwork has occurred. No further broad paid collection is required before piloting this work.
 
-Apify candidates discussed historically, none execution-tested in this conversation:
-- clockworks/tiktok-comments-scraper
-- apify/instagram-comment-scraper
-- streamers/youtube-comments-scraper
-- scrapewise/shopee-reviews-scraper (advertised Indonesia support; not verified by a run)
-- Google Trends for normalized search interest (0-100, not absolute volume or sentiment)
-- Brand24 for ongoing listening (coverage and historical access must be checked)
+## Reproduction and continuity
 
-For keyword fallback, PNDA `pnda/semrush-keyword` was recommended after checking country schema and public usage/review signals. It advertises Indonesian database `id`, seed expansion and no Semrush login. The preceding check found a documented FREE-plan result fee of $0.006/keyword (headline lower prices were for other tiers) and shared daily capacity limits. Pilot: one seed, one page up to 100 rows (~$0.60 result fees). Proposed main run: five seeds, one page each, up to 500 rows (~$3.00 fees). Those were estimates, not actual spend; verify all live pricing and free-plan limits before any future run. Do not send all 400 seeds: every seed could expand. Other actors had restrictions: doesaiknow country input excluded Indonesia and warned of silent US fallback; santhej's published country enum excluded Indonesia despite wider marketing claims; cheapapi had a $0.25 Free-plan monthly actor allowance; reliable-feeds was marked unavailable. These observations explain the choice, not permanent tool judgments.
+All 11 new attachments are archived losslessly, with original-byte SHA-256 values in closure/raw/UPLOAD_REGISTER.json. Source-specific clean tables, occurrences, exclusions, annotations, codebooks and rebuild scripts are retained. The new integrated record-aware shards work directly. Five larger legacy exports are exactly reconstructible from release/LARGE_FILES.json in the portable package; local restored paths are Git-ignored.
 
-Pilot JSON and main JSON are preserved in `context/apify_historical_configs.json`. They are optional historical configurations. The user then found working copy/paste, so there is no need to run them merely because they exist.
-
-## Current next steps
-
-1. Confirm Indonesia database once and source 01/02 column headers and currency; recover missing pasted source if available.
-2. Review `docs/CLEANING.md`, `docs/DATA_DICTIONARY.md` and the row-level flags before analysis.
-3. Explore multiple explanations and choose informative sources for comment/review research. Keep the case survey, search estimates and genuine primary observations distinct.
-4. Update this dated state when new evidence or team decisions arrive. No final diagnosis, strategy, implementation budget, pilot forecast or submission is approved.
-
-## Sources and authority
-
-Original organizer rules are transcribed in `sources/transcripts/Preliminary_Guidebook_Transcript.md`; original case text and manually recovered chart values remain in the original master. Transcripts may contain extraction artifacts and are not official PDF facsimiles. Guidebook PDF bytes were not supplied to this package. The supplied business-intuition PDF is an earlier AI learning document containing hypotheses and fictional portraits; it is not team field evidence or an official case document. Its exact relationship to the embedded manuscript has not been established by byte equality. Keep both versions and their provenance.
-
-This supplement summarizes substantive visible conversation decisions and workflows. It does not pretend to be a verbatim export of all chat messages, hidden state or unavailable attachments. No unrelated user memories are included.
+Read START_HERE.md and closure/context/SESSION_HANDOFF.md for the complete substantive visible-chat handoff. Previous current-state, README and combined-context versions remain in closure/context/BEFORE_CLOSURE_*. Original master and raw sources remain unchanged; missing original PDFs/inputs remain missing. This is a substantive reconstruction, not a verbatim chat export or unseen memory. The historical Filebin receipt is retained; the new delivery receipt accompanies the final archive.

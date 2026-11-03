@@ -1,0 +1,30 @@
+{
+  "unit": "keyword observation in existing purposive AI-seeded capture; not person",
+  "newly_collected": false,
+  "observations": 300,
+  "volume_status": {
+    "not_available": 44,
+    "blank": 107,
+    "positive": 138,
+    "zero": 11
+  },
+  "country_verified": 0,
+  "overlapping_tags": {
+    "comparison_switching": 30,
+    "general_or_other": 79,
+    "ingredients_safety_trust": 19,
+    "habits_usage": 31,
+    "sensitivity": 68,
+    "whitening": 54,
+    "price_promotion": 17,
+    "reviews_recommendations": 37,
+    "adjacent_oral_care": 14,
+    "freshness": 8,
+    "gum_care": 4
+  },
+  "warnings": [
+    "No demand summation or market sizing",
+    "Location requested Indonesia but not verified",
+    "No inferred demographic, sentiment or causal switching evidence"
+  ]
+}

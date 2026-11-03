@@ -1,0 +1,23 @@
+[
+  {
+    "product_id": "59741",
+    "product_name": "Pepsodent Pasta Gigi Pencegah Gigi Berlubang",
+    "displayed_review_count": 646,
+    "source_url": "https://www.tryandreview.com/id/personal-care/oral-care/pepsodent/product/pasta-gigi-pecengah-gigi-berlubang",
+    "count_evidence": "meta itemprop reviewCount in baseline raw tar_product_0.html"
+  },
+  {
+    "product_id": "23607",
+    "product_name": "Pepsodent Complete8 Multi Protection",
+    "displayed_review_count": 332,
+    "source_url": "https://www.tryandreview.com/id/personal-care/oral-care/pepsodent/product/complete-8-multi-protection",
+    "count_evidence": "meta itemprop reviewCount in baseline raw tar_product_1.html"
+  },
+  {
+    "product_id": "16659",
+    "product_name": "Closeup White Attraction Natural Smile",
+    "displayed_review_count": 445,
+    "source_url": "https://www.tryandreview.com/id/personal-care/oral-care/closeup-indonesia/product/close-up-white-attraction-natural-smile-from-unilever-indonesia",
+    "count_evidence": "raw/discovery_closeup.html meta reviewCount"
+  }
+]

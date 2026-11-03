@@ -1,0 +1,103 @@
+{
+  "format": "lossless_concatenated_byte_parts_v1",
+  "part_maximum_bytes": 33554432,
+  "restore_command": "python scripts/restore_large_files.py",
+  "note": "These legacy compressed exports are represented by exact byte parts. New integrated data are independently readable record-aware gzip shards. Original source bytes are preserved through exact reconstruction.",
+  "files": [
+    {
+      "path": "research/2026-11-03/scale_amazon/health_household/clean/reviews.jsonl.gz",
+      "bytes": 50103532,
+      "sha256": "e22baec5a67af740bd736c27ab052f875c167ba9604a8c9ecf90ea06a78a298d",
+      "parts": [
+        {
+          "path": "release/large_file_parts/e22baec5a67af740bd736c27ab052f875c167ba9604a8c9ecf90ea06a78a298d/part-0000.bin",
+          "bytes": 33554432,
+          "sha256": "49a8b198f27a47495998e8ea4ca87995ecf7d5400cc3776f9e0a01d7bd9601eb"
+        },
+        {
+          "path": "release/large_file_parts/e22baec5a67af740bd736c27ab052f875c167ba9604a8c9ecf90ea06a78a298d/part-0001.bin",
+          "bytes": 16549100,
+          "sha256": "a0ff9ebba1e9bcffb7ca4a8e59fd10aa88f20509c3ba0e0692bf1ee6e580a6dd"
+        }
+      ]
+    },
+    {
+      "path": "research/2026-11-03/scale_amazon/health_household/clean/reviews_classified.jsonl.gz",
+      "bytes": 52815162,
+      "sha256": "0886713b8687de0cf2f83cca24cdf407b299247094d5e0bd10f53622b4b4d2ca",
+      "parts": [
+        {
+          "path": "release/large_file_parts/0886713b8687de0cf2f83cca24cdf407b299247094d5e0bd10f53622b4b4d2ca/part-0000.bin",
+          "bytes": 33554432,
+          "sha256": "886d38954cabf48a9c3efabf566f6c8d497e3b8eca54496aa89d36af5e6c623c"
+        },
+        {
+          "path": "release/large_file_parts/0886713b8687de0cf2f83cca24cdf407b299247094d5e0bd10f53622b4b4d2ca/part-0001.bin",
+          "bytes": 19260730,
+          "sha256": "4186b8a9ab57d399bcb78c88a5c0442ab47b5348e390e57eee1aed3aa4b0cec8"
+        }
+      ]
+    },
+    {
+      "path": "research/2026-11-03/scale_pipeline/clean/export/observations.jsonl.gz",
+      "bytes": 85710074,
+      "sha256": "6ce83fdc3c48549e4ffc55b4051bfd64df087af4dd99f122d8be757d7b92626b",
+      "parts": [
+        {
+          "path": "release/large_file_parts/6ce83fdc3c48549e4ffc55b4051bfd64df087af4dd99f122d8be757d7b92626b/part-0000.bin",
+          "bytes": 33554432,
+          "sha256": "e0d561d1c5904b58b3b9a31c7a7ee39c678065c3241d9dd242b182863fdf1723"
+        },
+        {
+          "path": "release/large_file_parts/6ce83fdc3c48549e4ffc55b4051bfd64df087af4dd99f122d8be757d7b92626b/part-0001.bin",
+          "bytes": 33554432,
+          "sha256": "6326c3f4c1e4d4bc39518cd1347934e88e9c9113c87ee10078e5bbceee137c79"
+        },
+        {
+          "path": "release/large_file_parts/6ce83fdc3c48549e4ffc55b4051bfd64df087af4dd99f122d8be757d7b92626b/part-0002.bin",
+          "bytes": 18601210,
+          "sha256": "cca6df151785d751c1a135b49fe1f59c3e839803b50484ebbbadd6805cb87577"
+        }
+      ]
+    },
+    {
+      "path": "research/2026-11-03/scale_pipeline/clean/export/records.csv.gz",
+      "bytes": 63633349,
+      "sha256": "51bc410fd0bd885c75b23b82d53b3a66b40b5121fc200d7729621d95ad99909a",
+      "parts": [
+        {
+          "path": "release/large_file_parts/51bc410fd0bd885c75b23b82d53b3a66b40b5121fc200d7729621d95ad99909a/part-0000.bin",
+          "bytes": 33554432,
+          "sha256": "40e1825978c522d6f0575861c78b798cfaf9b3a0e9868d55c94b2ff787697b3e"
+        },
+        {
+          "path": "release/large_file_parts/51bc410fd0bd885c75b23b82d53b3a66b40b5121fc200d7729621d95ad99909a/part-0001.bin",
+          "bytes": 30078917,
+          "sha256": "04314afd4caedb50ac6f21afaf7830aaaeab0e895fda02eb79d0d788b85a2abc"
+        }
+      ]
+    },
+    {
+      "path": "research/2026-11-03/scale_pipeline/clean/export/records.jsonl.gz",
+      "bytes": 67676612,
+      "sha256": "1dd8828284b099a6719295ac303bcd7d53d59de446c0b84e963ffcd74e47b779",
+      "parts": [
+        {
+          "path": "release/large_file_parts/1dd8828284b099a6719295ac303bcd7d53d59de446c0b84e963ffcd74e47b779/part-0000.bin",
+          "bytes": 33554432,
+          "sha256": "97ce226d760142fe181f0c59c0245716934fcb28704fc3b4fed876b6bca8bb89"
+        },
+        {
+          "path": "release/large_file_parts/1dd8828284b099a6719295ac303bcd7d53d59de446c0b84e963ffcd74e47b779/part-0001.bin",
+          "bytes": 33554432,
+          "sha256": "85625b699fb32659fabf4e634ecf01d51b559c1416aa4055a42b6cfa2b802d9b"
+        },
+        {
+          "path": "release/large_file_parts/1dd8828284b099a6719295ac303bcd7d53d59de446c0b84e963ffcd74e47b779/part-0002.bin",
+          "bytes": 567748,
+          "sha256": "40ed513a7cebde85945aa2a6ae6e56d4d5c5f769e67c5fd8221f7004f6b86709"
+        }
+      ]
+    }
+  ]
+}

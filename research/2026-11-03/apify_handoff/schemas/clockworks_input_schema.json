@@ -1,0 +1,119 @@
+{
+  "title": "Input schema for TikTok comments scraper",
+  "description": "Scrapes comments from individual videos fast and with ease.",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "postURLs": {
+      "title": "TikTok video URLs",
+      "type": "array",
+      "editor": "stringList",
+      "description": "Add the video URLs you want to extract comments from. Enter URLs one by one or edit it in bulk.",
+      "prefill": [
+        "https://www.tiktok.com/@looooooooch/video/7332342275151760642"
+      ]
+    },
+    "commentsPerPost": {
+      "title": "Maximum comments (replies included) per post",
+      "type": "integer",
+      "unit": "comments",
+      "description": "The number of comments extracted from every result. Due to TikTok API limitations, the actual number of scraped comments may differ, especially for posts with thousands of comments.",
+      "minimum": 1,
+      "prefill": 100
+    },
+    "topLevelCommentsPerPost": {
+      "title": "Maximum top-level comments per post",
+      "type": "integer",
+      "unit": "comments",
+      "description": "The maximum number of top-level (non-reply) comments you want from a single post.",
+      "minimum": 1
+    },
+    "maxRepliesPerComment": {
+      "title": "Maximum replies per comment",
+      "description": "The maximum number of replies you want from a single comment. \n\nNote: Successful extraction of all desired replies is currently not guaranteed.",
+      "type": "integer",
+      "prefill": 0,
+      "minimum": 0,
+      "unit": "replies"
+    },
+    "profiles": {
+      "title": "Usernames",
+      "type": "array",
+      "editor": "stringList",
+      "description": "Add one or multiple TikTok usernames you want to scrape. You can enter the usernames one by one, or use the <strong>Bulk edit</strong> section to add a prepared list.",
+      "sectionCaption": "\ud83d\ude0e Comments from TikTok profiles",
+      "sectionDescription": "Alternatively, add one or multiple TikTok usernames whose videos' comments you want to scrape.\n\n <strong>Imporant</strong>: Don't forget to fill out the <strong> \ud83d\udcaf Number of videos </strong> you want to scrape in the section below."
+    },
+    "resultsPerPage": {
+      "title": "\ud83d\udcaf Number of videos per profile ",
+      "type": "integer",
+      "unit": "videos",
+      "description": "Add the number of videos you want to scrape per profile.",
+      "minimum": 1,
+      "default": 1,
+      "prefill": 100,
+      "maximum": 1000000
+    },
+    "profileScrapeSections": {
+      "title": "Profile sections to scrape",
+      "description": "If a profile has reposted videos, you can scrape them by selecting <i>Reposts</i>",
+      "type": "array",
+      "editor": "select",
+      "minItems": 1,
+      "uniqueItems": true,
+      "default": [
+        "videos"
+      ],
+      "items": {
+        "type": "string",
+        "enum": [
+          "videos",
+          "reposts"
+        ],
+        "enumTitles": [
+          "Videos",
+          "Reposts"
+        ]
+      }
+    },
+    "profileSorting": {
+      "title": "Profile video sorting",
+      "description": "Select Latest to scrape the most recent videos first, Oldest - the oldest videos first, Popular - the most popular videos first. Date filters only work with Latest and Oldest. Note: Popular sorting is limited by TikTok to approximately 400\u2013500 videos per profile and may return significantly fewer results than Latest or Oldest.",
+      "type": "string",
+      "editor": "select",
+      "default": "latest",
+      "enum": [
+        "latest",
+        "popular",
+        "oldest"
+      ],
+      "enumTitles": [
+        "Latest",
+        "Popular",
+        "Oldest"
+      ]
+    },
+    "oldestPostDateUnified": {
+      "title": "Scrape profile videos published after [date]",
+      "type": "string",
+      "editor": "datepicker",
+      "dateType": "absoluteOrRelative",
+      "pattern": "^(\\d{4})-(0[1-9]|1[0-2])-(0[1-9]|[12]\\d|3[01])(T[0-2]\\d:[0-5]\\d(:[0-5]\\d)?(\\.\\d+)?Z?)?$|^(\\d+)\\s*(minute|hour|day|week|month|year)s?$",
+      "description": "Optional filter. Only videos uploaded after or on this date will be scraped. Alternatively, specify how old the scraped videos should be in days. Putting <code>1</code> will get you only today's posts, <code>2</code> - yesterday's and today's, and so on."
+    },
+    "newestPostDate": {
+      "title": "Scrape videos published before [date]",
+      "type": "string",
+      "editor": "datepicker",
+      "description": "Optional filter. Only videos uploaded before or on this date will be scraped."
+    },
+    "excludePinnedPosts": {
+      "title": "Exclude pinned posts",
+      "type": "boolean",
+      "default": false,
+      "description": "Tick to exclude pinned posts from profiles. Pinned posts are usually the first videos on a profile's page.",
+      "editor": "checkbox"
+    }
+  },
+  "required": []
+}

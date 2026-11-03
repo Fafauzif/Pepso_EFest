@@ -1,0 +1,47 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 2,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 2
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Ai",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-08T10:48:49+0000",
+      "headline" : "review-31512-WTCID17018012",
+      "id" : "8993810382897",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "yuni",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-05T14:21:56+0000",
+      "headline" : "review-31512-WTCID17017315",
+      "id" : "8993456554033",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

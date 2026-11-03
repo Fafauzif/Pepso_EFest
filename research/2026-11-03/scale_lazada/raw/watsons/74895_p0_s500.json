@@ -1,0 +1,89 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 5,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 5
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Citra syafira Putri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-09-11T11:39:12+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-74895-WTCID21714004",
+      "id" : "9105813372977",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Harga murah dengan produk original ",
+      "date" : "2026-08-19T22:04:46+0000",
+      "headline" : "review-74895-WTCID21313038",
+      "id" : "9093979701297",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "nabila annisa trie kusnadi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "good",
+      "date" : "2026-07-28T17:09:08+0000",
+      "headline" : "review-74895-WTCID21063000",
+      "id" : "9083762016305",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "BERTONY SUHERMAN",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Murah banget beli pas ada promo, sekalian borong banyak",
+      "date" : "2026-07-13T17:34:40+0000",
+      "headline" : "review-74895-WTCID19378365",
+      "id" : "9067740758065",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Faiq Ahmad Faruq Assyafiy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Harga termurah untuk produk ini, di tempat lain lebih mahal",
+      "date" : "2026-04-27T23:39:55+0000",
+      "headline" : "review-74895-WTCID19328162",
+      "id" : "9032408760369",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/74895/9032408760369/WTCID19328162_74895_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/74895/9032408760369/WTCID19328162_74895_1.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

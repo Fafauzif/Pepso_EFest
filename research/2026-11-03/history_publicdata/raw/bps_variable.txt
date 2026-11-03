@@ -1,0 +1,192 @@
+Variabel: Pengeluaran Aneka Barang dan Jasa
+BADAN PUSAT STATISTIK
+Beranda
+Metadata Statistik
+Instrumen
+Tentang Kami
+📊
+MS-KEG
+Kegiatan Statistik
+Rancangan & metodologi sensus, survei, dan kompilasi produk administrasi.
+Jelajahi Katalog →
+≡
+MS-VAR
+Variabel Statistik
+Konsep, definisi operasional, dan klasifikasi standar variabel statistik.
+Jelajahi Katalog →
+▤
+MS-IND
+Indikator Statistik
+Hasil kompilasi indikator statistik nasional, rumus, dan interpretasi.
+Jelajahi Katalog →
+API
+INDAH
+Beranda
+Metadata Statistik
+📊 Kegiatan Statistik (MS-Keg)
+≡ Variabel Statistik (MS-Var)
+▤ Indikator Statistik (MS-Ind)
+📥 Instrumen & Regulasi
+🏛 Tentang Kami
+⚡ API (dna.web.bps.go.id)
+🚀 INDAH (indah.bps.go.id)
+≡
+METADATA VARIABEL STATISTIK
+Pengeluaran Aneka Barang dan Jasa
+Direktorat Statistik Kesejahteraan Rakyat
+← Kembali ke Daftar Variabel
+● Dapat Diakses Umum
+≡
+Pengeluaran Aneka Barang dan Jasa
+ID Variabel Indah:
+309465
+Alias:
+R268
+Tipe:
+Numeric
+Satuan:
+Rupiah
+Ukuran:
+Nilai
+💡
+Konsep & Definisi
+Uraian konseptual dan substansi variabel
+Konsep
+Pengeluaran
+Definisi Variabel
+Total pengeluaran rumah tangga untuk subkelompok aneka barang dan jasa selama sebulan dan setahun terakhir, mencakup kebutuhan perawatan diri, biaya kesehatan kuratif dan preventif, biaya obat, biaya pendidikan, transportasi, akomodasi, hiburan, dan jasa lainnya.
+Kalimat Pertanyaan (Kuesioner)
+"Pengeluaran sebulan/setahun terakhir"
+Referensi Pemilihan
+KBPRTI 2003 (Klasifikasi Baku Pengeluaran/Konsumsi Rumah Tangga Indonesia)
+Aturan Validasi
+Jika terisi; nilai = 0;
+⚙️
+Domain Nilai & Klasifikasi Isian
+Struktur rujukan kode dan kategori isian variabel
+Klasifikasi Rujukan
+-
+Klasifikasi Isian / Value Domain
+Kode
+Nilai / Kategori
+269
+Sabun mandi, pasta gigi, sikat gigi, dan sampo
+270
+Barang kecantikan
+271
+Perawatan kulit, muka, kuku, rambut
+272
+Sabun cuci
+273
+Bahan pemeliharaan pakaian
+274
+Surat kabar, majalah, buku-buku, dan alat tulis
+275
+Barang lainnya
+276
+Rumah sakit pemerintah
+277
+Rumah sakit swasta
+278
+Puskesmas/pustu/polindes/posyandu
+279
+Praktik dokter/poliklinik
+280
+Praktik petugas kesehatan
+281
+Praktik pengobatan tradisional
+282
+Dukun penolong persalinan
+283
+Obat yang dibeli dengan resep dari tenaga kesehatan
+284
+Obat modern yang dibeli tanpa resep dari tenaga kesehatan
+285
+Obat tradisional/jamu untuk pengobatan
+286
+Pembelian kacamata, kaki/tangan palsu (prostese), dan kursi roda
+287
+Periksa kehamilan
+288
+Imunisasi
+289
+Tes kesehatan/deteksi dini/Medical Check Up
+290
+Keluarga Berencana
+291
+Biaya pemeliharaan kesehatan lainnya
+292
+Sumbangan pembangunan sekolah (uang pangkal)
+293
+Uang sekolah (SPP/UKT) dan iuran komite sekolah/POMG
+294
+Iuran sekolah lainnya
+295
+Buku pelajaran/fotokopi bahan pelajaran
+296
+Alat-alat tulis
+297
+Uang kursus/bimbingan belajar di luar sekolah
+298
+Transportasi darat
+299
+Transportasi udara/pesawat
+300
+Transportasi laut/kapal feri/kapal laut
+301
+Lainnya (uang parkir, karcis tol, dsb.)
+302
+Hotel/motel/penginapan
+303
+Hiburan
+304
+Gaji/upah pembantu rumah tangga, satpam, tukang kebun, dan sopir
+305
+Jasa lembaga keuangan
+306
+Jasa lainnya
+📊
+Spesifikasi Teknis
+Atribut pengukuran dan referensi
+Tipe Data
+Numeric
+Satuan
+Rupiah
+Ukuran
+Nilai
+Referensi Waktu
+Sebulan dan setahun terakhir
+Dapat Diakses Umum
+Ya
+📁
+Kegiatan Statistik Terkait
+Kegiatan pengumpul variabel
+Survei Sosial Ekonomi Nasional dan Modul Konsumsi Pengeluaran
+Tahun:
+2025
+•
+Cara:
+SURVEI
+Buka Metadata Kegiatan →
+🏛
+Produsen Data & Administrasi
+Instansi penanggung jawab dan riwayat data
+ID Variabel Indah
+#309465
+Produsen Data
+Direktorat Statistik Kesejahteraan Rakyat
+Status Verifikasi
+APPROVED
+Dibuat Pada
+18 Juni 2026
+Diperbarui Pada
+11 September 2026
+BADAN PUSAT STATISTIK RI
+Sistem Rujukan Statistik Terintegrasi (SIRUSA) • Satu Data Indonesia
+© Metadata Statistik 2026. Hak Cipta Dilindungi.
+HUBUNGI KAMI
+Jl. Dr. Sutomo 6-8, Jakarta 10710 Indonesia
+(+6221) 3841195, 3842508, 3810291
+[email protected]
+ID
+EN

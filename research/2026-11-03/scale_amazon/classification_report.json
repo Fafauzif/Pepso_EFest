@@ -1,0 +1,41 @@
+{
+  "candidate_reviews": 2259,
+  "unique_canonical_ids": 2235,
+  "duplicate_ids": 24,
+  "review_scope_counts": {
+    "adult_human_toothpaste_title_candidate": 1592,
+    "adjacent_powder_or_alternative": 319,
+    "accessory_or_container": 209,
+    "pet_or_nonhuman": 64,
+    "brand_matched_type_unresolved": 14,
+    "child_or_infant": 61
+  },
+  "candidate_products": 347,
+  "product_scope_counts": {
+    "accessory_or_container": 47,
+    "adjacent_powder_or_alternative": 37,
+    "adult_human_toothpaste_title_candidate": 237,
+    "pet_or_nonhuman": 9,
+    "child_or_infant": 14,
+    "brand_matched_type_unresolved": 3
+  },
+  "rule_order": [
+    [
+      "pet_or_nonhuman",
+      "\\b(dogs?|puppy|puppies|cats?|pets?|canine|feline)\\b"
+    ],
+    [
+      "accessory_or_container",
+      "\\b(squeezers?|dispensers?|holders?|racks?|organizers?|rollers?|refillable|empty)\\b|toothpaste not included"
+    ],
+    [
+      "child_or_infant",
+      "\\b(kids?|children|child|toddlers?|baby|babies|paw patrol|training toothpaste)\\b"
+    ],
+    [
+      "adjacent_powder_or_alternative",
+      "\\b(powder|tooth soap|toothsoap|tablets?|mouthwash|replacement)\\b"
+    ]
+  ],
+  "scope": "historical international comparator only; no Indonesia inference; title classification not manual eligibility proof"
+}

@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "71176",
+    "product_name": "Pasta Gigi Gentle Whitening 160g",
+    "unique_review_ids": 16,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 16,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-71176-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/71176/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:55:01.349859+00:00",
+      "product_code": "71176",
+      "product_name": "Pasta Gigi Gentle Whitening 160g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/71176_p0_s500.json",
+      "sha256": "8abe506467a7f47be9d22458eacc20355a85feb8152839d129bb28ccc60b4579",
+      "bytes": 5944,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 16,
+        "totalPages": 1
+      },
+      "rows": 16
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "74894",
+    "product_name": "Pasta Gigi Gum Expert Sensitivity 100g",
+    "unique_review_ids": 7,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 7,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-74894-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/74894/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:56.790869+00:00",
+      "product_code": "74894",
+      "product_name": "Pasta Gigi Gum Expert Sensitivity 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/74894_p0_s500.json",
+      "sha256": "0f7cbf37adcbb3c03bbefa5ee06da755ebcc9c3c01597d42cf14d252b31f8037",
+      "bytes": 3485,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 7,
+        "totalPages": 1
+      },
+      "rows": 7
+    }
+  ]
+}

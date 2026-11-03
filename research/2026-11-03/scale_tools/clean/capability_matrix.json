@@ -1,0 +1,79 @@
+[
+  {
+    "tool": "praw",
+    "pypi_version_observed": "8.0.3",
+    "status": "docs_inspected_not_live_executed",
+    "constraint": "registered Reddit app configuration required",
+    "source_url": "https://praw.readthedocs.io/en/stable/getting_started/authentication.html",
+    "pypi_url": "https://pypi.org/project/praw/",
+    "metadata_raw_file": "raw/pypi_praw.json",
+    "installed_in_scratch": false,
+    "usable_records_from_client_test": 0
+  },
+  {
+    "tool": "asyncpraw",
+    "pypi_version_observed": "8.0.3",
+    "status": "docs_inspected_not_live_executed",
+    "constraint": "registered Reddit app configuration required",
+    "source_url": "https://asyncpraw.readthedocs.io/en/stable/getting_started/authentication.html",
+    "pypi_url": "https://pypi.org/project/asyncpraw/",
+    "metadata_raw_file": "raw/pypi_asyncpraw.json",
+    "installed_in_scratch": false,
+    "usable_records_from_client_test": 0
+  },
+  {
+    "tool": "twscrape",
+    "pypi_version_observed": "0.20.1",
+    "status": "source_inspected_not_executed",
+    "constraint": "X account or valid authorized session required",
+    "source_url": "https://github.com/vladkens/twscrape",
+    "pypi_url": "https://pypi.org/project/twscrape/",
+    "metadata_raw_file": "raw/pypi_twscrape.json",
+    "installed_in_scratch": false,
+    "usable_records_from_client_test": 0
+  },
+  {
+    "tool": "ntscraper",
+    "pypi_version_observed": "0.4.0",
+    "status": "installed_and_executed_zero_records",
+    "constraint": "requires functioning Nitter instance;tested endpoint served notice",
+    "source_url": "https://github.com/bocchilorenzo/ntscraper",
+    "pypi_url": "https://pypi.org/project/ntscraper/",
+    "metadata_raw_file": "raw/pypi_ntscraper.json",
+    "installed_in_scratch": true,
+    "usable_records_from_client_test": 0
+  },
+  {
+    "tool": "snscrape",
+    "pypi_version_observed": "0.7.0.20230622",
+    "status": "installed_and_executed_runtime_failure",
+    "constraint": "Python3.12 legacy importer failure before network",
+    "source_url": "https://github.com/JustAnotherArchivist/snscrape",
+    "pypi_url": "https://pypi.org/project/snscrape/",
+    "metadata_raw_file": "raw/pypi_snscrape.json",
+    "installed_in_scratch": true,
+    "usable_records_from_client_test": 0
+  },
+  {
+    "tool": "crawl4ai",
+    "pypi_version_observed": "0.9.5",
+    "status": "source_dependencies_inspected_not_executed",
+    "constraint": "general crawler;does not grant authentication",
+    "source_url": "https://github.com/unclecode/crawl4ai",
+    "pypi_url": "https://pypi.org/project/crawl4ai/",
+    "metadata_raw_file": "raw/pypi_crawl4ai.json",
+    "installed_in_scratch": false,
+    "usable_records_from_client_test": 0
+  },
+  {
+    "tool": "scrapling",
+    "pypi_version_observed": "0.5",
+    "status": "source_dependencies_inspected_not_executed",
+    "constraint": "core parser vs optional fetchers;does not grant authentication",
+    "source_url": "https://github.com/D4Vinci/Scrapling",
+    "pypi_url": "https://pypi.org/project/scrapling/",
+    "metadata_raw_file": "raw/pypi_scrapling.json",
+    "installed_in_scratch": false,
+    "usable_records_from_client_test": 0
+  }
+]

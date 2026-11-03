@@ -1,0 +1,168 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 13,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.69",
+      "rating1Count" : 1,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 12
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Jennifer Gabay",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Best tooth paste for sensitive gums. ",
+      "date" : "2026-08-23T05:27:21+0000",
+      "headline" : "review-27626-WTCID21319274",
+      "id" : "9095226949681",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "lina purba",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Ok kualitas baik dan packing aman cocok untuk semua kulit. ",
+      "date" : "2026-08-17T08:24:25+0000",
+      "headline" : "review-27626-WTCID17781141",
+      "id" : "9093500272689",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jenny Suryani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget dengan pasta giginya  harganya juga ok lagi promo",
+      "date" : "2026-07-08T06:25:59+0000",
+      "headline" : "review-27626-WTCID17924026",
+      "id" : "9059727704113",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Azizah Maida",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka banget ma pasta gigi dsri sensodyne ini, plus pas banget dpt harga ok banget di watsons ",
+      "date" : "2026-05-17T10:14:13+0000",
+      "headline" : "review-27626-WTCID19340191",
+      "id" : "9037525254193",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "amee amee",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Very satisfied with this item",
+      "date" : "2026-04-28T20:50:22+0000",
+      "headline" : "review-27626-WTCID19333418",
+      "id" : "9032317239345",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "yuna yuna",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Very satisfied with this item",
+      "date" : "2026-04-28T20:48:41+0000",
+      "headline" : "review-27626-WTCID19326322",
+      "id" : "9032317075505",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fathia Tisna Dyah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-09-01T11:59:36+0000",
+      "headline" : "review-27626-WTCID15806127",
+      "id" : "8996892639281",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ruth Ambarita",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi andalan untuk gigi sensitif. Selalu pake Sensodyne , nyaman dan oke buat perawatan gigi.",
+      "date" : "2025-06-02T09:28:08+0000",
+      "headline" : "review-27626-250601014200200010450009451465",
+      "id" : "8986935361585",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Hend ",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualita produk Ok",
+      "date" : "2023-09-20T15:26:01+0000",
+      "headline" : "review-27626-WTCID13541041",
+      "id" : "8899118399537",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "",
+      "approvalStatus" : "APPROVED",
+      "comment" : "bagus",
+      "date" : "2023-08-21T12:29:21+0000",
+      "headline" : "review-27626-WTCID13457071",
+      "id" : "8896887488561",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "stephanie",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Tdk dikirim tumblernya sesuai yg dipromokan. Bintang saya ubah jika dikirim tumblernya.",
+      "date" : "2023-08-19T04:16:35+0000",
+      "headline" : "review-27626-WTCID13446122",
+      "id" : "8896947912753",
+      "like" : 0,
+      "rating" : 1.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Chr m",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-03-07T10:42:35+0000",
+      "headline" : "review-27626-WTCID12403091",
+      "id" : "8870798983217",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-03-02T23:30:04+0000",
+      "headline" : "review-27626-WTCID12086171",
+      "id" : "8870762381361",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

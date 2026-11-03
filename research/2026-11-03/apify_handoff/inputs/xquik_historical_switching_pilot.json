@@ -1,0 +1,14 @@
+{
+  "mode": "search",
+  "twitterContent": "(pepsodent OR sensodyne OR enzim) (\"balik ke\" OR \"ganti odol\" OR \"beli lagi\" OR \"repeat order\" OR \"sebelumnya pakai\")",
+  "maxItems": 40,
+  "queryType": "Latest",
+  "since": "2022-01-01",
+  "until": "2026-07-01",
+  "tweetTypes": {
+    "excludeRetweets": true
+  },
+  "outputVariant": "rich",
+  "fieldStyle": "snake_case",
+  "alwaysSaveRunRecords": true
+}

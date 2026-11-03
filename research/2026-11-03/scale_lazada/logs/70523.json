@@ -1,0 +1,104 @@
+{
+  "summary": {
+    "product_code": "70523",
+    "product_name": "Pepsodent Pasta Gigi SensitivExpert Whitening 100g",
+    "unique_review_ids": 1994,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 1994,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-70523-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/70523/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:40.355822+00:00",
+      "product_code": "70523",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Whitening 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/70523_p0_s500.json",
+      "sha256": "ed08770a622aee4f73d86f82dcc583a0eb669156df9c130c6f860e7fa59f9387",
+      "bytes": 216320,
+      "pagination": {
+        "count": 500,
+        "hasNext": true,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 1994,
+        "totalPages": 4
+      },
+      "rows": 500
+    },
+    {
+      "source_id": "WATREV-70523-P1-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/70523/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=1&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:52.072697+00:00",
+      "product_code": "70523",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Whitening 100g",
+      "page_requested": 1,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/70523_p1_s500.json",
+      "sha256": "7d56b272a2d737c33720d3bdaa7e7608d3685fb87e1c6a9645f75ed7ad7eb045",
+      "bytes": 206218,
+      "pagination": {
+        "count": 500,
+        "hasNext": true,
+        "hasPrevious": true,
+        "page": 1,
+        "totalCount": 1994,
+        "totalPages": 4
+      },
+      "rows": 500
+    },
+    {
+      "source_id": "WATREV-70523-P2-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/70523/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=2&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:59.461915+00:00",
+      "product_code": "70523",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Whitening 100g",
+      "page_requested": 2,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/70523_p2_s500.json",
+      "sha256": "34e2c3b38988125fb8ba662701bd972a5ed24abac7971c392056fa8a4ba8c72f",
+      "bytes": 196294,
+      "pagination": {
+        "count": 500,
+        "hasNext": true,
+        "hasPrevious": true,
+        "page": 2,
+        "totalCount": 1994,
+        "totalPages": 4
+      },
+      "rows": 500
+    },
+    {
+      "source_id": "WATREV-70523-P3-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/70523/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=3&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:09.753070+00:00",
+      "product_code": "70523",
+      "product_name": "Pepsodent Pasta Gigi SensitivExpert Whitening 100g",
+      "page_requested": 3,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/70523_p3_s500.json",
+      "sha256": "5a87fc017b196cab5c3b2b8d72291411d93751cb2d331ad227b121a4e17bca5c",
+      "bytes": 194724,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": true,
+        "page": 3,
+        "totalCount": 1994,
+        "totalPages": 4
+      },
+      "rows": 494
+    }
+  ]
+}

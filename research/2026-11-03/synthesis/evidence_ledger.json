@@ -1,0 +1,128 @@
+[
+  {
+    "claim_id": "C01",
+    "topic": "Premium channel presence",
+    "claim": "Official regional flyer lists Sensitive Expert100g",
+    "confidence_basis": "high: observed historical offer",
+    "source_locator": "R1; history_publicdata/promotion_events.json",
+    "limit_or_rival": "Exact branch availability unresolved",
+    "decision_implication": "Check actual store/variant at replenishment"
+  },
+  {
+    "claim_id": "C02",
+    "topic": "Exact variant access",
+    "claim": "Satisfied reviewer reports bundle savings and stock friction",
+    "confidence_basis": "single stated episode",
+    "source_locator": "LZD-1574262094522499",
+    "limit_or_rival": "No verified switch or population rate",
+    "decision_implication": "Recruit satisfied users who still fallback"
+  },
+  {
+    "claim_id": "C03",
+    "topic": "Large Premium packs",
+    "claim": "Current catalogue100g and160g Whitening",
+    "confidence_basis": "high: current catalogue; purchase status unknown",
+    "source_locator": "WATAPI-PEPSODENT-005; WATAPI-PEPSODENT-031",
+    "limit_or_rival": "Not historical paid price or branch stock",
+    "decision_implication": "Test access/value of existing packs before new SKU"
+  },
+  {
+    "claim_id": "C04",
+    "topic": "Brand meaning",
+    "claim": "Family care and specialist confident smile intended positioning",
+    "confidence_basis": "analyst synthesis of official content",
+    "source_locator": "brand_campaigns/findings.md",
+    "limit_or_rival": "Not measured consumer perception",
+    "decision_implication": "Ask unprompted associations and benefit fit"
+  },
+  {
+    "claim_id": "C05",
+    "topic": "Existing digital assets",
+    "claim": "ShadeScan/selfcheck/science/consultation documented",
+    "confidence_basis": "high: observed existence",
+    "source_locator": "brand_campaigns/clean/campaign_observations.json",
+    "limit_or_rival": "Not efficacy/adoption/retention evidence",
+    "decision_implication": "Audit missing handoff before rebuilding tool"
+  },
+  {
+    "claim_id": "C06",
+    "topic": "Sensory vs endpoint",
+    "claim": "SLS-formulation trial sensory preference differed from endpoint comparison",
+    "confidence_basis": "bounded clinical study result",
+    "source_locator": "10.1007/s00784-015-1535-z",
+    "limit_or_rival": "Not isolatedSLS causality or equivalence",
+    "decision_implication": "Separate feltclean and intendedbenefit evaluation"
+  },
+  {
+    "claim_id": "C07",
+    "topic": "Household roles",
+    "claim": "Review reports another household member experience",
+    "confidence_basis": "single reported episode",
+    "source_locator": "LZD-2032630484394818",
+    "limit_or_rival": "Payer and age unknown",
+    "decision_implication": "Reconstruct actual six roles"
+  },
+  {
+    "claim_id": "C08",
+    "topic": "Episodic expectation",
+    "claim": "Reviewer intends use until symptom improves",
+    "confidence_basis": "single expectation statement",
+    "source_locator": "LZD-1200640450822499",
+    "limit_or_rival": "No observed stopping/replacement",
+    "decision_implication": "Ask actual next purchase after perceived relief"
+  },
+  {
+    "claim_id": "C09",
+    "topic": "Choice overload",
+    "claim": "Effects conditional;2010average nearzero",
+    "confidence_basis": "crosscategory synthesis",
+    "source_locator": "10.1086/651235;10.1016/j.jcps.2014.08.002",
+    "limit_or_rival": "No Pepsodent effect estimate",
+    "decision_implication": "Measure uncertainty/difficulty not just optioncount"
+  },
+  {
+    "claim_id": "C10",
+    "topic": "Promotions",
+    "claim": "Fieldexperiments differnew/established",
+    "confidence_basis": "crosscategory causal counterexample",
+    "source_locator": "10.1287/mksc.1030.0040",
+    "limit_or_rival": "Durablegoods catalog not toothpaste",
+    "decision_implication": "Compare appropriate acquisitioncohorts"
+  },
+  {
+    "claim_id": "C11",
+    "topic": "Payer publicdata",
+    "claim": "BPSvariable groups personalcare items",
+    "confidence_basis": "high: metadata granularity",
+    "source_locator": "history_publicdata/public_data_metadata.json",
+    "limit_or_rival": "No brand/individualpayer",
+    "decision_implication": "Do not infer targetpayerprevalence"
+  },
+  {
+    "claim_id": "C12",
+    "topic": "Consumer corpus",
+    "claim": "1154recordIDs across4source layers",
+    "confidence_basis": "descriptive selecteddata",
+    "source_locator": "access_reviews/quality_report.json",
+    "limit_or_rival": "0verifiedtargetswitchers; incentive/ratingbias",
+    "decision_implication": "Use as mechanisms not nationalpercentages"
+  },
+  {
+    "claim_id": "C13",
+    "topic": "Case accounting",
+    "claim": "Share decline not absoluteRevenue proof",
+    "confidence_basis": "arithmetic conditional on definition",
+    "source_locator": "synthesis/case_economics.json",
+    "limit_or_rival": "Comparable periods/revenuebasis unverified",
+    "decision_implication": "Obtain tierabsolute metrics"
+  },
+  {
+    "claim_id": "C14",
+    "topic": "Current strategy options",
+    "claim": "Three different friction-removal paths",
+    "confidence_basis": "conditional inference",
+    "source_locator": "PEPSODENT_DEEP_RESEARCH.md sections17-18",
+    "limit_or_rival": "No selectedsolution/causaluplift",
+    "decision_implication": "Use primaryevidence to discriminate"
+  }
+]

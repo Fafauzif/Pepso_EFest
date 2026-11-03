@@ -1,0 +1,17 @@
+[
+  {
+    "file": "indomaret_20240905.pdf",
+    "url": "https://blog.klikindomaret.com/wp-content/uploads/2024/09/PDF-SH-5-September-2024-Dengan-Link.pdf",
+    "retrieved_at": "2026-11-03T10:33:06.323717+00:00",
+    "outcome": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "file": "indomaret_20250724.pdf",
+    "url": "https://www.indomaret.co.id/wp-content/uploads/2025/07/PDF-SH-24-Juli-2025-JawaBaliLombok-Com.pdf",
+    "retrieved_at": "2026-11-03T10:33:13.879737+00:00",
+    "status": 200,
+    "bytes": 5104843,
+    "outcome": "downloaded"
+  }
+]

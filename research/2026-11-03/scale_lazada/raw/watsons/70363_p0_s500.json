@@ -1,0 +1,454 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 40,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.95",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 2,
+      "rating5Count" : 38
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "novita giarti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Goodd pokoknya watsons terbaik",
+      "date" : "2026-09-11T16:39:04+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-undefined-WTCID16332047",
+      "id" : "9106270519345",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Suci Setiyani Putri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk baguss harga murahh mantappp",
+      "date" : "2026-08-18T09:38:37+0000",
+      "headline" : "review-70363-WTCID18424545",
+      "id" : "9093386666033",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "melodika melodika",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-06-18T21:40:37+0000",
+      "headline" : "review-70363-WTCID16553114",
+      "id" : "9049616482353",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "melodika melodika",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-06-18T21:39:16+0000",
+      "headline" : "review-70363-WTCID16566068",
+      "id" : "9048561647665",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Wahyu W",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-05-17T13:55:53+0000",
+      "headline" : "review-70363-WTCID09731194",
+      "id" : "9037465321521",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fadilah Amalia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-01-22T13:58:08+0000",
+      "headline" : "review-70363-WTCID17153107",
+      "id" : "9012814348337",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fina Sukmadewi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Mulut jadi lebih segar dan gak bau",
+      "date" : "2026-01-14T04:39:26+0000",
+      "headline" : "review-70363-WTCID17246468",
+      "id" : "9010307498033",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fina Sukmadewi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi bikin mulutku segar terus",
+      "date" : "2026-01-14T04:33:04+0000",
+      "headline" : "review-70363-WTCID18129139",
+      "id" : "9010307137585",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Yuliawati",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi nya seger bgt di mulut ",
+      "date" : "2025-12-15T15:46:18+0000",
+      "headline" : "review-70363-WTCID18430143",
+      "id" : "9008729423921",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Yuliawati",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Bikin mulut jadi Segar bgt, dan gigi bersih",
+      "date" : "2025-11-22T18:36:14+0000",
+      "headline" : "review-70363-WTCID18134016",
+      "id" : "9007803924529",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Yuliawati",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi nya seger ada rasa mint nya enak",
+      "date" : "2025-10-11T18:04:35+0000",
+      "headline" : "review-70363-WTCID17534623",
+      "id" : "9000369225777",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Timothy Osmond",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pepsodent is always good",
+      "date" : "2025-09-30T07:08:45+0000",
+      "headline" : "review-70363-WTCID17450384",
+      "id" : "8999905984561",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Siti Yuliawati",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-09-23T04:52:10+0000",
+      "headline" : "review-70363-WTCID17248453",
+      "id" : "8999149961265",
+      "like" : 1,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ulfah Alviana",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-27T00:25:47+0000",
+      "headline" : "review-undefined-WTCID17150168",
+      "id" : "8996757045297",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Riqqa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-02T13:28:18+0000",
+      "headline" : "review-70363-WTCID16977351",
+      "id" : "8993452589105",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fahmi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Sangat cocok\n",
+      "date" : "2025-06-22T10:02:09+0000",
+      "headline" : "review-70363-WTCID16805549",
+      "id" : "8989649961009",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dhea",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-05-02T16:01:12+0000",
+      "headline" : "review-70363-WTCID16169008",
+      "id" : "8984043323441",
+      "like" : 0,
+      "rating" : 4.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-03-05T04:19:44+0000",
+      "headline" : "review-70363-WTCID12184642",
+      "id" : "8976837279793",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "******",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-03-01T07:35:30+0000",
+      "headline" : "review-70363-WTCID16331054",
+      "id" : "8976380166193",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "vika",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang ori",
+      "date" : "2024-03-14T20:43:12+0000",
+      "headline" : "review-70363-WTCID14487127",
+      "id" : "8930965553201",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Robert",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas baik. 1pc 15000",
+      "date" : "2024-02-03T05:15:03+0000",
+      "headline" : "review-70363-WTCID14084547",
+      "id" : "8923258978353",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "novi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-10-09T03:33:19+0000",
+      "headline" : "review-70363-WTCID09510350",
+      "id" : "8900092362801",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ina",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-04-17T08:02:27+0000",
+      "headline" : "review-70363-WTCID12785052",
+      "id" : "8879975694385",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yunny",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-11-05T13:54:50+0000",
+      "headline" : "review-70363-WTCID11090955",
+      "id" : "8859399782449",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "rizki",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-10-06T05:02:19+0000",
+      "headline" : "review-70363-WTCID07755011",
+      "id" : "8855388586033",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "rizki",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-10-06T05:01:27+0000",
+      "headline" : "review-70363-WTCID07895524",
+      "id" : "8855388258353",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Affan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-09-22T09:53:20+0000",
+      "headline" : "review-70363-WTCID10949597",
+      "id" : "8855653089329",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rifani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-07-28T17:07:10+0000",
+      "headline" : "review-70363-WTCID09688577",
+      "id" : "8851100729393",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ansori",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk asli dan pengiriman cepat.. mantaapp.",
+      "date" : "2021-12-01T03:54:33+0000",
+      "headline" : "review-70363-WTCID07212870",
+      "id" : "8828684861489",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fresh Cool Mint Pasta Gigi 190gr",
+      "approvalStatus" : "APPROVED",
+      "date" : "2021-07-05T23:24:44+0000",
+      "id" : "8823794958385",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "didinding icha",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Murmer........ Tq Watsons untuk kebutuhan dirumah.. semoga selalu menjadi langganan",
+      "date" : "2021-05-30T04:05:04+0000",
+      "id" : "8823756062769",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "didinding icha",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Murmer........ Tq Watsons untuk kebutuhan dirumah.. semoga selalu menjadi langganan",
+      "date" : "2021-05-30T04:04:39+0000",
+      "id" : "8823755997233",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "didinding icha",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Murmer........ Tq Watsons untuk kebutuhan dirumah.. semoga selalu menjadi langganan",
+      "date" : "2021-05-30T03:59:19+0000",
+      "id" : "8823755604017",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ardy Kurniawan Parjono",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Kualitas Baik Kondisi Baik",
+      "date" : "2021-04-19T06:01:32+0000",
+      "id" : "8823710220337",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Unie Oviyani",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Luar biasa!",
+      "date" : "2021-03-12T14:40:42+0000",
+      "id" : "8823725326385",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fresh Cool Mint Pasta Gigi 190gr",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Luar biasa!",
+      "date" : "2021-02-16T10:24:20+0000",
+      "id" : "8823671423025",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fresh Cool Mint Pasta Gigi 190gr",
+      "approvalStatus" : "APPROVED",
+      "date" : "2020-10-23T12:10:27+0000",
+      "id" : "8823492083761",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Toothpaste White Fresh Cool Mint 190g",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Kondisi bagus",
+      "date" : "2020-06-11T12:03:05+0000",
+      "id" : "8823300587569",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "l",
+      "approvalStatus" : "APPROVED",
+      "date" : "2020-04-24T07:55:07+0000",
+      "id" : "8823132356657",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Tri Yuli Mirantika  Putri",
+      "approvalStatus" : "APPROVED",
+      "date" : "2020-01-07T06:17:16+0000",
+      "id" : "8822655025201",
+      "like" : 0,
+      "rating" : 4.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

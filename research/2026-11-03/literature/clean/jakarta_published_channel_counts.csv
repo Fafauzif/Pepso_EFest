@@ -1,0 +1,13 @@
+study_id,dimension,published_category,offline_count,online_count,source_locator,sampling_caveat
+LIT025,age,<25 yr old,52,11,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,age,26 to30 yr old,47,15,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,age,31 to35 yr old,122,14,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,age,36 to40 yr old,54,11,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,age,41 to45 yr old,41,4,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,age,>45 yr old,82,6,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,domicile,DKI Jakarta,67,20,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,domicile,"Outside Jakarta(Bogor,Depok,Tangerang,Bekasi)",331,41,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,family_members,1,27,4,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,family_members,2,41,9,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,family_members,3,101,14,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative
+LIT025,family_members,more than3,229,34,"Table2,printedpp763–764(PDFpp6–7)",convenience online survey;not nationally representative

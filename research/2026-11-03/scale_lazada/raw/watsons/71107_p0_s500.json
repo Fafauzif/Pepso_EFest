@@ -1,0 +1,161 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 13,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.85",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 1,
+      "rating4Count" : 0,
+      "rating5Count" : 12
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Thifal Rahmah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-11-14T01:18:15+0000",
+      "headline" : "review-71107-WTCID16812747",
+      "id" : "9004174737457",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "melvy",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-01-30T12:11:50+0000",
+      "headline" : "review-71107-WTCID16190072",
+      "id" : "8973722419249",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sumiwati",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-11-28T23:11:02+0000",
+      "headline" : "review-71107-WTCID14872001",
+      "id" : "8965924716593",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "novita",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-07-30T15:07:49+0000",
+      "headline" : "review-71107-WTCID15409264",
+      "id" : "8950862446641",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Mohamad",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-04-18T10:32:24+0000",
+      "headline" : "review-71107-WTCID14718028",
+      "id" : "8934139625521",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Heny",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-12-06T09:32:26+0000",
+      "headline" : "review-71107-WTCID06085115",
+      "id" : "8864407748657",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Fuad Riza",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-10-10T14:31:53+0000",
+      "headline" : "review-71107-WTCID08084559",
+      "id" : "8856351146033",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Lysa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2022-08-31T13:06:42+0000",
+      "headline" : "review-71107-WTCID06481336",
+      "id" : "8853836759089",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Advanced Whitening 160gr",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Pengiriman tepat waktu Kondisi bagus",
+      "date" : "2020-11-23T10:33:11+0000",
+      "id" : "8823570595889",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rahmad Nissa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Alhamdulillah, dapat harga diskon jadi lebih murah, terimakasih",
+      "date" : "2020-04-27T06:13:04+0000",
+      "id" : "8823142449201",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Advanced Whitening 160gr",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Bernilai sepadan dengan harganya",
+      "date" : "2020-02-18T10:44:43+0000",
+      "id" : "8822906847281",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Debby Amellia Bahar",
+      "approvalStatus" : "APPROVED",
+      "date" : "2020-01-24T17:09:08+0000",
+      "id" : "8822644965425",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Elviona Deviasta",
+      "approvalStatus" : "APPROVED",
+      "date" : "2020-01-20T15:20:54+0000",
+      "id" : "8822888136753",
+      "like" : 0,
+      "rating" : 3.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

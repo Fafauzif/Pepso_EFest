@@ -1,0 +1,86 @@
+{
+  "seoMetadata": {
+    "otherData": null,
+    "description": "Kumpulan review dan pengalaman pengguna Pepsodent Buy1 Get1 (190g x 2) - Pasta Gigi Herbal untuk membantu sebelum membeli.",
+    "robots": "index,follow",
+    "canonical": "https://www.lazada.co.id/product-reviews/?item_id=7571292991",
+    "title": "Review Pepsodent Buy1 Get1 (190g x 2) - Pasta Gigi Herbal – Pengalaman Pengguna",
+    "class": "com.lazada.seo.dto.base.SeoBaseMetadataDTO",
+    "structuredData": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Pepsodent Buy1 Get1 (190g x 2) - Pasta Gigi Herbal\",\"image\":\"https://filebroker-cdn.lazada.co.id/kf/S7ef52b1c296d4d70858a6911dc301b770.jpg\",\"description\":\"Kumpulan review dan pengalaman pengguna Pepsodent Buy1 Get1 (190g x 2) - Pasta Gigi Herbal untuk membantu sebelum membeli.\",\"sku\":\"14692214359\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Pepsodent\"},\"offers\":{\"@type\":\"AggregateOffer\",\"offerCount\":0,\"lowPrice\":20900.0,\"highPrice\":27000.0,\"priceCurrency\":\"IDR\",\"availability\":\"https://schema.org/OutOfStock\",\"seller\":{\"@type\":\"Organization\",\"name\":\"SAFHIR TOSERBA\"}},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.92\",\"reviewCount\":\"13\"},\"review\":[{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"W****a\"},\"datePublished\":\"2024-11-13\",\"reviewBody\":\"alhamdulilah Sudah sampai Pepsodent herbal ...terima kasih kurir lazada...\\\\n \",\"name\":\"alhamdulilah Sudah sampai Pepsodent herbal ...terima kasih kurir lazada...\\\\n \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"f****x\"},\"datePublished\":\"2024-10-29\",\"reviewBody\":\"Bahan alami untuk gigi yang lebih sehat,Memberikan napas segar,  \\\\n \",\"name\":\"Bahan alami untuk gigi yang lebih sehat,Memberikan napas segar,  \\\\n \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}}]}"
+    ],
+    "propertyData": "{\"og:title\":\"Review Pepsodent Buy1 Get1 (190g x 2) - Pasta Gigi Herbal – Pengalaman Pengguna\",\"og:description\":\"Kumpulan review dan pengalaman pengguna Pepsodent Buy1 Get1 (190g x 2) - Pasta Gigi Herbal untuk membantu sebelum membeli.\",\"og:image\":\"https://filebroker-cdn.lazada.co.id/kf/S7ef52b1c296d4d70858a6911dc301b770.jpg\",\"og:url\":\"https://www.lazada.co.id/product-reviews/?item_id=7571292991\",\"og:type\":\"product\"}"
+  },
+  "innerLinks": null,
+  "reviewZone": {
+    "productId": "7571292991",
+    "reviews": [
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "alhamdulilah Sudah sampai Pepsodent herbal ...terima kasih kurir lazada...\\n ",
+        "rating": 5,
+        "upVotes": 2,
+        "deliveredTime": null,
+        "userName": "W****a",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1518265028792991,
+        "reviewTime": 1731467758744,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "Bahan alami untuk gigi yang lebih sehat,Memberikan napas segar,  \\n ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "f****x",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1516029814592991,
+        "reviewTime": 1730201764676,
+        "reviewTitle": null
+      }
+    ],
+    "ratingCnt": 13,
+    "ratingAvg": 4.923076923076923,
+    "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO",
+    "likeJumpUrl": "https://www.lazada.co.id/products/-i7571292991.html"
+  },
+  "class": "com.lazada.seo.dto.SeoReviewPageDTO",
+  "products": [
+    {
+      "currentPriceFormatted": "Rp20.900",
+      "shop": {
+        "sellerId": "******",
+        "sellerRating": 4.923076923076923,
+        "shopLogo": "https://filebroker-cdn.lazada.co.id/kf/S78ad0e8dd06340439de5c2b1ad863ed6G.jpg",
+        "shopName": "SAFHIR TOSERBA",
+        "shopId": null,
+        "shopUrl": "https://www.lazada.co.id/shop/safhir-toserba",
+        "class": "com.lazada.seo.dto.base.ProductShopDTO"
+      },
+      "productId": "7571292991",
+      "totalOrdersLast4Weeks": null,
+      "ratingCnt": 13,
+      "urlLazada": "https://www.lazada.co.id/products/-i7571292991.html",
+      "priceFormatted": "Rp27.000",
+      "currencySymbol": "Rp",
+      "currentPrice": "20900.0",
+      "urlImages": null,
+      "payUnitCntStd": 18,
+      "video": null,
+      "productName": "Pepsodent Buy1 Get1 (190g x 2) - Pasta Gigi Herbal",
+      "totalOrderL1y": null,
+      "urlMainImage": "https://filebroker-cdn.lazada.co.id/kf/S7ef52b1c296d4d70858a6911dc301b770.jpg",
+      "price": "27000.0",
+      "ratingAvg": 4.923076923076923,
+      "class": "com.lazada.seo.dto.base.ProductSkuDTO",
+      "brand": null,
+      "currencyCode": "IDR",
+      "skuId": "14692214359"
+    }
+  ]
+}

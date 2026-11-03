@@ -1,0 +1,53 @@
+{
+  "bin_id": "7b9ec677062e0ae156c8265472cf98b7",
+  "bin_url": "https://filebin.net/7b9ec677062e0ae156c8265472cf98b7",
+  "file_url": "https://filebin.net/7b9ec677062e0ae156c8265472cf98b7/Pepsodent_Research_Data_and_Repo.zip",
+  "bytes": 402496490,
+  "sha256": "d450d45454b3bcdc263cfdd7044675fbd3d41b7e3c9f105b075440dd76b78b85",
+  "started_at_utc": "2026-11-03T11:20:23.414498+00:00",
+  "curl_exit": 0,
+  "metrics": "201 402496490 32.558224",
+  "stderr": "",
+  "response": {
+    "bin": {
+      "id": "7b9ec677062e0ae156c8265472cf98b7",
+      "readonly": false,
+      "bytes": 0,
+      "bytes_readable": "0 B",
+      "files": 0,
+      "updated_at": "2026-11-03T11:20:55.819094Z",
+      "updated_at_relative": "now",
+      "created_at": "2026-11-03T11:20:30.795347Z",
+      "created_at_relative": "now",
+      "expired_at": "2026-11-10T11:20:55.819094Z",
+      "expired_at_relative": "6 days from now"
+    },
+    "file": {
+      "filename": "Pepsodent_Research_Data_and_Repo.zip",
+      "content-type": "application/zip",
+      "bytes": 402496490,
+      "bytes_readable": "402 MB",
+      "md5": "T4gSMTtqHgmM+ASrv98JVg==",
+      "sha1": "0b58758fed7413f0fab5bdc26910d15407f0260a",
+      "sha256": "d450d45454b3bcdc263cfdd7044675fbd3d41b7e3c9f105b075440dd76b78b85",
+      "updated_at": "2026-11-03T11:20:55.816298Z",
+      "updated_at_relative": "now",
+      "created_at": "2026-11-03T11:20:55.816298Z",
+      "created_at_relative": "now"
+    }
+  },
+  "verification": [
+    {
+      "url": "https://filebin.net/sha256/7b9ec677062e0ae156c8265472cf98b7",
+      "status": 200,
+      "content_type": "text/plain",
+      "body": "d450d45454b3bcdc263cfdd7044675fbd3d41b7e3c9f105b075440dd76b78b85  Pepsodent_Research_Data_and_Repo.zip\n"
+    },
+    {
+      "url": "https://filebin.net/7b9ec677062e0ae156c8265472cf98b7",
+      "status": 200,
+      "content_type": "application/json",
+      "body": "{\n    \"bin\": {\n        \"id\": \"7b9ec677062e0ae156c8265472cf98b7\",\n        \"readonly\": false,\n        \"bytes\": 402496490,\n        \"bytes_readable\": \"402 MB\",\n        \"files\": 1,\n        \"updated_at\": \"2026-11-03T11:20:55.819094Z\",\n        \"updated_at_relative\": \"51 seconds ago\",\n        \"created_at\": \"2026-11-03T11:20:30.795347Z\",\n        \"created_at_relative\": \"1 minute ago\",\n        \"expired_at\": \"2026-11-10T11:20:55.819094Z\",\n        \"expired_at_relative\": \"6 days from now\"\n    },\n    \"files\": [\n        {\n            \"filename\": \"Pepsodent_Research_Data_and_Repo.zip\",\n            \"content-type\": \"application/zip\",\n            \"bytes\": 402496490,\n            \"bytes_readable\": \"402 MB\",\n            \"md5\": \"T4gSMTtqHgmM+ASrv98JVg==\",\n            \"sha1\": \"0b58758fed7413f0fab5bdc26910d15407f0260a\",\n            \"sha256\": \"d450d45454b3bcdc263cfdd7044675fbd3d41b7e3c9f105b075440dd76b78b85\",\n            \"updated_at\": \"2026-11-03T11:20:55.816298Z\",\n            \"updated_at_relative\": \"51 seconds ago\",\n            \"created_at\": \"2026-11-03T11:20:55.816298Z\",\n            \"created_at_relative\": \"51 seconds ago\"\n        }\n    ]\n}"
+    }
+  ]
+}

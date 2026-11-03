@@ -1,0 +1,9 @@
+{
+  "unique_records": 389,
+  "csv_json_count_match": true,
+  "raw_locators_exist": true,
+  "excluded_literal_deleted_removed": true,
+  "manual_examples_derived_count": 24,
+  "all_age_verified": false,
+  "all_switch_verified": false
+}

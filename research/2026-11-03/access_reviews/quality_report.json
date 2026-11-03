@@ -1,0 +1,14 @@
+{
+  "total_records": 1154,
+  "unique_record_ids": 1154,
+  "corpus_counts": {
+    "lazada_reviews": 681,
+    "reddit_comments": 75,
+    "oresa_incentivized_reviews": 298,
+    "tryandreview_reviews": 100
+  },
+  "verified_18_30_switchers": 0,
+  "apify_runs": 0,
+  "paid_spend": 0,
+  "checks": "IDs unique, raw-file locators exist, source URLs present, counts reconcile. Text coding exploratory."
+}

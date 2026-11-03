@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "74900",
+    "product_name": "Value Pack Sensitive Expert Original 100g",
+    "unique_review_ids": 1,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 1,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-74900-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/74900/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:16.482101+00:00",
+      "product_code": "74900",
+      "product_name": "Value Pack Sensitive Expert Original 100g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/74900_p0_s500.json",
+      "sha256": "6c8f7e0f08e2638510af6498beb6b974dbe9e2f54287c47b2651fdffbaaa2fda",
+      "bytes": 814,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 1,
+        "totalPages": 1
+      },
+      "rows": 1
+    }
+  ]
+}

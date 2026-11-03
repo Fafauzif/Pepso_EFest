@@ -1,0 +1,23 @@
+{
+  "local_link_targets_checked": 230,
+  "logical_legacy_refs": [],
+  "unresolved_local_links": [
+    {
+      "file": "research/2026-11-03/scale_tools/reverse_api_engineer_README_snapshot.md",
+      "target": "skills/reverse-api-engineer/SKILL.md"
+    },
+    {
+      "file": "research/2026-11-03/scale_tools/reverse_api_engineer_README_snapshot.md",
+      "target": "LICENSE"
+    },
+    {
+      "file": "research/2026-11-03/closure/context/BEFORE_CLOSURE_README.md",
+      "target": "research/2026-11-03/README.md"
+    }
+  ],
+  "counts_by_file": {
+    "research/2026-11-03/scale_tools/reverse_api_engineer_README_snapshot.md": 2,
+    "research/2026-11-03/closure/context/BEFORE_CLOSURE_README.md": 1
+  },
+  "method_note": "Simple Markdowninline link scan; targets with literalparentheses canneedmanualadjudication; remoteURLsnotchecked."
+}

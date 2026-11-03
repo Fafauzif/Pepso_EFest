@@ -1,0 +1,86 @@
+{
+  "seoMetadata": {
+    "otherData": null,
+    "description": "Kumpulan review dan pengalaman pengguna Pepsodent Pasta Gigi Complete 8 Action Whitening 190gr untuk membantu sebelum membeli.",
+    "robots": "index,follow",
+    "canonical": "https://www.lazada.co.id/product-reviews/?item_id=8021106646",
+    "title": "Review Pepsodent Pasta Gigi Complete 8 Action Whitening 190gr – Pengalaman Pengguna",
+    "class": "com.lazada.seo.dto.base.SeoBaseMetadataDTO",
+    "structuredData": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Pepsodent Pasta Gigi Complete 8 Action Whitening 190gr\",\"image\":\"https://filebroker-cdn.lazada.co.id/kf/S050735de18b744ec81ad4ba908198e157.jpg\",\"description\":\"Kumpulan review dan pengalaman pengguna Pepsodent Pasta Gigi Complete 8 Action Whitening 190gr untuk membantu sebelum membeli.\",\"sku\":\"14445572064\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Pepsodent\"},\"offers\":{\"@type\":\"AggregateOffer\",\"offerCount\":0,\"lowPrice\":17900.0,\"highPrice\":21000.0,\"priceCurrency\":\"IDR\",\"availability\":\"https://schema.org/OutOfStock\",\"seller\":{\"@type\":\"Organization\",\"name\":\"adila toserba\"}},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"5.00\",\"reviewCount\":\"7\"},\"review\":[{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"H****u\"},\"datePublished\":\"2024-05-27\",\"reviewBody\":\"ok \",\"name\":\"ok \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"6****v\"},\"datePublished\":\"2024-05-13\",\"reviewBody\":\"ok \",\"name\":\"ok \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}}]}"
+    ],
+    "propertyData": "{\"og:title\":\"Review Pepsodent Pasta Gigi Complete 8 Action Whitening 190gr – Pengalaman Pengguna\",\"og:description\":\"Kumpulan review dan pengalaman pengguna Pepsodent Pasta Gigi Complete 8 Action Whitening 190gr untuk membantu sebelum membeli.\",\"og:image\":\"https://filebroker-cdn.lazada.co.id/kf/S050735de18b744ec81ad4ba908198e157.jpg\",\"og:url\":\"https://www.lazada.co.id/product-reviews/?item_id=8021106646\",\"og:type\":\"product\"}"
+  },
+  "innerLinks": null,
+  "reviewZone": {
+    "reviews": [
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "ok ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "H****u",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1425898823006646,
+        "reviewTime": 1716799085451,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "ok ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "6****v",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1416982534306646,
+        "reviewTime": 1715581121870,
+        "reviewTitle": null
+      }
+    ],
+    "productId": "8021106646",
+    "ratingCnt": 7,
+    "ratingAvg": 5,
+    "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO",
+    "likeJumpUrl": "https://www.lazada.co.id/products/-i8021106646.html"
+  },
+  "class": "com.lazada.seo.dto.SeoReviewPageDTO",
+  "products": [
+    {
+      "currentPriceFormatted": "Rp17.900",
+      "shop": {
+        "sellerId": "******",
+        "shopLogo": "https://filebroker-cdn.lazada.co.id/kf/S9bb0aa4374274ec09a07b2e3f4f6b375k.jpg",
+        "sellerRating": 5,
+        "shopName": "adila toserba",
+        "shopId": null,
+        "shopUrl": "https://www.lazada.co.id/shop/adila-toserba",
+        "class": "com.lazada.seo.dto.base.ProductShopDTO"
+      },
+      "productId": "8021106646",
+      "totalOrdersLast4Weeks": null,
+      "ratingCnt": 7,
+      "urlLazada": "https://www.lazada.co.id/products/-i8021106646.html",
+      "priceFormatted": "Rp21.000",
+      "currentPrice": "17900.0",
+      "currencySymbol": "Rp",
+      "urlImages": null,
+      "payUnitCntStd": 12,
+      "video": null,
+      "productName": "Pepsodent Pasta Gigi Complete 8 Action Whitening 190gr",
+      "totalOrderL1y": null,
+      "urlMainImage": "https://filebroker-cdn.lazada.co.id/kf/S050735de18b744ec81ad4ba908198e157.jpg",
+      "price": "21000.0",
+      "ratingAvg": 5,
+      "class": "com.lazada.seo.dto.base.ProductSkuDTO",
+      "brand": null,
+      "currencyCode": "IDR",
+      "skuId": "14445572064"
+    }
+  ]
+}

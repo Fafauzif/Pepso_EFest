@@ -1,0 +1,75 @@
+{
+  "target_count": 3,
+  "requested_pages": 286,
+  "successful_pages": 286,
+  "raw_record_occurrences": 1423,
+  "unique_records": 1423,
+  "baseline_overlap_records": 100,
+  "net_new_record_ids": 1323,
+  "target_displayed_total": 1423,
+  "rating_counts": {
+    "5.0": 972,
+    "4.5": 75,
+    "4.7": 9,
+    "3.7": 2,
+    "4.2": 4,
+    "4.0": 116,
+    "4.8": 83,
+    "3.8": 12,
+    "4.3": 61,
+    "3.5": 9,
+    "3.3": 6,
+    "3.0": 12,
+    "3.2": 1,
+    "3.6": 10,
+    "3.1": 3,
+    "4.1": 14,
+    "2.6": 1,
+    "4.6": 23,
+    "2.1": 1,
+    "2.3": 1,
+    "1.0": 2,
+    "2.0": 6
+  },
+  "incentive_counts": {
+    "not_established": 186,
+    "received_free_explicit": 1237
+  },
+  "profile_country_counts": {
+    "Indonesia": 1423
+  },
+  "UTF8_text_repairs_this_rebuild": 0,
+  "per_product": [
+    {
+      "product_id": "59741",
+      "product_name": "Pepsodent Pasta Gigi Pencegah Gigi Berlubang",
+      "source_displayed_count": 646,
+      "expected_pages": 130,
+      "successful_pages": 130,
+      "distinct_review_ids": 646,
+      "count_reconciles": true,
+      "page_numbers_complete": true
+    },
+    {
+      "product_id": "23607",
+      "product_name": "Pepsodent Complete8 Multi Protection",
+      "source_displayed_count": 332,
+      "expected_pages": 67,
+      "successful_pages": 67,
+      "distinct_review_ids": 332,
+      "count_reconciles": true,
+      "page_numbers_complete": true
+    },
+    {
+      "product_id": "16659",
+      "product_name": "Closeup White Attraction Natural Smile",
+      "source_displayed_count": 445,
+      "expected_pages": 89,
+      "successful_pages": 89,
+      "distinct_review_ids": 445,
+      "count_reconciles": true,
+      "page_numbers_complete": true
+    }
+  ],
+  "interpretation": "enumerated public pages; count reconciliation does not establish unique people, representativeness, or unchanged point-in-time universe"
+}

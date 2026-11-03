@@ -1,0 +1,128 @@
+[
+  {
+    "test": "x_search",
+    "url": "https://x.com/search?q=pepsodent&src=typed_query&f=live",
+    "final_url": "https://x.com/i/jf/onboarding/web?redirect_after_login=%2Fsearch%3Fsrc%3Dtyped_query%26f%3Dlive%26q%3Dpepsodent&mode=login",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 28862,
+    "sha256": "3a8e5350f45003cfd73398f9b590e489c9098686c6471239e143d0ea82272d5a",
+    "raw_file": "raw/x_search.txt",
+    "retrieved_at": "2026-11-03T10:49:43.646532+00:00",
+    "block_or_shell_flags": [],
+    "usable_records": 0,
+    "inspection_required": false,
+    "manual_inspection": "Redirected to login HTML shell;no posts."
+  },
+  {
+    "test": "x_brand",
+    "url": "https://x.com/tanyapepsodent",
+    "final_url": "https://x.com/tanyapepsodent",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 74628,
+    "sha256": "14ec90de4753ff84af24274087d2caebe26b66ca728e4547cd2a3163819fa803",
+    "raw_file": "raw/x_brand.txt",
+    "retrieved_at": "2026-11-03T10:49:43.648051+00:00",
+    "block_or_shell_flags": [],
+    "usable_records": 0,
+    "inspection_required": false,
+    "manual_inspection": "Unrelated current account display;guessed handle not verified brand."
+  },
+  {
+    "test": "x_brand_alternate_name",
+    "url": "https://x.com/PepsodentID",
+    "final_url": "https://x.com/PepsodentID",
+    "status": 404,
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 44830,
+    "sha256": "f453d398382beac9742697a3e0507e33caebc6a03020611ffc5c945aee039f67",
+    "raw_file": "raw/x_brand_alternate_name.txt",
+    "retrieved_at": "2026-11-03T10:49:43.649319+00:00",
+    "block_or_shell_flags": [
+      "not found"
+    ],
+    "usable_records": 0,
+    "inspection_required": false,
+    "manual_inspection": "404;no account content."
+  },
+  {
+    "test": "syndication_profile",
+    "url": "https://syndication.twitter.com/srv/timeline-profile/screen-name/tanyapepsodent",
+    "final_url": "https://syndication.twitter.com/srv/timeline-profile/screen-name/tanyapepsodent",
+    "status": 429,
+    "content_type": "text/plain;charset=utf-8",
+    "bytes": 20,
+    "sha256": "2f405630d36ea8038703779118517ff516d4ff93efc2be8ad43b7a06a0607c4d",
+    "raw_file": "raw/syndication_profile.txt",
+    "retrieved_at": "2026-11-03T10:49:51.156918+00:00",
+    "block_or_shell_flags": [
+      "Rate limit"
+    ],
+    "usable_records": 0,
+    "inspection_required": false,
+    "manual_inspection": "Rate limited;not evidence account has no posts."
+  },
+  {
+    "test": "nitter_search",
+    "url": "https://nitter.net/search?f=tweets&q=pepsodent",
+    "final_url": "https://nitter.net/search?f=tweets&q=pepsodent",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 12341,
+    "sha256": "846a9048bdd79311b1c92ef549dc68d73a61edd0f9832264cea107686a3f53cc",
+    "raw_file": "raw/nitter_search.txt",
+    "retrieved_at": "2026-11-03T10:49:51.449445+00:00",
+    "block_or_shell_flags": [],
+    "usable_records": 0,
+    "inspection_required": false,
+    "manual_inspection": "Maintainer notice10Oct2026;HTTP200 is not a timeline."
+  },
+  {
+    "test": "xcancel_search",
+    "url": "https://xcancel.com/search?f=tweets&q=pepsodent",
+    "final_url": "https://xcancel.com/search?f=tweets&q=pepsodent",
+    "status": 451,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 2092,
+    "sha256": "3c0e41749a1812552184e48681b0498127890ebb7b4df6440ead2fa0c062f179",
+    "raw_file": "raw/xcancel_search.txt",
+    "retrieved_at": "2026-11-03T10:49:57.167613+00:00",
+    "block_or_shell_flags": [],
+    "usable_records": 0,
+    "inspection_required": false,
+    "manual_inspection": "Service suspension notice;HTTP451."
+  },
+  {
+    "test": "twscrape_login_source",
+    "url": "https://raw.githubusercontent.com/vladkens/twscrape/main/twscrape/login.py",
+    "final_url": "https://raw.githubusercontent.com/vladkens/twscrape/main/twscrape/login.py",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 8339,
+    "sha256": "64214d2bf1e45d5c06ed42e1d96eacecd20eca19653f69b7132dd3ab38af94e8",
+    "raw_file": "raw/twscrape_login_source.txt",
+    "retrieved_at": "2026-11-03T10:49:59.610925+00:00",
+    "block_or_shell_flags": [],
+    "usable_records": 0,
+    "inspection_required": false,
+    "manual_inspection": "Source code inspected;not a post dataset."
+  },
+  {
+    "test": "ntscraper_source",
+    "url": "https://raw.githubusercontent.com/bocchilorenzo/ntscraper/main/ntscraper/nitter.py",
+    "final_url": "https://raw.githubusercontent.com/bocchilorenzo/ntscraper/main/ntscraper/nitter.py",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 44769,
+    "sha256": "bbe218e93df9099750c6cc811c0a6eb454ac03af6c1660f8394b7ddfcbdbb0d7",
+    "raw_file": "raw/ntscraper_source.txt",
+    "retrieved_at": "2026-11-03T10:50:00.407737+00:00",
+    "block_or_shell_flags": [
+      "not found"
+    ],
+    "usable_records": 0,
+    "inspection_required": false,
+    "manual_inspection": "Source code inspected;not a post dataset."
+  }
+]

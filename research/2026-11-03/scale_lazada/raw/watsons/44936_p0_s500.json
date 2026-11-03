@@ -1,0 +1,372 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 32,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "4.97",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 1,
+      "rating5Count" : 31
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Catherine Evelyn Diputra",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-26T16:28:15+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 1
+      },
+      "headline" : "review-44936-WTCID22029155",
+      "id" : "9113609404465",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Mutiara Putri Darmawan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produknya sesuai, kualitas bagus, real pick",
+      "date" : "2026-08-16T09:01:31+0000",
+      "headline" : "review-44936-WTCID21001244",
+      "id" : "9093170987057",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Khusnul Hafidhiyanti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Segar di mulut harum tahan lama",
+      "date" : "2026-07-12T23:06:30+0000",
+      "headline" : "review-44936-WTCID20342003",
+      "id" : "9067667128369",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sulastri Sulastri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk bagus, kemasan baik, pelayanan toko ramah",
+      "date" : "2026-07-08T13:09:46+0000",
+      "headline" : "review-undefined-WTCID20324281",
+      "id" : "9062364577841",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jie",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Close up ice white pasta dengan rasa yang segar , membuat napas bebas dari bau mulut , membersihkan , membuat gigi putih terawat",
+      "date" : "2026-06-29T01:19:17+0000",
+      "headline" : "review-44936-WTCID19913154",
+      "id" : "9057607614513",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Gandung Priastama",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Sensasi dingin nya enak, bikin mulut jadi segar dan nafas ga bau",
+      "date" : "2026-06-11T10:54:42+0000",
+      "headline" : "review-44936-WTCID18639041",
+      "id" : "9046990618673",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Imel Dea",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-05-07T09:36:28+0000",
+      "headline" : "review-44936-WTCID17544629",
+      "id" : "9034703896625",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Lucinda Lucinda",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-05-02T15:16:41+0000",
+      "headline" : "review-44936-WTCID18523713",
+      "id" : "9033655681073",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sari Putri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-15T02:58:40+0000",
+      "headline" : "review-44936-WTCID18429774",
+      "id" : "9027757670449",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Patricia Permatasari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-07T15:37:45+0000",
+      "headline" : "review-44936-WTCID18790744",
+      "id" : "9027311796273",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ryanita Amelia Br Ginting",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-07T04:22:34+0000",
+      "headline" : "review-44936-WTCID17699168",
+      "id" : "9027370942513",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Mutiara Tessalonika Cassandra Sitompul",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Ini bagus banget harus pada beli",
+      "date" : "2026-03-08T06:38:05+0000",
+      "headline" : "review-undefined-WTCID18800668",
+      "id" : "9023692537905",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dessy Kristianti",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Dari dulu emang udah pakai ini.. dari orangtua sampai skrg ke aku dan ke anak juga.. Setia sama close up... \nKlo yg varian ini baru coba sih",
+      "date" : "2026-02-18T08:21:26+0000",
+      "headline" : "review-44936-WTCID18791179",
+      "id" : "9017818513457",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Christian Delon",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-01-26T12:21:19+0000",
+      "headline" : "review-44936-WTCID18334583",
+      "id" : "9016024924209",
+      "like" : 0,
+      "rating" : 4.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Demila Putri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-09-09T08:05:13+0000",
+      "headline" : "review-44936-WTCID16878278",
+      "id" : "8996574462001",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sari Putri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-09-08T02:37:04+0000",
+      "headline" : "review-44936-WTCID17255013",
+      "id" : "8996572725297",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rizka",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-06-08T14:02:37+0000",
+      "headline" : "review-44936-WTCID16594275",
+      "id" : "8988375351345",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sandi Rosadi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-06-06T11:24:03+0000",
+      "headline" : "review-44936-WTCID13260002",
+      "id" : "8988406513713",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-03-05T04:19:41+0000",
+      "headline" : "review-44936-WTCID12184642",
+      "id" : "8976837247025",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Aura",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-01-07T01:18:31+0000",
+      "headline" : "review-44936-WTCID16161184",
+      "id" : "8970346135601",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "melinda",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-11-22T17:01:52+0000",
+      "headline" : "review-44936-WTCID15999448",
+      "id" : "8965791514673",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "melinda",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2024-11-07T05:39:33+0000",
+      "headline" : "review-44936-WTCID15883166",
+      "id" : "8962786295857",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Ade Rizki",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-07-21T14:27:00+0000",
+      "headline" : "review-44936-WTCID13338041",
+      "id" : "8894035460145",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Farida Putri",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2023-03-23T19:24:49+0000",
+      "headline" : "review-44936-WTCID12339379",
+      "id" : "8875581407281",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Elis",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Mantap",
+      "date" : "2022-05-02T15:43:15+0000",
+      "headline" : "review-44936-WTCID08916325",
+      "id" : "8845989183537",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Icy White Pasta Gigi 160gr",
+      "approvalStatus" : "APPROVED",
+      "comment" : "good",
+      "date" : "2021-08-27T09:02:12+0000",
+      "id" : "8823813505073",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Icy White Pasta Gigi 160gr",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Luar biasa! Bernilai sepadan dengan harganya",
+      "date" : "2020-12-17T15:17:23+0000",
+      "id" : "8823619059761",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Icy White Pasta Gigi 160gr",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Luar biasa! Bernilai sepadan dengan harganya",
+      "date" : "2020-12-17T15:17:23+0000",
+      "id" : "8823619026993",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Putri Utami Ria Oktavia",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang bagus tapi kerdusnya peyok hmm",
+      "date" : "2020-07-22T13:59:08+0000",
+      "id" : "8823367696433",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "CLOSE UP T/P CRYSTAL FROST 160",
+      "approvalStatus" : "APPROVED",
+      "comment" : " Excellent! Value for money Good quality / texture",
+      "date" : "2020-05-18T07:24:53+0000",
+      "id" : "8823179247665",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Resta  Dwi Andina",
+      "approvalStatus" : "APPROVED",
+      "date" : "2019-12-25T16:17:05+0000",
+      "id" : "8822624288817",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Eka Nurjannah",
+      "approvalStatus" : "APPROVED",
+      "date" : "2019-12-08T11:40:21+0000",
+      "id" : "8822666756145",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "source_id": "WATREV-PILOT-39810",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/39810/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=100&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+    "retrieved_at": "2026-11-03T10:49:50.120326+00:00",
+    "status": 200,
+    "raw_file": "raw/watsons_paginated_39810.json",
+    "sha256": "900fdee88ef372ce1f9a244716d85b586f1a2991b45bcc6e2e6fb01318063243",
+    "bytes": 41386,
+    "keys": [
+      "pagination",
+      "ratingSummary",
+      "recommendationId",
+      "reviews",
+      "sorts",
+      "tags"
+    ],
+    "preview": "{'pagination': {'count': 100, 'hasNext': True, 'hasPrevious': False, 'page': 0, 'totalCount': 947, 'totalPages': 10}, 'ratingSummary': {'averageRating': '5.00', 'rating1Count': 0, 'rating2Count': 0, 'rating3Count': 0, 'rating4Count': 0, 'rating5Count': 947}, 'recommendationId': 'prkt', 'reviews': [{'alias': 'inge anggraini', 'approvalStatus': 'APPROVED', 'comment': 'Sudah langganan pakai pepsodent sensitive. Gigi ga gampang ngilu lagi..............', 'date': '2026-09-04T06:39:08+0000', 'headline': 'review-39810-WTCID21446182', 'id': '9104760733745', 'images': [{'mimeType': 'image/jpeg', 'previ"
+  },
+  {
+    "source_id": "WATREV-PILOT-BP_39810",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/BP_39810/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=100&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+    "retrieved_at": "2026-11-03T10:49:50.121326+00:00",
+    "status": 200,
+    "raw_file": "raw/watsons_paginated_BP_39810.json",
+    "sha256": "900fdee88ef372ce1f9a244716d85b586f1a2991b45bcc6e2e6fb01318063243",
+    "bytes": 41386,
+    "keys": [
+      "pagination",
+      "ratingSummary",
+      "recommendationId",
+      "reviews",
+      "sorts",
+      "tags"
+    ],
+    "preview": "{'pagination': {'count': 100, 'hasNext': True, 'hasPrevious': False, 'page': 0, 'totalCount': 947, 'totalPages': 10}, 'ratingSummary': {'averageRating': '5.00', 'rating1Count': 0, 'rating2Count': 0, 'rating3Count': 0, 'rating4Count': 0, 'rating5Count': 947}, 'recommendationId': 'prkt', 'reviews': [{'alias': 'inge anggraini', 'approvalStatus': 'APPROVED', 'comment': 'Sudah langganan pakai pepsodent sensitive. Gigi ga gampang ngilu lagi..............', 'date': '2026-09-04T06:39:08+0000', 'headline': 'review-39810-WTCID21446182', 'id': '9104760733745', 'images': [{'mimeType': 'image/jpeg', 'previ"
+  },
+  {
+    "source_id": "WATREV-PILOT-20231",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/20231/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=100&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+    "retrieved_at": "2026-11-03T10:49:58.528617+00:00",
+    "status": 200,
+    "raw_file": "raw/watsons_paginated_20231.json",
+    "sha256": "a409846209ed201495b22ff38002f2a98368655b05a9448e1cc472b6eebf45d2",
+    "bytes": 51324,
+    "keys": [
+      "pagination",
+      "ratingSummary",
+      "recommendationId",
+      "reviews",
+      "sorts",
+      "tags"
+    ],
+    "preview": "{'pagination': {'count': 100, 'hasNext': True, 'hasPrevious': False, 'page': 0, 'totalCount': 987, 'totalPages': 10}, 'ratingSummary': {'averageRating': '5.00', 'rating1Count': 1, 'rating2Count': 0, 'rating3Count': 0, 'rating4Count': 0, 'rating5Count': 986}, 'recommendationId': 'prkt', 'reviews': [{'alias': 'Sisilia Nafidzah', 'approvalStatus': 'APPROVED', 'comment': 'Mantap bagus berkualitas original', 'date': '2026-10-28T03:17:21+0000', 'displayTime': {'unit': 'DAY', 'value': 6}, 'headline': 'review-20231-WTCID22006379', 'id': '9113968705585', 'like': 0, 'rating': 5.0, 'replyCount': 0, 'repo"
+  },
+  {
+    "source_id": "WATREV-PILOT-BP_20231",
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/BP_20231/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=100&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+    "retrieved_at": "2026-11-03T10:49:58.626440+00:00",
+    "status": 200,
+    "raw_file": "raw/watsons_paginated_BP_20231.json",
+    "sha256": "a409846209ed201495b22ff38002f2a98368655b05a9448e1cc472b6eebf45d2",
+    "bytes": 51324,
+    "keys": [
+      "pagination",
+      "ratingSummary",
+      "recommendationId",
+      "reviews",
+      "sorts",
+      "tags"
+    ],
+    "preview": "{'pagination': {'count': 100, 'hasNext': True, 'hasPrevious': False, 'page': 0, 'totalCount': 987, 'totalPages': 10}, 'ratingSummary': {'averageRating': '5.00', 'rating1Count': 1, 'rating2Count': 0, 'rating3Count': 0, 'rating4Count': 0, 'rating5Count': 986}, 'recommendationId': 'prkt', 'reviews': [{'alias': 'Sisilia Nafidzah', 'approvalStatus': 'APPROVED', 'comment': 'Mantap bagus berkualitas original', 'date': '2026-10-28T03:17:21+0000', 'displayTime': {'unit': 'DAY', 'value': 6}, 'headline': 'review-20231-WTCID22006379', 'id': '9113968705585', 'like': 0, 'rating': 5.0, 'replyCount': 0, 'repo"
+  }
+]

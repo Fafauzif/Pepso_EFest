@@ -1,0 +1,2 @@
+source_id,variable_id,alias,activity,activity_year,reference_period,group_code,group_label,unit,supports,does_not_identify,source_url,source_locator
+HP08,309465,R268,Susenas dan Modul Konsumsi Pengeluaran,2025,last month and last year,269,"Sabun mandi, pasta gigi, sikat gigi, dan sampo",rupiah,household grouped expenditure context,"toothpaste-only spend, brand/tier, buyer/payer, age18–30switching",https://sirusa.bps.go.id/metadata/variabel/3bf88b6a-eaa5-5ada-82e6-8ab10e95fe5a,raw/bps_variable.txt lines40–73 and162–166

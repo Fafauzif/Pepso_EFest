@@ -1,0 +1,58 @@
+{
+  "summary": {
+    "product_code": "20231",
+    "product_name": "Complete 8 Multi Protection 150g",
+    "unique_review_ids": 987,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 987,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-20231-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/20231/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:51:39.052797+00:00",
+      "product_code": "20231",
+      "product_name": "Complete 8 Multi Protection 150g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/20231_p0_s500.json",
+      "sha256": "169c495333d2d10baf1a4254de74ea42e063686ed832812c9bf8a0446ede4356",
+      "bytes": 211578,
+      "pagination": {
+        "count": 500,
+        "hasNext": true,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 987,
+        "totalPages": 2
+      },
+      "rows": 500
+    },
+    {
+      "source_id": "WATREV-20231-P1-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/20231/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=1&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:51:50.393945+00:00",
+      "product_code": "20231",
+      "product_name": "Complete 8 Multi Protection 150g",
+      "page_requested": 1,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/20231_p1_s500.json",
+      "sha256": "453d1fc708f90acc358c1e01b66379b201648dddea1f5664bcf742d4fe8b4edb",
+      "bytes": 170834,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": true,
+        "page": 1,
+        "totalCount": 987,
+        "totalPages": 2
+      },
+      "rows": 487
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 15,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 15
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Martha angelyn",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-09-24T09:45:01+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-74897-WTCID19821231",
+      "id" : "9108958412849",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Septiana Wulandari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "repeat order ini mah, pasta gigi yang wajib dibeli tiap bulan",
+      "date" : "2026-09-04T08:41:27+0000",
+      "headline" : "review-74897-WTCID21448004",
+      "id" : "9104794058801",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rizky Ayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Lumaya punya pasta gigi edisi fifa 2026 hehe",
+      "date" : "2026-08-15T00:55:47+0000",
+      "headline" : "review-74897-WTCID20673011",
+      "id" : "9092728455217",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Angelina Rahayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Senang sekali berbelanja di watsons, banyak promonya",
+      "date" : "2026-08-13T11:11:58+0000",
+      "headline" : "review-74897-WTCID21193399",
+      "id" : "9092506157105",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "molana walas",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang bagus pengiriman cepat",
+      "date" : "2026-08-02T16:52:53+0000",
+      "headline" : "review-74897-WTCID21050082",
+      "id" : "9084371697713",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "molana belas",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang bagus pengiriman cepat",
+      "date" : "2026-08-02T16:49:24+0000",
+      "headline" : "review-74897-WTCID21050081",
+      "id" : "9084371402801",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Angelina Rahayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas produk sangat baik, harga produk sangat baik",
+      "date" : "2026-07-08T21:44:05+0000",
+      "headline" : "review-74897-WTCID20324370",
+      "id" : "9062004883505",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Angelina Rahayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas produk sangat baik, harga produk sangat baik",
+      "date" : "2026-07-05T16:15:14+0000",
+      "headline" : "review-74897-WTCID20321199",
+      "id" : "9061680545841",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "aga tha",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Suka bgt, pengiriman aman, dan exp date juga aman, fomo fifa2026",
+      "date" : "2026-07-04T04:01:41+0000",
+      "headline" : "review-74897-WTCID20174249",
+      "id" : "9061316689969",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Angelina Rahayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas produk sangat baik, harga produk sangat baik",
+      "date" : "2026-06-26T15:54:35+0000",
+      "headline" : "review-74897-WTCID19997018",
+      "id" : "9056297680945",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Huda Nurul",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk original dan berkualitas ",
+      "date" : "2026-06-17T16:38:30+0000",
+      "headline" : "review-74897-WTCID19873010",
+      "id" : "9048607686705",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Huda Nurul",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Produk original dan berkualitas ",
+      "date" : "2026-06-17T16:36:36+0000",
+      "headline" : "review-74897-WTCID19873011",
+      "id" : "9048607326257",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Tjiang Melisa Thiodono",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Limited Edition Pasta Gigi Best Defender Fifa Plaque removal 95g bagus untuk kesehatan gigi , membersihkan , menguatkan gigi \n",
+      "date" : "2026-05-25T14:38:55+0000",
+      "headline" : "review-74897-WTCID19454122",
+      "id" : "9038537621553",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jie Thung",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi rasa baru edisi piala dunia , membersihkan gigi , merawat gigi agar sehat , kuat , putih dan bebas bakteri , pasta giginya baunya juga harum",
+      "date" : "2026-05-25T11:44:38+0000",
+      "headline" : "review-74897-WTCID19424036",
+      "id" : "9037934788657",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Angelina Rahayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Kualitas produk sangat baik, harga produk sangat baik",
+      "date" : "2026-05-05T15:58:19+0000",
+      "headline" : "review-74897-WTCID19375437",
+      "id" : "9035063132209",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

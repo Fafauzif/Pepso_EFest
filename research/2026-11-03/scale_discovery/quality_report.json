@@ -1,0 +1,36 @@
+{
+  "new_oresa_records": 1930,
+  "unique_record_ids": 1930,
+  "product_counts": {
+    "Pepsodent Gum Expert": 1069,
+    "Pepsodent Siwak & Habbatussauda": 551,
+    "Pepsodent Pro.Care": 310
+  },
+  "scope_counts": {
+    "case_window_2022_H1_2026": 1619,
+    "after_case_H1_2026": 311
+  },
+  "ratings": {
+    "5": 1916,
+    "4": 14
+  },
+  "date_min": "2024-01-15",
+  "date_max": "2026-08-10",
+  "unique_normalized_texts": 1923,
+  "duplicate_text_groups": 5,
+  "lexical_flag_counts": {
+    "sensory": 1051,
+    "household": 131,
+    "price_or_promotion": 37,
+    "repeat_intention": 31,
+    "preuse_wording_candidate": 1,
+    "use_timeline": 330,
+    "stock_wording": 6
+  },
+  "lexical_caveat": "Overlapping exploratory word matches, not validated motives, sentiment, efficacy, unique people or prevalence. Campaign/sampling wording may be templated.",
+  "verified_18_30_switchers": 0,
+  "apify_runs": 0,
+  "paid_spend": 0,
+  "broader_research_datasets_screened_rows": 209187,
+  "broader_dataset_toothpaste_candidates": 0
+}

@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://oresa.id/produk-ulasan/detail-data/1053?page=1&rating=&order=&per_page=100",
+    "status": "success",
+    "page": 1,
+    "retrieved_at_utc": "2026-11-03T10:34:37.665209+00:00",
+    "bytes": 334068,
+    "sha256": "65f985ccbac60a444ff6548e021ea0d3f7e41947c600564b5ec45f9d157103eb",
+    "raw_file": "raw/oresa_ultrawhite_p1.json",
+    "rows": 100,
+    "total": 298,
+    "last_page": 3
+  },
+  {
+    "url": "https://oresa.id/produk-ulasan/detail-data/1053?page=2&rating=&order=&per_page=100",
+    "status": "success",
+    "page": 2,
+    "retrieved_at_utc": "2026-11-03T10:34:37.689126+00:00",
+    "bytes": 335348,
+    "sha256": "4abbd2c026dc7d4da48464c579f6fecc3c3659b2819bd573badb10cee64be3b3",
+    "raw_file": "raw/oresa_ultrawhite_p2.json",
+    "rows": 100,
+    "total": 298,
+    "last_page": 3
+  },
+  {
+    "url": "https://oresa.id/produk-ulasan/detail-data/1053?page=3&rating=&order=&per_page=100",
+    "status": "success",
+    "page": 3,
+    "retrieved_at_utc": "2026-11-03T10:34:37.701083+00:00",
+    "bytes": 338967,
+    "sha256": "32e607ddeaa5b89e6e91b2ab4b52ea2128f023ca8a4632af1691efe40ca7b4e0",
+    "raw_file": "raw/oresa_ultrawhite_p3.json",
+    "rows": 98,
+    "total": 298,
+    "last_page": 3
+  }
+]

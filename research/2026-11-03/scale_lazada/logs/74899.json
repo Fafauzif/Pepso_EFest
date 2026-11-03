@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "74899",
+    "product_name": "[Limited Edition] Pasta Gigi Best Defender FIFA Anti-Bacteria 95g",
+    "unique_review_ids": 31,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 31,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-74899-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/74899/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:53:14.125182+00:00",
+      "product_code": "74899",
+      "product_name": "[Limited Edition] Pasta Gigi Best Defender FIFA Anti-Bacteria 95g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/74899_p0_s500.json",
+      "sha256": "aaf65763820a861c42d77b72f335af6461d1ba9149a2fb622a0cc01944056a40",
+      "bytes": 11748,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 31,
+        "totalPages": 1
+      },
+      "rows": 31
+    }
+  ]
+}

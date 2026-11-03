@@ -1,0 +1,284 @@
+[
+  {
+    "key": "epmc_sensory",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28toothpaste+AND+%28sensory+OR+taste+OR+mouthfeel+OR+foaming%29%29+AND+FIRST_PDATE%3A%5B1900-01-01+TO+2026-11-03%5D&format=json&pageSize=20&resultType=core",
+    "retrieved_at": "2026-11-03T10:31:29.474883+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 117052,
+    "sha256": "eda236c6eafea751b3cc15245b30ca93de3633340797510197c7191cae94f1ce",
+    "raw_file": "raw/epmc_sensory.json",
+    "elapsed_seconds": 8.6
+  },
+  {
+    "key": "epmc_sls",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28dentifrice+AND+sodium+lauryl+AND+randomized%29+AND+FIRST_PDATE%3A%5B1900-01-01+TO+2026-11-03%5D&format=json&pageSize=20&resultType=core",
+    "retrieved_at": "2026-11-03T10:31:29.475608+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 72513,
+    "sha256": "c76311f4a9e0878639b255374814736c86cb4ba206700077171f814db0924021",
+    "raw_file": "raw/epmc_sls.json",
+    "elapsed_seconds": 8.06
+  },
+  {
+    "key": "epmc_hypersensitivity",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28desensitizing+toothpastes+AND+%28meta-analysis+OR+scoping+review%29%29+AND+FIRST_PDATE%3A%5B1900-01-01+TO+2026-11-03%5D&format=json&pageSize=20&resultType=core",
+    "retrieved_at": "2026-11-03T10:31:29.476315+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 98556,
+    "sha256": "393c1e9dddeeb929f1c2421f7ed161c900cf8e06bcf6b11084023299e814c230",
+    "raw_file": "raw/epmc_hypersensitivity.json",
+    "elapsed_seconds": 8.07
+  },
+  {
+    "key": "epmc_preference",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28toothpaste+AND+%28preference+OR+preferences+OR+acceptance%29%29+AND+FIRST_PDATE%3A%5B1900-01-01+TO+2026-11-03%5D&format=json&pageSize=20&resultType=core",
+    "retrieved_at": "2026-11-03T10:31:29.477052+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 132602,
+    "sha256": "436cbc8dba8e86cf53533bfd412f3254ece778db470391706a1de973fce0a501",
+    "raw_file": "raw/epmc_preference.json",
+    "elapsed_seconds": 8.5
+  },
+  {
+    "key": "epmc_adherence",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28dentin+hypersensitivity+AND+%28adherence+OR+discontinuation+OR+recurrence%29%29+AND+FIRST_PDATE%3A%5B1900-01-01+TO+2026-11-03%5D&format=json&pageSize=20&resultType=core",
+    "retrieved_at": "2026-11-03T10:31:29.477790+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 103927,
+    "sha256": "5dc8dc2e7b36e03de6141dc6a793fbc10e933d8f676a34e21b44482ed9cc5acf",
+    "raw_file": "raw/epmc_adherence.json",
+    "elapsed_seconds": 8.14
+  },
+  {
+    "key": "epmc_family",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28toothpaste+AND+%28household+OR+family+OR+parents%29%29+AND+FIRST_PDATE%3A%5B1900-01-01+TO+2026-11-03%5D&format=json&pageSize=20&resultType=core",
+    "retrieved_at": "2026-11-03T10:31:37.540636+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 121019,
+    "sha256": "0cf7d58daa3aca6f02a46159fe8052b29e10c4e455a4abd58f9a4cca0ebb8a2b",
+    "raw_file": "raw/epmc_family.json",
+    "elapsed_seconds": 7.96
+  },
+  {
+    "key": "epmc_packaging",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=TITLE_ABS%3A%28toothpaste+AND+%28packaging+OR+portion+OR+amount%29%29+AND+FIRST_PDATE%3A%5B1900-01-01+TO+2026-11-03%5D&format=json&pageSize=20&resultType=core",
+    "retrieved_at": "2026-11-03T10:31:37.550499+00:00",
+    "status": 200,
+    "content_type": "application/json;charset=UTF-8",
+    "bytes": 123556,
+    "sha256": "deccfc303161c8718424d5ee2393eed66f84354695478b2879607fb84571cb25",
+    "raw_file": "raw/epmc_packaging.json",
+    "elapsed_seconds": 7.87
+  },
+  {
+    "key": "crossref_search_family",
+    "url": "https://api.crossref.org/works?query.bibliographic=Family+influence+on+young+adult+brand+evaluation+parent+children+consumer+packaged+goods&rows=5&filter=until-pub-date%3A2026-11-03",
+    "retrieved_at": "2026-11-03T10:31:37.615022+00:00",
+    "status": "failed",
+    "error": "HTTP Error 429: Too Many Requests",
+    "elapsed_seconds": 6.65
+  },
+  {
+    "key": "crossref_search_unit_price",
+    "url": "https://api.crossref.org/works?query.bibliographic=unit+price+package+size+consumer+perception+small+packages&rows=5&filter=until-pub-date%3A2026-11-03",
+    "retrieved_at": "2026-11-03T10:31:37.974345+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 48175,
+    "sha256": "c27d69c687af22aac139290514199803a80c694ec930cc9096d98dd1c415a03c",
+    "raw_file": "raw/crossref_search_unit_price.json",
+    "elapsed_seconds": 8.36
+  },
+  {
+    "key": "crossref_search_packs",
+    "url": "https://api.crossref.org/works?query.bibliographic=Consumer+Response+to+Package+Downsizing+Evidence+Chicago+Ice+Cream+Market&rows=5&filter=until-pub-date%3A2026-11-03",
+    "retrieved_at": "2026-11-03T10:31:38.070013+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 50699,
+    "sha256": "92f0292331c3ce7addc9178429e97b4aa3e881e8fc14252bcb7431b69d9221a1",
+    "raw_file": "raw/crossref_search_packs.json",
+    "elapsed_seconds": 7.03
+  },
+  {
+    "key": "crossref_search_promo",
+    "url": "https://api.crossref.org/works?query.bibliographic=Long+Run+Effects+Promotion+Depth+New+Established+Customers+Three+Field+Studies&rows=5&filter=until-pub-date%3A2026-11-03",
+    "retrieved_at": "2026-11-03T10:31:44.261695+00:00",
+    "status": "failed",
+    "error": "HTTP Error 429: Too Many Requests",
+    "elapsed_seconds": 13.6
+  },
+  {
+    "key": "crossref_search_choice",
+    "url": "https://api.crossref.org/works?query.bibliographic=choice+overload+conceptual+review+meta+analysis&rows=5&filter=until-pub-date%3A2026-11-03",
+    "retrieved_at": "2026-11-03T10:31:45.100744+00:00",
+    "status": "failed",
+    "error": "HTTP Error 429: Too Many Requests",
+    "elapsed_seconds": 12.81
+  },
+  {
+    "key": "crossref_search_reference",
+    "url": "https://api.crossref.org/works?query.bibliographic=Consumer+Price+and+Promotion+Expectations+Experimental+Study&rows=5&filter=until-pub-date%3A2026-11-03",
+    "retrieved_at": "2026-11-03T10:31:45.418162+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 17201,
+    "sha256": "715b3923d245e7acfa64f4e97a929919b5275788600bec0c1d36f56d2646a11a",
+    "raw_file": "raw/crossref_search_reference.json",
+    "elapsed_seconds": 14.7
+  },
+  {
+    "key": "crossref_search_household",
+    "url": "https://api.crossref.org/works?query.bibliographic=consumer+competence+young+adults+newly+formed+households&rows=5&filter=until-pub-date%3A2026-11-03",
+    "retrieved_at": "2026-11-03T10:31:45.498811+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 32512,
+    "sha256": "f6dbc2099d734793cc690a433e694e70873e7504c78074d5e932616593bfc29b",
+    "raw_file": "raw/crossref_search_household.json",
+    "elapsed_seconds": 14.3
+  },
+  {
+    "key": "crossref_search_habit",
+    "url": "https://api.crossref.org/works?query.bibliographic=habit+discontinuity+context+change+consumer+habits+purchasing&rows=5&filter=until-pub-date%3A2026-11-03",
+    "retrieved_at": "2026-11-03T10:31:46.335739+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 25987,
+    "sha256": "f732286a7db88a1d224a41a80d8ef65e5649f9e57ddbe0799dfcbf9a17cd1c99",
+    "raw_file": "raw/crossref_search_habit.json",
+    "elapsed_seconds": 13.43
+  },
+  {
+    "key": "crossref_doi_00",
+    "url": "https://api.crossref.org/works/10.1086%2F651235",
+    "retrieved_at": "2026-11-03T10:31:57.866433+00:00",
+    "status": "failed",
+    "error": "HTTP Error 429: Too Many Requests",
+    "elapsed_seconds": 8.75
+  },
+  {
+    "key": "crossref_doi_01",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.jcps.2014.08.002",
+    "retrieved_at": "2026-11-03T10:31:57.909934+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 15265,
+    "sha256": "f00672cf85366d770ca52c756d5f88839ddf448100a5e0ab9738df0d01f9ded2",
+    "raw_file": "raw/crossref_doi_01.json",
+    "elapsed_seconds": 8.82
+  },
+  {
+    "key": "crossref_doi_02",
+    "url": "https://api.crossref.org/works/10.1177%2F002224378802500402",
+    "retrieved_at": "2026-11-03T10:31:59.762501+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 9475,
+    "sha256": "9359d82947b97a65d93a923269eaa28850786d91fb80b52dfe12b558277a83ec",
+    "raw_file": "raw/crossref_doi_02.json",
+    "elapsed_seconds": 6.86
+  },
+  {
+    "key": "crossref_doi_03",
+    "url": "https://api.crossref.org/works/10.1287%2Fmksc.4.2.147",
+    "retrieved_at": "2026-11-03T10:31:59.794288+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 2814,
+    "sha256": "35651956405cba8165f2559b3cd8ac87a5288f568a54665d9e75790d64dc0d89",
+    "raw_file": "raw/crossref_doi_03.json",
+    "elapsed_seconds": 6.83
+  },
+  {
+    "key": "crossref_doi_04",
+    "url": "https://api.crossref.org/works/10.1287%2Fmksc.1030.0040",
+    "retrieved_at": "2026-11-03T10:32:00.118125+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 6233,
+    "sha256": "1274e5244d92f497985ecd9f6f28896deae3720d36c737e2e2b2f38641fc5c22",
+    "raw_file": "raw/crossref_doi_04.json",
+    "elapsed_seconds": 6.5
+  },
+  {
+    "key": "crossref_doi_05",
+    "url": "https://api.crossref.org/works/10.1177%2F002224379202900108",
+    "retrieved_at": "2026-11-03T10:32:06.613354+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 8918,
+    "sha256": "6ae23f56c7ec6434b1139c4dbe3d38bb7e4259e3eea1c10a95dc802998acd07e",
+    "raw_file": "raw/crossref_doi_05.json",
+    "elapsed_seconds": 7.47
+  },
+  {
+    "key": "crossref_doi_06",
+    "url": "https://api.crossref.org/works/10.1080%2F09593960802113752",
+    "retrieved_at": "2026-11-03T10:32:06.619699+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 6726,
+    "sha256": "1fbe5cf30cd6c1b7a737d2bcbee0c657180a00ecdc052606e80644abf524d3ea",
+    "raw_file": "raw/crossref_doi_06.json",
+    "elapsed_seconds": 7.36
+  },
+  {
+    "key": "crossref_doi_07",
+    "url": "https://api.crossref.org/works/10.1002%2Fcb.1946",
+    "retrieved_at": "2026-11-03T10:32:06.622015+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13826,
+    "sha256": "39117257c2af67d76bcb4ed8f7d6e6004ae05e635faec4fccdd3beb20335230e",
+    "raw_file": "raw/crossref_doi_07.json",
+    "elapsed_seconds": 7.44
+  },
+  {
+    "key": "crossref_doi_08",
+    "url": "https://api.crossref.org/works/10.1007%2Fs00784-015-1535-z",
+    "retrieved_at": "2026-11-03T10:32:06.622948+00:00",
+    "status": "failed",
+    "error": "HTTP Error 429: Too Many Requests",
+    "elapsed_seconds": 7.35
+  },
+  {
+    "key": "crossref_doi_09",
+    "url": "https://api.crossref.org/works/10.1177%2F002224379002700301",
+    "retrieved_at": "2026-11-03T10:32:06.734035+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 9991,
+    "sha256": "e87af718cc8de0d1e4e522ac631431583e8fb3aa48247877e2e4b9425f545f9d",
+    "raw_file": "raw/crossref_doi_09.json",
+    "elapsed_seconds": 7.34
+  },
+  {
+    "key": "crossref_doi_10",
+    "url": "https://api.crossref.org/works/10.1016%2Fj.jretai.2013.06.002",
+    "retrieved_at": "2026-11-03T10:32:13.969839+00:00",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 13464,
+    "sha256": "d8e11ecd6497469a5231850d088327dacb550572d5cf2c099d1bfa3dc1ea3715",
+    "raw_file": "raw/crossref_doi_10.json",
+    "elapsed_seconds": 6.24
+  },
+  {
+    "key": "pmc_sls_fulltext",
+    "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC4799265/fullTextXML",
+    "retrieved_at": "2026-11-03T10:32:13.981232+00:00",
+    "status": 200,
+    "content_type": "application/xml",
+    "bytes": 76492,
+    "sha256": "248b4ec1eaebe446bdcc64f489da22c02571effb9ff3f7ef3c92e91883225179",
+    "raw_file": "raw/pmc_sls_fulltext.xml",
+    "elapsed_seconds": 17.78
+  }
+]

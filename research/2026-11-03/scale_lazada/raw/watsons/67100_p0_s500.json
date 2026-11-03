@@ -1,0 +1,64 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 2,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 2
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Yani Yani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Paket telah di terima dengan aman dan lengkap, terima kasih.",
+      "date" : "2026-10-10T14:21:02+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 3
+      },
+      "headline" : "review-67100-261001091000100120150015769329",
+      "id" : "9110432120881",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Yani Yani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Paket telah di terima dengan aman dan lengkap, terima kasih.",
+      "date" : "2026-10-05T16:55:02+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 4
+      },
+      "headline" : "review-67100-WTCID21901201",
+      "id" : "9109844852785",
+      "images" : [ {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/67100/9109844852785/WTCID21901201_67100_1_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/67100/9109844852785/WTCID21901201_67100_1.jpg"
+      }, {
+         "mimeType" : "image/jpeg",
+         "previewImageURL" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/67100/9109844852785/WTCID21901201_67100_2_thumbnail.jpg",
+         "url" : "https://dampublishingprodwtcid.blob.core.windows.net/review-publishing/67100/9109844852785/WTCID21901201_67100_2.jpg"
+      } ],
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

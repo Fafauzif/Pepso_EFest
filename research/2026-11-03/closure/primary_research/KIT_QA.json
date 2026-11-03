@@ -1,0 +1,74 @@
+{
+  "status": "passed",
+  "scope": "instrument kit only; no recruitment, interviews, or primary data collected",
+  "templates": [
+    {
+      "file": "templates/recruitment_tracker.csv",
+      "columns": 14,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/screening_log.csv",
+      "columns": 22,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/consent_log.csv",
+      "columns": 13,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/interview_index.csv",
+      "columns": 19,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/case_sku_roster.csv",
+      "columns": 11,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/purchase_events.csv",
+      "columns": 38,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/evidence_coding.csv",
+      "columns": 18,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/diary_events.csv",
+      "columns": 18,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/shelf_observations.csv",
+      "columns": 16,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/choice_tasks.csv",
+      "columns": 17,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/pilot_changes.csv",
+      "columns": 11,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/coding_disagreements.csv",
+      "columns": 11,
+      "response_rows": 0
+    },
+    {
+      "file": "templates/hypothesis_updates.csv",
+      "columns": 13,
+      "response_rows": 0
+    }
+  ],
+  "template_count": 13,
+  "participant_response_rows": 0,
+  "local_markdown_links": "passed"
+}

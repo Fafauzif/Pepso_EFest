@@ -1,0 +1,169 @@
+[
+  {
+    "name": "pypi_praw",
+    "url": "https://pypi.org/pypi/praw/json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 182251,
+    "sha256": "c678d08e961033c612fe1b385d054434caf241f24481ce094e4811679511bbf2",
+    "raw_file": "raw/pypi_praw.json",
+    "retrieved_at": "2026-11-03T10:48:31.443470+00:00"
+  },
+  {
+    "name": "pypi_asyncpraw",
+    "url": "https://pypi.org/pypi/asyncpraw/json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 40539,
+    "sha256": "73f8b46bbbb10b1f96e26f7e2ba8d0c21329083406e96a9a1a01dbd10bd7de13",
+    "raw_file": "raw/pypi_asyncpraw.json",
+    "retrieved_at": "2026-11-03T10:48:31.444272+00:00"
+  },
+  {
+    "name": "pypi_twscrape",
+    "url": "https://pypi.org/pypi/twscrape/json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 64059,
+    "sha256": "a438feee850a2bd08c2b5d1ef12b8879dc6d965b0b3f40e57e2e4f2bb2a65488",
+    "raw_file": "raw/pypi_twscrape.json",
+    "retrieved_at": "2026-11-03T10:48:31.445073+00:00"
+  },
+  {
+    "name": "pypi_ntscraper",
+    "url": "https://pypi.org/pypi/ntscraper/json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 73168,
+    "sha256": "76c896aae5d773dff76dd6860e177ca8e6c68b6f41abdbc436126f1d7212962b",
+    "raw_file": "raw/pypi_ntscraper.json",
+    "retrieved_at": "2026-11-03T10:48:31.445518+00:00"
+  },
+  {
+    "name": "pypi_snscrape",
+    "url": "https://pypi.org/pypi/snscrape/json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 29580,
+    "sha256": "c4438694952b6ba46b84674db1ffe762987ca0f3b5d690dcd8dee197e605c96e",
+    "raw_file": "raw/pypi_snscrape.json",
+    "retrieved_at": "2026-11-03T10:48:40.690488+00:00"
+  },
+  {
+    "name": "pypi_crawl4ai",
+    "url": "https://pypi.org/pypi/crawl4ai/json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 145297,
+    "sha256": "3e5afb9fa84ae35132718c90fbbc65beaae7f3b6ec38cecdc9721a2815c0dd78",
+    "raw_file": "raw/pypi_crawl4ai.json",
+    "retrieved_at": "2026-11-03T10:48:40.691774+00:00"
+  },
+  {
+    "name": "pypi_scrapling",
+    "url": "https://pypi.org/pypi/scrapling/json",
+    "status": 200,
+    "content_type": "application/json",
+    "bytes": 128263,
+    "sha256": "45d8075a8e5224c28e2c242bf8af80e96fd1bad0e0e8a97443607e6d942b0567",
+    "raw_file": "raw/pypi_scrapling.json",
+    "retrieved_at": "2026-11-03T10:48:40.702050+00:00"
+  },
+  {
+    "name": "twscrape_readme",
+    "url": "https://raw.githubusercontent.com/vladkens/twscrape/main/README.md",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "retrieved_at": "2026-11-03T10:48:40.705747+00:00"
+  },
+  {
+    "name": "twscrape_pyproject",
+    "url": "https://raw.githubusercontent.com/vladkens/twscrape/main/pyproject.toml",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 2075,
+    "sha256": "e8baefc9f1eb53d5838ff1dba48c1d382cd7aef27785d4bfd99a87b4057c4748",
+    "raw_file": "raw/twscrape_pyproject.txt",
+    "retrieved_at": "2026-11-03T10:48:46.021058+00:00"
+  },
+  {
+    "name": "ntscraper_readme",
+    "url": "https://raw.githubusercontent.com/bocchilorenzo/ntscraper/main/README.md",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 6178,
+    "sha256": "6eaba531a798b511c3d9afbb3ef91d7cf6822016a3ab58c7fb206f9c020fefde",
+    "raw_file": "raw/ntscraper_readme.txt",
+    "retrieved_at": "2026-11-03T10:48:48.130141+00:00"
+  },
+  {
+    "name": "ntscraper_requirements",
+    "url": "https://raw.githubusercontent.com/bocchilorenzo/ntscraper/main/requirements.txt",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 83,
+    "sha256": "b1eec359fafb316e7cdcd63be34feaebe9005e4ee092aee406e904ad7b162f69",
+    "raw_file": "raw/ntscraper_requirements.txt",
+    "retrieved_at": "2026-11-03T10:48:48.162128+00:00"
+  },
+  {
+    "name": "snscrape_readme",
+    "url": "https://raw.githubusercontent.com/JustAnotherArchivist/snscrape/master/README.md",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 4076,
+    "sha256": "09eb05497eb5d73b6b934ced7f78d369b9a402f1e2ce89bcd9db84c26a1c8009",
+    "raw_file": "raw/snscrape_readme.txt",
+    "retrieved_at": "2026-11-03T10:48:48.169977+00:00"
+  },
+  {
+    "name": "snscrape_twitter",
+    "url": "https://raw.githubusercontent.com/JustAnotherArchivist/snscrape/master/snscrape/modules/twitter.py",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 97065,
+    "sha256": "1f9da7337294edb66ad124fe03707223aae242754c06ff4c3891cde240cf1dea",
+    "raw_file": "raw/snscrape_twitter.txt",
+    "retrieved_at": "2026-11-03T10:48:51.142122+00:00"
+  },
+  {
+    "name": "scrapling_pyproject",
+    "url": "https://raw.githubusercontent.com/D4Vinci/Scrapling/main/pyproject.toml",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 3859,
+    "sha256": "eea027f3a06ec1b9704024e89dc59fc2a568f9656bf7546b01be1e65883524ba",
+    "raw_file": "raw/scrapling_pyproject.txt",
+    "retrieved_at": "2026-11-03T10:48:51.158966+00:00"
+  },
+  {
+    "name": "crawl4ai_pyproject",
+    "url": "https://raw.githubusercontent.com/unclecode/crawl4ai/main/pyproject.toml",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 2510,
+    "sha256": "eb91415ecd274425525ad815fec168c18ecd4524e23e00b45925ff0aa2489663",
+    "raw_file": "raw/crawl4ai_pyproject.txt",
+    "retrieved_at": "2026-11-03T10:48:51.191793+00:00"
+  },
+  {
+    "name": "praw_docs",
+    "url": "https://praw.readthedocs.io/en/stable/getting_started/authentication.html",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 61649,
+    "sha256": "39fdb22bd5d9a3b19c0c9c4bc970420fef39ceec664df6c87ec7e7e419b8698d",
+    "raw_file": "raw/praw_docs.html",
+    "retrieved_at": "2026-11-03T10:48:51.238225+00:00"
+  },
+  {
+    "name": "asyncpraw_docs",
+    "url": "https://asyncpraw.readthedocs.io/en/stable/getting_started/authentication.html",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 62109,
+    "sha256": "a885754f039039fec9f504b6ec90cee90b0f2e4e5b27af099985c50403b8876b",
+    "raw_file": "raw/asyncpraw_docs.html",
+    "retrieved_at": "2026-11-03T10:48:56.880020+00:00"
+  }
+]

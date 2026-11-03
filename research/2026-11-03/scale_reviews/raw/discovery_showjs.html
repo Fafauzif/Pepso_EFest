@@ -1,0 +1,117 @@
+$(document).ready(function () {
+    if (document.getElementById('bandeau')) {
+        document.getElementById('bandeau').style.top = _header.offsetHeight + "px";
+    }
+    let targetReviews = '.revs-container';
+    let form = $('#filtersReviewsForm');
+
+    $('.filter-product').on('change', function () {
+        loadProducts(targetReviews);
+    });
+
+    function loadProducts(target, addMoreReview = false, page = 1) {
+        $.ajax({
+            url: form.attr('action'),
+            data: form.serialize() + '&page=' + page,
+            type: 'GET',
+            success: function (response) {
+                if (response.length) {
+                    if (addMoreReview) {
+                        $('.more-review').remove();
+                    }
+                    $(target).replaceWith(response);
+                    eventMoreReview();
+                    lazyLoadInstance.update();
+                    $('.rating').rating();
+                }
+            }
+        });
+    }
+
+    let eventMoreReview = function () {
+        $('.more-review').click(function () {
+            let nextPage = $(this).attr('data-next-page');
+            loadProducts('.block-add-reviews', true, nextPage);
+        });
+        vote();
+        reportAbuse();
+        refreshCollapse();
+        $(".fancybox").fancybox();
+    };
+
+    let reportAbuse = function () {
+        $('.report').on('click', function () {
+            if (!userIsLogin()) {
+                return;
+            }
+            $.ajax({
+                url: Routing.generate('report_abuse', {id: $(this).attr('data-id')}),
+                type: 'POST',
+                dataType: 'json',
+                success: function (response) {
+                    showNotification(response.message);
+                },
+            });
+        });
+    };
+
+    let vote = function () {
+        $('.vote').on('click', function () {
+            let target = $(this);
+            if (!userIsLogin()) {
+                return;
+            }
+            $.ajax({
+                url: Routing.generate('site_review_vote', {id: target.attr('data-id'), vote: target.attr('data-vote'), slug: slugCountry}),
+                type: 'POST',
+                dataType: 'json',
+                success: function (response) {
+                    target.find('span').addClass('active');
+                    showNotification(response.message);
+                },
+            });
+        });
+    };
+
+    $('.referer_modal_after_login').on('click', function () {
+        let _new_product_review = $(this).attr('data-referer-param');
+        $('input[name="_target_path"]').val(_new_product_review).change();
+    });
+
+    let expandComment = function expandComment(el) {
+        let comment = el.find('[itemprop="reviewBody"]').html();
+        el.find('[itemprop="reviewBody"]').next().html(comment + ' <a href="javascript:" class="link-underline show_less_review">' + read_less_trans + '</a>');
+
+        // hide long reviews after showing them
+        $('.show_less_review').on('click', function (ev) {
+            let el = $(this).closest('.comment');
+            subComment(el);
+        });
+    };
+
+    let subComment = function subComment(el) {
+        let chars = 224;
+        let cmt = $(el).prev().html();
+        cmt = cmt.substring(0, chars);
+        if (cmt.length === chars) {
+            cmt = cmt + '... <a href="javascript:" class="link-underline show_more_review">' + read_more_trans + '</a>';
+        }
+        $(el).html(cmt);
+
+        // show long reviews after hiding them
+        $('.show_more_review').on('click', function (ev) {
+            // prevent the event from executing automatically
+            $('.show_less_review').unbind('click')
+            let el = $(this).closest('.bloc-info-reviews');
+            expandComment(el);
+        });
+    };
+
+    let refreshCollapse = function () {
+        $('.bloc-info-reviews').each(function (key, el) {
+            subComment($(el).find('.comment'));
+        });
+    };
+
+    eventMoreReview();
+});

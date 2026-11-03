@@ -1,0 +1,131 @@
+[
+  {
+    "query": "pepsodent",
+    "url": "https://oresa.id/produk-sampel/ended-sampling?page=1&q=pepsodent&sort=&category=",
+    "status": "success",
+    "total_campaigns": 4,
+    "raw_file": "raw/oresa_ended_pepsodent.json",
+    "retrieved_at_utc": "2026-11-03T10:51:03.051876+00:00",
+    "sha256": "49a9416e9212260847ebe237f187d73b3f7ec4399e4f61e1f6c3d5b6a5537e9c",
+    "campaigns": [
+      {
+        "project_detail_id": 214,
+        "product_id": 1061,
+        "category": "Tooth Paste",
+        "name": "Pepsodent Pro.Care",
+        "total_review": 310,
+        "start_date_sampling": "2026-07-16",
+        "end_date_sampling": "2026-08-15",
+        "sampling_method": "online",
+        "show_review": 1,
+        "name_slug": "pepsodent-procare"
+      },
+      {
+        "project_detail_id": 206,
+        "product_id": 1053,
+        "category": "Tooth Paste",
+        "name": "Pepsodent Ultra White",
+        "total_review": 298,
+        "start_date_sampling": "2026-03-11",
+        "end_date_sampling": "2026-04-28",
+        "sampling_method": "online",
+        "show_review": 1,
+        "name_slug": "pepsodent-ultra-white"
+      },
+      {
+        "project_detail_id": 166,
+        "product_id": 1017,
+        "category": "Tooth Paste",
+        "name": "Pepsodent Gum Expert",
+        "total_review": 1069,
+        "start_date_sampling": "2024-09-23",
+        "end_date_sampling": "2024-12-31",
+        "sampling_method": "online",
+        "show_review": 1,
+        "name_slug": "pepsodent-gum-expert"
+      },
+      {
+        "project_detail_id": 147,
+        "product_id": 998,
+        "category": "Tooth Paste",
+        "name": "Pepsodent Siwak & Habbatussauda",
+        "total_review": 551,
+        "start_date_sampling": "2023-12-21",
+        "end_date_sampling": "2024-03-02",
+        "sampling_method": "online",
+        "show_review": 1,
+        "name_slug": "pepsodent-siwak-habbatussauda"
+      }
+    ]
+  },
+  {
+    "query": "sensodyne",
+    "url": "https://oresa.id/produk-sampel/ended-sampling?page=1&q=sensodyne&sort=&category=",
+    "status": "success",
+    "total_campaigns": 0,
+    "raw_file": "raw/oresa_ended_sensodyne.json",
+    "retrieved_at_utc": "2026-11-03T10:51:03.053159+00:00",
+    "sha256": "6dabd761a1c14eca335f22897b7aad8358ca455f711a87fef37b7077eefd174b",
+    "campaigns": []
+  },
+  {
+    "query": "closeup",
+    "url": "https://oresa.id/produk-sampel/ended-sampling?page=1&q=closeup&sort=&category=",
+    "status": "success",
+    "total_campaigns": 0,
+    "raw_file": "raw/oresa_ended_closeup.json",
+    "retrieved_at_utc": "2026-11-03T10:51:03.053917+00:00",
+    "sha256": "6dabd761a1c14eca335f22897b7aad8358ca455f711a87fef37b7077eefd174b",
+    "campaigns": []
+  },
+  {
+    "query": "colgate",
+    "url": "https://oresa.id/produk-sampel/ended-sampling?page=1&q=colgate&sort=&category=",
+    "status": "success",
+    "total_campaigns": 0,
+    "raw_file": "raw/oresa_ended_colgate.json",
+    "retrieved_at_utc": "2026-11-03T10:51:03.054502+00:00",
+    "sha256": "6dabd761a1c14eca335f22897b7aad8358ca455f711a87fef37b7077eefd174b",
+    "campaigns": []
+  },
+  {
+    "query": "enzim",
+    "url": "https://oresa.id/produk-sampel/ended-sampling?page=1&q=enzim&sort=&category=",
+    "status": "success",
+    "total_campaigns": 0,
+    "raw_file": "raw/oresa_ended_enzim.json",
+    "retrieved_at_utc": "2026-11-03T10:51:10.731854+00:00",
+    "sha256": "6dabd761a1c14eca335f22897b7aad8358ca455f711a87fef37b7077eefd174b",
+    "campaigns": []
+  },
+  {
+    "query": "systema",
+    "url": "https://oresa.id/produk-sampel/ended-sampling?page=1&q=systema&sort=&category=",
+    "status": "success",
+    "total_campaigns": 0,
+    "raw_file": "raw/oresa_ended_systema.json",
+    "retrieved_at_utc": "2026-11-03T10:51:10.760292+00:00",
+    "sha256": "6dabd761a1c14eca335f22897b7aad8358ca455f711a87fef37b7077eefd174b",
+    "campaigns": []
+  },
+  {
+    "query": "ciptadent",
+    "url": "https://oresa.id/produk-sampel/ended-sampling?page=1&q=ciptadent&sort=&category=",
+    "status": "success",
+    "total_campaigns": 0,
+    "raw_file": "raw/oresa_ended_ciptadent.json",
+    "retrieved_at_utc": "2026-11-03T10:51:10.775049+00:00",
+    "sha256": "6dabd761a1c14eca335f22897b7aad8358ca455f711a87fef37b7077eefd174b",
+    "campaigns": []
+  },
+  {
+    "query": "formula",
+    "url": "https://oresa.id/produk-sampel/ended-sampling?page=1&q=formula&sort=&category=",
+    "status": "success",
+    "total_campaigns": 0,
+    "raw_file": "raw/oresa_ended_formula.json",
+    "retrieved_at_utc": "2026-11-03T10:51:10.818307+00:00",
+    "sha256": "6dabd761a1c14eca335f22897b7aad8358ca455f711a87fef37b7077eefd174b",
+    "campaigns": []
+  }
+]

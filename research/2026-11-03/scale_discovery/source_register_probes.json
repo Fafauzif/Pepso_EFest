@@ -1,0 +1,56 @@
+[
+  {
+    "source_id": "oresa_index",
+    "url": "https://oresa.id/produk-sampel/perawatan-pribadi",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at_utc": "2026-11-03T10:47:51.546009+00:00",
+    "raw_file": "raw/oresa_index.txt",
+    "bytes": 153033,
+    "sha256": "f6bff28ff4eefd5be415d90cbd3f900c111acd0f5055066a9bcf64e50c3bb49e"
+  },
+  {
+    "source_id": "oresa_siwak",
+    "url": "https://www.oresa.id/produk-sampel/147/998/pepsodent-siwak-habbatussauda",
+    "status": 200,
+    "content_type": "text/html; charset=UTF-8",
+    "retrieved_at_utc": "2026-11-03T10:47:51.546811+00:00",
+    "raw_file": "raw/oresa_siwak.txt",
+    "bytes": 166988,
+    "sha256": "756bf6cb773eaf511352b02412a910218cc47f71f2983700a38a43cd7991d3f7"
+  },
+  {
+    "source_id": "mendeley_large",
+    "url": "https://data.mendeley.com/datasets/74xrbd4vxy/1",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at_utc": "2026-11-03T10:47:51.547265+00:00",
+    "raw_file": "raw/mendeley_large.txt",
+    "bytes": 125365,
+    "sha256": "dbba0218bdea628a512051c938ecddc03a4bdd298538ea90ad82b6bf53ba8ecc"
+  },
+  {
+    "source_id": "mendeley_prdect",
+    "url": "https://data.mendeley.com/datasets/574v66hf2v/1",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "retrieved_at_utc": "2026-11-03T10:47:51.547729+00:00",
+    "raw_file": "raw/mendeley_prdect.txt",
+    "bytes": 125547,
+    "sha256": "8a0ccd82a0d44b1059bd9962522d4b5bd9b59b955ee29bb9b694ead0c0f52e8c"
+  },
+  {
+    "source_id": "mendeley_large_api",
+    "url": "https://data.mendeley.com/public-api/datasets/74xrbd4vxy/versions/1",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "retrieved_at_utc": "2026-11-03T10:48:08.955628+00:00"
+  },
+  {
+    "source_id": "mendeley_prdect_api",
+    "url": "https://data.mendeley.com/public-api/datasets/574v66hf2v/versions/1",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found",
+    "retrieved_at_utc": "2026-11-03T10:48:09.582534+00:00"
+  }
+]

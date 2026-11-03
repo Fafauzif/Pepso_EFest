@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://api.watsons.co.id/api/v2/wtcid/products/search?query=%3AbestSeller%3AproductBrandCode%3APepsodent&pageSize=100&currentPage=0&lang=id&curr=IDR&fields=FULL",
+    "retrieved_at": "2026-11-03T10:33:00.214716+00:00",
+    "status": 200,
+    "bytes": 339270,
+    "final_url": "https://api.watsons.co.id/api/v2/wtcid/products/search?query=%3AbestSeller%3AproductBrandCode%3APepsodent&pageSize=100&currentPage=0&lang=id&curr=IDR&fields=FULL"
+  },
+  {
+    "url": "https://www.klikindomaret.com/?sortcol=harga",
+    "retrieved_at": "2026-11-03T10:33:00.215610+00:00",
+    "status": 200,
+    "bytes": 2962,
+    "final_url": "https://www.klikindomaret.com/?sortcol=harga"
+  },
+  {
+    "url": "https://guardianindonesia.co.id/personal-care/dental.html?page=1",
+    "retrieved_at": "2026-11-03T10:33:00.216052+00:00",
+    "status": 200,
+    "bytes": 98989,
+    "final_url": "https://guardianindonesia.co.id/personal-care/dental.html?page=1"
+  },
+  {
+    "url": "https://shop.hypermart.co.id/hypermart/category/C633-PERAWATAN-MULUT",
+    "retrieved_at": "2026-11-03T10:33:00.216683+00:00",
+    "status": 200,
+    "bytes": 53398,
+    "final_url": "https://shop.hypermart.co.id/hypermart/category/C633-PERAWATAN-MULUT"
+  }
+]

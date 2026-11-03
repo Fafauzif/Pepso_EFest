@@ -1,0 +1,35 @@
+{
+  "summary": {
+    "product_code": "61237",
+    "product_name": "Ultra White Fresh Shine 90g",
+    "unique_review_ids": 6,
+    "stop_reason": "reported_history_complete",
+    "reported_total": 6,
+    "complete": true
+  },
+  "sources": [
+    {
+      "source_id": "WATREV-61237-P0-S500",
+      "url": "https://api.watsons.co.id/api/v2/wtcid/products/61237/paginatedReviews?fields=ASIA_CUSTOMER_REVIEW&currentPage=0&pageSize=500&sort=date%3Adesc&needsTotal=true&lang=id&curr=IDR",
+      "retrieved_at_utc": "2026-11-03T10:52:15.638894+00:00",
+      "product_code": "61237",
+      "product_name": "Ultra White Fresh Shine 90g",
+      "page_requested": 0,
+      "page_size_requested": 500,
+      "status": 200,
+      "outcome": "success",
+      "raw_file": "raw/watsons/61237_p0_s500.json",
+      "sha256": "0b48ce788dd7536bf09220aed5c0bdddcec125c6238797d7959027c8c9ea68fa",
+      "bytes": 2600,
+      "pagination": {
+        "count": 500,
+        "hasNext": false,
+        "hasPrevious": false,
+        "page": 0,
+        "totalCount": 6,
+        "totalPages": 1
+      },
+      "rows": 6
+    }
+  ]
+}

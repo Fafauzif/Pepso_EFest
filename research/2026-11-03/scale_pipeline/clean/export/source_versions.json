@@ -1,0 +1,74 @@
+[
+  {
+    "source_version_id": "d3db5f6e9e45f39b630f725ff0dabff8e5cdca0f9bdc9f1ecf720f202d20d84f",
+    "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/scale_discovery/clean/oresa_new_reviews.json",
+    "sha256": "e64a9c2416b4838cebc3a45036d65db9a8678748cc1c2b652e12798b1840ca9b",
+    "bytes": 3045901,
+    "ingested_at": "2026-11-03T11:00:23.570885+00:00",
+    "completed": 1,
+    "rows_read": 1930
+  },
+  {
+    "source_version_id": "30ebfadf9ba74cd2d93842a72caef61032ef6960bd0b58db1e2fdd7f11347b72",
+    "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/scale_reddit/reddit_records.json",
+    "sha256": "af6ff97ff58334795971138f16e332bca8b50848bb3b58b4e02727f342aab09c",
+    "bytes": 508516,
+    "ingested_at": "2026-11-03T11:00:23.736835+00:00",
+    "completed": 1,
+    "rows_read": 389
+  },
+  {
+    "source_version_id": "bf25f401c46ede393cf38317acd1cff70ab4202c2d9cf56b318e816cdc838be6",
+    "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/access_reviews/clean/lazada_reviews.json",
+    "sha256": "e332c0bd017e7b118f9d3789400730f7703cd9d1bc4b9f5c88e0d2a3db7e95cd",
+    "bytes": 799233,
+    "ingested_at": "2026-11-03T11:00:23.775078+00:00",
+    "completed": 1,
+    "rows_read": 681
+  },
+  {
+    "source_version_id": "322a3696ea8f0971bfcc14e8008a135621cdba380cee8dc33f0b95f28560d402",
+    "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/access_reviews/clean/oresa_incentivized_reviews.json",
+    "sha256": "7fce2eb7ce72ed286f0d48624398a9de23df91fc48e82c00b414867d24035621",
+    "bytes": 363004,
+    "ingested_at": "2026-11-03T11:00:23.828150+00:00",
+    "completed": 1,
+    "rows_read": 298
+  },
+  {
+    "source_version_id": "1d159597f01ae1c026594fb41590c1189bf48c4637825c10d7d6d6a170c7770b",
+    "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/scale_lazada/clean/reviews.json",
+    "sha256": "da56e18596a4589f216e186b98fdf6a10aa1c2f217e5d58a4e2aab77f6a773e4",
+    "bytes": 20206711,
+    "ingested_at": "2026-11-03T11:00:23.875712+00:00",
+    "completed": 1,
+    "rows_read": 10191
+  },
+  {
+    "source_version_id": "329ca02f948a5a43227df581e44229dc0b90257c92a35cc3812275a7cea8d308",
+    "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/scale_amazon/clean/reviews_classified.jsonl.gz",
+    "sha256": "9b5b140170bcf2b1a4076de6cd8096be0b167b2d4413a843b512f731550bbbb5",
+    "bytes": 434031,
+    "ingested_at": "2026-11-03T11:00:24.721426+00:00",
+    "completed": 1,
+    "rows_read": 2259
+  },
+  {
+    "source_version_id": "340857019e343806b214f4994bc8f9e5ab842fee93f12b5e5d41863a3125e3c4",
+    "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/scale_amazon/health_household/clean/reviews_classified.jsonl.gz",
+    "sha256": "0886713b8687de0cf2f83cca24cdf407b299247094d5e0bd10f53622b4b4d2ca",
+    "bytes": 52815162,
+    "ingested_at": "2026-11-03T11:00:24.962417+00:00",
+    "completed": 1,
+    "rows_read": 287325
+  },
+  {
+    "source_version_id": "e0d7b74717c2265cae19f6473315ea2c3d04eca3ccacf48d05725e1a599473a1",
+    "path": "/workspace/scratch/70458c8119f6/Pepso_EFest/research/2026-11-03/scale_reviews/clean/tryandreview_reviews.json",
+    "sha256": "b0816dfd9adf486ee1f31550b9333126c604c7ace86a80444c7120211642c418",
+    "bytes": 1801660,
+    "ingested_at": "2026-11-03T11:01:56.063811+00:00",
+    "completed": 1,
+    "rows_read": 1423
+  }
+]

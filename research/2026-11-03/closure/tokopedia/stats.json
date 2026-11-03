@@ -1,0 +1,128 @@
+{
+  "source_files": [
+    {
+      "original_filename": "dataset_tokopedia-reviews-scraper_2026-11-03_12-22-38-122.json",
+      "original_sha256": "f230735caabd63457eca7600908c6f1ef74f5c6a54d18aab0606cdd30e7d2fb4",
+      "input_file_read": "dataset_tokopedia-reviews-scraper_2026-11-03_12-22-38-122.json.gz",
+      "bytes_uncompressed": 48579,
+      "row_count": 50,
+      "types": {
+        "product": 6,
+        "product_review": 43,
+        "notice": 1
+      }
+    },
+    {
+      "original_filename": "dataset_tokopedia-reviews-scraper_2026-11-03_12-27-31-721.json",
+      "original_sha256": "fd32d188ae06851e1c7b108c25b1c817b64f816d288e641b7292770c49917f14",
+      "input_file_read": "dataset_tokopedia-reviews-scraper_2026-11-03_12-27-31-721.json.gz",
+      "bytes_uncompressed": 283985,
+      "row_count": 285,
+      "types": {
+        "product": 18,
+        "product_review": 266,
+        "notice": 1
+      }
+    },
+    {
+      "original_filename": "dataset_shopee-reviews-scraper_2026-11-03_12-11-00-864.json",
+      "original_sha256": "70b5c3f45510052f3638cbacdc1acc9ef90730a1125bc4b6b5b3a864ea5bf659",
+      "input_file_read": "dataset_shopee-reviews-scraper_2026-11-03_12-11-00-864.json.gz",
+      "bytes_uncompressed": 924,
+      "row_count": 2,
+      "types": {
+        "error": 2
+      }
+    },
+    {
+      "original_filename": "dataset_shopee-reviews-scraper_2026-11-03_12-18-09-957.json",
+      "original_sha256": "cd9df5cdf2d9f988dfbfcaea2ce3cbddc73de23de109c823ff7f29c9ba0bbd86",
+      "input_file_read": "dataset_shopee-reviews-scraper_2026-11-03_12-18-09-957.json.gz",
+      "bytes_uncompressed": 98596,
+      "row_count": 100,
+      "types": {
+        "review": 100
+      }
+    }
+  ],
+  "tokopedia": {
+    "export_rows": 335,
+    "review_occurrences": 309,
+    "unique_review_ids": 266,
+    "repeated_identity_occurrences": 43,
+    "records_with_changed_payload_across_exports": 38,
+    "product_observations": 24,
+    "unique_product_ids": 18,
+    "review_product_count": 16,
+    "billing_notice_rows": 2,
+    "nonempty_text": 263,
+    "text_information_state": {
+      "contextual_text_candidate": 206,
+      "short_generic": 48,
+      "symbol_or_numeric_only": 9,
+      "blank": 3
+    },
+    "ratings": {
+      "5": 256,
+      "4": 7,
+      "2": 1,
+      "3": 1,
+      "1": 1
+    },
+    "product_scope_reviews": {
+      "toothpaste_title_candidate": 260,
+      "toothpaste_gimmick_title_candidate": 5,
+      "adjacent_whitening_spray": 1
+    },
+    "date_fields_both_present": 198,
+    "missing_reviewTime": 68,
+    "missing_reviewDate": 0,
+    "date_fields_disagree": 186,
+    "scope_by_unverified_reviewDate": {
+      "current_context_by_unverified_reviewDate": 101,
+      "case_historical_by_unverified_reviewDate": 153,
+      "outside_case_before_2022_by_unverified_reviewDate": 12
+    },
+    "possible_misassigned_text": 1,
+    "eligible_written_toothpaste_candidates": 256,
+    "candidate_tag_counts_nonexclusive": {
+      "fulfilment_or_seller": 106,
+      "promotion_or_price": 22,
+      "sensory_candidate": 36,
+      "continued_use_candidate": 15,
+      "before_use_candidate": 7,
+      "reported_benefit_candidate": 18,
+      "household_candidate": 3,
+      "future_or_fit_expectation": 8,
+      "explicit_repeat_wording_candidate": 4,
+      "pack_or_travel_candidate": 9
+    },
+    "exact_normalized_duplicate_text_groups": 11,
+    "records_in_duplicate_text_groups": 43,
+    "close_read_annotations": 85,
+    "seeded_random_calibration": 40,
+    "purposive_annotations": 45,
+    "age_verified_count": 0,
+    "premium_to_basic_verified_count": 0,
+    "actor_reported_event_charges_usd": [
+      0.0735,
+      0.426
+    ],
+    "actor_reported_event_charge_sum_usd": 0.4995,
+    "charges_scope": "sum of notices; not account bill or independently audited cost"
+  },
+  "shopee": {
+    "excluded_rows": 102,
+    "error_records": 2,
+    "irrelevant_UGREEN_reviews": 100,
+    "delivered_target_reviews": 0,
+    "UGREEN_nonempty_comments": 23
+  },
+  "caveats": [
+    "Unique record IDs are not unique people.",
+    "No target demographics or Premium-to-Basic switching verified.",
+    "Candidate lexical tags are not validated qualitative classifications or population estimates.",
+    "Current listed prices are not observed paid prices.",
+    "Dates are unresolved source fields; case-period slices are provisional."
+  ]
+}

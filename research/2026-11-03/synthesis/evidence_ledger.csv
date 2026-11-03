@@ -1,0 +1,15 @@
+claim_id,topic,claim,confidence_basis,source_locator,limit_or_rival,decision_implication
+C01,Premium channel presence,Official regional flyer lists Sensitive Expert100g,high: observed historical offer,R1; history_publicdata/promotion_events.json,Exact branch availability unresolved,Check actual store/variant at replenishment
+C02,Exact variant access,Satisfied reviewer reports bundle savings and stock friction,single stated episode,LZD-1574262094522499,No verified switch or population rate,Recruit satisfied users who still fallback
+C03,Large Premium packs,Current catalogue100g and160g Whitening,high: current catalogue; purchase status unknown,WATAPI-PEPSODENT-005; WATAPI-PEPSODENT-031,Not historical paid price or branch stock,Test access/value of existing packs before new SKU
+C04,Brand meaning,Family care and specialist confident smile intended positioning,analyst synthesis of official content,brand_campaigns/findings.md,Not measured consumer perception,Ask unprompted associations and benefit fit
+C05,Existing digital assets,ShadeScan/selfcheck/science/consultation documented,high: observed existence,brand_campaigns/clean/campaign_observations.json,Not efficacy/adoption/retention evidence,Audit missing handoff before rebuilding tool
+C06,Sensory vs endpoint,SLS-formulation trial sensory preference differed from endpoint comparison,bounded clinical study result,10.1007/s00784-015-1535-z,Not isolatedSLS causality or equivalence,Separate feltclean and intendedbenefit evaluation
+C07,Household roles,Review reports another household member experience,single reported episode,LZD-2032630484394818,Payer and age unknown,Reconstruct actual six roles
+C08,Episodic expectation,Reviewer intends use until symptom improves,single expectation statement,LZD-1200640450822499,No observed stopping/replacement,Ask actual next purchase after perceived relief
+C09,Choice overload,Effects conditional;2010average nearzero,crosscategory synthesis,10.1086/651235;10.1016/j.jcps.2014.08.002,No Pepsodent effect estimate,Measure uncertainty/difficulty not just optioncount
+C10,Promotions,Fieldexperiments differnew/established,crosscategory causal counterexample,10.1287/mksc.1030.0040,Durablegoods catalog not toothpaste,Compare appropriate acquisitioncohorts
+C11,Payer publicdata,BPSvariable groups personalcare items,high: metadata granularity,history_publicdata/public_data_metadata.json,No brand/individualpayer,Do not infer targetpayerprevalence
+C12,Consumer corpus,1154recordIDs across4source layers,descriptive selecteddata,access_reviews/quality_report.json,0verifiedtargetswitchers; incentive/ratingbias,Use as mechanisms not nationalpercentages
+C13,Case accounting,Share decline not absoluteRevenue proof,arithmetic conditional on definition,synthesis/case_economics.json,Comparable periods/revenuebasis unverified,Obtain tierabsolute metrics
+C14,Current strategy options,Three different friction-removal paths,conditional inference,PEPSODENT_DEEP_RESEARCH.md sections17-18,No selectedsolution/causaluplift,Use primaryevidence to discriminate

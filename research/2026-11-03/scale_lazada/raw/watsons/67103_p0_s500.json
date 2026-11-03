@@ -1,0 +1,58 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 3,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 3
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Faly Faly",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Dapat diskon di store, produk bagus",
+      "date" : "2026-08-08T07:44:17+0000",
+      "headline" : "review-67103-260808000200600010550043866281",
+      "id" : "9088746586161",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nuraulia Ulfa",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Fresh banget, baru mau coba. Semoga beneran mutihin ya",
+      "date" : "2026-07-30T11:23:23+0000",
+      "headline" : "review-undefined-WTCID21045059",
+      "id" : "9083394850865",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Vicky Putra",
+      "approvalStatus" : "APPROVED",
+      "comment" : "The best",
+      "date" : "2026-04-26T05:26:39+0000",
+      "headline" : "review-67103-260423029900100013940314835656",
+      "id" : "9031397933105",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

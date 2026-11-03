@@ -1,0 +1,231 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 18,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 18
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "Utami Nurwulandari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-17T17:29:21+0000",
+      "displayTime" : {
+         "unit" : "WEEK",
+         "value" : 2
+      },
+      "headline" : "review-43701-WTCID21705055",
+      "id" : "9112657854513",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "ka aida",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-09-26T02:46:21+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-undefined-WTCID21870000",
+      "id" : "9109385019441",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Sisilia Nafidzah",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Barang sampai dengan selamat dijamin original 100% kualitas sangat bagus",
+      "date" : "2026-09-01T15:53:15+0000",
+      "headline" : "review-43701-WTCID21446071",
+      "id" : "9103023865905",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Kai Li",
+      "approvalStatus" : "APPROVED",
+      "comment" : "It’s good price, and value for buying at Watsons ",
+      "date" : "2026-08-08T12:43:08+0000",
+      "headline" : "review-43701-260802021900200001140286220012",
+      "id" : "9088690126897",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "mala",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-07-31T15:33:25+0000",
+      "headline" : "review-43701-WTCID20669118",
+      "id" : "9083421753393",
+      "like" : 1,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "SANTIKA YULIA",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Best buy murah poolll knp sih watsons sedekah terus kasih harga murah\uD83E\uDD23\uD83E\uDD23\uD83E\uDD23",
+      "date" : "2026-07-20T14:34:02+0000",
+      "headline" : "review-undefined-WTCID20663022",
+      "id" : "9075598721073",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rizky Ayu",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi andalan, selalu pake yg ini, lumayan jg dpt free yg kecil ",
+      "date" : "2026-07-08T04:50:12+0000",
+      "headline" : "review-43701-WTCID19326630",
+      "id" : "9062143230001",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Xutsb Fcipt",
+      "approvalStatus" : "APPROVED",
+      "comment" : "barang cepat sampai, dapat harga promo dan exp masih panjang jadi aman, ditunggu promo lain nya",
+      "date" : "2026-07-04T11:54:49+0000",
+      "headline" : "review-43701-WTCID19633194",
+      "id" : "9059644244017",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nurul Mufadila",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-07-04T02:54:54+0000",
+      "headline" : "review-43701-WTCID18428904",
+      "id" : "9061578145841",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "KIKI EDWARD",
+      "approvalStatus" : "APPROVED",
+      "comment" : "1. Barang yang dikirim sesuai dengan pesanan. \n2. Pengiriman dengan packing yang rapi. \n3. Harga yang kompetitif dibandingkan kompetitor lainnya. ",
+      "date" : "2026-06-21T14:41:20+0000",
+      "headline" : "review-43701-WTCID19924045",
+      "id" : "9049804537905",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nina Afra",
+      "approvalStatus" : "APPROVED",
+      "comment" : "pasta gigi nya bagus dan dapat membersihkan gigi dapat potongan harga juga jadi lumayan ",
+      "date" : "2026-06-14T03:59:47+0000",
+      "headline" : "review-43701-WTCID19341454",
+      "id" : "9047645749297",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Jie",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Perlindungan seluruh mulut , untuk lidah , mulut dan gusi , membuat gigi kuat , mencegah gigi berlubang , menguatkan gigi , melindungi lapisan gigi",
+      "date" : "2026-06-12T01:27:36+0000",
+      "headline" : "review-43701-WTCID19639010",
+      "id" : "9047287463985",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "rizki meida",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-05-29T08:35:53+0000",
+      "headline" : "review-undefined-WTCID19553075",
+      "id" : "9040961339441",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Atta Deebouw",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Being a member is always rewarding",
+      "date" : "2026-05-16T18:25:09+0000",
+      "headline" : "review-43701-WTCID19502138",
+      "id" : "9037368918065",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Atta Deebouw",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Works great and worth price",
+      "date" : "2026-05-13T15:20:08+0000",
+      "headline" : "review-43701-WTCID19502134",
+      "id" : "9035993284657",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Patricia Permatasari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-04-07T15:35:25+0000",
+      "headline" : "review-43701-WTCID18790744",
+      "id" : "9027311665201",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Patricia Permatasari",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-09-16T13:22:03+0000",
+      "headline" : "review-43701-WTCID17262333",
+      "id" : "8998494076977",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Dewi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2025-08-07T08:53:30+0000",
+      "headline" : "review-43701-WTCID16345001",
+      "id" : "8993558691889",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}

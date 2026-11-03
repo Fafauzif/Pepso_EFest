@@ -1,0 +1,150 @@
+observation_id,keyword,search_volume,volume_status,source_file,source_line_start,source_line_end,country_verified_in_capture
+source_03_001,scaling gigi,49500,positive,data/raw/Pasted text (3).txt,183,189,False
+source_01_001,pepsodent,27100,positive,data/raw/Pasted text(20261102-164123).txt,1,1,False
+source_03_002,close up,22200,positive,data/raw/Pasted text (3).txt,192,198,False
+source_03_003,dental floss,22200,positive,data/raw/Pasted text (3).txt,201,207,False
+source_03_004,sensodyne,18100,positive,data/raw/Pasted text (3).txt,210,216,False
+source_02_001,cara memutihkan gigi,14800,positive,data/raw/Pasted text(20261102-164734).txt,1,1,False
+source_01_002,odol,12100,positive,data/raw/Pasted text(20261102-164123).txt,2,2,False
+source_01_003,pasta gigi,12100,positive,data/raw/Pasted text(20261102-164123).txt,3,3,False
+source_03_005,ciptadent,8100,positive,data/raw/Pasted text (3).txt,219,225,False
+source_03_006,colgate,8100,positive,data/raw/Pasted text (3).txt,228,236,False
+source_03_007,harga scaling gigi,8100,positive,data/raw/Pasted text (3).txt,239,245,False
+source_03_008,obat kumur,8100,positive,data/raw/Pasted text (3).txt,248,254,False
+source_02_002,cara mengatasi gigi ngilu,6600,positive,data/raw/Pasted text(20261102-164734).txt,2,2,False
+source_02_003,pasta gigi untuk gigi ngilu,6600,positive,data/raw/Pasted text(20261102-164734).txt,3,3,False
+source_03_009,colgate optic white,5400,positive,data/raw/Pasted text (3).txt,257,263,False
+source_02_004,penyebab gigi ngilu,5400,positive,data/raw/Pasted text(20261102-164734).txt,4,4,False
+source_03_010,sensodyne repair and protect,5400,positive,data/raw/Pasted text (3).txt,266,272,False
+source_02_005,cara memutihkan gigi secara alami,4400,positive,data/raw/Pasted text(20261102-164734).txt,5,5,False
+source_02_006,gigi kuning,4400,positive,data/raw/Pasted text(20261102-164734).txt,6,6,False
+source_03_011,harga bleaching gigi,4400,positive,data/raw/Pasted text (3).txt,275,281,False
+source_01_004,pepsodent whitening,4400,positive,data/raw/Pasted text(20261102-164123).txt,4,4,False
+source_02_007,cara menghilangkan gigi kuning,3600,positive,data/raw/Pasted text(20261102-164734).txt,7,7,False
+source_03_012,enzim pasta gigi,3600,positive,data/raw/Pasted text (3).txt,284,290,False
+source_03_013,flossing gigi,3600,positive,data/raw/Pasted text (3).txt,293,299,False
+source_02_008,gigi ngilu,3600,positive,data/raw/Pasted text(20261102-164734).txt,8,8,False
+source_02_009,penyebab gigi kuning,3600,positive,data/raw/Pasted text(20261102-164734).txt,9,9,False
+source_01_005,pepsodent sensitive expert,3600,positive,data/raw/Pasted text(20261102-164123).txt,5,5,False
+source_01_006,pepsodent herbal,2900,positive,data/raw/Pasted text(20261102-164123).txt,6,6,False
+source_01_007,odol pepsodent,2400,positive,data/raw/Pasted text(20261102-164123).txt,7,7,False
+source_02_010,pasta gigi pemutih,2400,positive,data/raw/Pasted text(20261102-164734).txt,10,10,False
+source_01_008,pasta gigi pepsodent,2400,positive,data/raw/Pasted text(20261102-164123).txt,8,8,False
+source_02_011,pasta gigi untuk gigi kuning,2400,positive,data/raw/Pasted text(20261102-164734).txt,11,11,False
+source_03_014,sikat gigi elektrik,2400,positive,data/raw/Pasted text (3).txt,302,308,False
+source_03_015,darlie,1900,positive,data/raw/Pasted text (3).txt,311,317,False
+source_01_009,pepsodent gum expert,1900,positive,data/raw/Pasted text(20261102-164123).txt,9,9,False
+source_02_012,odol untuk gigi sensitif,1600,positive,data/raw/Pasted text(20261102-164734).txt,12,12,False
+source_01_010,pepsodent siwak,1600,positive,data/raw/Pasted text(20261102-164123).txt,10,10,False
+source_01_011,pepsodent ultra white,1600,positive,data/raw/Pasted text(20261102-164123).txt,11,11,False
+source_02_013,gigi sensitif,1300,positive,data/raw/Pasted text(20261102-164734).txt,13,13,False
+source_02_014,pasta gigi untuk gigi sensitif,1300,positive,data/raw/Pasted text(20261102-164734).txt,14,14,False
+source_03_016,sensodyne harga,1300,positive,data/raw/Pasted text (3).txt,320,326,False
+source_03_017,sensodyne untuk gigi sensitif,1300,positive,data/raw/Pasted text (3).txt,329,335,False
+source_03_018,cara menyikat gigi yang benar,1000,positive,data/raw/Pasted text (3).txt,338,344,False
+source_03_019,formula pasta gigi,1000,positive,data/raw/Pasted text (3).txt,347,353,False
+source_01_012,merk odol,1000,positive,data/raw/Pasted text(20261102-164123).txt,12,12,False
+source_02_015,pasta gigi pemutih terbaik,1000,positive,data/raw/Pasted text(20261102-164734).txt,15,15,False
+source_01_013,pepsodent complete 8,1000,positive,data/raw/Pasted text(20261102-164123).txt,13,13,False
+source_03_020,sensodyne whitening,1000,positive,data/raw/Pasted text (3).txt,356,362,False
+source_02_016,gigi putih,880,positive,data/raw/Pasted text(20261102-164734).txt,16,16,False
+source_01_014,pasta gigi terbaik,880,positive,data/raw/Pasted text(20261102-164123).txt,14,14,False
+source_01_015,pasta gigi yang bagus,880,positive,data/raw/Pasted text(20261102-164123).txt,15,15,False
+source_01_016,pepsodent charcoal,880,positive,data/raw/Pasted text(20261102-164123).txt,16,16,False
+source_03_021,sensodyne fresh mint,880,positive,data/raw/Pasted text (3).txt,365,371,False
+source_03_022,systema pasta gigi,880,positive,data/raw/Pasted text (3).txt,374,380,False
+source_03_023,whitening strip,880,positive,data/raw/Pasted text (3).txt,383,389,False
+source_03_024,close up harga,720,positive,data/raw/Pasted text (3).txt,392,398,False
+source_03_025,colgate total,720,positive,data/raw/Pasted text (3).txt,401,407,False
+source_01_017,merek pasta gigi,720,positive,data/raw/Pasted text(20261102-164123).txt,17,17,False
+source_01_018,merk pasta gigi,720,positive,data/raw/Pasted text(20261102-164123).txt,18,18,False
+source_03_026,sensodyne rapid relief,720,positive,data/raw/Pasted text (3).txt,410,416,False
+source_02_017,warna gigi normal,720,positive,data/raw/Pasted text(20261102-164734).txt,17,17,False
+source_03_027,zact pasta gigi,720,positive,data/raw/Pasted text (3).txt,419,425,False
+source_01_019,pepsodent action 123,590,positive,data/raw/Pasted text(20261102-164123).txt,19,19,False
+source_01_020,pepsodent sensitive expert whitening,590,positive,data/raw/Pasted text(20261102-164123).txt,20,20,False
+source_02_018,odol untuk gigi ngilu,480,positive,data/raw/Pasted text(20261102-164734).txt,18,18,False
+source_01_021,pepsodent pencegah gigi berlubang,480,positive,data/raw/Pasted text(20261102-164123).txt,21,21,False
+source_01_022,pepsodent sensitive mineral expert,480,positive,data/raw/Pasted text(20261102-164123).txt,22,22,False
+source_02_019,rekomendasi pasta gigi pemutih,480,positive,data/raw/Pasted text(20261102-164734).txt,19,19,False
+source_03_028,sensodyne herbal,480,positive,data/raw/Pasted text (3).txt,428,434,False
+source_02_020,cara mengatasi gigi sensitif,390,positive,data/raw/Pasted text(20261102-164734).txt,20,20,False
+source_02_021,pasta gigi charcoal,390,positive,data/raw/Pasted text(20261102-164734).txt,21,21,False
+source_01_023,pepsodent center fresh,390,positive,data/raw/Pasted text(20261102-164123).txt,23,23,False
+source_02_022,pepsodent untuk gigi ngilu,390,positive,data/raw/Pasted text(20261102-164734).txt,22,22,False
+source_02_023,gigi ngilu saat makan manis,320,positive,data/raw/Pasted text(20261102-164734).txt,23,23,False
+source_02_024,gigi ngilu saat minum dingin,320,positive,data/raw/Pasted text(20261102-164734).txt,24,24,False
+source_01_024,odol yang bagus,320,positive,data/raw/Pasted text(20261102-164123).txt,24,24,False
+source_02_025,penyebab gigi sensitif,320,positive,data/raw/Pasted text(20261102-164734).txt,25,25,False
+source_01_025,varian pepsodent,320,positive,data/raw/Pasted text(20261102-164123).txt,25,25,False
+source_03_029,mouthwash pepsodent,260,positive,data/raw/Pasted text (3).txt,437,445,False
+source_02_026,pasta gigi sensitif terbaik,260,positive,data/raw/Pasted text(20261102-164734).txt,26,26,False
+source_01_026,pepsodent fresh cool mint,260,positive,data/raw/Pasted text(20261102-164123).txt,26,26,False
+source_02_027,pepsodent untuk gigi kuning,260,positive,data/raw/Pasted text(20261102-164734).txt,27,27,False
+source_01_027,rekomendasi pasta gigi,260,positive,data/raw/Pasted text(20261102-164123).txt,27,27,False
+source_03_030,sikat gigi untuk gigi sensitif,260,positive,data/raw/Pasted text (3).txt,448,454,False
+source_01_028,kandungan pasta gigi,210,positive,data/raw/Pasted text(20261102-164123).txt,28,28,False
+source_01_029,macam macam pasta gigi,210,positive,data/raw/Pasted text(20261102-164123).txt,29,29,False
+source_01_030,manfaat pasta gigi,210,positive,data/raw/Pasted text(20261102-164123).txt,30,30,False
+source_02_028,pepsodent untuk gigi sensitif,210,positive,data/raw/Pasted text(20261102-164734).txt,28,28,False
+source_01_031,kandungan pepsodent,170,positive,data/raw/Pasted text(20261102-164123).txt,31,31,False
+source_01_032,manfaat pepsodent,170,positive,data/raw/Pasted text(20261102-164123).txt,32,32,False
+source_01_033,odol terbaik,170,positive,data/raw/Pasted text(20261102-164123).txt,33,33,False
+source_03_031,colgate sensitive,140,positive,data/raw/Pasted text (3).txt,457,463,False
+source_02_029,gigi kuning karena kopi,140,positive,data/raw/Pasted text(20261102-164734).txt,29,29,False
+source_01_034,jenis pasta gigi,140,positive,data/raw/Pasted text(20261102-164123).txt,34,34,False
+source_01_035,macam macam pepsodent,140,positive,data/raw/Pasted text(20261102-164123).txt,35,35,False
+source_02_030,odol untuk gigi kuning,140,positive,data/raw/Pasted text(20261102-164734).txt,30,30,False
+source_01_036,pepsodent sensitive expert original,140,positive,data/raw/Pasted text(20261102-164123).txt,36,36,False
+source_03_032,pepsodent unilever,140,positive,data/raw/Pasted text (3).txt,466,472,False
+source_03_033,sikat gigi sebelum tidur,140,positive,data/raw/Pasted text (3).txt,475,481,False
+source_02_031,gigi putih alami,110,positive,data/raw/Pasted text(20261102-164734).txt,31,31,False
+source_02_032,odol pemutih,110,positive,data/raw/Pasted text(20261102-164734).txt,32,32,False
+source_01_037,pasta gigi yang aman,110,positive,data/raw/Pasted text(20261102-164123).txt,37,37,False
+source_03_034,sikat gigi sebelum atau sesudah sarapan,110,positive,data/raw/Pasted text (3).txt,484,490,False
+source_03_035,konsultasi dokter gigi online,90,positive,data/raw/Pasted text (3).txt,493,499,False
+source_01_038,pepsodent complete care,40,positive,data/raw/Pasted text(20261102-164123).txt,38,38,False
+source_01_039,pepsodent sensitive expert fresh,40,positive,data/raw/Pasted text(20261102-164123).txt,39,39,False
+source_03_036,systema sensitive,40,positive,data/raw/Pasted text (3).txt,502,508,False
+source_01_040,pasta gigi halal,30,positive,data/raw/Pasted text(20261102-164123).txt,40,40,False
+source_01_041,pepsodent biasa,30,positive,data/raw/Pasted text(20261102-164123).txt,41,41,False
+source_03_037,pepsodent vs sensodyne,30,positive,data/raw/Pasted text (3).txt,511,517,False
+source_03_038,review pasta gigi pemutih,30,positive,data/raw/Pasted text (3).txt,520,526,False
+source_01_042,bahan pasta gigi,20,positive,data/raw/Pasted text(20261102-164123).txt,42,42,False
+source_03_039,colgate harga,20,positive,data/raw/Pasted text (3).txt,529,535,False
+source_03_040,colgate review,20,positive,data/raw/Pasted text (3).txt,538,544,False
+source_03_041,darlie harga,20,positive,data/raw/Pasted text (3).txt,547,553,False
+source_01_043,fungsi pasta gigi,20,positive,data/raw/Pasted text(20261102-164123).txt,43,43,False
+source_02_033,gigi ngilu saat sikat gigi,20,positive,data/raw/Pasted text(20261102-164734).txt,33,33,False
+source_02_034,gigi ngilu setelah makan asam,20,positive,data/raw/Pasted text(20261102-164734).txt,34,34,False
+source_02_035,gigi ngilu setelah sikat gigi,20,positive,data/raw/Pasted text(20261102-164734).txt,35,35,False
+source_01_044,jenis pepsodent,20,positive,data/raw/Pasted text(20261102-164123).txt,44,44,False
+source_02_036,pasta gigi hydroxyapatite,20,positive,data/raw/Pasted text(20261102-164734).txt,36,36,False
+source_01_045,pasta gigi premium,20,positive,data/raw/Pasted text(20261102-164123).txt,45,45,False
+source_02_037,pepsodent charcoal review,20,positive,data/raw/Pasted text(20261102-164734).txt,37,37,False
+source_03_042,pepsodent halal,20,positive,data/raw/Pasted text (3).txt,556,562,False
+source_01_046,pepsodent plus whitening,20,positive,data/raw/Pasted text(20261102-164123).txt,46,46,False
+source_03_043,pepsodent sensitive expert vs sensodyne,20,positive,data/raw/Pasted text (3).txt,565,571,False
+source_03_044,pepsodent vs close up,20,positive,data/raw/Pasted text (3).txt,574,580,False
+source_02_038,pepsodent whitening review,20,positive,data/raw/Pasted text(20261102-164734).txt,38,38,False
+source_03_045,review pasta gigi,20,positive,data/raw/Pasted text (3).txt,583,591,False
+source_03_046,sensodyne review,20,positive,data/raw/Pasted text (3).txt,594,600,False
+source_02_039,whitening gigi tahan berapa lama,20,positive,data/raw/Pasted text(20261102-164734).txt,39,39,False
+source_02_040,odol pemutih terbaik,10,positive,data/raw/Pasted text(20261102-164734).txt,40,40,False
+source_01_047,pasta gigi rekomendasi dokter gigi,10,positive,data/raw/Pasted text(20261102-164123).txt,47,47,False
+source_03_047,pengganti pepsodent,10,positive,data/raw/Pasted text (3).txt,603,609,False
+source_03_048,pepsodent vs ciptadent,10,positive,data/raw/Pasted text (3).txt,612,618,False
+source_03_049,pepsodent vs colgate,10,positive,data/raw/Pasted text (3).txt,621,627,False
+source_01_048,review pepsodent,10,positive,data/raw/Pasted text(20261102-164123).txt,48,48,False
+source_03_050,waktu menyikat gigi yang benar,10,positive,data/raw/Pasted text (3).txt,630,636,False
+source_01_049,cara memilih pasta gigi,0,zero,data/raw/Pasted text(20261102-164123).txt,49,49,False
+source_03_051,ciptadent review,0,zero,data/raw/Pasted text (3).txt,639,647,False
+source_03_052,darlie review,0,zero,data/raw/Pasted text (3).txt,650,656,False
+source_02_041,gigi kuning karena teh,0,zero,data/raw/Pasted text(20261102-164734).txt,41,41,False
+source_01_050,pasta gigi bpom,0,zero,data/raw/Pasted text(20261102-164123).txt,50,50,False
+source_03_053,pasta gigi untuk perokok,0,zero,data/raw/Pasted text (3).txt,659,665,False
+source_03_054,pepsodent bpom,0,zero,data/raw/Pasted text (3).txt,668,676,False
+source_03_055,pepsodent buatan mana,0,zero,data/raw/Pasted text (3).txt,679,685,False
+source_03_056,pepsodent produk mana,0,zero,data/raw/Pasted text (3).txt,688,694,False
+source_01_051,pepsodent sensitiv expert,0,zero,data/raw/Pasted text(20261102-164123).txt,51,51,False
+source_01_052,perbedaan pasta gigi,0,zero,data/raw/Pasted text(20261102-164123).txt,52,52,False

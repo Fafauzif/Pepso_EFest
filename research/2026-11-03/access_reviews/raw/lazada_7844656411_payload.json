@@ -1,0 +1,100 @@
+{
+  "seoMetadata": {
+    "otherData": null,
+    "description": "Kumpulan review dan pengalaman pengguna Pepsodent Pasta Gigi Complete 8 Whitening 190 Gram untuk membantu sebelum membeli.",
+    "robots": "index,follow",
+    "canonical": "https://www.lazada.co.id/product-reviews/?item_id=7844656411",
+    "title": "Review Pepsodent Pasta Gigi Complete 8 Whitening 190 Gram – Pengalaman Pengguna",
+    "class": "com.lazada.seo.dto.base.SeoBaseMetadataDTO",
+    "structuredData": [
+      "{\"@context\":\"https://schema.org\",\"@type\":\"Product\",\"name\":\"Pepsodent Pasta Gigi Complete 8 Whitening 190 Gram\",\"image\":\"https://filebroker-cdn.lazada.co.id/kf/Sb3d3bc3c82ca43048a21f4742c4648cdG.jpg\",\"description\":\"Kumpulan review dan pengalaman pengguna Pepsodent Pasta Gigi Complete 8 Whitening 190 Gram untuk membantu sebelum membeli.\",\"sku\":\"14268634954\",\"brand\":{\"@type\":\"Brand\",\"name\":\"Pepsodent\"},\"offers\":{\"@type\":\"AggregateOffer\",\"offerCount\":0,\"lowPrice\":25000.0,\"highPrice\":40850.0,\"priceCurrency\":\"IDR\",\"availability\":\"https://schema.org/OutOfStock\",\"seller\":{\"@type\":\"Organization\",\"name\":\"Habit Art Store\"}},\"aggregateRating\":{\"@type\":\"AggregateRating\",\"ratingValue\":\"4.80\",\"reviewCount\":\"5\"},\"review\":[{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"x****n\"},\"datePublished\":\"2024-05-16\",\"reviewBody\":\"Membantu mencegah gigi berlubang, Memutihkan gigi dengan efektif, Efektif menghilangkan noda, Membuat mulut terasa bersih, Kemasan yang praktis,  \",\"name\":\"Membantu mencegah gigi berlubang, Memutihkan gigi dengan efektif, Efektif menghilangkan noda, Membuat mulut terasa bersih, Kemasan yang praktis,  \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"*****\"},\"datePublished\":\"2024-10-12\",\"reviewBody\":\"Memutihkan gigi dengan efektif, Meninggalkan rasa segar setelah digunakan, Lembut pada gusi,  \",\"name\":\"Memutihkan gigi dengan efektif, Meninggalkan rasa segar setelah digunakan, Lembut pada gusi,  \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}},{\"@type\":\"Review\",\"author\":{\"@type\":\"Person\",\"name\":\"2****s\"},\"datePublished\":\"2024-06-19\",\"reviewBody\":\"sebenrnya saya jarang banget komen, cukup kasi bintang aja, tapi kali ini saya komen. karna packingnya bener2 luaaar biasa. padahan yg kaca parfumnya. pesodentnya juga ikut di packing anti banting, luar biasa sellernya. laris manis ya buat tokonya dan amanah selalu😍😍😍 \",\"name\":\"sebenrnya saya jarang banget komen, cukup kasi bintang aja, tapi kali ini saya komen. karna packingnya bener2 luaaar biasa. padahan yg kaca parfumnya. pesodentnya juga ikut di packing anti banting, luar biasa sellernya. laris manis ya buat tokonya dan amanah selalu😍😍😍 \",\"reviewRating\":{\"@type\":\"Rating\",\"bestRating\":\"5\",\"ratingValue\":\"5\",\"worstRating\":\"1\"}}]}"
+    ],
+    "propertyData": "{\"og:title\":\"Review Pepsodent Pasta Gigi Complete 8 Whitening 190 Gram – Pengalaman Pengguna\",\"og:description\":\"Kumpulan review dan pengalaman pengguna Pepsodent Pasta Gigi Complete 8 Whitening 190 Gram untuk membantu sebelum membeli.\",\"og:image\":\"https://filebroker-cdn.lazada.co.id/kf/Sb3d3bc3c82ca43048a21f4742c4648cdG.jpg\",\"og:url\":\"https://www.lazada.co.id/product-reviews/?item_id=7844656411\",\"og:type\":\"product\"}"
+  },
+  "innerLinks": null,
+  "reviewZone": {
+    "reviews": [
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "Membantu mencegah gigi berlubang, Memutihkan gigi dengan efektif, Efektif menghilangkan noda, Membuat mulut terasa bersih, Kemasan yang praktis,  ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "x****n",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1408827865256411,
+        "reviewTime": 1715823714478,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "Memutihkan gigi dengan efektif, Meninggalkan rasa segar setelah digunakan, Lembut pada gusi,  ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "*****",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1492968255756411,
+        "reviewTime": 1728713895843,
+        "reviewTitle": null
+      },
+      {
+        "badge": "Verified Buyer",
+        "orderCreateDate": null,
+        "mediaList": null,
+        "reviewContent": "sebenrnya saya jarang banget komen, cukup kasi bintang aja, tapi kali ini saya komen. karna packingnya bener2 luaaar biasa. padahan yg kaca parfumnya. pesodentnya juga ikut di packing anti banting, luar biasa sellernya. laris manis ya buat tokonya dan amanah selalu😍😍😍 ",
+        "rating": 5,
+        "upVotes": 0,
+        "deliveredTime": null,
+        "userName": "2****s",
+        "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO$Review",
+        "reviewId": 1439282592856411,
+        "reviewTime": 1718788373210,
+        "reviewTitle": null
+      }
+    ],
+    "productId": "7844656411",
+    "ratingCnt": 5,
+    "ratingAvg": 4.8,
+    "class": "com.lazada.seo.dto.base.ProductReviewZoneDTO",
+    "likeJumpUrl": "https://www.lazada.co.id/products/-i7844656411.html"
+  },
+  "class": "com.lazada.seo.dto.SeoReviewPageDTO",
+  "products": [
+    {
+      "currentPriceFormatted": "Rp25.000",
+      "shop": {
+        "sellerId": "******",
+        "shopLogo": "https://filebroker-cdn.lazada.co.id/kf/Sf84118d8bc6443dea0dcd1944999b4f8B.jpg",
+        "sellerRating": 4.8,
+        "shopName": "Habit Art Store",
+        "shopId": null,
+        "shopUrl": "https://www.lazada.co.id/shop/habit-art-store",
+        "class": "com.lazada.seo.dto.base.ProductShopDTO"
+      },
+      "productId": "7844656411",
+      "totalOrdersLast4Weeks": null,
+      "ratingCnt": 5,
+      "urlLazada": "https://www.lazada.co.id/products/-i7844656411.html",
+      "priceFormatted": "Rp40.850",
+      "currentPrice": "25000.0",
+      "currencySymbol": "Rp",
+      "urlImages": null,
+      "payUnitCntStd": 24,
+      "video": null,
+      "productName": "Pepsodent Pasta Gigi Complete 8 Whitening 190 Gram",
+      "totalOrderL1y": null,
+      "urlMainImage": "https://filebroker-cdn.lazada.co.id/kf/Sb3d3bc3c82ca43048a21f4742c4648cdG.jpg",
+      "price": "40850.0",
+      "ratingAvg": 4.8,
+      "class": "com.lazada.seo.dto.base.ProductSkuDTO",
+      "brand": null,
+      "currencyCode": "IDR",
+      "skuId": "14268634954"
+    }
+  ]
+}

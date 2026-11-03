@@ -1,0 +1,165 @@
+{
+   "pagination" : {
+      "count" : 500,
+      "hasNext" : false,
+      "hasPrevious" : false,
+      "page" : 0,
+      "totalCount" : 12,
+      "totalPages" : 1
+   },
+   "ratingSummary" : {
+      "averageRating" : "5.00",
+      "rating1Count" : 0,
+      "rating2Count" : 0,
+      "rating3Count" : 0,
+      "rating4Count" : 0,
+      "rating5Count" : 12
+   },
+   "recommendationId" : "prkt",
+   "reviews" : [ {
+      "alias" : "anggraini athaya",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-10-29T05:43:33+0000",
+      "displayTime" : {
+         "unit" : "DAY",
+         "value" : 5
+      },
+      "headline" : "review-61238-WTCID22038747",
+      "id" : "9114134478897",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Muhammad Alfreno Rizani",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-09-05T14:20:24+0000",
+      "displayTime" : {
+         "unit" : "MONTH",
+         "value" : 1
+      },
+      "headline" : "review-61238-WTCID20100145",
+      "id" : "9104436002865",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Muhammad Rayyan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "kualitasnya sangat bagus",
+      "date" : "2026-08-24T19:59:43+0000",
+      "headline" : "review-61238-WTCID21364357",
+      "id" : "9095086604337",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "nadine aqfira",
+      "approvalStatus" : "APPROVED",
+      "comment" : "cocok untuk mencerahkan gigi",
+      "date" : "2026-08-23T13:02:08+0000",
+      "headline" : "review-61238-WTCID21306261",
+      "id" : "9095456718897",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Meisel Rusli Irawan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-08-21T07:57:50+0000",
+      "headline" : "review-61238-WTCID18474092",
+      "id" : "9095389282353",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Diana Nur anila",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Promo jadi hemat bisa memutihkan gigi best\uD83E\uDD29",
+      "date" : "2026-08-04T14:24:09+0000",
+      "headline" : "review-61238-WTCID21052378",
+      "id" : "9087099863089",
+      "like" : 1,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "asti titan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Promonya oke banget, pasti gigi ini bagus hasilnya, aman dan cocok digunakan. Terima kasih Watsons, makin sukses!",
+      "date" : "2026-07-29T12:06:30+0000",
+      "headline" : "review-61238-260729008800100007410585642101",
+      "id" : "9083729412145",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "hanny hutabarat",
+      "approvalStatus" : "APPROVED",
+      "comment" : "",
+      "date" : "2026-07-01T02:38:40+0000",
+      "headline" : "review-61238-WTCID19931231",
+      "id" : "9059430236209",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Rizki Kurniawan",
+      "approvalStatus" : "APPROVED",
+      "comment" : "One of my favorite toothpaste. It indeed helps making your teeth brighter and cleaner. Looking forward to brighter and shiner teeth. ",
+      "date" : "2026-06-21T22:54:02+0000",
+      "headline" : "review-61238-WTCID19904085",
+      "id" : "9050052001841",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Nabiilah Husna",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Bagus dapat memutihkan dan mencerahkan gigi ",
+      "date" : "2026-05-05T05:35:17+0000",
+      "headline" : "review-61238-260426012600200001740042047253",
+      "id" : "9034084417585",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Reza Januar",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Pasta gigi yang bantu mencerahkan gigi",
+      "date" : "2026-04-28T15:05:48+0000",
+      "headline" : "review-61238-WTCID19075506",
+      "id" : "9032377335857",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   }, {
+      "alias" : "Andree Phi",
+      "approvalStatus" : "APPROVED",
+      "comment" : "Baru kali ini nemu pasta gigi yg bener2 bikin putihh",
+      "date" : "2026-01-30T03:27:53+0000",
+      "headline" : "review-undefined-WTCID18472661",
+      "id" : "9016259149873",
+      "like" : 0,
+      "rating" : 5.0,
+      "replyCount" : 0,
+      "reportable" : true
+   } ],
+   "sorts" : [ {
+      "asc" : false,
+      "code" : "creationtime"
+   } ],
+   "tags" : [ ]
+}
