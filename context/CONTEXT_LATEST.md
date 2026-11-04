@@ -1,14 +1,60 @@
-# Current project state — 3 November 2026 (Asia/Jakarta)
+# Combined context — updated 4 November 2026
 
-## Accepted scope
+The first current-state and 4 November sections control current planning/status. Later historical sections preserve original case/teaching/research; old interview-first or operational status statements are superseded as specified. This is a combined context source, not a transcript or authenticated account transfer. Read actual data/code when making claims.
 
-The repository is intended for the private team. Analysis and teaching are in English; fieldwork tools are in Indonesian. Access to participants is uncertain, so the primary-research plan has flexible versions. The user requested all available research, data and substantive chat context in an extract-and-replace ZIP, delivered through Filebin. They will commit and push with GitHub Desktop.
 
-The user confirmed no newer edits. The final remote HEAD/main check matched the starting commit, 423cce08921b611fd01fbf6d25a0f86b65986f76. The assistant has not pushed, changed visibility, contacted participants or executed paid actors.
+---
 
-Secondary research is sufficient to prioritize and challenge hypotheses. No final strategy, verified target-switcher sample, primary interviews, target-cohort prevalence, price elasticity, normal-price retention estimate or causal uplift forecast exists.
+# Layer: Current state
 
-## Evidence inventory
+# Current project state — 4 November 2026 (Asia/Jakarta)
+
+## Read this first
+
+This state supersedes older planning/status instructions where they conflict. Read [the new session handoff](../research/2026-11-04/context/SESSION_HANDOFF.md), [latest buying situations](../research/2026-11-04/synthesis/BUYING_SITUATIONS_AND_PILLARS.md), and [decision register](../research/2026-11-04/context/DECISIONS_AND_LIMITS.md). Older research/data remain authoritative for their own source observations, not for current operational preferences.
+
+The current deliverable is an additive context/code overlay for the existing repository. Clone reviewed in this chat: `59f28effdf47dbdc5feea33458998bba03e3227f`. No remote push, visibility change, competition submission, paid actor run, respondent invitation or new primary response was performed by the assistant.
+
+## User direction and current research stage
+
+- User wants distinctive, case-specific insights, with evidence, credible opposites and red-teaming. They liked the household-preference insight and especially the contrast between detailed skincare/personal-care consideration and casual toothpaste choice.
+- They like routing by actual buying situation. No age-24 cutoff is established; 18–24 and 25–30 are possible descriptive cuts, not exclusive pillar eligibility.
+- Immediate executive-summary research is survey-only. Roughly 40–60 respondents may be reachable. Interviews may be possible later for the proposal; do not require them before helping now.
+- The planned quantitative-to-qualitative primary sequence becomes explanatory sequential mixed methods only when later interviews are linked to survey results and integrated. No completed mixed-methods study exists.
+- Analysis/teaching in English; questionnaire in natural, neutral Bahasa Indonesia.
+- User explicitly wants one-shot Apps Script setup. Do not reintroduce required openForPilot/launchSurvey steps.
+- The case still asks for three ideas and selection of one. A three-pillar architecture is a working proposal, not a selected final concept, validated intervention or forecast.
+
+## Latest buying-situation architecture
+
+| Buying situation | Current pillar | Important qualification |
+| --- | --- | --- |
+| A valued preference does not control the household basket | Carry the choice into the purchase | Someone else paying alone is not proof of obstruction |
+| Toothpaste has not earned personally meaningful extra spend | Earn the extra spend / give the upgrade a meaningful job | Personal-care interest is not wealth; Basic may be sufficient |
+| A valued product does not get replaced | Secure the replacement | Distinguish price/access/timing from misfit, stock and temporary use |
+
+The second pillar was refined after the user highlighted selective category involvement. Earlier selection/education-focused pillar drafts remain as history. The situations can overlap and change for one person; they are not a forced MECE classification or universal funnel.
+
+New purposive readings of the existing corpus include household fallback (jmyv9ux), purchaser-dependent choice (jmyy6vi/jmyktx0), and within-account category contrasts (l5b2lmz/l5gjjk8). Self-described ages are not independently verified. No new platform collection occurred. The older 294 annotations and 314,476 written-record inventory are unchanged. See the replay script and source excerpts for exact provenance and counterexamples.
+
+Case arithmetic remains firm: Basic Rp24,100/190 g is Rp12,684.21/100 g; promotional Premium Rp23,500/100 g has a 2.49% lower ticket but 1.8527x the unit price. This illustrates trial versus sustained affordability, not measured usage or switching causality. The share decline remains seven percentage points, not an identified equivalent decline in absolute Premium revenue, repeat or profit.
+
+## Current survey artifact and Google status
+
+**Current source: [Code.gs v1.1.1](../research/2026-11-04/survey_apps_script/Code.gs).** Paste the complete file into the SAME Apps Script project used for earlier attempts; run `createSurvey()` once. It reuses saved assets, builds missing forms, links/checks separate response/contact workbooks, verifies structure, opens forms and prints `SHARE_THIS_LINK`. No deployment, API key, manual spreadsheet setup or separate pilot/launch function is required. Keep the saved property key `EFEST_TOOTHPASTE_SURVEY_V1` to recover prior assets.
+
+The 36-item main form uses consent/age/Indonesia/comparison routing, with six other-category items skipped when inapplicable. It asks about real product acquisition, separate roles, prior product/experience, desired choice, spontaneous then structured reasons and a parallel personal-care category. It performs no A/B test, validated latent-scale scoring or clinical assessment. The 8–10 minute estimate has not been respondent-tested.
+
+Raw response tabs and REVIEW are preserved. CLEAN/RINGKASAN are descriptive derived outputs. Product hints are not verified tier membership; manual review remains necessary. Contacts are optional and held in a separate workbook, linkable by a voluntary code. No automatic messages are sent. A convenience sample cannot supply national prevalence or a conventional population sampling margin of error.
+
+Two actual user-reported runtime failures are recorded in [USER_RUNTIME_REPORTS.md](../research/2026-11-04/sources/USER_RUNTIME_REPORTS.md): first invalid-data at the optional closed-message setter location; then missing response destination from getDestinationId. v1.1.1 removed the first call and narrowly handles the second, with recovery of completed v1.1 items and no relinking when a destination already matches.
+
+**The user has NOT supplied a successful v1.1.1 execution log, form URL, response export, or completed responses.** The assistant did not execute Google services in the user's account. Local syntax and 184 mock assertions passed, including 126 routing combinations and failure recovery. These do not prove live Google access, UI rendering, respondent comprehension, or method validity. Future debugging should begin from the actual error and preserve assets/data; future analysis should begin from actual exports and eligibility.
+
+The standalone survey ZIP has persistent Library ID `libfile_e16f9bbfb8e481919ef707601fea7448` (version 2 as last saved), titled Pepsodent_Survey_AppsScript_v1.zip; its contents are now included as source here. That filename does not mean initial v1.0 code is current. An exact user-submitted v1.1.0 source and the mentoring PDF are retained under the new dated sources folder.
+
+## Evidence inventory (retained 3 November baseline, unchanged)
+
 
 The portable master contains **314,476 retained written platform records across all retained scopes**. This is an archive inventory, not a count of independent people, eligible toothpaste experiences or Indonesian young adults.
 
@@ -36,28 +82,334 @@ The earlier Amazon pass screened 26,125,466 review rows and 857,856 metadata row
 
 Earlier retail contexts, brand/campaign/history observations, literature appraisals, public indicators, original teaching material and 300 keyword observations remain included. Their units and overlapping subsets must not be added together as consumers or reviews. Source-specific eligibility and incentive limitations accompany any interpretation.
 
-## What the analysis changes
 
-Payer transitions, household authority, sensory fit, experienced benefit, availability and regular refill affordability remain competing mechanisms. New examples include explicit Ultra White repurchase because it fits, benefit-driven Sensodyne continuation, Enzim loyalty alongside promotion interest, and parent-funded Sensodyne versus self-paid boarding-house affordability. The source-linked report presents counterexamples and alternative interpretations. These accounts do not establish the causes or shares of the case's decline.
+## Material limits and next work
 
-The new close-reading set contains **294 annotations: 109 X, 100 TikTok and 85 Tokopedia**. Sampling methods and independent assistant consistency checks are documented. All 266 Tokopedia texts were also screened. Close reading is not a representative survey or human field validation.
+No authenticated 18–30 Pepsodent Premium-to-Basic sequence, primary interviews, team survey responses, price elasticity, regular-price retention cohort, cause allocation, incremental lift forecast or ROI exists in the material available here. Public/actor-export source truth is not authenticated by checksums. Current catalogues are not historical paid prices or branch stock. The case's illustrative survey is not team primary evidence.
 
-Historical minimarket promotions and larger premium packs exist. Pepsodent already has ShadeScan AI, specialist education, professional-care activity and sampling history. A generic scanner, education or discount idea needs a specifically demonstrated unmet mechanism. Basic can be a rational sufficient choice.
+If the next task is technical, use v1.1.1, the attached exact previous script and both actual error reports; do not rely on mock pass counts to dismiss real failures. If survey responses arrive, inspect raw values/variants/eligibility, retained versus temporary use and paired-category participation. Do not assume the target of 40–60 has been achieved. If preparing strategy, test competing mechanisms and the distinction between three alternatives and selected implementation pillars. Interviews are a later possible explanation phase, not completed work.
 
-## Next work
+Keep event timing explicit: the case ends H1 2026. Current November experiences can inform mechanism relevance without automatically explaining the earlier mix decline. Primary contact details and response exports should not be committed to Git by default.
 
-Read the new decision brief, diagnosis/teaching report and 11-hypothesis matrix in research/2026-11-03/closure/synthesis/. Then use closure/primary_research/README.md to prepare two pilot interviews followed by an adaptable initial 8–12 substantive purchase-history interviews. Verify 18–30 eligibility and actual product/variant history; include contrasting retained-premium and Basic/competitor pathways.
+## Continuity and reproduction
 
-Ask who chose, paid and used the product; what was bought previously; pack, outlet and actual paid price; available alternatives; and what happened at replacement. Optional natural replenishment follow-up can observe action rather than only stated intention. All response templates are blank. No primary fieldwork has occurred. No further broad paid collection is required before piloting this work.
+Read the [new dated index](../research/2026-11-04/README.md), detailed [session record](../research/2026-11-04/context/SESSION_RECORD.md), method/question map, source register, runtime history and actual code. The older 3 November closure handoff and original master remain unchanged. Before-update root documents and the incremental notes were archived, rather than silently erased. CONTEXT_LATEST combines current state and both sessions' relevant context, with historical sections labelled.
 
-## Reproduction and continuity
-
-All 11 new attachments are archived losslessly, with original-byte SHA-256 values in closure/raw/UPLOAD_REGISTER.json. Source-specific clean tables, occurrences, exclusions, annotations, codebooks and rebuild scripts are retained. The new integrated record-aware shards work directly. Five larger legacy exports are exactly reconstructible from release/LARGE_FILES.json in the portable package; local restored paths are Git-ignored.
-
-Read START_HERE.md and closure/context/SESSION_HANDOFF.md for the complete substantive visible-chat handoff. Previous current-state, README and combined-context versions remain in closure/context/BEFORE_CLOSURE_*. Original master and raw sources remain unchanged; missing original PDFs/inputs remain missing. This is a substantive reconstruction, not a verbatim chat export or unseen memory. The historical Filebin receipt is retained; the new delivery receipt accompanies the final archive.
+The ZIP is an overlay, not a standalone data repository. It includes new/changed context and code, not a second copy of the existing corpus, .git or unrelated workspace artifacts. See root INSTALL_CONTEXT_UPDATE.md. Use `python scripts/verify_context_update_20261104.py` for the overlay and the existing release verifiers for the complete repo. Integrity checks are not substantive validation.
 
 
 ---
+
+# Layer: 4 November complete handoff
+
+# Substantive session handoff — 4 November 2026
+
+Private E-Fest team context. Analysis is in English; the questionnaire is in natural Bahasa Indonesia. This is a detailed reconstruction of the substantive visible conversation and artifacts, not a verbatim ChatGPT export, hidden memory, or an authenticated account transfer. It excludes unrelated account memories and other projects.
+
+## 1. Where this session started
+
+The user supplied https://github.com/Fafauzif/Pepso_EFest and asked for a clone, a walkthrough of the case, hypotheses, completed analyses and defensible insights. The clone completed at commit `59f28effdf47dbdc5feea33458998bba03e3227f` (short `59f28ef`, 3 November commit “Upload”). The assistant read the repository's continuity instructions, current state, original case/master pack, 3 November closure handoff, hypothesis matrix, decision brief, diagnosis, evidence ledger, literature and data-quality material. No push or remote setting change was performed. The old handoff's reference to remote commit `423cce0` describes the preceding session; this session's clone is `59f28ef`.
+
+The important starting distinction was that the large retained public corpus supports possible mechanisms, examples and counterexamples but contains no authenticated sequence meeting all of: age 18–30, former Pepsodent Premium use/purchase, replacement with Pepsodent Basic, and a supported explanation/paid-price history. No team primary fieldwork or final strategy existed. Those empirical boundaries remain.
+
+The business question sharpened from “convince young people to buy Premium” to “under what conditions does a relevant specialist benefit remain worth choosing, funding and finding when the tube runs out?” The new work explores this question; it does not establish the dominant cause of the historical sales-share movement.
+
+## 2. Case anchor and practical brief
+
+The organizer states that Premium share of Pepsodent sales fell from 27% in 2022 to 20% in H1 2026 and attributes downtrading mainly to young adults. The difference is seven percentage points; it is not automatically a 25.9% fall in Premium revenue, buyers or units. Comparable-period total sales, realized prices, tier definitions, packs, channels and cohort data are missing. The annual versus half-year labels must not be used as comparable raw totals.
+
+The case gives an illustrative survey of 1,200 people aged 18–30 across ten cities, including 540 switchers. Overlapping switcher reasons are perceived toothpaste equivalence 44%, price gap when money is tight 39%, no difference felt in two weeks 31%, Basic on promotion/bundle 28%, and uncertainty over the suitable variant 24%. These are organizer case figures, not respondents interviewed or surveyed by this team. The willingness-to-pay and discovery panels have their own wording/denominator limitations in the original master.
+
+Case economics: Basic Pencegah Gigi Berlubang 190 g at Rp24,100, supplied margin 38%; Sensitive Expert 100 g at Rp41,900, supplied margin 55%; a Premium promotional example at Rp23,500, about 44% off. Shelf prices are not manufacturer realization. No actual Unilever contribution forecast can be calculated simply by multiplying these shelf prices by case margins.
+
+The eventual case task is to diagnose, produce three ideas using product/price/place/promotion/positioning/pack (at least one digital), then select one and show consumer, Pepsodent and societal value. A three-pillar architecture is not automatically the same as the required three alternatives followed by explicit selection. Do not silently treat all three as an approved final solution.
+
+The supplied guidebook records a maximum three-page executive summary in formal Indonesian and PDF, with cover/references/appendices excluded as specified, plus declaration documents. It records the deadline as 5 November 2026 at noon WIB. These are supplied-document requirements, not newly verified organizer updates. See the retained case/rules for exact formatting and submission details. Readiness and societal impact together carry 50% in the supplied rubric; reach and Premium sales alone are not health outcomes.
+
+## 3. The mentoring reference and what the user wants from insights
+
+The user uploaded `Mentoring Notes — Problem Analysis in BCC.pdf` and asked what a unique insight could look like, authorizing further corpus analysis if useful. Its exact PDF and searchable extraction are retained under ../sources/. The document critiques an earlier LRT City Sentul housing analysis. Its housing facts and examples must not be imported as toothpaste evidence.
+
+The useful standards applied here are: identify the concrete business friction; distinguish symptom, cause and proposed intervention; be specific to the customer/client/decision; have a plausible contrary account; and make the decision consequence evident. A surprising headline without support is not enough. Frameworks should test the argument rather than decorate it. Historical decisions are more informative than asking whether someone likes the team's proposed feature.
+
+The “opposite test” is a specificity aid, not proof. A non-obvious conjecture may still be wrong. Each new candidate insight therefore retains direct observations, analyst interpretation, rivals and a falsifier.
+
+## 4. Additional analysis actually performed
+
+The assistant streamed the existing 314,476-record portable master and excluded 286,706 Amazon external-context records from targeted retrieval, leaving 27,770 non-Amazon written records for the search. Four overlapping lexical intersections searched household/payment transitions, Pepsodent fallback wording, benefit/continuation and promotion/reference-price language. They returned 123, 1,065, 290 and 138 candidate hits respectively. These are search-rule matches, not theme prevalence, validated consumer experiences, unique people or new collected records.
+
+Up to twelve ranked examples per group were read, followed by named counterexamples and a further scan of the 389-record Reddit table for missed words such as emak, siapin, lupa beli and terpaksa. This is purposive hypothesis generation. Several useful records occur in the same Reddit thread, so they are not independent sampling frames. The entire 314,476-record corpus was not manually coded.
+
+A reproducible retrieval script and selected source-linked evidence excerpts are included under ../scripts/ and ../synthesis/. Existing source files were not changed. The earlier 294 annotation count (109 X, 100 TikTok, 85 Tokopedia) is unchanged; these new readings have not been silently merged into that set.
+
+## 5. New insight direction A: preference can survive while replacement changes
+
+A 5 June 2023 Reddit account, `jmyv9ux`, describes selecting sensitivity-labelled toothpaste, often Sensodyne/Systema/Pepsodent, but occasionally forgetting to buy and using what the mother supplies at home. This directly illustrates a sequence of specialist selection → replenishment lapse → household fallback. It does not name the fallback product/tier or show permanent abandonment, age eligibility, paid prices or a verified Pepsodent Premium-to-Basic transition.
+
+`jmyy6vi`, in the same thread, describes sometimes buying Closeup personally while parents buy Pepsodent Herbal or ordinary Pepsodent. That ties reported product choice to who buys, without establishing a complete longitudinal switch. `jmyktx0` describes a mother who bulk-buys household supplies and objects to separate purchases; prior Colgate use is mentioned. That supports distinguishing purchase authority from the user's preference.
+
+Existing TikTok record `7552195449504547585` contrasts parent-funded Sensodyne at home with concern about a personally salient kos outlay. Its “50k” is a stated price reference, not verified paid price. It does not identify age or the subsequent purchase.
+
+The candidate insight is that a specialist preference can lose the next acquisition without the user deciding the specialist benefit is worthless. A household-supplied product can be the immediate alternative to personal payment, rather than a full-price Basic purchase. This is a research mechanism, not a claim that all young people are dependent or all families block Premium.
+
+Important rivals: Reddit `jn2d5tk` describes family Systema use supported by the mother's sensitivity; shared need can sustain specialist use. X `2015590249167274297` describes moving to a more expensive toothpaste after beginning work; independence can enable uptrading. Several other accounts report benefit-linked continuation. If eligible switchers independently controlled payment, found their intended variant and deliberately chose Basic because it was sufficient, the household-coordination explanation would be weakened.
+
+The user explicitly liked this insight. That enthusiasm does not establish prevalence or approve a particular shopping-card/bundle execution.
+
+## 6. New insight direction B: category involvement can be selective
+
+The user reacted especially positively to “A detailed skincare routine can coexist with almost no differentiation between toothpastes.” They later returned to it and requested that it sharpen the second buying situation and pillar. Preserve that preference in future analysis.
+
+Reddit `l5b2lmz`, 23 May 2024, self-describes as 29M and lists a detailed skincare/fragrance routine while describing toothpaste as Pepsodent or Oral B depending on what is grabbed. `l5gjjk8`, 24 May 2024, self-describes as 26M, discusses several skincare steps, and chooses sale-priced fluoride toothpaste, usually Pepsodent. The latter also seeks discounts in other categories, a material rival to a toothpaste-only explanation. Ages are self-reported, not authenticated. Product lists do not establish wealth, actual expenditure or ability to afford Premium.
+
+The defensible inference is selective involvement: careful distinction within one personal-care category need not transfer to toothpaste. “All toothpastes do about the same” may be a routine decision rule, not ignorance. A buyer may understand the extra specialist promise but value it too little, or may see no relevant unmet job. Basic can be a sensible final choice.
+
+The second pillar was consequently refined from mainly selection/education to **earn the extra spend / give the upgrade a meaningful job**. Ask what this particular person would gain from an appropriate Premium variant that their accepted routine toothpaste does not already provide. Do not assume every beauty-interested young adult should convert to whitening, or that more information changes an otherwise rational Basic choice.
+
+Three different second-pillar cases need separate interpretation: cannot distinguish benefits despite a relevant need; understands the difference but assigns it little value; wanted the difference but the actual experience disappointed. Useful executions might differ between comparison/selection support, acceptance of nonaddressability, and examination of previous experience. They cannot all be coded “needs education.”
+
+## 7. New insight direction C: trial and routine economics differ
+
+Basic's exact case unit price is Rp12,684.21 per 100 g. At Rp23,500 for 100 g, promotional Premium has a 2.49% lower checkout ticket than the 190 g Basic tube, 47.37% fewer grams, and 1.8527 times the unit price. Regular Premium is about 3.30 times Basic per gram.
+
+Thus the case promotion makes tickets nearly equivalent while retaining an 85.3% unit-cost premium. An affordable first tube can coexist with an unacceptable recurring cost. This arithmetic is strong; its causal effect on switching remains unmeasured. Matching Basic's unit price for a 100 g tube would mathematically require about 69.73% off Rp41,900, but that calculation was explicitly not a recommended discount.
+
+Actual usage, sharing, pack size, paid prices, benefit value and manufacturer economics remain unknown. Earlier household-dose scenarios remain illustrations, not dosing advice or measured usage. A rejected repeat can reflect rational cost/value evaluation rather than necessarily a damaged price anchor.
+
+## 8. Age segmentation discussion and the latest buying situations
+
+The user suggested household dependence might suit ages roughly 18–24 more than 24–30 and wondered whether two ideas should serve different ages. The assistant treated this as a plausible hypothesis, not an established cutoff. The working response was to route by actual chooser/payer/supplier arrangement, while using nonoverlapping 18–24 and 25–30 age cuts for descriptive comparison if useful. A self-funding twenty-year-old can have more purchasing control than a twenty-eight-year-old in a shared household.
+
+The user explicitly said they liked the actual-buying-situation architecture. The latest version is:
+
+1. **Preference does not control the basket.** The user has a valued/suitable preference but another person's purchase, funding or shared-stock decision overrides it. Pillar: carry the choice into the purchase.
+2. **Toothpaste has not earned the extra spend.** The buyer sees insufficient personally relevant incremental value, even if more deliberate in another personal-care category. Pillar: earn the extra spend / give the upgrade a meaningful job.
+3. **A valued product does not get replaced.** Benefit was valued but outlay, timing, exact-variant access, convenience or forgetting breaks replenishment. Pillar: secure the replacement.
+
+These are overlapping buying situations, not permanent personas, validated population segments or a proven MECE cause partition. The same person can move between them. Classify the most recent acquisition/replacement occasion and examine the binding constraint. Do not force every respondent into exactly one pillar.
+
+Earlier pillar titles such as “Establish a personally valued reason to repeat” are retained as historical drafts in ../THREE_PILLAR_PROPOSAL.md. The newer synthesis controls the current second-pillar emphasis.
+
+## 9. Proposed solution mechanics and red-team corrections
+
+No final concept, intervention bundle, partner, budget or impact forecast was accepted. The assistant proposed:
+
+- Carry a suitable exact-variant choice into normal household shopping through a shareable item, with image, pack and truthful product/price/outlet information. A personal tube alongside shared Basic can be tested where acceptable. Household-wide Premium bundles can impose costs on nonbeneficiaries; no assumed savings or compulsory upgrade.
+- Establish a personally relevant job using actual need and prior experience, suitable variant selection, supported benefits and an experience check. Existing Pepsodent tools/content should be used or improved where a real gap exists; a new scanner is not inherently novel or justified. Allow Basic sufficiency and unsuitable-product exits.
+- Make replenishment workable through opt-in timing support, exact-variant purchase handoff and transparent existing packs. A limited reactivation offer may be tested for appropriate lapsed users, with subsequent replacement without another program subsidy as a key outcome. Do not equate redemption with sustained willingness to pay.
+
+A proposed later intervention comparison was usual practice versus reminder/access support versus the same support plus incentive. This is a future solution test, **not** the current survey design. No A/B campaign was conducted, and no automatic subscription, guaranteed stock integration or medical diagnosis was proposed as established capability.
+
+The business outcome should be appropriate additional paid replacement and incremental contribution. Count users/purchases once across pillars. Subtract displaced Basic contribution and distinguish Pepsodent from total-Unilever incrementality; sister-brand transfer can matter. Reach, scans, reviews, coupon redemption and Premium mix are not clinical or behavioural health improvement.
+
+## 10. The survey-first decision
+
+The user clarified that the competition has several stages, that interviews are not realistically available for the executive summary, that a survey may be feasible, and that roughly 40–60 respondents may be reached. Interviews may be possible later for the proposal. This explicitly supersedes the earlier interview-first plan for immediate work. Do not make interviews a prerequisite for helping with the current survey.
+
+Recommended immediate method: exploratory cross-sectional online survey, retrospective product acquisition/replacement history, separate user/chooser/payer/shopper roles, a within-person personal-care comparison, and a small number of open answers. Later survey → results-led interviews → integrated interpretation can be an explanatory sequential quantitative-to-qualitative primary design. Do not describe the present work as completed mixed methods simply because interviews are intended or short text fields exist.
+
+Recruit actual reported Premium-to-Basic histories plus retained Premium and Basic contrasts, within age 18–30 and relevant Indonesia use. An illustrative—not required—50-person recruitment allocation was 25 switchers, 15 retained Premium and 10 Basic users without an established switch history. These are logistical aspirations, not a power calculation, saturation claim, probability sample or observed counts. Eligibility and variants require review. Forty relevant respondents are more useful than sixty generic users with few target histories.
+
+No split-sample A/B test is recommended for the immediate 40–60 response survey. Splitting into small arms weakens sensitivity to modest differences; hypothetical tasks measure stated responses rather than paid repeat. The distinctive extra module is a within-person comparison: ask about the most recent non-toothpaste personal-care acquisition, not the favourite or most expensive product, using parallel chooser/deliberation/outcome questions. It still does not control all contextual differences or establish ability to afford Premium.
+
+Collect the actual episode before showing structured reasons or proposed offers. Unknown prices stay unknown; a gifted or household-bought product must not force an invented transaction. Compare deliberation only where the respondent participated in both choices and recalls them. Do not force a new specialist need, shame Basic choices, or use a solution-preference poll as proof.
+
+Report counts and denominators in the recruited convenience sample; no conventional population margin of sampling error, national prevalence, price elasticity, causal contribution, ROI or clinical effectiveness. A survey in November can test current mechanisms but cannot automatically explain historical H1 2026 mix change. Record event timing rather than manufacturing a long retrospective history.
+
+## 11. Apps Script deliverable and actual implementation
+
+The user requested usable Apps Script immediately, with humanized wording, then explicitly required one-shot setup without pilot/launch functions. The current deliverable is ../survey_apps_script/Code.gs, version 1.1.1, with identical COPY_PASTE.txt, START_HERE.md, exact KUESIONER.md, analysis plan and local test suite/results. Keep those files together.
+
+The current script's only required setup action is paste the entire code into the same Google Apps Script project and run `createSurvey()`. It creates/reuses a main form, optional contact form, main response workbook and separate contact workbook; opens forms when setup completes; and prints `SHARE_THIS_LINK`. No API key, deployment, manual spreadsheet creation, openForPilot or launchSurvey is required. The saved property key remains `EFEST_TOOTHPASTE_SURVEY_V1` so the failed original project's assets can be recovered. Do not advise deleting Script Properties or starting a new project as a routine fix.
+
+The main form has 36 question items across nine sections; eligible respondents without another recent personal-care acquisition skip six comparison items. Consent, age and Indonesia-use screenouts terminate early. Text is neutral Indonesian and does not advertise the three pillars or label Premium/Basic up front. The 8–10 minute duration is an estimate, not respondent-tested time.
+
+The script separates roles, captures actual/approximate/unknown prices, optional pack/date, prior product/status/experience, desired product, spontaneous explanation before a maximum-three-reason checklist, availability, parallel category selection, overall recall certainty and optional follow-up code. It does not perform randomized testing, a validated latent-involvement scale, or a clinical assessment.
+
+CLEAN and RINGKASAN are derived and regenerated. Original Forms response tabs and REVIEW are preserved. Definite tiers require manual case-SKU review; brand-only names, colour or price do not establish tier. A name pathway is not necessarily permanent abandonment. Free text is escaped in derived sheets to prevent formula execution. An installable main-form submission trigger refreshes counts; if account policy blocks it, manual refreshResponses remains available. Respondents' ability to submit without login is subject to account policy; no script-run proof of actual responder access exists here.
+
+The main form does not request name/email/phone. Volunteers can enter an optional code, then fill the separate contact form linked in the common confirmation message. The owner can match codes across workbooks, so linked volunteers are not fully anonymous. Contacts are not copied into analysis tables. No message/invitation was sent by the assistant or automatically by the script.
+
+## 12. Debugging history — do not omit or overstate
+
+The initial v1.0 had separate create/pilot/launch steps and local mock tests. The user reported a real Google failure at configureForm_ line 318, timestamp 11:13:08: `Exception: Invalid data updating form.` That was the chained optional setCustomClosedFormMessage location. The assistant removed that setter and unnecessary quiz configuration, split the remaining setters, published recovered drafts before changing response state, and created one-shot v1.1.0. The deeper Google backend cause was not independently established.
+
+The user then reported at 11:18:27: `Exception: The form currently has no response destination.` The exact submitted v1.1.0 script is retained byte-for-byte in ../sources/User_Submitted_Survey_v1_1_0_Exact.txt. The unsafe `getDestinationId()` calls occurred before destination creation. The local mock had returned null for absence whereas Google throws; that was an assistant test-model error.
+
+Version 1.1.1 adds responseDestinationId_ that catches only the known missing-destination exception, and ensureResponseDestination_ for both forms. It sets/checks the expected destination, leaves a matching destination unchanged and propagates other errors. It accepts saved state from 1.0.0/1.1.0 and preserves already-built form item IDs. No respondent data is cleared to force recovery.
+
+The final local suite passed 184 assertions including 126 eligibility/comparison routing combinations, both failure regressions, built-but-unlinked v1.1 recovery, idempotent reruns, raw/manual-review preservation, pair eligibility, date/price flags, privacy settings, and no relinking of an already matching destination. These are explicit mocks, not authenticated Google service execution, browser rendering, questionnaire validation or source truth.
+
+The last user message requests a detailed repo overlay. They have not reported whether v1.1.1 executed successfully. “Cool” is not proof of a successful Google run. There is no form ID, respondent URL, response workbook export, completed primary survey count or interview dataset supplied to this chat. Do not invent those or claim the survey is live.
+
+## 13. User working preferences demonstrated here
+
+The user wants direct, detailed, evidence-backed thinking and practical artifacts. They explicitly appreciate distinctive insights grounded in actual purchase situations and singled out selective personal-care involvement. They want self-red-teaming and refinement rather than agreement with unsupported age assumptions. They want survey wording to feel natural and usable, and strongly prefer one-shot setup without extra operational stages. After repeated errors, avoid presenting mock check counts as a substitute for real Google execution or blaming the user's setup for known code defects.
+
+They requested a ZIP that can be extracted into the existing repository and retain all additional context. This handoff/overlay is that requested work. It does not authorize a push, publication, invitations, paid data collection, submission or new fieldwork. Do not copy unrelated personal memories into the repo.
+
+## 14. Immediate continuation
+
+Read root CURRENT_STATE and this file, then the latest buying-situation synthesis and actual Apps Script code/tests. If the next task is technical, start from v1.1.1 and the user's real error/log, preserve their existing Google assets and narrow the fix. If survey data arrive, inspect the actual export and eligibility first; don't assume 40–60 responses were collected or that all are target switchers. If the next task is strategy, retain competing explanations and the case's explicit three-ideas-then-select-one requirement. If interviews become feasible later, use survey patterns to select contrasting accounts and integrate them.
+
+
+---
+
+# Layer: Latest synthesis
+
+# Latest buying situations and strategic implications
+
+4 November 2026. This refines the earlier THREE_PILLAR_PROPOSAL.md; no intervention is validated or finally selected. The user likes the buying-situation architecture and particularly the selective personal-care involvement insight. Preserve that emphasis without converting enthusiasm into empirical proof.
+
+## Core business interpretation
+
+The organizer's problem is the loss of Premium participation within a still broadly trusted brand. The working diagnosis asks whether a relevant specialist benefit survives the user's experience and remains worth choosing, funding and finding at replacement. Pepsodent Basic is a familiar within-brand alternative; the idea that this lowers the perceived sacrifice of downtrading is a client-specific interpretation to test, not a measured trust-transfer finding.
+
+## The three situations
+
+| Situation | Illustrative statement, not a respondent quote | Decision that breaks | Proposed pillar |
+| --- | --- | --- | --- |
+| Preference does not control the basket | I have a preferred toothpaste, but use what gets bought at home. | Whose choice enters the household acquisition | Carry the choice into the purchase |
+| Toothpaste has not earned the extra spend | I compare personal-care products carefully, but my usual toothpaste does enough. | Whether the additional specialist outcome is personally worth paying for | Earn the extra spend / give the upgrade a meaningful job |
+| A valued product does not get replaced | It suited me, but I used or bought something else when it ran out. | Whether timing, access and recurring outlay allow a valued choice to continue | Secure the replacement |
+
+These are overlapping event-level mechanisms, not a forced partition, psychographic cluster solution, universal funnel or age segmentation. The same person may face all three at different times. Payment by someone else is not itself evidence of obstruction; receiving Basic is not itself proof of rejected Premium preference.
+
+## Situation 1: carry the choice
+
+Direct examples describe forgetting to replenish a sensitivity-labelled product and using the mother's supply; self-bought Closeup versus parent-bought Pepsodent; and a parent controlling bulk household purchases. Parent-funded specialist use does not necessarily reveal the user's own willingness to pay. Starting independent purchasing may change the alternative from household-supplied use to personal expenditure.
+
+Rivals remain visible: a mother's sensitivity can support family specialist purchase; new work/income can enable an upgrade; a user may independently choose Basic because it is sufficient. No cutoff at age 24 is supported. Use ages 18–24 and 25–30 only as reporting/recruitment cuts if informative, while mapping chooser, payer, shopper, supplier, beneficiary and shared users directly.
+
+The proposed execution is a specific suitable-variant shopping item that a user can carry into normal household purchasing, through existing touchpoints if feasible. Personal and shared tubes may coexist where acceptable. No compulsory family-wide upgrade, mandatory bundle, inferred savings or new household app is justified by the current evidence.
+
+This pillar would be weakened if users already control purchase and payment, find the desired SKU, and deliberately prefer Basic for another reason. The intermediate indicator is transfer of the user's choice into the basket; the outcome is continued appropriate funded replacement, with viable contribution.
+
+## Situation 2: earn the extra spend
+
+This is the major refinement after the original three-pillar response. The fresh paired-in-one-account examples describe detailed skincare/fragrance consideration alongside casual or sale-based toothpaste choice. They support investigating selective category involvement. They do not establish wealth, willingness to pay for toothpaste, inability to differentiate every formulation, or representative youth behaviour.
+
+Separate three explanations:
+
+1. **Cannot distinguish:** a relevant need exists but product differences are unclear. Suitable comparison/selection support may help.
+2. **Understands but does not value:** the extra outcome does not matter enough relative to accepted Basic and recurring expenditure. Some buyers may appropriately remain outside the conversion target.
+3. **Wanted but disappointed:** the buyer sought an outcome but had poor fit, unrealistic expectations or an unsatisfactory experience. Examine the actual episode before encouraging another trial.
+
+The core question is what this particular person gains from the appropriate specialist variant beyond what their routine toothpaste already meets. General beauty interest does not automatically identify a whitening customer. Comfort, sensitivity, appearance and other supported jobs can differ. Do not promise that a cosmetic goal establishes a clinical need or that more education repairs every trade-off.
+
+A proposed journey starts from the existing routine and standard of “good enough”; identifies a relevant unmet job; connects one suitable variant and truthful promise; and checks experience plus actual subsequent purchase. Existing Pepsodent self-check/science/education capabilities are benchmarks. A new scanner is not the novelty. Improvement in comprehension without meaningful experience or purchase change is insufficient commercial validation.
+
+The survey's matched-category questions are the immediate diagnostic tool. They are observational retrospective questions, not a validated involvement scale or randomized proof. Ask about the most recent other-category product rather than the favourite/most expensive one. Compare only participants involved in both selections. The data may show that affordability, not differentiation, remains binding; retain that rival.
+
+## Situation 3: secure replacement
+
+First establish that the prior product supplied a benefit the person actually valued. Then examine forgetting, exact-variant search/availability, normal shopping route, price/outlay, pack, stock at home and concurrent use. Calling every departure a retention failure can confuse temporary household use, a still-unused new tube, alternating products and permanent abandonment.
+
+Candidate tools include optional depletion-timed support, truthful exact-variant purchase handoff, accessible existing packs and a limited return offer when warranted. No guaranteed real-time stock without integration, fixed depletion schedule, compulsory subscription or perpetual discount is selected.
+
+The proposed later evaluation compares usual practice, reminder/access support, and the same support plus an incentive. It can distinguish value of the incentive beyond assistance. The following replacement without another program-funded incentive is important. Ordinary retailer promotions can still happen; record actual prices. A redemption or a willing-to-buy answer is not sustained paid repeat. The current 40–60-response survey does not implement this experiment.
+
+## Economics and social value
+
+Case arithmetic shows a lower promotional tube ticket can still have a materially higher unit price. Do not infer actual usage from grams or manufacturer realization from shelf price. Incremental contribution must account for displaced Basic business, intervention/channel costs and portfolio transfers without double counting. Count unique people and purchases once across pillars.
+
+A social outcome needs its own definition and evidence: appropriate selection, supported care behaviour or access are candidates. Premium participation, scans, impressions, contacts and coupons are not in themselves health improvement. The questionnaire is not a diagnosis or a comparative clinical-effectiveness test.
+
+## Red-team conclusions retained
+
+| Early temptation | Why it fails | Working correction |
+| --- | --- | --- |
+| Two age-specific solutions, split at 24 | Purchasing control is not determined by age | Route by actual buying roles; test age differences descriptively |
+| Household bundle as the main fix | Could impose specialist costs on nonbeneficiaries | Test individual/shared product arrangements and actual payer acceptance |
+| More education or another AI scanner | Existing activity already includes those executions; a gap is unmeasured | Diagnose the precise missing choice/value/experience link |
+| Blanket win-back discount | Can subsidize existing demand or misfit | Target suitable lapsed use and later measure incrementality/next replacement |
+| Every expensive-skincare user can afford Premium | Product lists are not income/expenditure data | Examine category-specific value alongside budget constraints |
+| Every Basic user should upgrade | Basic can meet the actual job | Identify appropriate, economically addressable needs |
+| Add up three pillar conversions | Same people can traverse multiple mechanisms | Track unique outcomes and the appropriate counterfactual |
+
+## Competition packaging boundary
+
+The brief requires three ideas followed by selection of one. The architecture can organize three candidate concepts or the implementation of a selected concept, but those are different presentation decisions. The assistant previously suggested household purchasing as a distinctive lead, then the user highlighted the second insight. No final selected lead, winning concept, budget or forecast was approved. Ask or infer from subsequent work only when actually warranted; do not lock the first-pillar recommendation by default.
+
+
+---
+
+# Layer: Survey method
+
+# Survey method and implementation map
+
+Current shipped script: survey_apps_script/Code.gs v1.1.1. This file connects strategic questions to the actual instrument and distinguishes the planning discussion from implementation. The user wants a survey-only executive summary now, possible interviews later, approximately 40–60 reachable respondents, and one-shot usable setup.
+
+## Design and sample
+
+Use an exploratory cross-sectional online survey with retrospective reports of the most recent toothpaste acquisition and the previous product. “Acquisition” includes someone else buying, gifting or supplying the tube. The three buying situations are hypotheses to investigate, not segments to impose on every answer. Recruit age-eligible Indonesia users with relevant reported histories and contrasts. A generic toothpaste user is not automatically a former Premium-to-Basic switcher.
+
+The n=50 example (25 switchers / 15 retained Premium / 10 Basic contrasts) was an illustrative recruitment aspiration. The actual form does not enforce these categories, recruit anyone, verify history, or guarantee those counts. Do not conduct many small age × role × pathway comparisons or label convenience percentages national prevalence. Show counts/denominators, source of recruitment, field dates and actual inclusion decisions.
+
+The immediate survey contains no A/B allocation, vignette, conjoint task, price experiment, willingness-to-pay ladder, validated psychometric scale or automatic cluster classification. The paired-category module is an observational comparison within one respondent, not experimental control. Later interviews can explain contrasting results; integrating them would create explanatory sequential quantitative-to-qualitative primary research. Two short open text answers alone do not make the current design a completed mixed-methods study.
+
+## Actual question map
+
+| Section | Codes | Purpose and boundaries |
+| --- | --- | --- |
+| Consent | consent | Decline terminates; the submitted gate response is not a completed target response. |
+| Age | age | Four in-range bins (18–20, 21–24, 25–27, 28–30); under/over/refusal terminate. Not independently authenticated. |
+| Scope | scope | Reports toothpaste use while living in Indonesia during the last six months. Does not date every event in the case window. |
+| Profile | living, activity, city | Household/life context. City optional; no full address or income inferred. |
+| Latest acquisition | current_product, acquired_month, pack, chooser, payer, shopper, users, channel, paid_price, price_certainty, promo, tooth_deliberation, expected_benefit | Specific product and event; separate roles; optional MM/YYYY/pack/price; actual versus approximate/unknown/free price. Expected benefit here concerns the current acquisition and aligns with other_expected. |
+| Previous product and replacement | previous_product, previous_status, previous_experience, desired_product, reason_open, reasons, availability | Permits same product, concurrent/temporary use, new tube not yet used and first use. Spontaneous explanation precedes max-three structured reasons. No prior paid-price sequence is collected. |
+| Other-category gate | comparison_gate | Most recent non-toothpaste personal-care acquisition within three months; no/recollection unavailable skips six questions. |
+| Other category | other_category, other_product, other_chooser, other_deliberation, other_expected, other_reason | Most recent, not favourite/most expensive. Parallel deliberation and expected outcome. Not limited to skincare; includes hair/body/deodorant/fragrance/other. |
+| Finish | recall, note, followup_code | Recall certainty establishes reaching the final section; optional note and voluntary matching code. Estimated 8–10 minute duration has not been observed. |
+
+There are 36 main question items across nine sections. Qualifying respondents who skip comparison see 30 items. Required and optional fields are defined in KUESIONER.md/Code.gs; don't infer exact completion time from item count. The form's lack of a prior paid-price history means it cannot establish discount-driven trial-to-regular-price abandonment. Interviews or a later panel would need the missing sequence.
+
+## Product pathways and classification
+
+Exact name/variant is requested with permission to say unknown. The conservative text helper creates hints only for clearly named examples; it does not verify case-tier membership or classify every Herbal/Complete product. Manual REVIEW uses BASIC/PREMIUM/OTHER/UNKNOWN plus a note for current and previous variants. The resulting name pathway remains self-report. Read actual use, previous stock, reasons and timing before calling abandonment or switching cause.
+
+The form asks which product the user wanted in free text. It does not automatically compare desired/current strings as a validated preference gap. Manual reading is required for synonyms, nonchoices and uncertainty. A parent paying is not evidence of overriding preference. A promotion mention is not proof of price dependence.
+
+## Matched-category analysis
+
+RINGKASAN compares reported consideration of alternatives among respondents involved in choosing both categories (self/joint), who recall the process in each. Nonchoosers and “do not remember” are excluded from that paired denominator. Questions record comparison of products, not total attention, research time, actual spending or a latent involvement score. Expected benefits and open explanations need their own reading.
+
+A pattern of comparison in skincare and routine toothpaste choice is consistent with selective involvement. It does not show that the person could afford Premium or that a particular benefit would change the purchase. The two acquisitions can occur at different dates and differ in other circumstances. Retain participants who show the opposite pattern or reasoned sufficiency of Basic.
+
+## Three types of evidence and outputs
+
+1. Reported events/roles/products, with uncertainty and event month where known.
+2. Participant explanations and open responses, separated from analyst interpretation.
+3. Proposed strategic implications, still conditional on mechanisms and economics.
+
+Do not label an automatic summary “validated pillars.” Do not generate national percentages, causal uplift, clinical benefit or ROI from 40–60 convenience responses. Code outputs are descriptive counts with denominators; they are not prevalence or treatment-effect estimates.
+
+## One-shot operation and data management
+
+Paste all of current Code.gs into the SAME project used for the failed versions; run createSurvey once. It recovers assets through saved Script Properties, builds missing forms, links/verifies two separate workbooks, checks structure, opens forms and prints SHARE_THIS_LINK. It neither deploys a web app nor sends messages. Clearing the project properties destroys the asset registry and may create new files. Google account rules can still affect public responder access; none was checked through a signed-in session here.
+
+Original Forms response sheets and REVIEW are not cleared. CLEAN/RINGKASAN/PETUNJUK/KAMUS are derived and regenerated. The contact form collects volunteered contact only after its own consent; the owner can link codes, so claim pseudonymous handling rather than full anonymity for volunteers. Contacts must not be committed into Git. The script avoids sign-in-based one-response limits for accessibility; it cannot guarantee one person per submission. Reused codes and price/date/reason inconsistencies are review flags, not automatic grounds for exclusion.
+
+## Later interview design
+
+Use optional codes/permission to select contrasts: preferred Premium but supplied Basic; deliberate other-category choice but routine toothpaste; valued benefit then lapse; and counterexamples where shared payment/independent buying sustained Premium. Link the interview to the survey result it explains and integrate contradictions in interpretation. Do not count planned interview numbers as completed respondents or import illustrative customer portraits as quotations.
+
+## Method sources consulted during the chat
+
+These supplied methodological guidance, not Indonesian consumer findings or a sample-size guarantee. Retrieval occurred 4 November 2026; links are not a claim of current availability in later sessions.
+
+- NIH OBSSR, Best Practices for Mixed Methods Research in the Health Sciences: https://obssr.od.nih.gov/sites/g/files/mnhszr296/files/Best_Practices_for_Mixed_Methods_Research.pdf — integration and sequential design.
+- AAPOR, Best Practices for Survey Research: https://aapor.org/standards-and-ethics/best-practices/ — neutral specific questions, testing, inclusion of unknowns and transparency.
+- AAPOR, Disclosure Standards: https://aapor.org/standards-and-ethics/disclosure-standards/ — sampling/instrument/recruitment reporting.
+- AAPOR, Credibility intervals statement: https://aapor.org/statements/understanding-a-credibility-interval-and-how-it-differs-from-the-margin-of-sampling-error-in-a-public-opinion-poll/ — limits of population inference from opt-in samples.
+- Pew Research Center, Writing Survey Questions: https://www.pewresearch.org/writing-survey-questions/ — order effects, wording and questionnaire development.
+
+These sources recommend pretesting as good practice. The user nevertheless rejected a separate operational pilot/launch workflow; current code does not enforce it, and no actual questionnaire pretest should be claimed. Possible future interviews are not a current prerequisite.
+
+
+---
+
+# Layer: Historical 3 November substantive handoff
 
 # Complete substantive session handoff — 3 November 2026
 
@@ -167,7 +519,7 @@ Primary tools are designed for uncertain access: two pilots, initial 8–12 subs
 
 ---
 
-# Original historical master (unchanged source content)
+# Layer: Historical complete original master
 
 # E Fest 2026 Pepsodent Master AI Context Pack
 

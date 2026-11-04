@@ -1,0 +1,38 @@
+{
+  "environment": "Node.js v24.22.1",
+  "scope": "Local mocked Google-service contract/integration checks; no authenticated Google execution",
+  "assertions": 184,
+  "constructedRoutingCombinations": 126,
+  "mainQuestions": 36,
+  "mainPages": 9,
+  "maximumMainPathQuestions": 36,
+  "checks": [
+    "Syntax and pure self-checks",
+    "Idempotent form/workbook creation",
+    "126 eligibility and comparison routing combinations",
+    "One-shot opening and legacy pre-start separation",
+    "Screenout and incomplete exclusion",
+    "Separate contact data destination",
+    "Manual review and raw Forms response sheet preserved",
+    "Formula injection escape in derived sheets",
+    "Pairwise eligibility",
+    "Future-month and contradictory-price flags",
+    "No automatic tier verification",
+    "First-run timestamp preserved",
+    "Closed forms",
+    "Modified-route detection",
+    "Interrupted-build recovery and failed-v1.0 migration",
+    "Closed-message failure regression: setter throws if called",
+    "Missing destination throws: handled and linked",
+    "Already-built v1.1 recovery preserves item IDs",
+    "Already-linked destination is not recreated",
+    "Permission errors are not hidden"
+  ],
+  "notTested": [
+    "Actual Google authorization",
+    "Actual Google service latency/quotas",
+    "Real browser rendering",
+    "Google Workspace responder permissions",
+    "Respondent comprehension or duration"
+  ]
+}

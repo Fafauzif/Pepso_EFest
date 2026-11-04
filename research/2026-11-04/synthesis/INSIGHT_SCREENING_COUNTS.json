@@ -1,0 +1,31 @@
+{
+  "date": "2026-11-04",
+  "non_amazon_records_searched": 27770,
+  "overlapping_lexical_candidate_hits": {
+    "benefit_continuation": 290,
+    "funding_transition": 123,
+    "internal_fallback": 1065,
+    "price_reference": 138
+  },
+  "selected_excerpt_records": 14,
+  "existing_294_annotation_count_changed": false,
+  "interpretation": "Retrieval hits and purposively selected excerpts, not people, coded mechanism prevalence, verified ages, or causal switching evidence.",
+  "patterns": {
+    "funding_transition": [
+      "bonyok|orang\\s*tua|ortu|mama|papa|nyokap|bokap|suami|istri|dibeliin|dibelikan",
+      "kos|kost|kerja|sendiri|mahal|beli|bayar"
+    ],
+    "internal_fallback": [
+      "pepsodent",
+      "balik|biasa|ganti|putih|murah"
+    ],
+    "benefit_continuation": [
+      "cocok|nyaman|ngilu|sariawan",
+      "beli lagi|repeat|bertahun|setia|ganti|balik"
+    ],
+    "price_reference": [
+      "promo|diskon|mahal",
+      "lama|biasa|setia|cocok|repeat|beli lagi|habis"
+    ]
+  }
+}

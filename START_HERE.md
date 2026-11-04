@@ -1,42 +1,40 @@
-# Start here — Pepsodent complete research handoff
+# Start here — latest continuation, 4 November 2026
 
-**Latest: 3 November 2026, Asia/Jakarta. Private team use.** Secondary research, public data collection and returned user-run Apify exports are integrated. The next task is hypothesis testing and preparation for primary research. No final solution, verified target-switcher sample, primary interviews or causal allocation has been established.
+Private E-Fest team use. This reading order supersedes the old status/planning directions where specifically updated. Original source/data claims retain their own limits.
 
-## Reading order
+## Read in this order
 
-1. [Current project state](context/CURRENT_STATE.md): accepted decisions, scope, counts and boundaries.
-2. [Complete substantive session handoff](research/2026-11-03/closure/context/SESSION_HANDOFF.md): questions, decisions, tools, corrections, returned runs and continuity.
-3. [Decision brief](research/2026-11-03/closure/synthesis/DECISION_BRIEF.md): what the evidence changes and what remains unknown.
-4. [Diagnosis and teaching](research/2026-11-03/closure/synthesis/DIAGNOSIS_AND_TEACHING.md) and [hypothesis matrix](research/2026-11-03/closure/synthesis/HYPOTHESIS_MATRIX.md).
-5. [Indonesian primary-research kit](research/2026-11-03/closure/primary_research/README.md): start with the screener, pilot and purchase timeline.
-6. [Earlier full research report](research/2026-11-03/REPORT_FULL.md): retained ~29,000-word research and methods pack, including literature/retail/campaign/history/tool annexes.
-7. [Original master context](context/E_Fest_2026_Pepsodent_Master_AI_Context_Pack.md): historical case, guidebook, mentoring and teaching material. Its old status statements are superseded by current state, not its original case text.
+1. [Current state](context/CURRENT_STATE.md) — user direction, current artifact, no-success-yet status and evidence boundaries.
+2. [4 November handoff](research/2026-11-04/context/SESSION_HANDOFF.md) — detailed reasoning and conversation continuity.
+3. [Buying situations and pillars](research/2026-11-04/synthesis/BUYING_SITUATIONS_AND_PILLARS.md) — latest second-pillar refinement.
+4. [Decision register](research/2026-11-04/context/DECISIONS_AND_LIMITS.md) — support versus preference versus proposal, and superseded plans.
+5. [Survey method/question map](research/2026-11-04/SURVEY_METHOD_AND_QUESTION_MAP.md) and [actual script/setup](research/2026-11-04/survey_apps_script/START_HERE.md).
+6. [3 November handoff](research/2026-11-03/closure/context/SESSION_HANDOFF.md), [diagnosis](research/2026-11-03/closure/synthesis/DIAGNOSIS_AND_TEACHING.md), [hypothesis matrix](research/2026-11-03/closure/synthesis/HYPOTHESIS_MATRIX.md) and [evidence ledger](research/2026-11-03/closure/synthesis/EVIDENCE_LEDGER.md) when grounding analytical claims.
+7. [Original master](context/E_Fest_2026_Pepsodent_Master_AI_Context_Pack.md) for case, guidebook, original business intuition and mentoring methods. Historical untested portraits remain illustrations.
 
-For one large context file, [CONTEXT_LATEST.md](context/CONTEXT_LATEST.md) combines current state, this session handoff and the complete original master. Separate reports/data still need reading when making analytical claims. Cloning does not import a chat or authentication; these files provide the project context.
+For a single combined context document, [CONTEXT_LATEST.md](context/CONTEXT_LATEST.md) includes the current state, new detailed handoff/refinement/method, previous session handoff and complete original master. This is intentionally long; the modular reading order is easier for bounded tasks. Raw/source reports still govern quantitative claims.
 
-For one assembled research/teaching document, read [COMPLETE_RESEARCH_REPORT.md](research/2026-11-03/closure/COMPLETE_RESEARCH_REPORT.md). It places the current findings before the retained historical report and annexes.
+## What changed in this chat
 
-## Data and methods
+The user particularly liked selective personal-care involvement: a detailed skincare routine can coexist with casual toothpaste choice. The current situations are preference not controlling the basket; toothpaste not earning extra spend; and a valued product not getting replaced. These can overlap and are not age-exclusive or validated segments.
 
-- [Portable written-record inventory](research/2026-11-03/closure/integrated/README.md), [counts/shard index](research/2026-11-03/closure/integrated/INVENTORY.json).
-- [X findings](research/2026-11-03/closure/x/FINDINGS.md), [TikTok findings](research/2026-11-03/closure/tiktok/FINDINGS.md), [Tokopedia/Shopee findings](research/2026-11-03/closure/tokopedia/FINDINGS.md).
-- [Exact uploaded-source register](research/2026-11-03/closure/raw/UPLOAD_REGISTER.json), [independent QA](research/2026-11-03/closure/qa/INITIAL_QA.md).
-- Earlier raw sources, source histories, source-specific clean data, original keyword controls, literature and tools remain in their existing dated folders. Do not add overlapping subsets together.
+Immediate primary work is survey-only for the executive summary, possibly 40–60 respondents; interviews may follow for the proposal. No split-sample experiment is in the form. No survey responses or interviews have been supplied. The old interview-first order does not block current work.
 
-**314,476 retained written platform records across all scopes** is an archive inventory, not a verified consumer sample. It includes286,706internationalAmazoncandidates, marketing, irrelevant candidates and adjacent categories. The earlier six-post X sample adds only five nonoverlapping brand excerpts. Platform-specific counts and eligibility must accompany any analytical summary. All target-age/Pepsodent Premium-to-Basic verification flags remain false.
+Current script is v1.1.1. Paste it into the SAME Google Apps Script project and run createSurvey once; it recovers saved assets, opens forms and prints SHARE_THIS_LINK. No pilot/launch steps. Two real errors were fixed, but no successful latest Google run was reported. Preserve this distinction from local mock tests.
 
-## Install, verify, continue
+## Install and verify
 
-See [GitHub Desktop installation](release/INSTALL_WITH_GITHUB_DESKTOP.md). The new master data work without restoring legacy exports. Five large legacy logical files are represented by exact lossless parts, indexed in release/LARGE_FILES.json, to keep Git files below45MiB. Optional restore steps are documented; do not force-add rebuilt large files or databases.
+The ZIP is an overlay for the existing repository, not a standalone corpus. Follow [INSTALL_CONTEXT_UPDATE.md](INSTALL_CONTEXT_UPDATE.md). The earlier [GitHub Desktop guide](release/INSTALL_WITH_GITHUB_DESKTOP.md) remains useful for repository review/commit mechanics, but old Filebin/full-release instructions are historical.
 
 ```bash
+python scripts/verify_context_update_20261104.py
 python scripts/verify_final_release.py
 python scripts/verify_package.py
-python scripts/query_corpus.py --platform tiktok --contains sensodyne --limit 3
+node research/2026-11-04/survey_apps_script/test-survey.cjs
 ```
 
-These are integrity and reproducibility checks, not validation of representativeness or clinical claims. Full methodological limits, date-quality corrections and sampling methods are retained. No more paid/bulk collection is required before beginning the proposed primary-research pilots.
+The 314,476 all-scope written records and 294 prior annotations remain unchanged. Source/demographic/date/incentive limitations remain. Do not add new excerpts to the corpus count or assume primary respondents already exist. Integrity checks and mocked API tests do not authenticate consumers, clinical effects or live Google account behaviour.
 
-## Prompt for a new assistant
+## Resume prompt
 
-> Read AGENTS.md and the START_HERE reading order. Understand the case, current state, full session handoff, decision brief, hypothesis matrix and primary-research kit. Check the actual data inventory and source limits before making claims. Preserve case facts, observations, hypotheses, illustrations and primary data as separate categories. No final solution or causal allocation is selected; no primary interviews exist. Help with [next task].
+> Read AGENTS.md, START_HERE.md and context/CURRENT_STATE.md, then the 4 November SESSION_HANDOFF, BUYING_SITUATIONS_AND_PILLARS, DECISIONS_AND_LIMITS and SURVEY_METHOD_AND_QUESTION_MAP. Use Apps Script v1.1.1 as the current base and read USER_RUNTIME_REPORTS before debugging. Preserve the survey-only immediate constraint, one-shot createSurvey preference, selective personal-care insight and competing explanations. No successful latest Google run or primary responses have been supplied yet. No final strategy selected. My next task is [task].

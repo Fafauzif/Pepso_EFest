@@ -1,0 +1,274 @@
+{
+  "update": "2026-11-04-context-and-survey",
+  "timezone": "Asia/Jakarta",
+  "base_commit": "59f28effdf47dbdc5feea33458998bba03e3227f",
+  "layout": "Extract archive contents into existing Pepso_EFest root; no outer folder. This is an overlay, not a standalone corpus.",
+  "latest_script": "research/2026-11-04/survey_apps_script/Code.gs",
+  "latest_script_version": "1.1.1",
+  "evidence_boundary": "No new primary responses or interviews; no confirmed successful latest Google execution; no final strategy selected.",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 3290,
+      "sha256": "0a87bcd0e3c4841d70b112ec4ba54c43807d84e51fe6a3fea877da26d58ebdaf",
+      "operation": "replace",
+      "baseline_sha256": "6c907301c8cf7a11dab10abf5304669c9c49051ccb169e3e62fc54c4eaaca7ae"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 2476,
+      "sha256": "fbaa1924bd99c4eb2e995499d184ca3456116aef7ee6df39d9c8b3e3b45df2c5",
+      "operation": "replace",
+      "baseline_sha256": "4200c6e060032ae286dc3180bf8a48ecc5ee48f4b55a8f052a0a3a23adbb516e"
+    },
+    {
+      "path": "INSTALL_CONTEXT_UPDATE.md",
+      "bytes": 3219,
+      "sha256": "55e32b9932cd3ae3e5df4eb72fb666abbd7d1e51aa8ab210a97dbaccc72451aa",
+      "operation": "add"
+    },
+    {
+      "path": "MANIFEST.sha256",
+      "bytes": 269640,
+      "sha256": "9b998ca0b3f8c37f9bc99920147504cea7efe046d8e67773b73680bcf66eb166",
+      "operation": "replace"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2775,
+      "sha256": "50a012c435e1df5a751a90cf6c7a379cfabb26f2ebd74a55206103c04e352b48",
+      "operation": "replace",
+      "baseline_sha256": "d5eecf5cdc338d8d368748ebc37330fd0ac8b570c8b89cb0803aaea42ed61163"
+    },
+    {
+      "path": "START_HERE.md",
+      "bytes": 4304,
+      "sha256": "3a80f258ad0945a959f08696809c9919a3f498500c3de6841b7eed9f4da9aa92",
+      "operation": "replace",
+      "baseline_sha256": "82b1b1189f0ff52041748fe566c4bbab095aff7c1d0d3e4e86efd860607e9ae0"
+    },
+    {
+      "path": "context/CONTEXT_LATEST.md",
+      "bytes": 327470,
+      "sha256": "687d8da0d58845d9ab4be0c29c96b583055fe4d09ad16865fc11bf8ead244f69",
+      "operation": "replace",
+      "baseline_sha256": "0136a9f4ae6aaaf382516d7a213dd84cfc3e181e1f48b529976d713d4edee272"
+    },
+    {
+      "path": "context/CURRENT_STATE.md",
+      "bytes": 11536,
+      "sha256": "4ac6938aeb5e498b4540aee1705326bb5b31d548d5819de2a5bc559c68a48bae",
+      "operation": "replace",
+      "baseline_sha256": "2ce3f1e4d6bc61d76fcc58105b24dd19280e034a2a9f9d6a421dc0aefae718c8"
+    },
+    {
+      "path": "research/2026-11-04/INSIGHT_STRESS_TEST.md",
+      "bytes": 5443,
+      "sha256": "a43e293fb6876de448a01c320dbbfa1405acaf8090cad0ce7f524ec809a59b80",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/README.md",
+      "bytes": 3178,
+      "sha256": "98ee4d4cbdbe90922ad5c75d41818b39d13c6b2eec2dff13a391e5fef45dd93c",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/SURVEY_METHOD_AND_QUESTION_MAP.md",
+      "bytes": 9597,
+      "sha256": "b8209a4b3ec04b55b3a7dbce9346f1cf095340e570de48b4224828ff2c855d2a",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/THREE_PILLAR_PROPOSAL.md",
+      "bytes": 4390,
+      "sha256": "9d8694b6cd6901dd91218c6636308eb0c018ff07bd2ad83cce0c3e0b6be52518",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/archive/pre_handoff/CURRENT_STATE_with_incremental_notes.md",
+      "bytes": 12785,
+      "sha256": "d69a9d620b2f526e4b7ab590a8b0c2d62f7ed7f7f996a9473a4b0acddc9a637b",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/archive/root_before_this_chat/AGENTS.md",
+      "bytes": 2165,
+      "sha256": "6c907301c8cf7a11dab10abf5304669c9c49051ccb169e3e62fc54c4eaaca7ae",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/archive/root_before_this_chat/CHANGELOG.md",
+      "bytes": 1600,
+      "sha256": "4200c6e060032ae286dc3180bf8a48ecc5ee48f4b55a8f052a0a3a23adbb516e",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/archive/root_before_this_chat/MANIFEST.sha256",
+      "bytes": 265397,
+      "sha256": "d05ea40b49aed14c5f2295cfe86d0f3ad662ed1c1357cd9bf75f2ea52a21bbaa",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/archive/root_before_this_chat/README.md",
+      "bytes": 2257,
+      "sha256": "d5eecf5cdc338d8d368748ebc37330fd0ac8b570c8b89cb0803aaea42ed61163",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/archive/root_before_this_chat/START_HERE.md",
+      "bytes": 4637,
+      "sha256": "82b1b1189f0ff52041748fe566c4bbab095aff7c1d0d3e4e86efd860607e9ae0",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/archive/root_before_this_chat/context/CONTEXT_LATEST.md",
+      "bytes": 277405,
+      "sha256": "0136a9f4ae6aaaf382516d7a213dd84cfc3e181e1f48b529976d713d4edee272",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/archive/root_before_this_chat/context/CURRENT_STATE.md",
+      "bytes": 6619,
+      "sha256": "2ce3f1e4d6bc61d76fcc58105b24dd19280e034a2a9f9d6a421dc0aefae718c8",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/context/DECISIONS_AND_LIMITS.md",
+      "bytes": 4884,
+      "sha256": "315bc811e8d6412e5cf527a15979a6d81b83e52200c2e8b15d2efce362ffd89c",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/context/NEXT_CHAT_PROMPT.md",
+      "bytes": 2048,
+      "sha256": "f38d25fd8fc582da3a13cd1dcd717601c5bec437536698c4fe1d1b88d16d0007",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/context/SESSION_HANDOFF.md",
+      "bytes": 25445,
+      "sha256": "a0ed9edcc546530bddd9adbcc8b3a66de9ef8687d629b7318539321d36609962",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/context/SESSION_RECORD.md",
+      "bytes": 8527,
+      "sha256": "e2448eaa6f053c6248d11788032ace1c4d1abef25a36e6b3c609b3774e0c6908",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/qa/VALIDATION.md",
+      "bytes": 4054,
+      "sha256": "e7c897182c000faa26cf1522eec5f43f5f10e9e0fac30db3b71a6d4a8d5ede35",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/scripts/replay_insight_retrieval.py",
+      "bytes": 3261,
+      "sha256": "444ea0b57b1504807dc600ca24c8ea3e66cfa94cdabb67e6cabd4a973b9d405f",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/sources/Mentoring_Notes_Problem_Analysis_BCC.pdf",
+      "bytes": 40429,
+      "sha256": "e2b1a7ece670ebc0f625a2362197771eb9438754bc8af02269bef66bd3eb7c4e",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/sources/Mentoring_Notes_Problem_Analysis_BCC.txt",
+      "bytes": 14279,
+      "sha256": "97bd92cea2fad0acf25ca391f7ae2961376c4ddd20ca37b1323d8f6871a58fa2",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/sources/SOURCE_REGISTER.json",
+      "bytes": 826,
+      "sha256": "af33f24ba3b6004dfe25d8481db4d1c915a8dd1feffd38648c5e999717e40546",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/sources/USER_RUNTIME_REPORTS.md",
+      "bytes": 1843,
+      "sha256": "db7eea6830abd49c1ed54c64db157def351cae0fa45d77416c7442b8fdca02f5",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/sources/User_Submitted_Survey_v1_1_0_Exact.txt",
+      "bytes": 38257,
+      "sha256": "fa6d58999a7e0a3b10a45b593d2204a9a8ebb21ea18702e32a6a842bcd67198f",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/survey_apps_script/ANALYSIS_PLAN.md",
+      "bytes": 6575,
+      "sha256": "344ae3048c561840ae1af5b5ee3fca3893ab173ab3afe509aa165547b54b424e",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/survey_apps_script/COPY_PASTE.txt",
+      "bytes": 38226,
+      "sha256": "07e50206990a517ee3fb217b114a33aaa954ed7f8139f1daebd4a606a8bcc7ce",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/survey_apps_script/Code.gs",
+      "bytes": 38226,
+      "sha256": "07e50206990a517ee3fb217b114a33aaa954ed7f8139f1daebd4a606a8bcc7ce",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/survey_apps_script/KUESIONER.md",
+      "bytes": 8313,
+      "sha256": "bea009dce1ccf37e437e9c49854f72ef1155c35c31e47043408f174d195c1048",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/survey_apps_script/START_HERE.md",
+      "bytes": 4872,
+      "sha256": "2b2bf6ead97299c96ddd3c523ea4be9b54e8f3104b2b1c4e0d40dfd103181040",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/survey_apps_script/TEST_RESULTS.json",
+      "bytes": 1434,
+      "sha256": "695386e457b1b9d3ad06b970861135bc73e00bd496d9664f9e2114d4682bd9e6",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/survey_apps_script/test-survey.cjs",
+      "bytes": 17898,
+      "sha256": "e00d00959f34ed86bb43eed55b72731d0ad44efced9247687e05ac0a877c6c90",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/synthesis/BUYING_SITUATIONS_AND_PILLARS.md",
+      "bytes": 9516,
+      "sha256": "d5496fb2f19b7d871b46c2c3dd4fde4ca32aef679bb6cd074658c99071c6c38e",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/synthesis/INSIGHT_SCREENING_COUNTS.json",
+      "bytes": 1000,
+      "sha256": "a210765a07aa50cbe47a571b062769ddc19c166d0d82f4faba74c81f70cbae7b",
+      "operation": "add"
+    },
+    {
+      "path": "research/2026-11-04/synthesis/INSIGHT_SOURCE_EXCERPTS.jsonl",
+      "bytes": 13979,
+      "sha256": "9e1841da1bb1eac97c48a42ec49d3ce23882d3ec71592b0912bdf4fa920b6dc7",
+      "operation": "add"
+    },
+    {
+      "path": "scripts/verify_context_update_20261104.py",
+      "bytes": 2291,
+      "sha256": "d2cf88939e09d1c25607dea64c7fa0a7b42c893e8cd0f00369202b6f15e5c6b9",
+      "operation": "add"
+    }
+  ],
+  "index_self_hash_excluded": true,
+  "full_manifest_excludes": [
+    "MANIFEST.sha256",
+    "release/CONTEXT_UPDATE_2026-11-04.json"
+  ]
+}

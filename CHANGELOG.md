@@ -1,5 +1,10 @@
 # Change log
 
+## 4 November 2026 — insight, buying-situation and survey context overlay
+
+Added detailed substantive handoff/visible request record, latest buying-situation synthesis, decision/supersession register, survey method/question map, reproducible targeted retrieval and selected excerpts, exact uploaded mentoring PDF and user-submitted v1.1 script, both runtime reports, and current Apps Script v1.1.1 with 184 local checks. Updated root reading order/current state/combined context; archived original root documents and prior incremental notes. Preserved all original corpus/source bytes and original master. No new collection, primary responses, interviews, paid run, remote push or final strategy. No reported successful Google execution after the latest fix. Added overlay manifest/installation/verifier and refreshed full repository file checksums for changed/new files.
+
+
 ## 2026-11-03 - repo handoff v1
 
 Preserved the original master and business-intuition PDF. Extracted embedded source sections and PDF text for searchability. Parsed three raw captures to 300 observations, preserving missing-value types and line provenance. Added inferred-header, unverified-location and CPC flags. Added latest conversation state, source register, missing-input record, reproducible cleaning and package verification. No remote repository was modified.

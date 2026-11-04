@@ -1,0 +1,22 @@
+{
+  "date": "2026-11-04",
+  "timezone": "Asia/Jakarta",
+  "files": [
+    {
+      "uploaded_name": "Mentoring Notes \u2014 Problem Analysis in BCC.pdf",
+      "path": "research/2026-11-04/sources/Mentoring_Notes_Problem_Analysis_BCC.pdf",
+      "library_file_id": "libfile_8f366d641a408191ba52e60522b9058b",
+      "bytes": 40429,
+      "sha256": "e2b1a7ece670ebc0f625a2362197771eb9438754bc8af02269bef66bd3eb7c4e",
+      "exact_original_bytes": true
+    },
+    {
+      "uploaded_name": "Pasted text(20261104-041905).txt",
+      "path": "research/2026-11-04/sources/User_Submitted_Survey_v1_1_0_Exact.txt",
+      "library_file_id": "libfile_8cbfd36dd63c8191b7bf098e8c2ec65e",
+      "bytes": 38257,
+      "sha256": "fa6d58999a7e0a3b10a45b593d2204a9a8ebb21ea18702e32a6a842bcd67198f",
+      "exact_original_bytes": true
+    }
+  ]
+}
