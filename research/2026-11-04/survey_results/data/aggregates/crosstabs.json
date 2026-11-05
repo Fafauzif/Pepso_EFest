@@ -1,0 +1,205 @@
+{
+  "chooser_payer": {
+    "Orang tua atau keluarga": {
+      "Orang tua atau keluarga": 17,
+      "Saya sendiri": 24
+    },
+    "Saya sendiri": {
+      "Orang tua atau keluarga": 0,
+      "Saya sendiri": 6
+    },
+    "Tidak tahu / tidak ingat": {
+      "Orang tua atau keluarga": 2,
+      "Saya sendiri": 0
+    }
+  },
+  "chooser_shopper": {
+    "Orang tua atau keluarga": {
+      "Orang tua atau keluarga": 16,
+      "Saya sendiri": 1
+    },
+    "Saya sendiri": {
+      "Orang tua atau keluarga": 2,
+      "Saya sendiri": 29
+    },
+    "Tidak tahu / tidak ingat": {
+      "Orang tua atau keluarga": 1,
+      "Saya sendiri": 0
+    }
+  },
+  "living_chooser": {
+    "Orang tua atau keluarga": {
+      "Lainnya": 0,
+      "Orang tua atau keluarga": 16,
+      "Sendiri, termasuk di kos": 3,
+      "Teman kos, teman serumah, atau asrama": 0
+    },
+    "Saya sendiri": {
+      "Lainnya": 1,
+      "Orang tua atau keluarga": 4,
+      "Sendiri, termasuk di kos": 22,
+      "Teman kos, teman serumah, atau asrama": 3
+    }
+  },
+  "living_payer": {
+    "Orang tua atau keluarga": {
+      "Lainnya": 1,
+      "Orang tua atau keluarga": 17,
+      "Sendiri, termasuk di kos": 21,
+      "Teman kos, teman serumah, atau asrama": 2
+    },
+    "Saya sendiri": {
+      "Lainnya": 0,
+      "Orang tua atau keluarga": 1,
+      "Sendiri, termasuk di kos": 4,
+      "Teman kos, teman serumah, atau asrama": 1
+    },
+    "Tidak tahu / tidak ingat": {
+      "Lainnya": 0,
+      "Orang tua atau keluarga": 2,
+      "Sendiri, termasuk di kos": 0,
+      "Teman kos, teman serumah, atau asrama": 0
+    }
+  },
+  "prior_benefit_deliberation": {
+    "Saya membandingkan beberapa produk sebelum memilih": {
+      "Ada manfaat yang terasa dan penting bagi saya": 7,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 4,
+      "Saya tidak merasakan perbedaan yang berarti": 6,
+      "Tidak ingat": 0,
+      "Tidak punya harapan khusus": 1
+    },
+    "Saya memilih tanpa membandingkan dengan produk lain": {
+      "Ada manfaat yang terasa dan penting bagi saya": 7,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 6,
+      "Saya tidak merasakan perbedaan yang berarti": 4,
+      "Tidak ingat": 0,
+      "Tidak punya harapan khusus": 2
+    },
+    "Saya tidak ikut memilih": {
+      "Ada manfaat yang terasa dan penting bagi saya": 6,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 3,
+      "Saya tidak merasakan perbedaan yang berarti": 1,
+      "Tidak ingat": 1,
+      "Tidak punya harapan khusus": 0
+    },
+    "Tidak ingat": {
+      "Ada manfaat yang terasa dan penting bagi saya": 0,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 0,
+      "Saya tidak merasakan perbedaan yang berarti": 0,
+      "Tidak ingat": 1,
+      "Tidak punya harapan khusus": 0
+    }
+  },
+  "prior_benefit_status": {
+    "Masih ada dan dipakai bergantian": {
+      "Ada manfaat yang terasa dan penting bagi saya": 3,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 3,
+      "Saya tidak merasakan perbedaan yang berarti": 1,
+      "Tidak ingat": 0,
+      "Tidak punya harapan khusus": 0
+    },
+    "Masih ada, tetapi saya berhenti memakainya": {
+      "Ada manfaat yang terasa dan penting bagi saya": 1,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 0,
+      "Saya tidak merasakan perbedaan yang berarti": 0,
+      "Tidak ingat": 1,
+      "Tidak punya harapan khusus": 0
+    },
+    "Saya hanya memakai produk lain sementara": {
+      "Ada manfaat yang terasa dan penting bagi saya": 0,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 1,
+      "Saya tidak merasakan perbedaan yang berarti": 0,
+      "Tidak ingat": 0,
+      "Tidak punya harapan khusus": 0
+    },
+    "Sudah habis / hampir habis": {
+      "Ada manfaat yang terasa dan penting bagi saya": 16,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 9,
+      "Saya tidak merasakan perbedaan yang berarti": 10,
+      "Tidak ingat": 0,
+      "Tidak punya harapan khusus": 2
+    },
+    "Tidak ingat": {
+      "Ada manfaat yang terasa dan penting bagi saya": 0,
+      "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 0,
+      "Saya tidak merasakan perbedaan yang berarti": 0,
+      "Tidak ingat": 1,
+      "Tidak punya harapan khusus": 1
+    }
+  },
+  "availability_chooser": {
+    "Orang tua atau keluarga": {
+      "Produknya tersedia, tetapi akhirnya memilih yang lain": 2,
+      "Saya mencari, tetapi tidak menemukannya": 1,
+      "Saya mendapat produk yang saya inginkan": 10,
+      "Saya tidak mencari karena memakai yang disediakan orang lain / stok rumah": 4,
+      "Saya tidak punya pilihan produk tertentu": 1,
+      "Tidak tahu / tidak ingat": 1
+    },
+    "Saya sendiri": {
+      "Produknya tersedia, tetapi akhirnya memilih yang lain": 2,
+      "Saya mencari, tetapi tidak menemukannya": 1,
+      "Saya mendapat produk yang saya inginkan": 24,
+      "Saya tidak mencari karena memakai yang disediakan orang lain / stok rumah": 0,
+      "Saya tidak punya pilihan produk tertentu": 1,
+      "Tidak tahu / tidak ingat": 2
+    }
+  },
+  "channel_chooser": {
+    "Orang tua atau keluarga": {
+      "Marketplace / toko online": 0,
+      "Minimarket": 8,
+      "Supermarket / hypermarket": 9,
+      "Tempat lain": 0,
+      "Tidak tahu karena bukan saya yang membeli": 2,
+      "Warung atau toko kelontong": 0
+    },
+    "Saya sendiri": {
+      "Marketplace / toko online": 6,
+      "Minimarket": 14,
+      "Supermarket / hypermarket": 7,
+      "Tempat lain": 1,
+      "Tidak tahu karena bukan saya yang membeli": 0,
+      "Warung atau toko kelontong": 2
+    }
+  },
+  "living_channel": {
+    "Marketplace / toko online": {
+      "Lainnya": 0,
+      "Orang tua atau keluarga": 1,
+      "Sendiri, termasuk di kos": 5,
+      "Teman kos, teman serumah, atau asrama": 0
+    },
+    "Minimarket": {
+      "Lainnya": 0,
+      "Orang tua atau keluarga": 9,
+      "Sendiri, termasuk di kos": 12,
+      "Teman kos, teman serumah, atau asrama": 1
+    },
+    "Supermarket / hypermarket": {
+      "Lainnya": 0,
+      "Orang tua atau keluarga": 8,
+      "Sendiri, termasuk di kos": 6,
+      "Teman kos, teman serumah, atau asrama": 2
+    },
+    "Tempat lain": {
+      "Lainnya": 1,
+      "Orang tua atau keluarga": 0,
+      "Sendiri, termasuk di kos": 0,
+      "Teman kos, teman serumah, atau asrama": 0
+    },
+    "Tidak tahu karena bukan saya yang membeli": {
+      "Lainnya": 0,
+      "Orang tua atau keluarga": 2,
+      "Sendiri, termasuk di kos": 0,
+      "Teman kos, teman serumah, atau asrama": 0
+    },
+    "Warung atau toko kelontong": {
+      "Lainnya": 0,
+      "Orang tua atau keluarga": 0,
+      "Sendiri, termasuk di kos": 2,
+      "Teman kos, teman serumah, atau asrama": 0
+    }
+  }
+}

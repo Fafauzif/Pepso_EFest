@@ -1,0 +1,29 @@
+{
+  "status": "illustrative assumptions only",
+  "premium_contribution_per_100g": 9000,
+  "basic_contribution_per_190g": 6000,
+  "matched_volume_displacement_factor": 0.5263157894736842,
+  "base_incremental_paid_equivalents": 1110,
+  "scenarios": [
+    {
+      "own_basic_displacement_share": 0,
+      "incremental_portfolio_contribution_per_100g": 9000.0,
+      "contribution_on_1110_incremental_equivalents": 9990000.0
+    },
+    {
+      "own_basic_displacement_share": 0.5,
+      "incremental_portfolio_contribution_per_100g": 7421.0526315789475,
+      "contribution_on_1110_incremental_equivalents": 8237368.421052632
+    },
+    {
+      "own_basic_displacement_share": 0.8,
+      "incremental_portfolio_contribution_per_100g": 6473.684210526316,
+      "contribution_on_1110_incremental_equivalents": 7185789.47368421
+    },
+    {
+      "own_basic_displacement_share": 1,
+      "incremental_portfolio_contribution_per_100g": 5842.105263157895,
+      "contribution_on_1110_incremental_equivalents": 6484736.842105264
+    }
+  ]
+}

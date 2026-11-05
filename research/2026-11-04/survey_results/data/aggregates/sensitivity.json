@@ -1,0 +1,88 @@
+{
+  "paired_sensitivity_no_quality_flags": {
+    "False": {
+      "False": 2,
+      "True": 6
+    },
+    "True": {
+      "True": 9,
+      "False": 3
+    }
+  },
+  "paired_sensitivity_high_recall": {
+    "False": {
+      "False": 1,
+      "True": 3
+    },
+    "True": {
+      "True": 10,
+      "False": 2
+    }
+  },
+  "alternative_reported_process_pair_n": 29,
+  "alternative_reported_process_pair_table": {
+    "False": {
+      "True": 10,
+      "False": 4
+    },
+    "True": {
+      "True": 12,
+      "False": 3
+    }
+  },
+  "desired_preference_manual_counts": {
+    "PLACEHOLDER_UNCLEAR": 3,
+    "NAMED_BRAND_OR_VARIANT": 12,
+    "EXPLICIT_NO_PREFERENCE": 31,
+    "FUNCTIONAL_PREFERENCE_NO_NAMED_SKU": 2,
+    "VAGUE_EVALUATION": 1
+  },
+  "desired_preference_manual_by_availability": {
+    "PLACEHOLDER_UNCLEAR": {
+      "Saya mendapat produk yang saya inginkan": 3
+    },
+    "NAMED_BRAND_OR_VARIANT": {
+      "Produknya tersedia, tetapi akhirnya memilih yang lain": 2,
+      "Saya mendapat produk yang saya inginkan": 7,
+      "Saya tidak punya pilihan produk tertentu": 1,
+      "Tidak tahu / tidak ingat": 1,
+      "Saya tidak mencari karena memakai yang disediakan orang lain / stok rumah": 1
+    },
+    "EXPLICIT_NO_PREFERENCE": {
+      "Saya mendapat produk yang saya inginkan": 22,
+      "Saya mencari, tetapi tidak menemukannya": 1,
+      "Produknya tersedia, tetapi akhirnya memilih yang lain": 2,
+      "Saya tidak mencari karena memakai yang disediakan orang lain / stok rumah": 3,
+      "Tidak tahu / tidak ingat": 2,
+      "Saya tidak punya pilihan produk tertentu": 1
+    },
+    "FUNCTIONAL_PREFERENCE_NO_NAMED_SKU": {
+      "Saya mendapat produk yang saya inginkan": 1,
+      "Saya mencari, tetapi tidak menemukannya": 1
+    },
+    "VAGUE_EVALUATION": {
+      "Saya mendapat produk yang saya inginkan": 1
+    }
+  },
+  "preference_sensitivity": {
+    "all49": {
+      "total_n": 49,
+      "no_preference_n": 31,
+      "no_preference_but_got_wanted_n": 22,
+      "paired_n": 21
+    },
+    "no_quality_flags44": {
+      "total_n": 44,
+      "no_preference_n": 29,
+      "no_preference_but_got_wanted_n": 21,
+      "paired_n": 20
+    },
+    "high_recall39": {
+      "total_n": 39,
+      "no_preference_n": 25,
+      "no_preference_but_got_wanted_n": 19,
+      "paired_n": 16
+    }
+  },
+  "offline_super_minimarket_n": 38
+}

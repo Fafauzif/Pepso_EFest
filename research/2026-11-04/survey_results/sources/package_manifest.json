@@ -1,0 +1,281 @@
+{
+  "base_repository_commit": "a9c168a718f20b13097ae82488c77815958521d5",
+  "scope": "Overlay file integrity and reproducible arithmetic; no clinical or causal validation",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 762,
+      "sha256": "25fc1d7c5f84d09a6699f7636f4ea8d153892bcff12cac42b94555b8190cf9d8"
+    },
+    {
+      "path": "INSTALL_SURVEY_RESULTS_UPDATE.md",
+      "bytes": 1434,
+      "sha256": "7b598e309ebbb2dfc9d008ef4c340e034aa32f839e2f97453de36bcafd69c018"
+    },
+    {
+      "path": "README.md",
+      "bytes": 696,
+      "sha256": "9efc315a8f870f49eb63b9a7706308478b2c08a8057617e07e867bb04e87d311"
+    },
+    {
+      "path": "START_HERE.md",
+      "bytes": 811,
+      "sha256": "73e205d79b44c21c87fd5d12f71418f56f858125d1cde979030306e5e6e46079"
+    },
+    {
+      "path": "context/CONTEXT_LATEST.md",
+      "bytes": 385084,
+      "sha256": "eb36e5710ca24575a8acdd9b370f58b85bef07ba23862958cf2b0013a914aab4"
+    },
+    {
+      "path": "context/CURRENT_STATE.md",
+      "bytes": 57382,
+      "sha256": "4471b5c570bb993dc24d602df83f0a6d4520adccea276f10a56d5fb256fb108c"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/README.md",
+      "bytes": 2681,
+      "sha256": "a6d28d5aa2d87d536b470f7f686890e5d3b889d76ef07032ee978f8854e6948c"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/analysis/Pepsodent_Survey_Analysis_and_Strategy.md",
+      "bytes": 45232,
+      "sha256": "4ba5c79f5076bebef2e13351e7cc3b4127fefc870a2bf305a5ef0277d9ed50a7"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/context/history_before_results/AGENTS.md",
+      "bytes": 3290,
+      "sha256": "0a87bcd0e3c4841d70b112ec4ba54c43807d84e51fe6a3fea877da26d58ebdaf"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/context/history_before_results/README.md",
+      "bytes": 2775,
+      "sha256": "50a012c435e1df5a751a90cf6c7a379cfabb26f2ebd74a55206103c04e352b48"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/context/history_before_results/START_HERE.md",
+      "bytes": 4304,
+      "sha256": "3a80f258ad0945a959f08696809c9919a3f498500c3de6841b7eed9f4da9aa92"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/context/history_before_results/context/CONTEXT_LATEST.md",
+      "bytes": 327470,
+      "sha256": "687d8da0d58845d9ab4be0c29c96b583055fe4d09ad16865fc11bf8ead244f69"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/context/history_before_results/context/CURRENT_STATE.md",
+      "bytes": 11536,
+      "sha256": "4ac6938aeb5e498b4540aee1705326bb5b31d548d5819de2a5bc559c68a48bae"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/counts.json",
+      "bytes": 4660,
+      "sha256": "5e188a2e2fc6204d0401847966351cb12e7364d1a4424cc78cc6d38476c59912"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/crosstabs.json",
+      "bytes": 6799,
+      "sha256": "a35b7fe6bca2f5f004443ed522fe8094bcefc26d9fdd15a6f32cc76cc67bcce6"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/metrics.json",
+      "bytes": 465,
+      "sha256": "538156c92c6baa3b4dce7cc28e8cf986094fdd36c51ba02ee64990a458346eb8"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/paired.json",
+      "bytes": 320,
+      "sha256": "60c33849ada462aec1d1f2670b85e36507e0e9237959f0d43d72ae98e37f704f"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/quality.json",
+      "bytes": 83,
+      "sha256": "9ba77ca4f0d8d1e39b4c003add251c100fc3cb822dae2463d0317581ec96671f"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/reason_overlap.json",
+      "bytes": 7618,
+      "sha256": "f7a806264acd73f1bb361ea2acd76f6ceb16cd6810c42cefadd378209ae279c8"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/sensitivity.json",
+      "bytes": 2334,
+      "sha256": "3d743f9de684e739ca57f164a1186f2dac7bed766c6342270e07be7e75c046c5"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/source_fingerprint.json",
+      "bytes": 291,
+      "sha256": "b64eb8792b55585d728d6b0ff27f83950609d2adf29d3ca8881e35a7de552ad8"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/documents/Pepsodent_Executive_Summary_and_Appendices.docx",
+      "bytes": 682780,
+      "sha256": "2ae7a67ccf72287e4edc66e6c1efed3e01688dd9d21a7dfb519d380e40a0d4f1"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/architecture.png",
+      "bytes": 52567,
+      "sha256": "a13dc8c874dd3bcd705734efe1ec81be9220fa59e9d6ff2d014d2cc7b6544c27"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/architecture.svg",
+      "bytes": 31674,
+      "sha256": "bf91ee15b06807a453cf7f9ed25eb85a9a56ff4b2371c28131695afdfef4c615"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/breakeven.png",
+      "bytes": 82147,
+      "sha256": "6c03e1378a0fa5442b81f2e7df0447db275454fd1d8c86d38d662686ceaab9d1"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/breakeven.svg",
+      "bytes": 41640,
+      "sha256": "bda60f643aab37c18ac8483644c7d304b8843130a2194c2c8372bdcd7869d3fd"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/case_prices.png",
+      "bytes": 56142,
+      "sha256": "3efe8f1ea579282ba15daaa2dffbfb5e6346f2a39ce4b151467443917d9491e8"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/case_prices.svg",
+      "bytes": 32545,
+      "sha256": "82d1bf4553532d938a8a5b1df250fba2e8958d1193e3d29f5578da8c0abbb0d5"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/contribution.png",
+      "bytes": 42906,
+      "sha256": "4afbe30f8d5a1579494ea8939f9d1c5658ada9de9b6e2b5c01b02595bccf0614"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/contribution.svg",
+      "bytes": 30841,
+      "sha256": "90640df8b6a632a1114b72e9444ff8084a5871cf80cd1f2683cf10f5a310d67b"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/drivers.png",
+      "bytes": 107526,
+      "sha256": "32525316a4f57924a867d9e6ab2b701645f29462b73cbb810aa94bfdc167df55"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/drivers.svg",
+      "bytes": 53339,
+      "sha256": "bbd87303d42d6e731ded451dc33490dff09a0a490615788a767c7d26d19aa602"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/model_funnel.png",
+      "bytes": 80808,
+      "sha256": "93fc712c90f639b46af71dcdc1bd3bd5cdceb9ecbd5a7114c5fe40d5dd51ac56"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/model_funnel.svg",
+      "bytes": 32309,
+      "sha256": "24c038cc23d13c5c29313d3be4b179d6d098813e36e93f6fb3ba6664ff27d778"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/paired.png",
+      "bytes": 48378,
+      "sha256": "4637d0b6fce1adc83ac074de549028ad9f6f26ddfeb3d6216f42e3451e10c881"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/paired.svg",
+      "bytes": 32046,
+      "sha256": "f1cb4b311e26bf68c24859d7a5ca285b8d765519565af20f81d32c479ec50a31"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/pillar1.png",
+      "bytes": 46985,
+      "sha256": "dd765723edb0451df4451866d2b67a6ad9cdaf20c98948945f6c157b5b8935e6"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/pillar1.svg",
+      "bytes": 30251,
+      "sha256": "e4bf7edbf931be20efd85d51295ff9e4c1bcecd083fbe5754a7d9368f10093a3"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/pillar2.png",
+      "bytes": 59166,
+      "sha256": "ca557d1c053354cdc4b319c1c343efe2642d1e53edcabf588186ed4f10dec597"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/pillar2.svg",
+      "bytes": 34658,
+      "sha256": "4d6e5dc271e33811ba607cd087343a084aff696f1ad594ead0d511176a764a95"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/pillar3.png",
+      "bytes": 53092,
+      "sha256": "78b68431b03db128323294d0c63fe9fa2932d1464705a70ef6a5e2ecb2b9b363"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/pillar3.svg",
+      "bytes": 32244,
+      "sha256": "d8aec10d5bc7eed2eba6ae8c178334b6821dc4420301db570916c5c6f5cda4bd"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/preference.png",
+      "bytes": 49074,
+      "sha256": "cd3bd34b76e77decc877a4c2f5e8569ed8bc7adaa548fd716b7360828056d5e9"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/preference.svg",
+      "bytes": 29129,
+      "sha256": "25041204051a1dfaeb9197cc81d5b51c763ddd70871302140263502422467387"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/roles.png",
+      "bytes": 46282,
+      "sha256": "83d1d15cf6c3358e73d699267f41426c34678242db3deebdca701ff89fdb3b54"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/figures/roles.svg",
+      "bytes": 31123,
+      "sha256": "b2e98e900bae3996db2f18ce9982a9327288f26b22ca981ea953d760d7bdf3b0"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/model/cannibalization.json",
+      "bytes": 1030,
+      "sha256": "cd5ccc782d52226e5085c4f12b1d74ef760038c0c5043678065b2001bae70f5a"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/model/model.py",
+      "bytes": 1628,
+      "sha256": "1af5e543326822b065f6a0b37838fc3abfa11d7d9862c1101dbc48be1cbb3302"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/model/scenarios.json",
+      "bytes": 2834,
+      "sha256": "2f6560c83567bbb24bb83666fb060e14833fac9f67dbbf7963d73e20332e4672"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/scripts/analyze_survey.py",
+      "bytes": 8747,
+      "sha256": "39f1cceb3faf20c11f5fa3646888266302c92490096b5e36afa73c4a24b95407"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/scripts/make_figures.py",
+      "bytes": 6277,
+      "sha256": "cb390468a3b2d53c3cd54bda0f1405471ed71634d3fbbeedef8b0a854511dd67"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/sources/benchmark_sources.json",
+      "bytes": 17190,
+      "sha256": "1d8a0182a2c9bc0444bca910c05a42880b4fdbf9503d6320fb828f3f2eb28514"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/sources/input_fingerprints.json",
+      "bytes": 2078,
+      "sha256": "51662315fa6e4dc42dd5dd72f5a8adc84c79fde035acb6db791dd2dd59a1d92f"
+    },
+    {
+      "path": "research/2026-11-04/survey_results/sources/references_apa.json",
+      "bytes": 4420,
+      "sha256": "14b538ba7f6fbea201992ef3cbbab2c6a521dd771398b5305b4c59b465036a3c"
+    },
+    {
+      "path": "scripts/verify_survey_results_update.py",
+      "bytes": 2905,
+      "sha256": "da89c61cbfd1a391f0af8f363eedf55e9feae312568cfb7bca2ad5ee4314cad7"
+    }
+  ]
+}
