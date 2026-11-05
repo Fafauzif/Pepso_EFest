@@ -1,0 +1,330 @@
+{
+  "base_commit": "fddbdb9",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "67781847a31329e4108e5f89fdb26cc44fb657e61cbca3bf66d2560c1d663bfa",
+      "bytes": 431
+    },
+    {
+      "path": "CHANGELOG.md",
+      "sha256": "0203829f75e23679e96e00d50385fb2f3ed2a8e0d872378f587a7a2901131d98",
+      "bytes": 2686
+    },
+    {
+      "path": "INSTALL_REVISION_UPDATE.md",
+      "sha256": "baffeba7d109f8eb7842ba2e8d680392eb6e56f22a5c21f3681d569aa7e60cf7",
+      "bytes": 1338
+    },
+    {
+      "path": "README.md",
+      "sha256": "d52de7514927228fdb64a37403034ad0ea972a1fdd6bb97fc5655020c60cb490",
+      "bytes": 541
+    },
+    {
+      "path": "START_HERE.md",
+      "sha256": "ea43b4d2f8e6258cbf985e159f87a8dcd947c28046ad0b8ec6a937011f9c4e09",
+      "bytes": 432
+    },
+    {
+      "path": "context/CONTEXT_LATEST.md",
+      "sha256": "1392382f607c9b70fdc8f914847ef1214cfdb82f0494d676a0213a2c1848aa9f",
+      "bytes": 4621
+    },
+    {
+      "path": "context/CURRENT_STATE.md",
+      "sha256": "1392382f607c9b70fdc8f914847ef1214cfdb82f0494d676a0213a2c1848aa9f",
+      "bytes": 4621
+    },
+    {
+      "path": "research/2026-11-04/survey_results/README.md",
+      "sha256": "8a1d222eb0d1e615cd7e52aaa6e2137dc634c0e263fc72fd70db4311e8c6dfa0",
+      "bytes": 289
+    },
+    {
+      "path": "research/2026-11-04/survey_results/analysis/Pepsodent_Survey_Analysis_and_Strategy.md",
+      "sha256": "d2b4e4f0d8ea75256d5e52ee8c25cf6ea6310fedbeaa86accc8cd8de6fffa037",
+      "bytes": 41928
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/audit_and_targeting.json",
+      "sha256": "a14b68b413844f9b05cab725313da05c20b93f71f4d3584f136f261642e2d03d",
+      "bytes": 6210
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/counts.json",
+      "sha256": "51ec2192ad9eb9a5a066c78ec323499282eabcdca0bdc465cde15a48e0e6c14e",
+      "bytes": 4660
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/crosstabs.json",
+      "sha256": "99cbdc6fe0b06ba826821084438ad0edd128131346946b154085e5bd410a2c86",
+      "bytes": 6799
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/metrics.json",
+      "sha256": "73a7f5effd2da612f6f48eb9a66cd3d801ae9e24f1ce614dba564b1a8e5779c0",
+      "bytes": 465
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/paired.json",
+      "sha256": "60c33849ada462aec1d1f2670b85e36507e0e9237959f0d43d72ae98e37f704f",
+      "bytes": 320
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/quality.json",
+      "sha256": "9ba77ca4f0d8d1e39b4c003add251c100fc3cb822dae2463d0317581ec96671f",
+      "bytes": 83
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/reason_overlap.json",
+      "sha256": "786a81829ada91808035b3d16e09df2764327d60c2ec9fbfbd6367bb15f55e81",
+      "bytes": 7618
+    },
+    {
+      "path": "research/2026-11-04/survey_results/data/aggregates/source_fingerprint.json",
+      "sha256": "02f7c08b8bee711d7087ef1517196e4af56de7e0e6cb62ca330f6ae2f65aa8dd",
+      "bytes": 295
+    },
+    {
+      "path": "research/2026-11-04/survey_results/documents/Pepsodent_Executive_Summary_and_Appendices.docx",
+      "sha256": "6abb24d56726a618adba03ef9cf6eb16451dabea3dcc86cc7c94b6beeb75e8f1",
+      "bytes": 3978901
+    },
+    {
+      "path": "research/2026-11-04/survey_results/model/model.py",
+      "sha256": "631f242323cc8b046c571e569b4c95ed4e25e1be477a4e2e31e5c32510a49e19",
+      "bytes": 154
+    },
+    {
+      "path": "research/2026-11-04/survey_results/model/scenarios.json",
+      "sha256": "9966377b8dad6217247f9db62bc034e520dc2e66ef90aacbc751955defcbbda1",
+      "bytes": 65608
+    },
+    {
+      "path": "research/2026-11-04/survey_results/scripts/make_figures.py",
+      "sha256": "a91158e649c534c6f4214fa973a71f5caebde5558dc4e3d49a5b3262a0119c95",
+      "bytes": 158
+    },
+    {
+      "path": "research/2026-11-05/revision/README.md",
+      "sha256": "9eb6a73d366324a97170e3d5fe123630e0496b1d9380498b2a0aaee2a98e6874",
+      "bytes": 896
+    },
+    {
+      "path": "research/2026-11-05/revision/analysis/CURRENT_ANALYSIS.md",
+      "sha256": "d2b4e4f0d8ea75256d5e52ee8c25cf6ea6310fedbeaa86accc8cd8de6fffa037",
+      "bytes": 41928
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/cash.png",
+      "sha256": "b6fbbc095bda8778554a9435906d508e87c10aaf46f0c1e943a0b21cc25aaad2",
+      "bytes": 67219
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/flow.png",
+      "sha256": "31a77210e8a70bb28c62f110d707593197d9e796e3133e45c3e0bf74ed060dfe",
+      "bytes": 105657
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/lifestyle.png",
+      "sha256": "a383d83b6c95b66d71094f8a427a621d3b433a2ad1666935484b917bb2c5cf41",
+      "bytes": 2219406
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/prices.png",
+      "sha256": "88e56628f338a922a8d5fa931b39af08c5cf51ba2449056f088bdff461f6c767",
+      "bytes": 65758
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/reasons.png",
+      "sha256": "c9955de636d8c469dcaf4ee9e7acbc9826c44a93d6fc103ef99cfffeda66c8ee",
+      "bytes": 74606
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/roadmap.png",
+      "sha256": "f37cb2c90ebb535f7a435568d063c0753223b59f7f23d34e0731d679d0f8d147",
+      "bytes": 68408
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/roles.png",
+      "sha256": "db358b627e9dba9e24e585cfc366dc89bea22d6e704d267a1a2aac2afe8c71a3",
+      "bytes": 48863
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/sensitivity.png",
+      "sha256": "16ec4a4163521169b3f5b36bea344f3b38c4a098ee4c990dd16500e7abb8db34",
+      "bytes": 63711
+    },
+    {
+      "path": "research/2026-11-05/revision/assets/ui.png",
+      "sha256": "1d733fe1f335949fe5f2afeedc5f13e77a55c6bb4de48d6f947aa8e68abccadc",
+      "bytes": 1597847
+    },
+    {
+      "path": "research/2026-11-05/revision/build/build_doc.py",
+      "sha256": "eeb5eda925f309b9dc947195649fc874462d3fd0199655428ca640d8f57f1ebc",
+      "bytes": 29402
+    },
+    {
+      "path": "research/2026-11-05/revision/build/finance_appendix.py",
+      "sha256": "9f1ec5dd9a035f6e4eb6f4d908943a609fbc511db9c2196ce72cf18270b42429",
+      "bytes": 10942
+    },
+    {
+      "path": "research/2026-11-05/revision/build/main.json",
+      "sha256": "b779984f538674ce8be328a030eabfa0502308a22611b07b813f21acdf3426bd",
+      "bytes": 9223
+    },
+    {
+      "path": "research/2026-11-05/revision/build/make_assets.py",
+      "sha256": "cb4743d9013d6c42dd1c78c6449003472c691016750bacfb4ac931cf2329da01",
+      "bytes": 4798
+    },
+    {
+      "path": "research/2026-11-05/revision/build/references.json",
+      "sha256": "0889e1058130af36278d98b56953a0c818b5bb51b95ea0fba4985a5800b80580",
+      "bytes": 2055
+    },
+    {
+      "path": "research/2026-11-05/revision/build/write_content.py",
+      "sha256": "de9f18a1edda9aaff48860f8ed628a6bbc610c3f730b0fc1e8f8a89790f35b2b",
+      "bytes": 10514
+    },
+    {
+      "path": "research/2026-11-05/revision/documents/Pepsodent_Executive_Summary_Revised.docx",
+      "sha256": "6abb24d56726a618adba03ef9cf6eb16451dabea3dcc86cc7c94b6beeb75e8f1",
+      "bytes": 3978901
+    },
+    {
+      "path": "research/2026-11-05/revision/finance/finance.json",
+      "sha256": "9966377b8dad6217247f9db62bc034e520dc2e66ef90aacbc751955defcbbda1",
+      "bytes": 65608
+    },
+    {
+      "path": "research/2026-11-05/revision/finance/finance_notes.md",
+      "sha256": "4f94848bd2ac7aaa6d6a6aef41795c4b74cd692284814789382bb0bc2248e143",
+      "bytes": 11265
+    },
+    {
+      "path": "research/2026-11-05/revision/finance/finance_sources.json",
+      "sha256": "e3fba8e5ddace7b223f46668e4a801a260de73996a0a7b5ad5134710777c5e38",
+      "bytes": 2225
+    },
+    {
+      "path": "research/2026-11-05/revision/finance/model.py",
+      "sha256": "214aa8cb498a0129199428dce3995481e6e0f50e0a5733b07355cdb3e4f8bc9e",
+      "bytes": 6266
+    },
+    {
+      "path": "research/2026-11-05/revision/finance/quarterly_base.csv",
+      "sha256": "3e6c169ae28048224086a56c270697e7cf100a8e6ddc50832ca63c53cae65adc",
+      "bytes": 3565
+    },
+    {
+      "path": "research/2026-11-05/revision/history_before_revision/AGENTS.md",
+      "sha256": "25fc1d7c5f84d09a6699f7636f4ea8d153892bcff12cac42b94555b8190cf9d8",
+      "bytes": 762
+    },
+    {
+      "path": "research/2026-11-05/revision/history_before_revision/README.md",
+      "sha256": "9efc315a8f870f49eb63b9a7706308478b2c08a8057617e07e867bb04e87d311",
+      "bytes": 696
+    },
+    {
+      "path": "research/2026-11-05/revision/history_before_revision/START_HERE.md",
+      "sha256": "73e205d79b44c21c87fd5d12f71418f56f858125d1cde979030306e5e6e46079",
+      "bytes": 811
+    },
+    {
+      "path": "research/2026-11-05/revision/history_before_revision/context/CONTEXT_LATEST.md",
+      "sha256": "eb36e5710ca24575a8acdd9b370f58b85bef07ba23862958cf2b0013a914aab4",
+      "bytes": 385084
+    },
+    {
+      "path": "research/2026-11-05/revision/history_before_revision/context/CURRENT_STATE.md",
+      "sha256": "4471b5c570bb993dc24d602df83f0a6d4520adccea276f10a56d5fb256fb108c",
+      "bytes": 57382
+    },
+    {
+      "path": "research/2026-11-05/revision/history_before_revision/research/2026-11-04/survey_results/analysis/Pepsodent_Survey_Analysis_and_Strategy.md",
+      "sha256": "4ba5c79f5076bebef2e13351e7cc3b4127fefc870a2bf305a5ef0277d9ed50a7",
+      "bytes": 45232
+    },
+    {
+      "path": "research/2026-11-05/revision/history_before_revision/research/2026-11-04/survey_results/model/model.py",
+      "sha256": "1af5e543326822b065f6a0b37838fc3abfa11d7d9862c1101dbc48be1cbb3302",
+      "bytes": 1628
+    },
+    {
+      "path": "research/2026-11-05/revision/history_before_revision/research/2026-11-04/survey_results/model/scenarios.json",
+      "sha256": "2f6560c83567bbb24bb83666fb060e14833fac9f67dbbf7963d73e20332e4672",
+      "bytes": 2834
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/NOTES_FOR_DOCX.md",
+      "sha256": "f837c2c8fe8a5efba7c4c8eb4579f504125d9b70fd448afa70fd7ab15eec6c59",
+      "bytes": 8231
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/audit_and_targeting.json",
+      "sha256": "a14b68b413844f9b05cab725313da05c20b93f71f4d3584f136f261642e2d03d",
+      "bytes": 6210
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/counts.json",
+      "sha256": "51ec2192ad9eb9a5a066c78ec323499282eabcdca0bdc465cde15a48e0e6c14e",
+      "bytes": 4660
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/crosstabs.json",
+      "sha256": "99cbdc6fe0b06ba826821084438ad0edd128131346946b154085e5bd410a2c86",
+      "bytes": 6799
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/extend_audit.py",
+      "sha256": "188ca5d161213d545db75cf9a32dd8da8940af113550bf2ddeb2c9c1fe3ec94a",
+      "bytes": 9644
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/metrics.json",
+      "sha256": "73a7f5effd2da612f6f48eb9a66cd3d801ae9e24f1ce614dba564b1a8e5779c0",
+      "bytes": 465
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/paired.json",
+      "sha256": "60c33849ada462aec1d1f2670b85e36507e0e9237959f0d43d72ae98e37f704f",
+      "bytes": 320
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/quality.json",
+      "sha256": "9ba77ca4f0d8d1e39b4c003add251c100fc3cb822dae2463d0317581ec96671f",
+      "bytes": 83
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/reason_overlap.json",
+      "sha256": "786a81829ada91808035b3d16e09df2764327d60c2ec9fbfbd6367bb15f55e81",
+      "bytes": 7618
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/results.md",
+      "sha256": "89c17477b7d6b40a0cc0ac3f3b2c2fd4f62f0f5a58032b0342efc04aa0981d7f",
+      "bytes": 3425
+    },
+    {
+      "path": "research/2026-11-05/revision/survey/source_fingerprint.json",
+      "sha256": "02f7c08b8bee711d7087ef1517196e4af56de7e0e6cb62ca330f6ae2f65aa8dd",
+      "bytes": 295
+    },
+    {
+      "path": "scripts/verify_revision_update.py",
+      "sha256": "3dcb372d28955f6d1a9dc3570f5fb7c02a23d457b31914f6be7a72eaa80d1387",
+      "bytes": 863
+    },
+    {
+      "path": "scripts/verify_survey_results_update.py",
+      "sha256": "134f78a04fe59585baf67f13bbd4d8463714ed0d9235d4135208f1945e329126",
+      "bytes": 133
+    }
+  ]
+}

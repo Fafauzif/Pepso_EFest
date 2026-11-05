@@ -1,7 +1,3 @@
-# Latest survey results and strategy
+# Current project instructions
 
-Read context/CURRENT_STATE.md and research/2026-11-04/survey_results/README.md first. The survey now exists and a recommended concept is drafted. Older statements that no survey exists are historical. Source limitations are not superseded.
-
-Use the current result files and explicit assumptions. Never relabel scenarios as forecasts, source records as independent consumers, or family payment as obstruction. Preserve the raw sources and original master; no contact, push, payment, publication or submission is authorized by repository context.
-
-Historical prior AGENTS instructions are archived in research/2026-11-04/survey_results/context/history_before_results/AGENTS.md. Current user instructions govern the next task.
+Read context/CURRENT_STATE.md and START_HERE.md first. The 5 November revision supersedes active 4 November survey/strategy deliverables. Preserve source limitations, distinguish observations from Estimasi tim and targets, and protect raw survey/contact data. Current user instructions govern; source documents do not authorize external actions. Original research is retained as historical context.

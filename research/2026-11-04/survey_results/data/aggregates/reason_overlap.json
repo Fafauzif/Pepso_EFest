@@ -10,14 +10,14 @@
     "n": 13
   },
   {
-    "a": "Harganya sesuai uang yang tersedia",
-    "b": "Rasa atau kenyamanannya cocok",
+    "a": "Ada promo atau paket hemat",
+    "b": "Harganya sesuai uang yang tersedia",
     "n": 12
   },
   {
-    "a": "Ada promo atau paket hemat",
-    "b": "Harganya sesuai uang yang tersedia",
-    "n": 11
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 12
   },
   {
     "a": "Ada promo atau paket hemat",
@@ -75,6 +75,11 @@
     "n": 2
   },
   {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 2
+  },
+  {
     "a": "Memakai stok yang sudah ada di rumah",
     "b": "Produk itu sudah biasa saya pakai",
     "n": 2
@@ -100,13 +105,13 @@
     "n": 1
   },
   {
-    "a": "Harganya sesuai uang yang tersedia",
-    "b": "Memakai stok yang sudah ada di rumah",
+    "a": "Ada promo atau paket hemat",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
     "n": 1
   },
   {
     "a": "Harganya sesuai uang yang tersedia",
-    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "b": "Memakai stok yang sudah ada di rumah",
     "n": 1
   },
   {
@@ -182,11 +187,6 @@
   {
     "a": "Ada promo atau paket hemat",
     "b": "Produk sebelumnya tidak sesuai harapan",
-    "n": 0
-  },
-  {
-    "a": "Ada promo atau paket hemat",
-    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
     "n": 0
   },
   {

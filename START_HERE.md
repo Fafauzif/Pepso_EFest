@@ -1,7 +1,9 @@
-# Latest survey results and strategy
+# Read the current revision first
 
-Read context/CURRENT_STATE.md and research/2026-11-04/survey_results/README.md first. The survey now exists and a recommended concept is drafted. Older statements that no survey exists are historical. Source limitations are not superseded.
+1. context/CURRENT_STATE.md
+2. research/2026-11-05/revision/analysis/CURRENT_ANALYSIS.md
+3. research/2026-11-05/revision/documents/Pepsodent_Executive_Summary_Revised.docx
+4. research/2026-11-05/revision/survey/NOTES_FOR_DOCX.md
+5. research/2026-11-05/revision/finance/finance_notes.md and finance.json
 
-The full current analysis is at research/2026-11-04/survey_results/analysis/Pepsodent_Survey_Analysis_and_Strategy.md. Three pillars operate one selected relevant-benefit-led concept; self-shopping is primary, household sharing optional. Impact numbers are scenarios, all 180 dayillustrationsfailtheRp 40 mlearningcost.
-
-Do not commit raw survey exports or contacts. See INSTALL_SURVEY_RESULTS_UPDATE.md for review and reproduction. Earlier reading-order material is archived under the dated results/context/history_before_results.
+Use the 5 November revision. Statements in older dated notes are historical when superseded.

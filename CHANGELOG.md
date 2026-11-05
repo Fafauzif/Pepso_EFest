@@ -1,3 +1,6 @@
+# 5 November 2026 revision
+
+Updated survey (50 eligible), three-page core, linked appendices, concepts, STP/personas and quarterly three-year economics. See START_HERE.md. Earlier entries below are historical.
 # Change log
 
 ## 4 November 2026 — insight, buying-situation and survey context overlay

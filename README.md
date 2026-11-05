@@ -1,7 +1,7 @@
-# Pepsodent E Fest survey results and strategic recommendation
+# Pepsodent E Fest — current revision
 
-49 included survey responses, a detailed analysis, an Indonesian three-page executive summary plus 28 appendices, mechanism benchmarks and a reproducible sensitivity model are now available. Start at START_HERE.md and context/CURRENT_STATE.md.
+Start at START_HERE.md. Latest: 50 eligible survey responses, a three-page core, linked appendices, STP/personas, conceptual visuals and a 12-quarter three-year model.
 
-This repository overlay preserves older evidence under its original caveats. It contains no raw participant records, contact details or automatic publication. The case target is 18–30; the current survey covers only 18–24.
+Document: `research/2026-11-05/revision/documents/Pepsodent_Executive_Summary_Revised.docx`.
 
-Run `python scripts/verify_survey_results_update.py` after extraction. See research/2026-11-04/survey_results/README.md for calculations and all deliverables.
+Run `python scripts/verify_revision_update.py` after extraction. See INSTALL_REVISION_UPDATE.md. Older research and negative 180-day economics remain historical evidence, not current deliverables. No raw survey or contacts are packaged.

@@ -2,7 +2,7 @@
   "chooser_payer": {
     "Orang tua atau keluarga": {
       "Orang tua atau keluarga": 17,
-      "Saya sendiri": 24
+      "Saya sendiri": 25
     },
     "Saya sendiri": {
       "Orang tua atau keluarga": 0,
@@ -20,7 +20,7 @@
     },
     "Saya sendiri": {
       "Orang tua atau keluarga": 2,
-      "Saya sendiri": 29
+      "Saya sendiri": 30
     },
     "Tidak tahu / tidak ingat": {
       "Orang tua atau keluarga": 1,
@@ -37,7 +37,7 @@
     "Saya sendiri": {
       "Lainnya": 1,
       "Orang tua atau keluarga": 4,
-      "Sendiri, termasuk di kos": 22,
+      "Sendiri, termasuk di kos": 23,
       "Teman kos, teman serumah, atau asrama": 3
     }
   },
@@ -45,7 +45,7 @@
     "Orang tua atau keluarga": {
       "Lainnya": 1,
       "Orang tua atau keluarga": 17,
-      "Sendiri, termasuk di kos": 21,
+      "Sendiri, termasuk di kos": 22,
       "Teman kos, teman serumah, atau asrama": 2
     },
     "Saya sendiri": {
@@ -65,7 +65,7 @@
     "Saya membandingkan beberapa produk sebelum memilih": {
       "Ada manfaat yang terasa dan penting bagi saya": 7,
       "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 4,
-      "Saya tidak merasakan perbedaan yang berarti": 6,
+      "Saya tidak merasakan perbedaan yang berarti": 7,
       "Tidak ingat": 0,
       "Tidak punya harapan khusus": 1
     },
@@ -116,7 +116,7 @@
     "Sudah habis / hampir habis": {
       "Ada manfaat yang terasa dan penting bagi saya": 16,
       "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 9,
-      "Saya tidak merasakan perbedaan yang berarti": 10,
+      "Saya tidak merasakan perbedaan yang berarti": 11,
       "Tidak ingat": 0,
       "Tidak punya harapan khusus": 2
     },
@@ -142,7 +142,7 @@
       "Saya mencari, tetapi tidak menemukannya": 1,
       "Saya mendapat produk yang saya inginkan": 24,
       "Saya tidak mencari karena memakai yang disediakan orang lain / stok rumah": 0,
-      "Saya tidak punya pilihan produk tertentu": 1,
+      "Saya tidak punya pilihan produk tertentu": 2,
       "Tidak tahu / tidak ingat": 2
     }
   },
@@ -157,7 +157,7 @@
     },
     "Saya sendiri": {
       "Marketplace / toko online": 6,
-      "Minimarket": 14,
+      "Minimarket": 15,
       "Supermarket / hypermarket": 7,
       "Tempat lain": 1,
       "Tidak tahu karena bukan saya yang membeli": 0,
@@ -174,7 +174,7 @@
     "Minimarket": {
       "Lainnya": 0,
       "Orang tua atau keluarga": 9,
-      "Sendiri, termasuk di kos": 12,
+      "Sendiri, termasuk di kos": 13,
       "Teman kos, teman serumah, atau asrama": 1
     },
     "Supermarket / hypermarket": {

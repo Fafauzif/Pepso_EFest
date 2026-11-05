@@ -1,315 +1,569 @@
-# Pepsodent survey analysis and strategic recommendation
+# Current executive summary and appendix text
 
-Prepared for the E Fest team from the survey export supplied on 4 November 2026 and the Pepso_EFest repository at commit `a9c168a718f20b13097ae82488c77815958521d5`. This report is a decision document for private team use. It separates primary observations, case facts, interpretation and proposed tests. External benchmarks establish relevant mechanisms or capabilities, not a transferable Pepsodent sales lift.
+Canonical editorial text extracted from the verified revised DOCX. Consult the document for figures, table layout and live navigation. Financial source of truth is ../finance/finance.json; survey source of truth is the included aggregate audit.
 
-## Recommended decision
+Mengembalikan nilai Pepsodent Premium pada pembelian berikutnya
 
-Select **Pepsodent Sesuai Saya**, a service that helps an appropriate personal toothpaste choice survive the next real purchase. Its three pillars are: establish a meaningful additional benefit; make the exact product, pack, price and purchase route executable; and support a user-selected replacement followed by verified paid repeat. Retain Basic when it meets the person's needs. The commercial objective is additional profitable Premium purchasing by suitable users, rather than upgrades regardless of fit.
+## Pepsodent Sesuai Saya
 
-The strongest new insight is **family funding alongside personal purchasing control**. Twenty-three of 49 included respondents choose and shop personally while family supplies the money. A program built mainly around persuading parents to buy the requested tube would therefore be poorly matched to much of this sample. The second important insight is that apparent preference fulfillment often lacks a named preference: 31/49 explicitly report none, and 22/31 nevertheless say they obtained what they wanted. There may be an acceptable routine to respect before there is a specialist choice to preserve.
+Economics Festival 2026
 
-These results justify a targeted test, not a national rollout. The sample has no respondents aged 25–30, no verified Premium-to-Basic histories, no treatment exposure and no measured willingness to pay. In the illustrative commercial model, all three 180-day scenarios lose money after the proposed learning budget. A useful outcome from this work is therefore a sharper offer and a clear decision about what must become true before scaling.
+[Nama tim]
 
-## Evidence map and source boundaries
+[Nama ketua dan anggota tim]
 
-| Identifier | Source | Appropriate use |
-| --- | --- | --- |
-| S01 | Uploaded `Data survei pasta gigi — E-Fest.xlsx`, especially raw `Form responses 1`, `CLEAN`, `KAMUS`, `PETUNJUK`, `REVIEW` | Descriptions of 49 included retrospective acquisition accounts; questionnaire and data-quality audit |
-| S02 | Organizer case transcript in `sources/transcripts/Case_Study_Transcript.md` and image-chart transcription in the master context | Historical business problem, illustrative organizer survey, example shelf prices and margins |
-| S03 | `sources/transcripts/Preliminary_Guidebook_Transcript.md` | Target output, three-page main summary, formal Indonesian, judging criteria and deadline |
-| R01 | Repository dated buying-situation synthesis, evidence ledger, brand audit and literature review | Prior hypotheses, documented capabilities and source-specific counterexamples |
-| B01–B16 | Benchmark source ledger accompanying this report | Direct/indirect mechanism comparisons with their individual limitations |
-| M01 | Reproducible commercial sensitivity model and assumptions | Authored scenarios and break-even calculations; never observed treatment effects |
+[Tempat logo resmi Economics Festival 2026 dan Unilever]
 
-The case describes Premium's share of Pepsodent sales falling from 27% in 2022 to 20% in H1 2026, a seven-percentage-point decline. This is not equivalent to a verified fall of seven percent in revenue, customers or units. The sales metric and aligned comparable-period denominator remain insufficiently specified. The case attributes downtrading mainly to young adults; the new survey does not independently authenticate that historical cause. The organizer's illustrative 1,200-person survey, including 540 switchers, remains separate from S01. Its overlapping switcher reasons—equivalence 44%, price gap 39%, no felt difference within two weeks 31%, Basic promotions 28% and variant uncertainty 24%—are case inputs, not results from this team.
+## Kepercayaan merek belum menjaga pilihan Premium
 
-The repository's public archive is useful for hypotheses and counterexamples. Its 314,476 retained written records are an inventory across platforms and product scopes, dominated by international Amazon material. They are not independent Indonesian young adults or a large verified switcher sample. Neither public review sentiment nor star ratings establish clinical effectiveness, willingness to pay or regular-price repeat.
+Pepsodent menghadapi tantangan menjaga nilai tambah di tengah kebiasaan perawatan gigi yang sudah terbentuk. Dalam kasus Economics Festival, porsi Premium turun dari 27% pada 2022 menjadi 20% pada semester I 2026, dengan dewasa muda sebagai penggerak perpindahan ke Basic. Tantangannya ialah membawa kembali pengguna usia 18–30 melalui manfaat yang layak dibayar berulang, sekaligus memperbaiki kebiasaan perawatan gigi. Perubahan tujuh poin persentase ini adalah perubahan komposisi penjualan; besarnya kehilangan pendapatan absolut tidak tersedia (Economics Festival, 2026a).
 
-## Method and data quality
+## Nilai tambahan harus bertahan sampai keputusan membeli ulang
 
-S01 contains 50 submitted records. Forty-nine satisfy the exported consent, age, Indonesia-use, completion and main-collection gates. One consenting respondent reports being under 18 and terminates. The inclusion fraction of 49/50 is not a response rate: invitation counts and the recruitment frame are unavailable. Participation and purchase histories are self-reported; independence of all submissions cannot be authenticated from an open form.
+Survei ilustratif kasus menunjukkan alasan pengalih yang beririsan: 44% menganggap manfaat serupa, 39% menyebut selisih harga, dan 31% tidak merasakan perbedaan dalam dua minggu. Masalah nilai tidak selesai hanya dengan harga percobaan yang lebih rendah. Pada contoh kasus, Premium promo Rp23.500 per 100 gram sedikit lebih murah per tabung daripada Basic Rp24.100 per 190 gram, tetapi tetap 1,85 kali harga unitnya. Pengguna memerlukan manfaat yang relevan, ekspektasi yang wajar, dan biaya penggantian yang dipahami (Lampiran A1 dan B2).
 
-The included sample consists of 40 people aged 18–20 and nine aged 21–24. Forty-two study as their main activity; seven study while working. Twenty-five live alone or in a kos, 20 with family, three with friends/housemates/in a dormitory and one in another arrangement. There are no observations aged 25–30. Results should be described as a student convenience cohort, not as Indonesian Gen Z or the entire case target of ages 18–30.
+Survei eksploratif tim pada 4–5 November 2026 memperjelas cara pilihan dijalankan. Dari 50 respons layak, 24 memilih dan berbelanja sendiri menggunakan dana keluarga; 32 tidak memiliki pilihan produk khusus; 39 memperoleh produk di minimarket atau supermarket; dan 38 mengganti produk yang habis atau hampir habis. Temuan ini mendukung bantuan pada kebutuhan serta belanja nyata. Sampel seluruhnya masih dalam pendidikan dan berusia 18–24, tanpa riwayat Premium ke Basic yang terverifikasi, sehingga tidak menguraikan penyebab historis penurunan pangsa (Tim Pepsodent E Fest, 2026; Lampiran A2).
 
-Collection occurred on 4 November 2026, 17:47–22:26 WIB. Of 29 reported acquisition months, 27 are August–November 2026 and two August 2025; 20/49 omit the month. Most dated episodes therefore postdate the case's H1 2026 endpoint. They can inform current mechanism testing without explaining the earlier share movement retrospectively.
+Kami membandingkan tiga alternatif melalui enam P. Layanan daftar varian mempermudah ketepatan pembelian; program pengalaman manfaat membangun alasan mempertahankan pilihan; bantuan penggantian mendukung niat yang sudah ada. Pengalaman manfaat dipilih sebagai inti karena daftar dan pengingat belum menjawab mengapa tambahan biaya layak dikeluarkan. Dua fungsi lainnya mendukung pelaksanaan, dengan perbandingan product, price, place, promotion, positioning, dan pack pada Lampiran B1.
 
-Raw answers and CLEAN align across compared substantive fields. Twenty-nine acquisition-month strings become first-of-month datetimes in CLEAN; day 1 is a representation convention, not a reported acquisition day. Ten RINGKASAN count cells have a date format: counts such as 19, 20 and 34 can appear as dates in 1900. All reported results here are recomputed from CLEAN and checked against the raw sheet, rather than copied from those displays.
+## Tiga pilar membawa manfaat sampai pembelian berikutnya
 
-Five included records have built-in quality flags: two prices are entered despite unknown-price certainty, two approximate-price answers omit the number, and one nonparticipation response coexists with a substantive reason. Flags warrant review, not automatic deletion. A further unflagged price of 190 for an 85 g pack has uncertain currency or units. It remains unresolved. Thirty-nine respondents express confidence in most answers, eight describe some estimates and two recall many parts poorly. High confidence does not authenticate receipts or clinical outcomes.
+Pepsodent Sesuai Saya menghubungkan kebutuhan pengguna, pilihan varian, pengalaman, dan penggantian dalam satu catatan melalui mobile web merek, WhatsApp berizin, serta kanal ritel yang biasa digunakan. Sasaran utama adalah mantan pengguna Premium yang kini memakai Basic dan masih mempunyai kebutuhan tambahan relevan; mahasiswa menjadi kelompok awal yang dapat dijangkau. Riwayat produk diperiksa sebelum masuk kohort utama, sedangkan pengguna lain dilaporkan terpisah (Lampiran A3).
 
-Tier hints are not adjudicated labels. Every manual pathway remains UNREVIEWED and the REVIEW sheet has no adjudications. A brand name, colour, price or automated keyword cannot reliably establish Basic versus Premium. The export cannot produce a defensible Premium-to-Basic migration rate. Public deliverables omit respondent-level records, response identifiers, contact details and follow-up codes.
+## Manfaat yang relevan memberi alasan untuk melanjutkan
 
-## Results that change the strategy
+Pilar pertama membantu pengguna menyatakan hasil yang penting baginya, membandingkan fungsi Basic dan varian spesialis, lalu memahami cara penggunaan serta batas ekspektasi. Pengguna yang memilih mencoba membeli kemasan produsen yang sudah tersedia dan tersegel; model tidak membiayai pembagian sampel gratis massal. Evaluasi berikutnya menanyakan kenyamanan dan relevansi manfaat, bukan menjanjikan hasil klinis atau pemutihan seragam. Pengguna yang sudah menemukan kecocokan dapat melewati percobaan, sementara Basic tetap tersedia bila memadai. Pemilahan ini memusatkan biaya pada kebutuhan yang mempunyai alasan untuk dipertahankan (Lampiran C1).
 
-### Purchasing roles are separated even when the user acts independently
+## Pilihan tersimpan membuat biaya dan produk jelas di rak
 
-| Role or intersection | Count | Interpretation |
-| --- | ---: | --- |
-| Personally chooses brand/variant | 30/49, 61.2% | Many respondents already exercise choice |
-| Personally buys/orders | 31/49, 63.3% | The user is frequently the actual shopper |
-| Family supplies money | 41/49, 83.7% | Family pays for this acquisition in much of the cohort |
-| Personally chooses and shops, family funds | 23/49, 46.9% | Self-shopping purchase execution should be the main route |
-| Personally chooses, shops and pays | 6/49, 12.2% | Full observed role independence is uncommon |
-| Family funds a personally chosen product | 24/30 self-choosers, 80.0% | Funding does not imply absent choice |
-| Family funds a personally shopped product | 25/31 self-shoppers, 80.6% | Funding does not imply the parent visits the shelf |
+Pilar kedua mengubah pilihan menjadi kartu berisi foto resmi, nama varian, gramasi, harga total, harga per 100 gram, dan tanggal pemeriksaan harga. Kartu dapat disimpan di ponsel untuk belanja langsung atau dibagikan jika orang lain yang membeli. Rute utama mendukung pembeli mandiri, termasuk yang menggunakan dana keluarga. Dengan demikian, pengguna dapat memeriksa pengeluaran dan mengenali produk tanpa wajib berpindah ke marketplace. Harga atau stok yang belum diketahui ditandai belum dikonfirmasi; perubahan varian dicatat bersama alasannya. Pembelian diverifikasi lewat bukti transaksi atau kemasan, dengan audit sampel (Lampiran C2 dan C3).
 
-Among 25 living alone/in kos, 22 personally choose, 23 personally shop and 21 are family-funded. Living apart does not establish independent funding of this toothpaste acquisition; neither answer measures total living expenses or income. Within the 19 family-selected accounts, family also shops in 16, the user shops in two and the shopper is unknown in one. A transferable exact-SKU shopping item may fit this latter setting, but those records are not proven cases of a blocked Premium preference.
+## Penggantian sukarela menguji nilai setelah percobaan
 
-A useful disconfirming account describes shared Sensitive Expert use, a valued benefit, family selection/funding/purchase and a family sensitivity-related reason. Another self-directed, self-funded specialist account also values its benefit. Family involvement can support specialist use. The operative question is which role needs help in this episode, rather than whether the family should be removed from the decision.
+Pilar ketiga mengajak pengguna yang masih menghargai pilihan menentukan sendiri kapan ingin memeriksa sisa produk. Catatan varian dan harga dibuka kembali sebelum pengguna membeli, menunda, mengubah pilihan, atau berhenti. Jadwal mempertimbangkan sisa serta jumlah pemakai, tanpa langganan atau penagihan otomatis. Ukuran komersialnya ialah pembelian berikutnya yang berbayar tanpa subsidi ulang program, dibanding praktik biasa. Satu transaksi hanya dihitung sekali meskipun melalui ketiga pilar. Kebaruan program terletak pada kesinambungan keputusan hingga pembelian, melengkapi kemampuan digital Pepsodent dan pemilihan produk pesaing yang telah terdokumentasi (Unilever Indonesia, 2024; Haleon, n.d.; Lampiran B2).
 
-**Strategic implication:** distinguish self-shopping with a visible funding ceiling from optional handoff to somebody else. Show ticket and unit cost, preserve the exact SKU, and let a user decline the upgrade. Do not assume a parental veto, an insufficient allowance or a causal price constraint merely because family pays.
+## Layanan ringan membuka peluang pengembalian dengan batas biaya
 
-### Getting what one wanted often means acceptable acquisition rather than a specified product
+Pada rencana 285.000 skrining baru selama 12 kuartal dengan 40% layak, estimasi tim memakai pembelian pertama 35% dibanding 25% di antara yang layak, serta kelanjutan kuartalan 70% dibanding 60%. Setelah penggantian kontribusi Basic, asumsi tambahan Rp6.000 per ekuivalen 100 gram menghasilkan surplus Rp29,53 juta setelah biaya program Rp219,63 juta. Kas bersih setelah modal kerja menjadi Rp14,48 juta; NPV sebelum pajak pada tingkat imbal hasil riil 12% mencapai Rp1,24 juta, dengan pengembalian kas pada tahun ketiga Q3. Kebutuhan pendanaan puncak Rp46,40 juta. Ruang pengembaliannya sempit: NPV nol pada biaya skrining sekitar Rp205 dibanding estimasi Rp200, jika input lain tetap. Asumsi, tolok ukur biaya, seluruh Q1–Q4, serta skenario bawah tersedia pada Lampiran E1–E5.
 
-Manual coding of the desired-product answer yields 31 explicit no-preference responses, 12 named brands/variants, two functional requirements without a named SKU, three dash placeholders and one vague evaluation. Dashes remain missing/unclear, not no preference. Obvious wording variants of “tidak ada pilihan khusus” are normalized; naming a product does not verify its tier.
+## Pelaksanaan bertahap menjaga mutu dan manfaat di luar penjualan
 
-Overall, 34/49 select “I obtained the product I wanted.” However, 22 of those 34 come from the 31 explicit-no-preference accounts, and another three are dash responses. Only seven of the 12 named-preference accounts select “got wanted”; two say it was available but they chose another, and the other three select different availability answers. Some product text and fulfillment answers are inconsistent at an exact-string level; broad meanings, recall or synonyms may explain this. Neither field should be forced into being the unquestionable truth.
+Pada Q1 tahun pertama, pemilik merek menyetujui SKU dan klaim, tim digital menyiapkan halaman serta izin pesan, dan operasi memeriksa alur pada 120 peserta awal. Q2 memulai pembanding dan pengamatan pembelian 180 hari. Q3 menstabilkan proses; perluasan sejak Q4 mengikuti kohort Q2 yang telah matang; tahun kedua dan ketiga memakai ulang aset, dengan staf, biaya serta kapasitas ritel dinilai per kuartal. Keuangan melepas anggaran bertahap hanya bila tambahan kontribusi dan mutu pelayanan memenuhi batas, bukan berdasarkan pendaftar saja. Jadwal, pemilik keputusan, dan risiko dijabarkan pada Lampiran D1 dan D3.
 
-The pattern survives conservative checks: removing all five flagged records leaves 29/44 explicit no preference and 21/29 of those reporting fulfillment. Among the 39 most confident respondents, 25 report no preference and 19/25 report fulfillment. These checks preserve the interpretation but do not reveal an unconscious preference.
+Pendidikan kebiasaan tersedia tanpa syarat membeli Premium. Materi menekankan menyikat dua kali sehari dengan pasta gigi berfluorida selama dua menit, sedangkan keluhan diarahkan ke layanan profesional yang tersedia. Pendidikan dan rujukan dipisahkan dari promosi produk (American Dental Association, n.d.; BPOM, 2025). Target tim adalah perbaikan pengetahuan bersih 10 poin persentase pada hari ke 30; teknik dinilai pada subsampel berizin. Penyelesaian rujukan dan pembelian ulang mempunyai penyebut terpisah. Tidak diproyeksikan penurunan penyakit dari penjualan (Lampiran D2).
 
-**Strategic implication:** first discover whether a relevant additional job exists. “Got what I wanted” cannot serve as an exact-SKU fulfillment metric, a measure of specialist satisfaction or proof that availability is perfect. Equally, no specific preference is not dissatisfaction. Acceptable Basic use may be a legitimate endpoint rather than a conversion failure.
+## Premium dipertahankan ketika nilai tambah tetap layak dipilih
 
-### Price fit, habit and comfort overlap
+Sesuai Saya menawarkan jalan kembali ke Premium melalui kecocokan manfaat, keputusan belanja yang jelas, dan penggantian yang dikendalikan pengguna. Pemakaian kanal serta produk yang ada memungkinkan investasi diarahkan pada kesinambungan layanan. Peluncuran dimulai dengan biaya yang terkunci dan pengukuran pembelian, kemudian diperluas mengikuti hasil kohort; akses pendidikan dasar tetap terjaga bagi pengguna yang memilih Basic.
 
-The prompted question allowed at most three reasons. Its counts describe selections within that capped list, not unconstrained importance weights or spontaneous themes.
+## Daftar pustaka
 
-| Prompted factor | Count of 49 | Sample share |
-| --- | ---: | ---: |
-| Fits available money | 30 | 61.2% |
-| Already accustomed to product | 28 | 57.1% |
-| Taste/comfort fits | 23 | 46.9% |
-| Needs a particular benefit | 15 | 30.6% |
-| Promotion or economical pack | 15 | 30.6% |
-| Purchaser/provider choice | 6 | 12.2% |
-| Existing household stock | 5 | 10.2% |
-| Previous product disappointed | 3 | 6.1% |
-| No added need beyond ordinary toothpaste | 3 | 6.1% |
-| Does not know/participate | 2 | 4.1% |
-| Other reason | 2 | 4.1% |
-| Desired product not found | 1 | 2.0% |
+American Dental Association. (n.d.). Home oral care. Diakses 5 November 2026, dari https://www.ada.org/resources/ada-library/oral-health-topics/home-care
 
-Nineteen of 49 select both budget fit and habit. Eight select budget plus a specific benefit, six habit plus benefit, eight comfort plus benefit and nine promotion plus habit. Price, habit and value are not exclusive segments. Familiarity can be the result of a successful specialist product, not evidence of an uninvolved buyer.
+AnyList. (n.d.). Create and share lists. Diakses 5 November 2026, dari https://www.anylist.com/
 
-Eight of the 15 specific-benefit selectors choose without comparing products. Eight of the 28 habit selectors nevertheless compare. Comparison behavior is therefore an unreliable standalone eligibility filter for education or specialist targeting. Someone can know exactly what works and repeat it without browsing.
+Badan Pengawas Obat dan Makanan [BPOM]. (2025, 17 Februari). BPOM tegaskan aturan penandaan, promosi, dan iklan kosmetik wajib dilaksanakan pelaku usaha. https://www.pom.go.id/siaran-pers/bpom-tegaskan-aturan-penandaan-promosi-dan-iklan-kosmetik-wajib-dilaksanakan-pelaku-usaha
 
-Fifteen identify promotion/economical packs as influential, but only seven of those recall an actual promotion; five say no promotion and three do not know. Across all 49, ten recall a promotion, 21 none and 18 are unsure. The checkbox combines deals with pack economy. It cannot quantify discount dependence, deal waiting or price elasticity.
+Cloudflare. (n.d.). Pricing. Cloudflare Workers documentation. Diakses 5 November 2026, dari https://developers.cloudflare.com/workers/platform/pricing/
 
-### The cross-category insight is useful but modest
+Economics Festival. (2026a). Preliminary round case study Pepsodent [Materi kasus kompetisi; angka ilustratif penyelenggara].
 
-Forty-one of 49 report a recent other-personal-care acquisition: 21 skincare, 11 haircare, three body care, two fragrance, two deodorant and two other products. Thirty-six of those 41 choose it personally, four report family choice and one joint choice. Twenty-seven of 41 compare other-category products, nine do not, four do not participate and one cannot recall. For toothpaste, 18/49 compare, 19 do not, 11 do not participate and one cannot recall.
+Economics Festival. (2026b). Preliminary round guideline executive summary [Pedoman kompetisi].
 
-Those two marginal percentages have different denominators and role composition. The strict matched subset—participation in both choices, a positive comparison gate and interpretable answers—contains only 21 respondents:
+Haleon. (n.d.). Online check up. Sensodyne Indonesia. Diakses 5 November 2026, dari https://www.sensodyne.co.id/Pemeriksaan-online/Pemeriksaan-online.html
 
-| Toothpaste comparison | Other category compared | Other category not compared | Total |
-| --- | ---: | ---: | ---: |
-| Compared | 10 | 3 | 13 |
-| Did not compare | 6 | 2 | 8 |
-| Total | 16 | 5 | 21 |
+Pemerintah Provinsi DKI Jakarta. (2025, 24 Desember). UMP Jakarta 2026 naik 6,17 persen, Gubernur Pramono dukung kesejahteraan pekerja dan keberlanjutan ekonomi Jakarta. https://www.jakarta.go.id/siaran-pers/6328-SP-HMS-12-2025
 
-Six compare only the other category, but three show the reverse. The within-person difference is 3/21, or 14.3 percentage points. The two-sided exact discordance test is p = 0.5078125 from nine discordant pairs. This does not establish a systematic direction, and opt-in sampling further limits population inference. The six other-only accounts are three skincare and three haircare, not six skincare enthusiasts.
+PT Unilever Indonesia Tbk. (2026). Ikhtisar perusahaan FY 2025. https://www.unilever.co.id/investor/lihat-hasil-dan-presentasi-perusahaan/ikhtisar-perusahaan-fy-2025/
 
-Among 16 high-confidence matched respondents, the counts are ten both, three other-only, two toothpaste-only and one neither; the directional difference shrinks to 1/16. Excluding flagged responses gives 20 matched accounts with the original directional pattern. A broader 29-person subset based only on interpretable processes gives ten other-only versus three toothpaste-only, but measures a different construct and must not replace the strict denominator silently.
+Tim Pepsodent E Fest. (2026). Survei eksploratif keputusan pembelian pasta gigi [Data tidak dipublikasikan; pengumpulan 4–5 November 2026; 51 respons, 50 disertakan].
 
-**Strategic implication:** selective category consideration is a targeted hypothesis worth testing. It is weaker than the purchase-role result. The sample does not show that students who buy skincare are wealthy, can afford Premium, neglect oral care or will buy after learning more.
+Twilio. (n.d.). WhatsApp messaging pricing. Diakses 5 November 2026, dari https://www.twilio.com/en-us/whatsapp/pricing
 
-### Replacement is the relevant occasion, but abandonment and stockout are unverified
+Unilever Indonesia. (2024). AI Denta Scan lengkapi layanan konsultasi gigi online Tanya Dokter Gigi by Pepsodent. https://www.unilever.co.id/news/press-releases/2024/ai-dentascan-lengkapi-layanan-konsultasi-gigi-online-tanya-dokter-gigi-by-pepsodent/
 
-Thirty-seven of 49 report the prior tube finished/nearly finished. Seven still use it alternately; two stopped despite some product remaining; one temporarily uses another product; two do not recall. Name changes are not permanent switching histories.
+## Bukti dan rancangan dapat ditelusuri per keputusan
 
-Twenty of 49 report a prior benefit that was felt and important, 13 a felt but less important benefit, 11 no meaningful difference, three no special expectation and two no recall. Sixteen of the 20 valued-benefit respondents also report depletion. They are useful for observing replacement, but not an estimated lapsed-Premium audience. The prior tier, current tier and permanent continuation remain unresolved.
+Lampiran menghubungkan temuan, pilihan strategi, pengalaman pengguna, pelaksanaan, dan kelayakan investasi. Angka survei bersifat deskriptif; target serta proyeksi menggunakan estimasi tim.
 
-Only two of 49 explicitly searched and failed to find a product. Neither supplies a clean verified exact-SKU Premium stockout episode. Four obtained an available alternative by choice; four did not search because of supplied/household stock; two had no particular choice; three were unsure; 34 selected fulfillment. Nationwide stock failure cannot be positioned as the dominant measured cause. Forgetting was not directly isolated either.
+A1  Kasus dan survei menjawab pertanyaan yang berbeda
 
-Thirty-eight of 49 acquisitions occur at minimarkets or supermarkets/hypermarkets: 22 and 16 respectively. Two use warung, making 40/49 known offline routes. Six are online, two unknown because another person bought and one another place. Digital should carry information into the actual purchase route; compulsory e-commerce subscription would ignore the most common reported channels.
+A2  Pilihan pribadi tetap bergantung pada konteks pembelian
 
-Thirty-four use the current tube alone, 13 share it, one does not know and one has not used it. Shared use affects timing and the experimental unit. A fixed 30-day depletion model would be invented. Allow the person to state remaining stock and choose timing.
+A3  Kebutuhan dan riwayat produk menentukan sasaran
 
-### Brand counts cannot become tier or churn estimates
+B1  Pengalaman relevan menjadi inti di antara tiga alternatif
 
-Conservative alias coding gives 26 current single-brand Pepsodent mentions: 23 explicit names and three probable obvious misspellings. Four current strings name multiple brands and three are unknown. The same broad method gives 26 prior Pepsodent accounts, but only 14 clearly name Pepsodent at both events. Seven prior Pepsodent accounts now name another single brand, three mixed strings and two unknowns. Conversely, 12 current Pepsodent accounts did not clearly name it previously.
+B2  Kebaruan terletak pada kelanjutan setelah pemilihan
 
-Equal brand totals conceal different reported episodes. These are neither market-share flows nor churn rates: concurrent use, household stock and recall remain plausible. Two current answers clearly name Sensitive Expert; most Pepsodent records lack exact variants. The report does not promote the automatic tier hints to findings or estimate target switcher prevalence.
+C1  Satu catatan mengikuti keputusan pengguna sampai pembelian ulang
 
-### Monetary precision is insufficient for willingness-to-pay analysis
+C2  Pengalaman sehari hari memperlihatkan peran setiap pilar
 
-Twenty of 49 omit paid price. Twenty report not knowing it, 21 approximate certainty, seven remembering/having proof and one a free product. Twenty-nine enter a number, including two zeroes and the unresolved 190. Packs include missing grams, vague sizes and ambiguous multipacks. A common price median is deliberately omitted because quantities, certainty and the anomalous amount are not comparable. These entries do not establish a price index, income, willingness to pay or an affordability threshold.
+C3  Antarmuka menjaga pilihan dan kendali pengguna
 
-Open responses mention familiarity, family habits, sensory fit, benefits, review/advertising cues, value and isolated ethical/affiliation considerations. These add explanatory leads, not prevalence estimates from a validated coding scale. Expected outcomes are often generic cleaning/freshness or absent, alongside some specific sensitivity/appearance jobs. Further description should retain each person's own job rather than assign skincare users to whitening automatically.
+D1  Pelaksanaan bertahap menyiapkan layanan yang berulang
 
-## Ranked insights and credible opposites
+D2  Keberhasilan sosial dan komersial memakai ukuran berbeda
 
-| Rank | Distinctive insight | What it changes | Credible opposite or boundary |
-| --- | --- | --- | --- |
-| 1 | Family money often accompanies personal choice and shopping | Make self-shopping with transparent cost the default; handoff optional | Family can also sustain shared specialist use; funding is not obstruction |
-| 2 | Fulfillment often lacks a specified preference | Qualify a personally meaningful job before optimizing conversion | Broad acceptance can be rational satisfaction with Basic |
-| 3 | Routine and benefit coexist | Preserve valued habit and comfort; do not target only active comparers | A known specialist choice may need no extra education |
-| 4 | Digital support must reach an offline purchase | Use a portable exact-SKU item and retailer execution | Six online accounts still deserve a usable online route |
-| 5 | Replacement offers a real observation point | Track next actual purchase and stock remaining | Depletion is not evidence of forgetting, churn or a failed preference |
-| 6 | Category selectivity appears in some paired accounts | Test meaningful relevance with appropriate users | Three reverse cases and p = .508 oppose a universal story |
+D3  Risiko ditangani oleh pemilik keputusan yang jelas
 
-No analysis can allocate the seven-point historical share decline among these mechanisms from S01. The practical achievement is a better targeting and measurement design.
+E1  Investasi diarahkan pada layanan ringan yang dapat digunakan ulang
 
-## Three alternatives and explicit selection
+E2  Setiap kuartal menanggung biaya dan kontribusinya sendiri
 
-All alternatives below are evaluated against the same outcome: suitable incremental paid Premium replacement with viable portfolio contribution and a separate oral-care benefit. The comparison is team judgment under current evidence, not a scored consumer referendum. Each alternative would use existing channels, a bounded test and basic outcome capture; the selected concept does not receive an unlimited budget or guaranteed capabilities.
+E3  Pengembalian bergantung pada volume tambahan dan disiplin biaya
 
-| Alternative focus | Complete standalone proposition | Strength | Main weakness |
-| --- | --- | --- | --- |
-| Exact-choice purchase service | A saved item with SKU, pack and costs, personal shopping or optional handoff, plus basic purchase and replacement outcome capture | Low complexity; fits separated purchasing roles and ordinary retail | Most self-choosers already shop personally; it cannot establish an absent additional need |
-| Relevant-benefit experience program | Need-specific explanation, truthful voluntary experience and a practical purchase-and-replacement route, measured on paid repeat | Addresses why an additional benefit would matter before paying for conversion | Trial and coordination costs can exceed contribution; requires truthful claims and staged testing |
-| Replacement assistance service | User-selected check-in and exact-product buying support for an already valued choice, with the same outcome and cost screen | Fits frequent depletion and avoids needless education of satisfied users | No verified Premium lapse cohort; reported failed search is rare and forgetting was not isolated |
+E4  Asumsi terbuka menentukan batas keputusan investasi
 
-Select the **second focus** as the core of **Pepsodent Sesuai Saya**, implemented through the three pillars below. Purchase execution and replacement are necessary operating supports, not three independent programs whose effects can be added. All alternatives must be tested against the same cost ceiling, eligible cohort and paid-repeat outcome; there is no measured comparative winner. If future evidence locates the constraint solely at purchase handoff or replacement, the cheaper focused alternative should replace the broader service.
+E5  Rumus dan kapasitas memperjelas batas pendanaan
 
-The selection follows the evidence: many users already control shopping, many lack a particular preferred product, and replacement usually occurs in ordinary offline retail. A continuity service can distinguish whether relevance, execution or economics actually breaks. Novelty lies in the linked operating and measurement sequence, not a new AI scanner, a new household app, a small tube claimed as newly invented, or a perpetual voucher.
+## Lampiran A1  Kasus dan survei menjawab pertanyaan yang berbeda
 
-## Pillar one Establish personally meaningful value
+Kembali ke ringkasan  ·  Indeks lampiran
 
-**Description and root constraint.** Begin with what the current routine does adequately, then identify a relevant additional job and one suitable existing variant. Separate “cannot distinguish,” “understands but does not value,” and “wanted but disappointed.” Basic remains available. The relevant constraints are insufficient personal relevance, expectation mismatch and poor fit; none is assumed universal.
+Kasus menempatkan penurunan porsi Premium sebagai masalah bisnis. Survei tim menambahkan konteks keputusan pembelian, sehingga keduanya dipakai bersama tanpa mencampurkan populasi atau periode.
 
-**Evidence.** S01 shows 31/49 without a specific preferred product, 15/49 selecting a specific benefit, 23/49 comfort and 20/49 an important prior benefit. These are different questions, not one latent-demand measure. S02's equivalence, no-difference and variant-confusion reasons provide additional case context. They do not prove that education will work.
+Dasar bukti | Temuan | Penggunaan dalam proposal
 
-**Mechanism and operation.** An optional mobile page or staff-assisted equivalent captures the current product and one desired improvement, compares a suitable SKU with the accepted routine, and presents the approved claim, directions, conditions and realistic evaluation window. It shows pack and costs before a voluntary ordinary purchase or authorized existing trial. A later check records what the person actually noticed and whether it mattered. Stop repeated sales pressure when the need is absent or the experience disappoints; route persistent symptoms to appropriate professional care. This is not diagnosis or a universal two-week guarantee.
+Kasus penyelenggara | Porsi Premium 27% (2022) menjadi 20% (H1 2026) | Diagnosis bisnis; perubahan tujuh poin persentase, bukan kerugian laba absolut
 
-**Quantitative impacts.** The pilot should measure benefit comprehension, realistic expectations, suitable choice, reported experience and eventual paid replacement separately. Proposed process targets are at least 80% correct benefit-and-limit comprehension, at least 70% experience follow-up completion, and no opened or decanted trial packs; these are authored targets, not uplift estimates. In M01, the authored base assumes 40% qualification among 10,000 screened contacts and first paid acquisition of 40% versus 25% under usual practice among 4,000 qualified people, or 600 additional first purchases. These are whole-program scenario inputs, not this pillar's demonstrated lift or the survey's qualification rate. A pillar-specific comparison can test explanation support versus ordinary content; it cannot inherit 600 sales automatically.
+Survei ilustratif kasus | 1.200 usia 18–30; alasan pengalih dari 540 orang, jawaban ganda | Kesetaraan manfaat 44%, selisih harga 39%, hasil tidak terasa dalam dua minggu 31%, promo Basic 28%, bingung varian 24%
 
-**Benchmarks and improvement.** Sensodyne Indonesia already offers a saveable check-up profile, advice/product information and sample/coupon pathways [B01]; Colgate India offers product matching [B02]. Pepsodent already has Denta-Scan and ShadeScan capabilities [B03, B05]. These direct benchmarks support feasibility while reducing novelty claims. The proposed improvement is evaluating actual fit and connecting the result to a later paid purchase. Indirect trial-distribution research finds context-dependent effects [B06–B08], including a recent null counterexample. None supplies a local uplift. Manufacturer claims must retain their conditions [B04].
+Survei eksploratif tim | 51 respons; 50 disertakan; seluruhnya usia 18–24 dan masih pendidikan | Perancangan pengalaman, jalur belanja, dan pengukuran; tidak mengestimasi pangsa nasional
 
-## Pillar two Make the actual purchase executable
+Riwayat produk | Belum ada perpindahan Premium ke Basic yang terverifikasi | Rekrut kohort sasaran melalui identitas SKU dan riwayat pembelian
 
-**Description and root constraint.** Turn a qualified product choice into an exact purchasable item through the user's normal route. The main path serves self-shoppers. Where another person shops, a voluntary shareable item carries the same information. The constraints are loss of SKU precision, invisible recurring cost, role separation and purchase-route friction—not a presumed parental veto.
+Gambar A1  Harga kebiasaan dan kenyamanan beririsan dalam alasan pilihan
 
-**Evidence.** Twenty-three of 49 choose and shop personally with family funding; 24/30 self-choosers and 25/31 self-shoppers are family-funded. Thirty-eight of 49 use modern offline retailers. The product must therefore work as a shelf decision and budget conversation as well as a digital link.
+Sumber: Economics Festival (2026a); Tim Pepsodent E Fest (2026). Pertanyaan alasan tim dibatasi maksimal tiga pilihan. Persentase kasus bukan hasil survei tim. Sampel kemudahan tidak mewakili seluruh dewasa muda.
 
-**Mechanism and operation.** Produce an item showing the exact variant name, pack photograph, grams, number of tubes, currently observed ticket, price per 100 g, timestamp/source and supported benefit. The self-shopper keeps it as a phone image/list item and selects a normal retailer. Do not promise live availability without retailer confirmation. An online route can link the exact variant where validated. If a different payer's approval or funding is needed, provide an honest cost comparison through the person's existing communication channel. If somebody else buys, the optional item can be shared; it is not a compulsory family chat or specialist bundle. Record what actually entered the basket and why a substitute was accepted.
+Pemeriksaan mutu | Hasil dan konsekuensi
 
-**Quantitative impacts.** Use exact intended-to-acquired SKU/pack match, paid acquisition per assigned eligible unit, actual ticket/unit cost and payer acceptance where relevant. Establish a baseline because 34/49 broad “got wanted” answers are not SKU matches. Proposed process targets are at least 90% complete saved items (identifiable SKU, grams and dated price), at least 80% correct variant recognition among confirming optional-share recipients, and at least 90% verified acquisition capture among reported acquisitions. Report non-openers, non-confirmers and unverified purchases separately. These are operational targets, not current results. M01's incremental first purchases must remain assigned to the combined program until a separate comparison isolates this component. No extra pillar sales are added.
+Kelayakan | Satu respons di bawah 18 tahun dikeluarkan; 50 respons memenuhi gerbang persetujuan, usia, lingkup, dan kelengkapan.
 
-**Benchmarks and improvement.** AnyList documents shared lists and item photographs [B14], a direct functionality analogue for optional handoff. An archived Pepsodent mobile campaign linked family messaging to a buy-now route [B13], but its media metrics cannot establish sales incrementality. Shopping-list experiments support externalizing exact planned items [B12], not persuading a parent to spend more. The improvement is truthful pack-cost comparison plus execution in the observed physical route, with a recorded match rather than a click as the result.
+Kesesuaian sumber | 35 kolom substantif raw dan CLEAN sesuai; hitungan dihitung ulang dari baris. Sepuluh sel ringkasan salah berformat tanggal.
 
-## Pillar three Support the next chosen replacement
+Harga dan ingatan | Lima respons berflag diperiksa lewat sensitivitas. Harga Rp190 dan isian harga tak pasti tidak diperbaiki secara diam diam.
 
-**Description and root constraint.** After a valued experience, offer user-selected replacement assistance through an existing channel. The problem being tested is whether a wanted choice fails at the next acquisition because of timing, route, exact SKU or acceptable outlay. The survey does not establish forgetting or stockout as its dominant root cause.
+Batas waktu | Sebagian besar episode dengan bulan terisi terjadi setelah H1 2026; episode itu membantu desain saat ini.
 
-**Evidence.** Thirty-seven of 49 encounter depletion and 16 of 20 valued-prior-benefit accounts also report depletion. These support observing continuation, not labeling 20 people lapsed Premium users. Only 2/49 report failed search. Shared use in 13/49 further cautions against a fixed depletion schedule.
+## Lampiran A2  Pilihan pribadi tetap bergantung pada konteks pembelian
 
-**Mechanism and operation.** Ask whether the person wants the same variant, how much remains and when contact would be useful. Offer opt-in timing, snooze, cancellation and an exact-SKU retailer route. No compulsory subscription or automatic shipment is necessary. Confirm retailer price/availability only to the degree supported. A bounded incentive, if tested, has its own assignment and budget; record whether it merely brings forward a planned purchase. Follow the next paid replacement without another program-funded incentive and retain actual retail promotion information.
+Kembali ke ringkasan  ·  Indeks lampiran
 
-**Quantitative impacts.** The primary outcome is verified paid second purchase per all assigned person/household units by a common follow-up date, not only repeat among successful first purchasers. In M01's base illustration, second purchases are 960 versus450, or 510 additional, following 1,600 versus1,000 first purchasers. These are combined-program authored outcomes. Conditional repeat 60% versus45% alone is not a causal retention effect because the program changes who becomes a first buyer. All reminder timing must be user-selected, with at least 95% of opt-outs processed within one working day and no automatic charges or shipments. Record purchases, grams and price; no further program subsidy does not automatically mean the full standard shelf price was paid.
+Gambar A2  Memilih membeli dan membiayai adalah peran yang berbeda
 
-**Benchmarks and improvement.** Oral-B's US replenishment service documents user-selected schedules, skipping, date changes and cancellation [B10]. It demonstrates control functionality, not demand for Indonesian toothpaste subscriptions. The implementation-intentions experiment [B09] supports testing a specific date-and-time plan beyond a generic reminder, but its regression-adjusted vaccination effect must not be transferred into sales. Availability experiments [B11] justify checking substitution where people shop; they do not overturn the low reported stockout count. Improvement lies in permission, actual stock, exact choice and measured paid repeat, with a stop when value is absent.
+Temuan dari 50 respons | Makna bagi desain | Batas interpretasi
 
-## Economic model and quantitative impact envelope
+24 memilih dan berbelanja sendiri dengan dana keluarga | Utamakan item tersimpan untuk pembeli mandiri | Pendanaan keluarga tidak menunjukkan veto atau pendapatan
 
-### Price architecture from the case
+32 tidak memiliki pilihan khusus; 22 di antaranya merasa mendapat yang diinginkan | Tanyakan kebutuhan sebelum menawarkan manfaat tambahan | Kepuasan terhadap pilihan standar dapat rasional
 
-Basic at Rp24,100/190 g equals Rp12,684.21 per 100 g. Premium at Rp41,900/100 g is 3.3033 times that unit price. Promotional Premium at Rp23,500/100 g is2.49% cheaper per tube than Basic but 1.8527 times as expensive per gram. A manageable trial ticket therefore does not prove sustainable recurring affordability. These are case examples, not respondents' paid-price averages or current retailer quotations.
+39 berbelanja di minimarket atau supermarket | Kartu varian dapat dibawa ke rak; daring tetap tersedia | Tidak mengukur ketersediaan SKU tiap toko
 
-The supplied38% and55% gross margins cannot be multiplied by shelf prices to create an actual Unilever contribution forecast. Manufacturer realization, trade funding, variable costs, pack economics and cannibalization are missing.
+38 mengganti produk habis atau hampir habis | Tanyakan sisa produk dan kapan bantuan berguna | Habis tidak sama dengan lupa atau kehilangan loyalitas
 
-### Reproducible assumptions rather than a disguised forecast
+Dua melaporkan pencarian gagal | Tangani sebagai pengecualian | Tidak menempatkan stok kosong sebagai akar masalah utama
 
-M01 normalizes to10,000 screened contacts in each equivalent exposed/comparator cohort over180 days. It is not a sample-size recommendation, a national addressable audience or a promise to recruit20,000 people. Qualification and purchase rates below are entirely authored. First and second paid events each represent100g equivalents for arithmetic; actual trials must record grams and paid prices.
+## Perbandingan kategori memberi petunjuk yang terbatas
 
-For screened N, qualification q, first-acquisition rates aT/aC and conditional repeat rT/rC:
+Dalam 21 pasangan yang memenuhi syarat, sepuluh membandingkan kedua kategori, enam hanya kategori lain, tiga hanya pasta gigi, dan dua tidak membandingkan keduanya. Selisih 14,3 poin persentase dengan uji eksak p = 0,508 tidak menetapkan pola populasi. Temuan ini digunakan untuk menguji relevansi konten, bukan menyimpulkan bahwa pembeli skincare mampu atau bersedia membayar Premium.
 
-`incremental equivalents = N × q × [aT × (1 + rT) − aC × (1 + rC)]`
+Sumber: Tim Pepsodent E Fest (2026), perhitungan ulang ekspor terbaru. Penyebut pada tabel adalah 50 kecuali disebut lain; jawaban ganda dan konstruk antarpertanyaan tidak dijumlahkan.
 
-`net contribution = incremental equivalents × net contribution per equivalent − program cost`
+## Lampiran A3  Kebutuhan dan riwayat produk menentukan sasaran
 
-Qualification must be assessed before treatment comparison. The per-equivalent contribution parameter is net of the relevant portfolio displacement; subtracting Basic a second time would double count it.
+Kembali ke ringkasan  ·  Indeks lampiran
 
-| Assumption or outcome | Downside | Base | Upside |
-| --- | ---: | ---: | ---: |
-| Need-qualified share, assumed |20%|40%|60%|
-| First paid rate treated/comparator |30% / 25%|40% / 25%|45% / 25%|
-| Conditional second paid rate treated/comparator |45% / 45%|60% / 45%|65% / 45%|
-| Qualified people in normalized cohort |2,000|4,000|6,000|
-| First paid events treated/comparator |600/500|1,600/1,000|2,700/1,500|
-| Second paid events treated/comparator |270/225|960/450|1,755/675|
-| Incremental first plus second equivalents |145|1,110|2,280|
-| Assumed net contribution per incremental100g |Rp3,500|Rp6,000|Rp9,000|
-| Contribution before program |Rp0.508m|Rp6.660m|Rp20.520m|
-| Learning plus delivery budget |Rp40m|Rp40m|Rp40m|
-| Net after learning budget |−Rp39.493m|−Rp33.340m|−Rp19.480m|
+## STP memusatkan investasi pada kebutuhan yang masih bernilai
 
-The Rp40m is a proposed cap: Rp30m one-time build/claims review/retailer setup/measurement/analysis plus Rp10m variable delivery and handling. It is not a supplier quote, approved budget or plan to spend. All scenarios lose money within this window. The business case is limited learning with an affordable downside, conditional on team approval, not positive short-term ROI.
+Tahap | Keputusan strategis | Aturan pelaksanaan
 
-At base performance, break-even total ongoing cost is Rp6.660m per 10,000 screened contacts, equivalent to Rp666/contact if all benefits materialize. A repeating Rp40m campaign would need 6,666.7 incremental equivalents at Rp6,000 contribution versus 1,110 modeled. Scale does not rescue negative variable economics. If one-time setup is genuinely sunk and delivery falls to Rp5m, base short-window net becomes Rp1.660m; this is a threshold scenario, not a rollout endorsement.
+Segmentasi | Riwayat Premium/Basic × kebutuhan tambahan × kendali belanja × rute dan pemakaian bersama | Usia dan tempat tinggal menjadi konteks, bukan proksi ketergantungan atau kemampuan membayar
 
-An alternative explicit bridge assumes Premium contribution Rp9,000/100g and Basic contribution Rp6,000/190g, with equal grams displaced. At own-Basic displacement shares 0%, 50%, 80%, 100%, incremental portfolio contribution per 100 g becomes Rp9,000, Rp7,421.05, Rp6,473.68 and Rp5,842.11. These are hypothetical inputs, not derivations from shelf margins. Use this bridge or the generic parameter consistently. Pepsodent gains from sister brand Closeup may not create equal Unilever gains. Existing Premium repeat should cancel against the comparator; timing shifts require longer observation.
+Target utama | Usia 18–30 yang pernah menggunakan Premium, kini Basic, dan masih memiliki kebutuhan relevan | Riwayat SKU dikonfirmasi dengan foto/struk bila tersedia atau penelusuran terstruktur; kasus ambigu dilaporkan terpisah
 
-No national share restoration, disease reduction, lifetime value or annual ROI is forecast. The absolute sales denominator, prospective response and retention horizon are not known.
+Target peluncuran | Mahasiswa yang memenuhi kriteria utama dan dapat dijangkau melalui kanal yang diizinkan | Ini pilihan akses, bukan estimasi ukuran pasar; usia 25–30 dan nonmahasiswa direkrut sebelum generalisasi
 
-At the fixed base qualification count of 4,000 and at most two paid events, even every treated qualified unit purchasing twice yields only 8,000 events versus 1,450 comparator events, or 6,550 incremental equivalents. That remains below the 6,666.7 needed to recover Rp40m at Rp6,000 each. Within this constrained two-event base, higher conversion alone cannot achieve break-even; cost, contribution or a separately justified horizon must change.
+Target sekunder | Pengguna berkebutuhan relevan tanpa riwayat perpindahan yang cukup | Pelayanan dapat tersedia; hasil kohort dipisah dari pengembalian pengguna Premium
 
-The illustrative Rp40m breakdown is Rp10m content/lightweight workflow, Rp10m measurement and verification, Rp10m operations/training, Rp6m authorized trial packs/distribution and Rp4m permissioned messaging/support. This is a cost envelope, not procurement evidence. The actual randomized trial requires its own recruitment, control-arm verification, clustering and attrition budget; the normalized model does not price that trial.
+Positioning | Pilihan manfaat yang sesuai dan layak dipertahankan pada pembelian berikutnya | Basic tetap pilihan; harga total dan harga unit terlihat sebelum komitmen
 
-## Implementation, measurement and societal value
+## Tiga persona situasional mengubah bantuan yang diberikan
 
-Begin with an operational cohort to verify comprehension, exact-SKU capture, consent, retailer handling and reminders. The completed survey need not be rerun as a prerequisite. A future pilot should recruit verified product histories, varied role arrangements and both students and nonstudents, including a prespecified 25–30 cohort. Its sample size should follow the primary outcome, baseline rate, commercially meaningful detectable effect, clustering and attrition; 49 exploratory responses are not a powered intervention trial.
+Persona situasional | Bukti dan pekerjaan pengguna | Respons layanan
 
-Compare the integrated service against usual brand/retail practice. Randomize at household level where tubes are shared, otherwise person level; stratify on verified current tier, relevant need, role split and channel. Stage-specific comparisons may isolate benefit support, optional handoff or reminder/access versus incentive support. Their estimates have different denominators and cannot be mechanically multiplied or added. Use intention-to-treat reporting, missing-outcome sensitivity and a common follow-up date, extending observation when stock remains.
+Pemilih mandiri dengan dana keluarga | 24/50 memilih sekaligus berbelanja sendiri dengan dana keluarga. Perlu pilihan yang cocok dengan dana akuisisi. | Simpan SKU, gramasi, total harga, dan harga unit; berbagi hanya bila dibutuhkan.
 
-Give oral-care support irrespective of Premium purchase. A professionally approved routine module can cover appropriate brushing timing/technique, foundational fluoride care and red-flag referral. Keep public education and clinical referral distinct from cosmetic product advertising; BPOM's published boundaries on professional testimonials require execution review [B16]. ADA information supports foundational fluoride care and distinct additional functions, not Indonesian approval of a particular SKU [B15].
+Pengguna yang menerima pilihan standar | 32/50 tanpa pilihan khusus; 22/32 merasa mendapat produk yang diinginkan. Perlu alasan tambahan yang benar benar relevan. | Jelaskan kebutuhan dan pembanding; tidak ada dorongan upgrade bila Basic memadai.
 
-Social measures should distinguish module access, knowledge, behavior and clinical endpoints. Record participation and attrition; use a prespecified knowledge check and, where feasible with consent, standardized observed technique assessed without knowledge of marketing assignment. Track offered versus completed appropriate referrals separately. Clinical measures such as plaque require a qualified protocol and suitable comparison; none was collected here. Sales, samples, coupon redemptions or Premium mix are not health outcomes. Any numeric social target is a prospective operating target until measured, not a modeled prevented-caries count.
+Pengguna yang sudah menghargai manfaat | 20/50 melaporkan manfaat produk sebelumnya terasa dan penting. Perlu melanjutkan pilihan bila masih sesuai. | Lewati percobaan yang tidak perlu, cek sisa, harga dan pembelian berikutnya.
 
-Release expansion only when exact-SKU and purchase capture work, incremental paid second purchase is positive at the prespecified commercial minimum, and mature portfolio contribution exceeds delivery cost. Stop or narrow when Basic already meets the job, experience does not deliver valued fit, only further vouchers produce buying, reminders irritate users, or portfolio contribution falls. Consumer choice, credible health assistance and learning whom not to convert are part of the design's value.
+Sumber: Tim Pepsodent E Fest (2026); STP dan persona merupakan sintesis desain tim. Persona dapat beririsan, bukan klaster statistik, dan tidak memverifikasi bahwa anggota sampel adalah mantan pengguna Premium. Tidak dibuat nama, pendapatan, atau kutipan fiktif.
 
-## Confirmatory cohort and common measurement registry
+## Lampiran B1  Pengalaman relevan menjadi inti di antara tiga alternatif
 
-The primary confirmatory cohort must match the business problem: age 18–30 with adequately documented previous Premium and current Basic SKU history, distinguished from temporary concurrent use. Broader need-qualified users may enter a separately reported exploratory cohort. Neither the existing 49 nor the modeled 40% qualification rate identifies that target cohort. The planned 5-point detectable difference (11.25% to 16.25%) is deliberately below the scenario’s 12.75-point difference; sample size is not evidence the larger effect will occur.
+Kembali ke ringkasan  ·  Indeks lampiran
 
-Operational targets shared with the executive-summary appendices are: at least 80% correct comprehension, 70% experience follow-up completion, 90% complete saved SKU/gram/dated-price items, 80% correct SKU recognition among confirming optional-share recipients, 90% verifiable capture of reported acquisitions, and 95% opt-out fulfillment within one working day. Every target is authored. Missing, unopened and unconfirmed cases remain visible. The social referral target is 50% completion among all professionally referred participants within 90 days, with consent-to-follow and unknown status separately reported; completion among reachable volunteers is secondary. No target implies a disease reduction or proven commercial uplift.
+Ketiga alternatif dinilai terhadap pembelian Premium tambahan yang sesuai kebutuhan, biaya layanan, relevansi kanal, serta manfaat pendidikan. Perbandingan ini merupakan penilaian desain tim; belum ada eksperimen yang menetapkan pemenang.
 
+Alternatif | Kekuatan | Keterbatasan dan keputusan
 
-## References and evidence identifiers
+Pilihan Tepat — layanan daftar varian | Murah dan membantu menyampaikan SKU ke pembeli | Banyak pengguna sudah memilih dan berbelanja sendiri; alat ini tidak menciptakan alasan menghargai manfaat. Dipertahankan sebagai fungsi pendukung.
 
-S01. Tim Pepsodent E Fest. (2026). Data survei pasta gigi E Fest [Unpublished exploratory survey export supplied 4 November 2026]. Raw and CLEAN source preserved privately; no respondent-level records are included in the repository package.
+Sesuai Saya — pengalaman manfaat relevan | Menghubungkan kebutuhan, ekspektasi, biaya, pengalaman dan kelanjutan | Dipilih sebagai inti; trial selektif dan pembelian normal mengendalikan biaya.
 
-S02. Economics Festival. (2026a). Case study Pepsodent [Supplied competition case]. `sources/transcripts/Case_Study_Transcript.md`; original chart transcription in the master context pack.
+Lanjutkan Pilihan — bantuan penggantian | Mendukung niat yang sudah ada saat produk menipis | Kelupaan dan kegagalan pasokan belum dominan dalam data; digunakan setelah kebutuhan dan kecocokan jelas.
 
-S03. Economics Festival. (2026b). Guideline preliminary round E Fest 2026 [Competition guidelines]. `sources/transcripts/Preliminary_Guidebook_Transcript.md`.
+## Enam P membedakan pilihan strategi secara operasional
 
-R01. Existing project research and buying-situation synthesis at repository commit `a9c168a718f20b13097ae82488c77815958521d5`. Historical hypotheses retain their original limitations.
+6P | Pilihan Tepat | Sesuai Saya | Lanjutkan Pilihan
 
-M01. Team-authored normalized 180-day scenario model, `model/model.py`, `model/scenarios.json` and assumption registry. All rates, contribution and program costs are unvalidated assumptions.
+Product | Informasi SKU dan padanan | Manfaat sesuai kebutuhan dan evaluasi pengalaman | Kelanjutan pilihan yang sudah bernilai
 
-B01. Haleon. (n.d.). Online check up. Sensodyne Indonesia. https://www.sensodyne.co.id/Pemeriksaan-online/Pemeriksaan-online.html
+Price | Harga total dan per 100 g | Harga trial serta biaya beli ulang terlihat; pembelian normal menjadi standar | Harga baru dikonfirmasi sebelum penggantian
 
-B02. Colgate India. (n.d.). Product match tool. https://www.colgate.com/en-in/product-match-tool
+Place | Kartu untuk rak atau tautan toko | Mobile web merek, WhatsApp berizin, ritel yang tersedia | Rute ritel pilihan pengguna
 
-B03. Unilever Indonesia. (2024). AI Denta-Scan lengkapi layanan konsultasi gigi online “Tanya Dokter Gigi by Pepsodent”. https://www.unilever.co.id/news/press-releases/2024/ai-dentascan-lengkapi-layanan-konsultasi-gigi-online-tanya-dokter-gigi-by-pepsodent/
+Promotion | Kejelasan pilihan dan berbagi | Konten kebutuhan serta ekspektasi yang disetujui | Pengingat relevan tanpa voucher berulang
 
-B04. Pepsodent Indonesia. (n.d.-a). Pasta gigi Sensitive Mineral Expert by Pepsodent Whitening. https://www.tanyapepsodent.com/p/sensitif-sensitive-mineral-expert-whitening.html/08999999032890
+Positioning | Varian yang dimaksud terbeli | Tambahan manfaat layak dipertahankan | Pilihan tepat tetap berlanjut
 
-B05. Pepsodent Indonesia. (n.d.-b). Pepsodent Ultra White untuk gigi 5 tingkat lebih putih. https://www.tanyapepsodent.com/ultra-white.html
+Pack | Foto dan berat pack yang ada | Kemasan produsen yang ada dan tersegel; tanpa pack baru | Sisa produk dan jumlah pemakai menentukan waktu
 
-B06. Han, B. R., Chu, L. Y., Sun, T., & Wu, L. (2025). Commercializing the package flow: Cross-sampling physical products through e-commerce warehouses. Management Science. Advance online publication. https://doi.org/10.1287/mnsc.2020.00902
+Sumber: Economics Festival (2026a); Tim Pepsodent E Fest (2026); rancangan tim. Semua alternatif menggunakan kanal digital; tidak memerlukan aplikasi baru atau asumsi kontrak ritel yang sudah ditandatangani.
 
-B07. Paulich, B. J., Pansari, A., & Kumar, V. (2026). Where did you receive the free sample? Sustained impact of new product sample distribution on customer purchase journey. Journal of the Academy of Marketing Science, 54, 322–347. https://doi.org/10.1007/s11747-025-01123-3
+## Lampiran B2  Kebaruan terletak pada kelanjutan setelah pemilihan
 
-B08. Food Standards Agency, Gold, N., Cornel, P., Zhuo, S., Thornton, K., Riddle, R., McPhedran, R., Vega, L., & Zamperetti, L. (2024). Exploring the impact of giving free food samples and loyalty cards on food choices: A stepped wedge trial in workplace food outlets. FSA Research and Evidence. https://doi.org/10.46756/sci.fsa.paq622
+Kembali ke ringkasan  ·  Indeks lampiran
 
-B09. Milkman, K. L., Beshears, J., Choi, J. J., Laibson, D., & Madrian, B. C. (2011). Using implementation intentions prompts to enhance influenza vaccination rates. Proceedings of the National Academy of Sciences, 108(26), 10415–10420. https://doi.org/10.1073/pnas.1103170108
+Pembanding yang terdokumentasi | Pelajaran yang dapat dipakai | Kontribusi konfigurasi usulan
 
-B10. Oral-B US. (n.d.). Frequently asked questions and contact us. https://oralb.com/en-us/faq-help-center/?page=resources
+Pepsodent AI Denta Scan dan konsultasi daring | Kapabilitas pengenalan kebutuhan dan akses profesional telah diumumkan pada 2024 | Tidak membangun pemindai baru; menyambungkan pilihan nonklinis ke harga aktual, belanja, pengalaman dan penggantian
 
-B11. Conlon, C. T., & Mortimer, J. H. (2010). Effects of product availability: Experimental evidence (NBER Working Paper No. 16506). National Bureau of Economic Research. https://doi.org/10.3386/w16506
+Sensodyne Indonesia Online Check Up | Profil dapat disimpan; halaman menjelaskan informasi produk serta sampel/kupon | Menghindari klaim kuis sebagai kebaruan; outcome usulan adalah pembelian berbayar tambahan
 
-B12. Davydenko, M., & Peetz, J. (2020). Shopping less with shopping lists: Planning individual expenses ahead of time affects purchasing behavior when online grocery shopping. Journal of Consumer Behaviour, 19(3), 240–251. https://doi.org/10.1002/cb.1812
+AnyList Create and share lists | Item dan foto dapat membantu komunikasi daftar belanja | Berbagi menjadi opsi untuk pembeli lain; pembelian sendiri tetap rute utama
 
-B13. InMobi. (n.d.). Pepsodent evokes confident, “Merdeka” smiles with an AI-powered brand activation. https://advertising.inmobi.com/case-study/pepsodent-evokes-confident-merdeka-smiles-with-an-ai-powered-brand-activation
+WhatsApp Business Platform | Percakapan dan pesan bertemplat dapat mendukung tindak lanjut berizin | Biaya, kategori pesan dan opt out dihitung; pengingat bukan langganan atau debit otomatis
 
-B14. AnyList. (n.d.). Create and share lists. https://www.anylist.com/
+Nilai usulan terletak pada satu catatan kebutuhan dan SKU yang tetap berguna saat harga berubah, orang lain berbelanja, atau produk menipis. Integrasi tersebut memberi titik ukur pembelian, sehingga keberhasilan tidak berhenti pada kuis, tayangan, atau klaim sampel. Keberadaan komponen pembanding mendukung kelayakan fungsi; tidak menjadi bukti kenaikan penjualan program.
 
-B15. American Dental Association. (n.d.-b). Toothpastes. https://www.ada.org/resources/ada-library/oral-health-topics/toothpastes
+Sumber: Unilever Indonesia (2024); Haleon (n.d.); AnyList (n.d.); Twilio (n.d.). Pembanding ditinjau 5 November 2026; keberadaan halaman bukan konfirmasi kontrak atau integrasi yang aktif untuk program ini.
 
-B16. Badan Pengawas Obat dan Makanan. (2025, February 17). BPOM tegaskan aturan penandaan, promosi, dan iklan kosmetik wajib dilaksanakan pelaku usaha. https://www.pom.go.id/siaran-pers/bpom-tegaskan-aturan-penandaan-promosi-dan-iklan-kosmetik-wajib-dilaksanakan-pelaku-usaha
+## Harga percobaan tidak menghapus selisih biaya pemakaian
 
-B17. American Association for Public Opinion Research. (n.d.-a). Best practices for survey research. https://aapor.org/standards-and-ethics/best-practices/
+Gambar B1  Harga unit tetap berbeda walaupun harga satu tabung promo lebih rendah
 
-B18. American Association for Public Opinion Research. (n.d.-b). Disclosure standards. https://aapor.org/standards-and-ethics/disclosure-standards/
+Sumber: Economics Festival (2026a). Basic Rp24.100/190 g = Rp12.684 per 100 g; Premium promo Rp23.500/100 g dan reguler Rp41.900/100 g. Harga contoh kasus, bukan janji harga ritel saat pelaksanaan.
 
-B19. American Dental Association. (n.d.-a). Home oral care. https://www.ada.org/resources/ada-library/oral-health-topics/home-care
+## Lampiran C1  Satu catatan mengikuti keputusan pengguna sampai pembelian ulang
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Gambar C1  Alur layanan menyertakan pilihan lanjut berhenti dan penanganan pengecualian
+
+Titik keputusan | Data minimum | Pelaksana dan respons
+
+Masuk dan memenuhi sasaran | Usia, riwayat produk, tujuan; izin analisis terpisah dari izin pesan | Web/staf menyaring; nonkohort tetap dapat mengakses pendidikan
+
+Kebutuhan dan pilihan | Manfaat yang dicari, varian, ukuran, batas ekspektasi | Pengguna memilih; materi merek disetujui regulatori; keluhan diarahkan ke layanan profesional
+
+Pembelian pertama | SKU, gramasi, harga bertanggal, struk/foto kemasan | Ritel menjual seperti biasa; verifikasi otomatis dan audit sampel menangani bukti
+
+Pengalaman dan sisa | Kenyamanan, relevansi, jumlah pemakai, waktu yang diinginkan | Tidak cocok: hentikan penawaran; sudah cocok: lewati trial tambahan
+
+Pembelian berikutnya | Transaksi terpisah, harga dan subsidi program | Dedup per transaksi/tabung; pengguna dapat menunda atau berhenti
+
+Sumber: rancangan tim. Garis proses menunjukkan layanan yang diusulkan; tidak menyatakan bahwa perangkat lunak, mitra, atau akses harga sudah beroperasi.
+
+## Lampiran C2  Pengalaman sehari hari memperlihatkan peran setiap pilar
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Gambar C2  Konsep pengalaman kebutuhan belanja dan penggantian
+
+Pilar pertama dimulai pada rutinitas pengguna: kebutuhan dinyatakan dan produk yang sudah dipakai dibandingkan dengan manfaat tambahan. Percobaan dilakukan melalui pembelian berbayar bila diperlukan, menggunakan kemasan produsen yang disetujui. Pengguna yang sudah mengenal manfaat dapat melanjutkan tanpa trial.
+
+Pilar kedua membawa informasi ke tempat transaksi berlangsung. Kartu pilihan memuat identitas SKU, foto resmi, ukuran, harga total dan harga per 100 gram yang diperiksa pada kanal belanja. Kartu dapat disimpan sebagai gambar atau dibagikan kepada pembeli lain.
+
+Pilar ketiga kembali ke keadaan produk yang sungguh dipakai. Pengguna menentukan waktu pemeriksaan sisa dan dapat menolak pesan. Harga penggantian dikonfirmasi sebelum pembelian; pengalaman yang mengecewakan menutup penawaran ulang dan membuka dukungan yang sesuai.
+
+Visualisasi konsep. Adegan dan kemasan pada gambar merupakan ilustrasi usulan, bukan dokumentasi peserta, materi kemasan resmi, pelaksanaan program, atau bukti hasil. Kemasan aktual dan seluruh materi promosi harus memakai aset merek yang disetujui.
+
+Yang dibuat terlihat | Yang dipertahankan dalam layanan
+
+Pengguna mengendalikan tindakan | Tidak wajib membeli Premium untuk memperoleh pendidikan dasar
+
+Belanja berlangsung pada rute biasa | Tidak ada perpindahan paksa ke kanal daring atau kewajiban keluarga membeli paket
+
+Penggantian mengikuti kebutuhan | Tidak ada janji satu tabung habis dalam 30 hari atau penagihan otomatis
+
+## Lampiran C3  Antarmuka menjaga pilihan dan kendali pengguna
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Gambar C3  Konsep mobile web untuk kebutuhan item tersimpan dan pengingat
+
+Visualisasi konsep antarmuka; bukan tangkapan aplikasi yang telah diimplementasikan. Tampilan mengilustrasikan fungsi, sedangkan tabel di bawah menetapkan perilaku dan data yang harus tersedia.
+
+Layar | Isi dan aturan | Kondisi keluar
+
+Kenali kebutuhan | Tujuan pengguna dan pilihan mempertahankan rutinitas; tidak mendiagnosis melalui foto | Basic memadai: simpan rutinitas dan pendidikan; keluhan: layanan profesional
+
+Pilihan tersimpan | Tambahkan foto resmi SKU, gramasi, sumber dan tanggal harga, harga total serta per 100 g | Harga belum diketahui: tampilkan belum dikonfirmasi; tidak mengarang harga atau stok
+
+Cek sisa produk | Jadwal pilihan pengguna; tautan web tetap berfungsi tanpa WhatsApp | Tidak ada izin pesan: tanpa pesan; opt out: hentikan sesuai SLA
+
+Konfirmasi pembelian | Unggah bukti secara sukarela; data pembelian dipisah dari kontak | Bukti belum cukup: status tidak terverifikasi; tidak otomatis dianggap tidak membeli
+
+## Lampiran D1  Pelaksanaan bertahap menyiapkan layanan yang berulang
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Periode relatif | Keluaran dan pemilik | Keputusan sebelum tahap berikutnya
+
+Tahun 1 Q1 | Merek/produk/regulatori menyetujui SKU dan klaim; digital menyiapkan web serta izin pesan; keuangan mengunci biaya | Alur awal diuji pada 120 peserta dari kohort kuartal pertama; perbaiki keluhan, bukti dan salah varian sebelum penambahan
+
+Tahun 1 Q2 | Riset menjalankan pembanding teralokasi dan penelusuran 180 hari; operasi menjalankan pelayanan dan audit | Desain, biaya pembanding dan protokol dibekukan; 25–30 direkrut sebagai strata eksplisit
+
+Tahun 1 Q3–Q4 | Pemilik kanal menstabilkan layanan; evaluator menyajikan hasil kohort matang | Q3 menstabilkan proses; Q4 dan seterusnya memperluas setelah kohort Q2 matang. Biaya aktual tetap menjadi batas
+
+Tahun 2 Q1–Q4 | Digital dan operasi memakai ulang aset; perluasan bertahap ke rute atau kelompok yang relevan | Periksa jam layanan, persetujuan mitra, mutu pengalaman dan ekonomi per kohort
+
+Tahun 3 Q1–Q4 | Merek/keuangan menilai perpanjangan dan replikasi; evaluator memisahkan hasil komersial serta sosial | Replikasi hanya dalam kapasitas; layanan keluhan dan opt out tetap berjalan bila rekrutmen dihentikan
+
+Gambar D1  Kapabilitas dibangun sebelum perluasan dan diukur sepanjang tiga tahun
+
+Sumber: rancangan dan estimasi tim. Q1 dimulai setelah persetujuan pelaksanaan, bukan tanggal lomba. Urutan adalah rencana, bukan komitmen perusahaan atau kontrak mitra.
+
+## Lampiran D2  Keberhasilan sosial dan komersial memakai ukuran berbeda
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Semua peserta dapat memperoleh materi menyikat dua kali sehari dengan pasta gigi berfluorida selama dua menit, sesuai panduan ADA. Pendidikan teknik dan akses informasi layanan dipisahkan dari promosi produk. Tidak ada dokter sebagai pemeran rekomendasi produk. Pemisahan ini mengikuti batas promosi yang dijelaskan BPOM (American Dental Association, n.d.; BPOM, 2025).
+
+Hasil | Definisi dan waktu | Target serta keputusan
+
+Pembelian ulang tambahan | Pembelian kedua berbayar / seluruh unit teralokasi; 180 hari, dibanding kontrol | Efek dan interval dilaporkan; subsidi tambahan, promo ritel, stok sisa dan data hilang dipisah
+
+Kontribusi portofolio | Kontribusi Premium tambahan dikurangi kontribusi produk sendiri yang tergantikan serta seluruh biaya | Kohort matang menutup biaya berulang; keputusan ekspansi memerlukan arus kas dan beban kerja yang memadai
+
+Pemahaman manfaat | Tes fungsi dan batas ekspektasi / seluruh peserta yang dinilai | Estimasi target tim ≥80% benar; semua kehilangan tindak lanjut dilaporkan
+
+Pengetahuan kebiasaan | Selisih perubahan skor tes intervensi dan kontrol pada hari ke 30 | Target tim +10 poin persentase; tidak disamakan dengan penurunan penyakit
+
+Teknik menyikat | Perubahan rubrik pengamatan pada subsampel berizin dan evaluator terlatih | Lima elemen teknik ditetapkan sebelum pengamatan; hasil deskriptif dan pembanding dilaporkan
+
+Akses rujukan | Selesai / seluruh peserta yang disarankan profesional; 90 hari | Target tim 50%; status tidak diketahui dan izin tindak lanjut dipisahkan
+
+Mutu layanan | Izin pesan, opt out, salah varian, keluhan dan bukti | Target ≥95% opt out selesai satu hari kerja; ≥90% item lengkap; audit bukti dan waktu layanan
+
+## Pembanding menjaga klaim tambahan tetap dapat ditafsirkan
+
+Kontrol memperoleh pendidikan dasar yang sama dan praktik ritel biasa; kelompok intervensi memperoleh layanan tiga pilar. Unit alokasi mengikuti pengguna atau rumah tangga yang berbagi tabung. Riwayat SKU dan kebutuhan diperiksa sebelum alokasi; bukti tersedia serta hasil audit riwayat dibedakan dari laporan sendiri. Satu kohort pembanding pembelajaran sekitar 1.000 unit disediakan dalam cadangan riset awal. Ukuran uji yang diperlukan ditetapkan dari baseline, efek minimum, klaster dan kehilangan tindak lanjut; cadangan tersebut tidak dianggap menjamin daya uji. Semua unit teralokasi tetap masuk penyebut, dengan analisis data hilang dan promosi ritel dicatat terpisah.
+
+Sumber: rancangan tim; ADA (n.d.); BPOM (2025). Pengukuran penyakit tidak dimodelkan. Biaya pengukuran dan pembanding dimasukkan ke rancangan biaya, dengan cakupan aktual dikunci sebelum pelaksanaan.
+
+## Lampiran D3  Risiko ditangani oleh pemilik keputusan yang jelas
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Keputusan atau kegiatan | Penanggung jawab akhir | Pelaksana dan dukungan
+
+SKU klaim dan materi | Pemilik merek | Produk/regulatori; edukator mengelola materi kebiasaan terpisah
+
+Harga kanal dan ketersediaan | Pemilik perdagangan | Ritel memberi data yang disepakati; harga tanpa sumber diberi status belum dikonfirmasi
+
+Web izin pesan dan data | Pemilik digital | Operator layanan; evaluator menerima data tanpa kontak langsung
+
+Evaluasi dan penghentian biaya | Pemilik keuangan | Riset dan analitik menghitung tambahan terhadap kontrol
+
+Keluhan dan rujukan | Pemilik layanan | Operator mengarahkan keluhan; profesional memutuskan layanan klinis secara independen
+
+Risiko material | Pencegahan dan respons | Pemilik
+
+Manfaat tidak relevan atau tidak nyaman | Pertahankan Basic; evaluasi ekspektasi; hentikan promosi ulang bila tidak cocok | Merek/layanan
+
+Hanya voucher yang mendorong pembelian | Trial selektif; catat subsidi dan promo ritel; analisis pembelian tanpa subsidi ulang | Keuangan/riset
+
+Harga dan SKU salah | Foto resmi, gramasi dan cap waktu; audit; koreksi sebelum pesan berikutnya | Perdagangan
+
+Pesan mahal atau mengganggu | Izin eksplisit, kuota frekuensi, kanal web alternatif, opt out cepat; tinjau biaya per kategori | Digital
+
+Atribusi atau penghitungan ganda | Satu transaksi dihitung sekali; catat berbagi tabung dan produk sendiri yang tergantikan | Evaluator
+
+Jam kerja melampaui kapasitas | Ukur penanganan kasus dan verifikasi; tambah biaya staf atau batasi penerimaan | Operasi
+
+Klaim atau testimoni melampaui batas | Regulatori meninjau materi; pendidikan dan layanan profesional dipisahkan dari promosi | Regulatori
+
+Kontak dan izin pesan disimpan terpisah dari tabel analisis. Data minimum mencakup SKU, gramasi, harga bertanggal, kejadian pembelian dan status izin. Akses dibatasi menurut peran; retensi serta penghapusan ditetapkan sebelum rekrutmen. Bukti belum terkirim tidak otomatis dikodekan sebagai tidak membeli. Tidak ada akses ke akun keuangan keluarga atau pemindahan kontak survei ke materi publik.
+
+## Lampiran E1  Investasi diarahkan pada layanan ringan yang dapat digunakan ulang
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Layanan memakai kanal yang ada selama tiga tahun dan percobaan melalui pembelian berbayar. Biaya awal menyiapkan web, materi, pengukuran dan pelatihan. Pekerjaan rutin serta penggunaan aset merek tetap mendapat alokasi biaya.
+
+Parameter estimasi tim | Skenario dasar | Dasar keputusan
+
+Unit dan jangkauan | 285.000 unit baru disaring selama 12 kuartal | Unit pembelian independen; 10 → 60 titik kontak ekuivalen ×500 skrining baru/kuartal. Rencana kapasitas, bukan lalu lintas terukur atau mitra yang sudah disepakati.
+
+Kelayakan sasaran | 40% dari yang disaring | Riwayat Premium/Basic cukup spesifik dan kebutuhan relevan; bukan hasil survei. Gerbang SKU terstruktur, bukti bila tersedia dan audit riwayat terbatas.
+
+Pembelian pertama | 35% intervensi; 25% praktik biasa | Perbedaan 10 poin merupakan estimasi tim yang diuji; tidak diambil dari studi luar atau sampel 50.
+
+Kelanjutan kuartalan | 70% intervensi; 60% praktik biasa | Kohort berlanjut secara geometris; tanpa reaktivasi atau nilai pelanggan terminal.
+
+Frekuensi | Satu ekuivalen 100 g per unit aktif per kuartal | Asumsi volume; aktual menggunakan gramasi. Tidak menetapkan jadwal habis atau pengingat 90 hari.
+
+Tambahan kontribusi portofolio | Rp6.000 per tambahan 100 g | Kontribusi Premium Rp8.500 dikurangi Basic setara gram Rp2.500. Jembatan seluruhnya estimasi tim.
+
+Modal kerja dan diskonto | Rp2.500/tambahan 100 g; 12% riil/tahun | Cadangan bersih piutang/persediaan/utang, bukan DSO perusahaan; tingkat imbal hasil merupakan kriteria tim.
+
+## Kontribusi dihitung setelah penjualan Basic yang tergantikan
+
+Jembatan kontribusi estimasi tim | Premium 100 g | Basic 190 g
+
+Realisasi bersih produsen | Rp20.000 | Rp12.000
+
+Biaya produksi | Rp10.500 | Rp6.750
+
+Biaya dagang dan logistik normal | Rp1.000 | Rp500
+
+Kontribusi normal | Rp8.500 | Rp4.750
+
+Kontribusi per 100 g | Rp8.500 | Rp2.500
+
+Semua nilai SKU adalah estimasi tim. Harga rak × margin kasus tidak dipakai sebagai realisasi produsen. Margin kotor konsolidasi FY2025 sebesar 46,9% (PT Unilever Indonesia Tbk, 2026) hanya pembanding kewajaran umum, bukan margin SKU. Penggantian Basic sudah dikurangkan sekali; perpindahan merek sendiri lain perlu ditaksir ulang.
+
+## Lampiran E2  Setiap kuartal menanggung biaya dan kontribusinya sendiri
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Juta rupiah konstan 2026, kecuali kolom unit. Pembulatan tampilan dapat menyebabkan selisih kecil; perhitungan memakai angka penuh. T0 memuat pengeluaran awal Rp20 juta. Q1–Q4 adalah kuartal relatif sejak program dimulai.
+
+Waktu | Skrining | Δ 100 g | Kontrib. | Biaya | Surplus | Δ MK | Kas | Kas total
+
+T1Q1 | 5.000 | 200 | 1,20 | 7,54 | -6,33 | 0,50 | -6,83 | -26,84
+
+T1Q2 | 10.000 | 590 | 3,54 | 9,39 | -5,85 | 0,97 | -6,82 | -33,66
+
+T1Q3 | 15.000 | 1.143 | 6,86 | 11,46 | -4,61 | 1,38 | -5,99 | -39,65
+
+T1Q4 | 20.000 | 1.828 | 10,97 | 13,70 | -2,73 | 1,71 | -4,44 | -44,09
+
+T2Q1 | 25.000 | 2.616 | 15,70 | 16,04 | -0,34 | 1,97 | -2,31 | -46,40
+
+T2Q2 | 30.000 | 3.484 | 20,90 | 18,46 | 2,44 | 2,17 | 0,28 | -46,12
+
+T2Q3 | 30.000 | 4.210 | 25,26 | 19,39 | 5,86 | 1,82 | 4,05 | -42,08
+
+T2Q4 | 30.000 | 4.790 | 28,74 | 20,05 | 8,69 | 1,45 | 7,24 | -34,84
+
+T3Q1 | 30.000 | 5.238 | 31,43 | 20,51 | 10,92 | 1,12 | 9,80 | -25,04
+
+T3Q2 | 30.000 | 5.578 | 33,47 | 20,83 | 12,64 | 0,85 | 11,79 | -13,25
+
+T3Q3 | 30.000 | 5.832 | 34,99 | 21,06 | 13,93 | 0,63 | 13,30 | 0,05
+
+T3Q4 | 30.000 | 6.018 | 36,11 | 21,21 | 14,90 | 0,47 | 14,43 | 14,48
+
+Ringkasan tahunan | Tahun 1 | Tahun 2 | Tahun 3
+
+Kontribusi tambahan | 22,57 | 90,60 | 136,00
+
+Biaya program rutin | 42,09 | 73,94 | 83,61
+
+Surplus operasi | -19,52 | 16,66 | 52,39
+
+Tambahan modal kerja | 4,57 | 7,40 | 3,07
+
+Kas operasi program | -24,09 | 9,25 | 49,32
+
+Kas kumulatif setelah T0 | -44,09 | -34,84 | 14,48
+
+## Arus kas mempertahankan modal kerja yang masih terikat
+
+Tambahan 41.527 ekuivalen 100 g; kontribusi Rp249,16 juta; biaya awal dan rutin Rp219,63 juta. Surplus Rp29,53 juta dikurangi modal kerja akhir Rp15,05 juta menyisakan kas Rp14,48 juta. Satuan kontribusi, biaya, surplus, Δ MK, kas dan kumulatif dalam juta rupiah. Δ MK ialah perubahan modal kerja; kumulatif sudah mengurangi T0. Proksi kas sebelum pajak; tanpa nilai terminal atau pelepasan modal kerja pada Q12.
+
+## Lampiran E3  Pengembalian bergantung pada volume tambahan dan disiplin biaya
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Gambar E1  Kas kumulatif mengungkap kebutuhan pendanaan dan risiko tiga skenario
+
+Skenario | Surplus setelah biaya awal | Kas setelah modal kerja | NPV riil 12% | Pengembalian kas
+
+Bawah | -167,51 | -172,48 | -146,05 | Tidak tercapai
+
+Dasar | 29,53 | 14,48 | 1,24 | T3Q3
+
+Atas | 379,18 | 346,75 | 260,93 | T2Q2
+
+Satuan juta rupiah. Skenario bawah: jangkauan 75% dasar, pembelian awal 30%, kelanjutan 65%, kontribusi Rp4.500, skrining Rp400, layanan Rp450 dan pesan Rp400 per kejadian. Skenario atas: jangkauan 125%, pembelian awal 40%, kelanjutan 75%, kontribusi Rp7.500, skrining Rp180. Kontrol tetap 25% awal dan 60% kelanjutan. Semua merupakan estimasi tim, bukan peluang statistik.
+
+Gambar E2  Kenaikan biaya per skrining cepat menghabiskan ruang pengembalian
+
+Dengan input lain tetap, NPV nol pada biaya skrining sekitar Rp205, kontribusi Rp5.962 per tambahan 100 g, konversi awal 34,89%, atau kelanjutan 69,84%. Ambang dihitung satu per satu; tidak menjamin kelayakan bila beberapa input memburuk bersamaan.
+
+## Lampiran E4  Asumsi terbuka menentukan batas keputusan investasi
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+Alokasi estimasi tim | Nilai | Dasar dan batas pembanding
+
+Biaya awal | Rp20 juta pada T0 | CMS Rp5 juta; katalog/izin/data Rp3 juta; pendidikan dan tinjauan profesional Rp3 juta; QR/pelatihan Rp3 juta; pembanding/riset/QA Rp6 juta.
+
+Skrining dan akses kanal | Rp200/unit baru | Rp100 materi/QR +Rp100 alokasi kanal milik merek. Bukan CAC berbayar yang terukur; akses murah merupakan syarat utama.
+
+Pemeriksaan riwayat | Rp40/unit layak | Gerbang SKU otomatis dan audit: 2% ×2 menit +1% pengecualian ×1 menit =0,05 menit/unit; sekitar Rp33,7 tenaga +Rp6,3 pemrosesan.
+
+Layanan dan bukti | Rp350/kejadian berbayar intervensi | 5% audit struk ×2 menit +10% dukungan ×3 menit =0,4 menit/kejadian; sekitar Rp270 tenaga +Rp80 pemrosesan.
+
+Pesan | Rp300/kejadian berbayar intervensi | 20% opt in ×2 pesan ×Rp750 cadangan menyeluruh. Rp750 adalah estimasi tim; tarif Twilio US$0,005/pesan ditambah biaya kategori Meta hanya jangkar struktur biaya.
+
+Operasi tetap | Rp6 juta/kuartal | Koordinasi Rp4,2 juta; konten/profesional Rp0,6 juta; hosting/keamanan Rp0,6 juta; analitik Rp0,6 juta.
+
+Tenaga kerja | Rp7 juta/bulan terbebani | Estimasi di atas jangkar UMP Jakarta 2026 Rp5.729.876. Asumsi 173 jam/bulan, sekitar Rp40.500/jam. Bukan penawaran tenaga kerja.
+
+Infrastruktur | Dalam Rp0,6 juta/kuartal | Cloudflare Workers minimum berbayar US$5/bulan hanya jangkar biaya masuk; integrasi, keamanan dan SLA tetap harus dicakup penawaran aktual.
+
+Sumber jangkar: Twilio (n.d.); Pemerintah Provinsi DKI Jakarta (2025); Cloudflare (n.d.). Tarif dan upah tidak membuktikan harga pengadaan program atau kinerja komersial. Seluruh alokasi rupiah adalah estimasi tim.
+
+## Lampiran E5  Rumus dan kapasitas memperjelas batas pendanaan
+
+Kembali ke ringkasan  ·  Indeks lampiran
+
+## Kapasitas dan pembanding mempunyai biaya yang dapat diperiksa
+
+Pada puncak dasar sekitar 13.435 kejadian berbayar intervensi per kuartal, penanganan variabel memerlukan sekitar 90 jam; koordinasi tetap menambah sekitar 104 jam. Audit riwayat pada 12.000 unit layak menambah sekitar 10 jam. Alokasi tenaga variabel dibayar terpisah dari 0,2 ekuivalen staf koordinasi. Perubahan beban keluhan, audit dan tarif memicu penghitungan ulang.
+
+Cadangan riset awal Rp6 juta mencakup satu kohort pembanding pembelajaran yang diusulkan 1.000 unit: rekrutmen 2.500 skrining Rp0,5 juta, hingga 1.000 catatan bukti Rp0,35 juta, 100 jam riset Rp4 juta, dan protokol/QA Rp1,15 juta. Pengukuran rutin intervensi sudah ada dalam biaya kejadian. Trajektori pembanding 12 kuartal adalah normalisasi model, bukan tambahan 285.000 peserta kontrol. Daya uji, klaster, insentif dan akses riwayat menentukan kebutuhan riset aktual sebelum anggaran dilepas.
+
+Model 180 hari sebelumnya tetap menunjukkan kerugian. Versi ini mengubah rancangan layanan, biaya awal, pembelian percobaan berbayar, kohort berulang dan horizon secara eksplisit. Pendanaan puncak Rp46,40 juta berbeda dari total biaya tiga tahun. Anggaran dilepas bertahap; skenario dasar tidak menjustifikasi komitmen tiga tahun sekaligus.
+
+Sumber: estimasi tim. Tarif pajak, pendanaan, depresiasi dan WACC perusahaan tidak diasumsikan telah diketahui. Angka proyeksi perlu diperbarui bila data margin, biaya kanal, audit riwayat, konversi atau kelanjutan aktual mengubah batas investasi.
+
+## Kohort berulang direkonsiliasi dengan pembanding
+
+Perhitungan per kuartal | Rumus dan satuan
+
+Unit layak | Skrining baru × tingkat kelayakan 40%
+
+Aktif intervensi | Unit layak ×35% + aktif intervensi kuartal lalu ×70%
+
+Aktif praktik biasa | Unit layak ×25% + aktif praktik biasa kuartal lalu ×60%
+
+Tambahan volume | (Aktif intervensi − aktif praktik biasa) ×1 ekuivalen 100 g
+
+Kontribusi tambahan | Tambahan volume ×Rp6.000
+
+Biaya rutin | Skrining ×Rp200 + unit layak ×Rp40 + kejadian berbayar intervensi ×(Rp350 +Rp300) +Rp6 juta
+
+Kas program | Kontribusi − biaya rutin − perubahan modal kerja; modal kerja = tambahan volume ×Rp2.500
+
+NPV | −Rp20 juta + jumlah kas kuartal yang didiskontokan pada (1 +12%) pangkat kuartal/4
+
+Seluruh persentase dan koefisien merupakan estimasi tim. Satu kohort dihitung hanya sejak masuk sampai akhir jendela; tidak ada penjumlahan dampak tiap pilar. Satuan orang/rumah tangga berbagi tabung dideduplikasi; frekuensi aktual memakai gramasi. Data aktual menggantikan asumsi sebelum keputusan pendanaan berikutnya.

@@ -1,0 +1,171 @@
+{
+  "age": {
+    "18–20 tahun": 41,
+    "21–24 tahun": 9
+  },
+  "activity": {
+    "Sekolah / kuliah": 43,
+    "Kuliah sambil bekerja": 7
+  },
+  "living": {
+    "Lainnya": 1,
+    "Orang tua atau keluarga": 20,
+    "Sendiri, termasuk di kos": 26,
+    "Teman kos, teman serumah, atau asrama": 3
+  },
+  "chooser": {
+    "Saya sendiri": 31,
+    "Orang tua atau keluarga": 19
+  },
+  "payer": {
+    "Orang tua atau keluarga": 42,
+    "Saya sendiri": 6,
+    "Tidak tahu / tidak ingat": 2
+  },
+  "shopper": {
+    "Saya sendiri": 32,
+    "Orang tua atau keluarga": 17,
+    "Tidak tahu / tidak ingat": 1
+  },
+  "users": {
+    "Saya sendiri": 35,
+    "Saya dan orang lain": 13,
+    "Tidak tahu": 1,
+    "Belum dipakai": 1
+  },
+  "channel": {
+    "Tempat lain": 1,
+    "Supermarket / hypermarket": 16,
+    "Minimarket": 23,
+    "Marketplace / toko online": 6,
+    "Tidak tahu karena bukan saya yang membeli": 2,
+    "Warung atau toko kelontong": 2
+  },
+  "price_certainty": {
+    "Saya tidak tahu harganya": 20,
+    "Perkiraan saja": 22,
+    "Saya ingat harganya / punya bukti pembelian": 7,
+    "Produk itu gratis": 1
+  },
+  "promo": {
+    "Tidak": 21,
+    "Ya": 11,
+    "Tidak tahu": 18
+  },
+  "previous_experience": {
+    "Tidak punya harapan khusus": 3,
+    "Ada manfaat yang terasa, tetapi tidak terlalu penting bagi saya": 13,
+    "Ada manfaat yang terasa dan penting bagi saya": 20,
+    "Saya tidak merasakan perbedaan yang berarti": 12,
+    "Tidak ingat": 2
+  },
+  "previous_status": {
+    "Sudah habis / hampir habis": 38,
+    "Tidak ingat": 2,
+    "Masih ada, tetapi saya berhenti memakainya": 2,
+    "Masih ada dan dipakai bergantian": 7,
+    "Saya hanya memakai produk lain sementara": 1
+  },
+  "availability": {
+    "Saya mendapat produk yang saya inginkan": 34,
+    "Produknya tersedia, tetapi akhirnya memilih yang lain": 4,
+    "Saya mencari, tetapi tidak menemukannya": 2,
+    "Saya tidak mencari karena memakai yang disediakan orang lain / stok rumah": 4,
+    "Saya tidak punya pilihan produk tertentu": 3,
+    "Tidak tahu / tidak ingat": 3
+  },
+  "tooth_deliberation": {
+    "Saya memilih tanpa membandingkan dengan produk lain": 19,
+    "Saya membandingkan beberapa produk sebelum memilih": 19,
+    "Saya tidak ikut memilih": 11,
+    "Tidak ingat": 1
+  },
+  "comparison_gate": {
+    "Ya": 41,
+    "Tidak": 6,
+    "Tidak ingat": 3
+  },
+  "other_category": {
+    "Pembersih wajah / skincare": 21,
+    "Parfum / wewangian": 2,
+    "Sampo / perawatan rambut": 11,
+    "Sabun mandi / perawatan tubuh": 3,
+    "Produk perawatan diri lainnya": 2,
+    "null": 9,
+    "Deodoran": 2
+  },
+  "other_deliberation": {
+    "Tidak ingat": 1,
+    "Saya membandingkan beberapa produk sebelum memilih": 27,
+    "Saya memilih tanpa membandingkan dengan produk lain": 9,
+    "Saya tidak ikut memilih": 4,
+    "MISSING": 9
+  },
+  "recall": {
+    "Cukup yakin dengan sebagian besar jawaban": 39,
+    "Ada beberapa bagian yang hanya perkiraan": 9,
+    "Banyak bagian yang tidak saya ingat": 2
+  },
+  "reasons": {
+    "Produk itu sudah biasa saya pakai": 28,
+    "Saya membutuhkan manfaat tertentu": 15,
+    "Rasa atau kenyamanannya cocok": 23,
+    "Ada promo atau paket hemat": 16,
+    "Harganya sesuai uang yang tersedia": 31,
+    "Memakai stok yang sudah ada di rumah": 5,
+    "Pilihan orang yang membeli / menyediakan": 6,
+    "Produk sebelumnya tidak sesuai harapan": 3,
+    "Tidak punya kebutuhan tambahan di luar pasta gigi biasa": 4,
+    "Saya tidak tahu / tidak ikut memutuskan": 2,
+    "Ada alasan lain": 2,
+    "Produk yang diinginkan tidak ditemukan": 1
+  },
+  "brand_current": {
+    "Pepsodent": 27,
+    "Closeup": 5,
+    "Colgate": 3,
+    "Unknown": 3,
+    "Pepsodent mentioned": 2,
+    "Ciptadent": 2,
+    "Sensodyne": 2,
+    "Formula": 1,
+    "USmile": 1,
+    "Darlie mentioned": 1,
+    "Marvis": 1,
+    "Darlie": 1,
+    "Sensodyne mentioned": 1
+  },
+  "brand_previous": {
+    "Pepsodent": 26,
+    "Closeup": 7,
+    "Colgate": 4,
+    "Unresolved": 2,
+    "Unknown": 2,
+    "Darlie": 2,
+    "Sensodyne": 2,
+    "USmile": 1,
+    "Formula": 1,
+    "Pepsodent mentioned": 1,
+    "Ciptadent": 1,
+    "Sensodyne mentioned": 1
+  },
+  "tier_current_candidates": {
+    "Pepsodent tier unresolved": 23,
+    "Other or unresolved": 21,
+    "Named premium candidate": 5,
+    "Named basic candidate": 1
+  },
+  "tier_previous_candidates": {
+    "Other or unresolved": 23,
+    "Pepsodent tier unresolved": 23,
+    "Named premium candidate": 2,
+    "Named basic candidate": 2
+  },
+  "preference_code": {
+    "No specific product preference": 32,
+    "Named product preference": 12,
+    "Unclear or nonanswer": 3,
+    "Functional requirement": 2,
+    "Vague response": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "n": 21,
+  "neither": 2,
+  "other_only": 6,
+  "tooth_only": 3,
+  "both": 10,
+  "tooth_compared_n": 13,
+  "other_compared_n": 16,
+  "difference_pp": 14.285714285714286,
+  "exact_mcnemar_p": 0.5078125,
+  "valid_deliberation_only_n": 29,
+  "valid_deliberation_other_only_n": 10,
+  "valid_deliberation_tooth_only_n": 3
+}

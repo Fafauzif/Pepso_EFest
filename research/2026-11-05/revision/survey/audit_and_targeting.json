@@ -1,0 +1,192 @@
+{
+  "source": {
+    "sha256": "e7e435db9cc6aaa45529765b6e057a6cdf7a6c5a2f9bb7901a2bc9cb7aec9668",
+    "submitted": 51,
+    "eligible": 50,
+    "excluded_under18": 1,
+    "collection_start_wib": "2026-11-04 17:47:16",
+    "collection_end_wib": "2026-11-05 00:13:06"
+  },
+  "reconciliation": {
+    "compared_rows": 51,
+    "compared_substantive_columns": 35,
+    "raw_clean_mismatches": {},
+    "eligibility_recomputed_from_raw": true,
+    "collection_phase_check": "51 MAIN flags retained from export; source launch timestamp not independently available in workbook",
+    "review_adjudications": 0,
+    "summary_count_cells_misformatted_as_dates": 10
+  },
+  "headlines": {
+    "self_choose": 31,
+    "self_shop": 32,
+    "family_payer": 42,
+    "self_choose_and_shop_family_pay": 24,
+    "self_choose_family_pay": 25,
+    "self_shop_family_pay": 26,
+    "self_choose_and_shop": 30,
+    "all_roles_self": 6,
+    "solo_living": 26,
+    "solo_living_family_pay": 22,
+    "modern_offline": 39,
+    "all_known_offline": 41,
+    "no_specific_preference": 32,
+    "prior_valued_benefit": 20,
+    "depleted": 38,
+    "failed_search": 2,
+    "family_chooser": 19,
+    "family_chooser_family_shopper": 16,
+    "specific_benefit_reason": 15,
+    "specific_benefit_without_comparing": 8
+  },
+  "dates": {
+    "known_acquisition_month": 29,
+    "missing_acquisition_month": 21,
+    "post_h1_2026": 27,
+    "august2025": 2,
+    "first_of_month_is_representation_only": true
+  },
+  "quality": {
+    "flagged_records": 5,
+    "high_recall_records": 39,
+    "price_zero": 2,
+    "price_190": 1,
+    "price_remembered_or_proof": 7,
+    "verified_premium_to_basic_histories": 0,
+    "history_scope": "No manually adjudicated or independently verified histories; zero here does not mean nobody switched",
+    "self_reported_validated_history_available": false
+  },
+  "sensitivity": {
+    "unflagged": {
+      "n": 45,
+      "no_specific_preference": 30,
+      "no_preference_and_got_wanted": 21
+    },
+    "high_recall": {
+      "n": 39,
+      "no_specific_preference": 25,
+      "no_preference_and_got_wanted": 19
+    },
+    "paired_unflagged": {
+      "n": 20,
+      "neither": 2,
+      "other_only": 6,
+      "tooth_only": 3,
+      "both": 9,
+      "exact_mcnemar_p": 0.5078125
+    },
+    "paired_high_recall": {
+      "n": 16,
+      "neither": 1,
+      "other_only": 3,
+      "tooth_only": 2,
+      "both": 10,
+      "exact_mcnemar_p": 1.0
+    }
+  },
+  "persona_design_basis": [
+    {
+      "name": "Pengguna mandiri dengan dana keluarga",
+      "observed_intersection": 24,
+      "denominator": 50,
+      "basis": "chooser=SELF AND shopper=SELF AND payer=FAMILY",
+      "job": "Mempertahankan pilihan pribadi dengan biaya total dan biaya ulang yang jelas",
+      "response": "Alur belanja sendiri; kartu varian dan harga; berbagi hanya bila perlu",
+      "not_proven": "Veto orang tua, pendapatan, kesediaan membayar Premium"
+    },
+    {
+      "name": "Pengguna yang sudah menemukan kecocokan",
+      "observed_intersection": 20,
+      "denominator": 50,
+      "basis": "previous_experience=valued important benefit",
+      "job": "Mempertahankan manfaat yang sudah dihargai saat produk habis",
+      "response": "Lewati trial yang tidak perlu; simpan SKU dan waktu penggantian sukarela",
+      "not_proven": "20 bekas pengguna Premium atau efek pengingat"
+    },
+    {
+      "name": "Pengguna dengan pilihan keluarga",
+      "observed_intersection": 19,
+      "denominator": 50,
+      "basis": "chooser=FAMILY;16 dari19 juga family_shopper",
+      "job": "Menyelaraskan produk yang dipakai bersama dengan pemilih/pembeli sebenarnya",
+      "response": "Kartu pilihan opsional untuk pembeli; tidak wajib konversi seluruh keluarga",
+      "not_proven": "Keluarga menolak Premium; kebutuhan satu tabung perorang"
+    }
+  ],
+  "stp": {
+    "segmentation": "Kebutuhan manfaat yang berlanjut; riwayat SKU; peran pemilih-pembeli-pembiaya; kanal; keadaan stok. Dimensi bisa beririsan.",
+    "primary_target": "Usia18–30 dengan riwayat Pepsodent Premium lalu Basic yang dikonfirmasi secukupnya dan kebutuhan tambahan yang masih relevan.",
+    "initial_recruitment": "Mahasiswa sebagai kelompok awal yang dapat diakses; bukan proksi seluruh target18–30. Sertakan25–30 dan nonmahasiswa sebelum generalisasi.",
+    "secondary_target": "Pengguna baru berkebutuhan relevan dilaporkan sebagai kohort eksploratif terpisah.",
+    "exclusion": "Kebutuhan dasar sudah terpenuhi; tidak ada kebutuhan relevan; pengguna tidak ingin dihubungi; keluhan yang memerlukan layanan profesional.",
+    "positioning": "Pilihan Premium yang sesuai kebutuhan, jelas biaya ulangnya, mudah dibeli melalui kanal biasa, dan dipertahankan hanya bila bernilai.",
+    "market_size_claim": "Tidak ada estimasi ukuran pasar, pangsa segmen, CAC, qualification40%, conversion, retention, atau WTP dari survei ini."
+  },
+  "changed_counts_vs_prior49": [
+    {
+      "field": "age",
+      "label": "18–20 tahun",
+      "old": 40,
+      "new": 41
+    },
+    {
+      "field": "chooser",
+      "label": "Saya sendiri",
+      "old": 30,
+      "new": 31
+    },
+    {
+      "field": "payer",
+      "label": "Orang tua atau keluarga",
+      "old": 41,
+      "new": 42
+    },
+    {
+      "field": "shopper",
+      "label": "Saya sendiri",
+      "old": 31,
+      "new": 32
+    },
+    {
+      "field": "channel",
+      "label": "Minimarket",
+      "old": 22,
+      "new": 23
+    },
+    {
+      "field": "preference_code",
+      "label": "No specific product preference",
+      "old": 31,
+      "new": 32
+    },
+    {
+      "field": "previous_experience",
+      "label": "Saya tidak merasakan perbedaan yang berarti",
+      "old": 11,
+      "new": 12
+    },
+    {
+      "field": "previous_status",
+      "label": "Sudah habis / hampir habis",
+      "old": 37,
+      "new": 38
+    },
+    {
+      "field": "reasons",
+      "label": "Ada promo atau paket hemat",
+      "old": 15,
+      "new": 16
+    },
+    {
+      "field": "reasons",
+      "label": "Harganya sesuai uang yang tersedia",
+      "old": 30,
+      "new": 31
+    },
+    {
+      "field": "reasons",
+      "label": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+      "old": 3,
+      "new": 4
+    }
+  ]
+}

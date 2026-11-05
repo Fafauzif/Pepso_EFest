@@ -1,0 +1,332 @@
+[
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Produk itu sudah biasa saya pakai",
+    "n": 19
+  },
+  {
+    "a": "Produk itu sudah biasa saya pakai",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 13
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Harganya sesuai uang yang tersedia",
+    "n": 12
+  },
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 12
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Produk itu sudah biasa saya pakai",
+    "n": 9
+  },
+  {
+    "a": "Rasa atau kenyamanannya cocok",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 8
+  },
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 8
+  },
+  {
+    "a": "Produk itu sudah biasa saya pakai",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 6
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 4
+  },
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Pilihan orang yang membeli / menyediakan",
+    "n": 4
+  },
+  {
+    "a": "Pilihan orang yang membeli / menyediakan",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 4
+  },
+  {
+    "a": "Memakai stok yang sudah ada di rumah",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 3
+  },
+  {
+    "a": "Pilihan orang yang membeli / menyediakan",
+    "b": "Produk itu sudah biasa saya pakai",
+    "n": 3
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 2
+  },
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Produk sebelumnya tidak sesuai harapan",
+    "n": 2
+  },
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 2
+  },
+  {
+    "a": "Memakai stok yang sudah ada di rumah",
+    "b": "Produk itu sudah biasa saya pakai",
+    "n": 2
+  },
+  {
+    "a": "Produk sebelumnya tidak sesuai harapan",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 2
+  },
+  {
+    "a": "Produk itu sudah biasa saya pakai",
+    "b": "Produk sebelumnya tidak sesuai harapan",
+    "n": 1
+  },
+  {
+    "a": "Produk itu sudah biasa saya pakai",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 1
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Pilihan orang yang membeli / menyediakan",
+    "n": 1
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 1
+  },
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Memakai stok yang sudah ada di rumah",
+    "n": 1
+  },
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Produk yang diinginkan tidak ditemukan",
+    "n": 1
+  },
+  {
+    "a": "Memakai stok yang sudah ada di rumah",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 1
+  },
+  {
+    "a": "Memakai stok yang sudah ada di rumah",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 1
+  },
+  {
+    "a": "Produk sebelumnya tidak sesuai harapan",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 1
+  },
+  {
+    "a": "Saya tidak tahu / tidak ikut memutuskan",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 1
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 1
+  },
+  {
+    "a": "Produk yang diinginkan tidak ditemukan",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 1
+  },
+  {
+    "a": "Produk itu sudah biasa saya pakai",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Produk itu sudah biasa saya pakai",
+    "b": "Produk yang diinginkan tidak ditemukan",
+    "n": 0
+  },
+  {
+    "a": "Saya membutuhkan manfaat tertentu",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 0
+  },
+  {
+    "a": "Saya membutuhkan manfaat tertentu",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Rasa atau kenyamanannya cocok",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 0
+  },
+  {
+    "a": "Rasa atau kenyamanannya cocok",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Memakai stok yang sudah ada di rumah",
+    "n": 0
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Produk sebelumnya tidak sesuai harapan",
+    "n": 0
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Ada promo atau paket hemat",
+    "b": "Produk yang diinginkan tidak ditemukan",
+    "n": 0
+  },
+  {
+    "a": "Harganya sesuai uang yang tersedia",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Memakai stok yang sudah ada di rumah",
+    "b": "Pilihan orang yang membeli / menyediakan",
+    "n": 0
+  },
+  {
+    "a": "Memakai stok yang sudah ada di rumah",
+    "b": "Produk sebelumnya tidak sesuai harapan",
+    "n": 0
+  },
+  {
+    "a": "Memakai stok yang sudah ada di rumah",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Memakai stok yang sudah ada di rumah",
+    "b": "Produk yang diinginkan tidak ditemukan",
+    "n": 0
+  },
+  {
+    "a": "Pilihan orang yang membeli / menyediakan",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 0
+  },
+  {
+    "a": "Pilihan orang yang membeli / menyediakan",
+    "b": "Produk sebelumnya tidak sesuai harapan",
+    "n": 0
+  },
+  {
+    "a": "Pilihan orang yang membeli / menyediakan",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 0
+  },
+  {
+    "a": "Pilihan orang yang membeli / menyediakan",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Pilihan orang yang membeli / menyediakan",
+    "b": "Produk yang diinginkan tidak ditemukan",
+    "n": 0
+  },
+  {
+    "a": "Produk sebelumnya tidak sesuai harapan",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 0
+  },
+  {
+    "a": "Produk sebelumnya tidak sesuai harapan",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Produk sebelumnya tidak sesuai harapan",
+    "b": "Produk yang diinginkan tidak ditemukan",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Produk itu sudah biasa saya pakai",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Ada promo atau paket hemat",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Harganya sesuai uang yang tersedia",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Memakai stok yang sudah ada di rumah",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Pilihan orang yang membeli / menyediakan",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Produk sebelumnya tidak sesuai harapan",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Tidak punya kebutuhan tambahan di luar pasta gigi biasa",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  },
+  {
+    "a": "Ada alasan lain",
+    "b": "Produk yang diinginkan tidak ditemukan",
+    "n": 0
+  },
+  {
+    "a": "Produk yang diinginkan tidak ditemukan",
+    "b": "Saya membutuhkan manfaat tertentu",
+    "n": 0
+  },
+  {
+    "a": "Produk yang diinginkan tidak ditemukan",
+    "b": "Rasa atau kenyamanannya cocok",
+    "n": 0
+  },
+  {
+    "a": "Produk yang diinginkan tidak ditemukan",
+    "b": "Saya tidak tahu / tidak ikut memutuskan",
+    "n": 0
+  }
+]

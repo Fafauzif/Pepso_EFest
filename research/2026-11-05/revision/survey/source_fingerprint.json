@@ -1,0 +1,14 @@
+{
+  "source_name": "Data survei pasta gigi \u2014 E-Fest (1).xlsx",
+  "sha256": "e7e435db9cc6aaa45529765b6e057a6cdf7a6c5a2f9bb7901a2bc9cb7aec9668",
+  "included": 50,
+  "sheets": [
+    "Form responses 1",
+    "CLEAN",
+    "RINGKASAN",
+    "PETUNJUK",
+    "KAMUS",
+    "REVIEW",
+    "Sheet1"
+  ]
+}

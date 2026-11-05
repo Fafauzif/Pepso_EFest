@@ -1,0 +1,50 @@
+[
+  {
+    "id": "F01",
+    "author": "Twilio",
+    "date": "n.d.",
+    "title": "WhatsApp Messaging Pricing",
+    "url": "https://www.twilio.com/en-us/whatsapp/pricing",
+    "checked": "2026-11-05",
+    "verified_fact": "USD0.005perinbound/outboundmessage handling plus Meta category fees; displayedpricingcurrentSeptember2026.",
+    "appropriate_use": "Messages have variablecost; budgetallmessagecategories. Rp750 is teamallowance, notquotedIndonesiarate.",
+    "not_supported": "TheexactIndonesiatotal, freeunlimitedmessages orconversioneffect.",
+    "web_ref": "turn2view1"
+  },
+  {
+    "id": "F02",
+    "author": "Pemerintah Provinsi DKI Jakarta",
+    "date": "2025-12-24",
+    "title": "UMP Jakarta2026 ditetapkan sebesarRp5.729.876",
+    "url": "https://www.jakarta.go.id/siaran-pers/6328-SP-HMS-12-2025",
+    "checked": "2026-11-05",
+    "verified_fact": "2026JakartaminimumwageRp5,729,876/month.",
+    "appropriate_use": "ContextforRp7mloadedmonthteamstaffallowance.",
+    "not_supported": "Aquotedprogramstaffrate, applicablelegalwageforallIndonesiaorproofthat0.2FTEisavailable.",
+    "web_ref": "turn6view0"
+  },
+  {
+    "id": "F03",
+    "author": "Cloudflare",
+    "date": "n.d.",
+    "title": "Pricing · Cloudflare Workers docs",
+    "url": "https://developers.cloudflare.com/workers/platform/pricing/",
+    "checked": "2026-11-05",
+    "verified_fact": "WorkerspaidplanminimumUSD5/month, usagechargesapply.",
+    "appropriate_use": "Lightweightinfrastructurecanhavealowentrycost;Rp0.6m/qhostingsecurityisateamtotalallowance.",
+    "not_supported": "AcompleteenterpriseCMSsecuritySLAquotationorassuredproductionaccess.",
+    "web_ref": "turn6view1"
+  },
+  {
+    "id": "F04",
+    "author": "PT Unilever Indonesia Tbk",
+    "date": "2026",
+    "title": "Ikhtisar Perusahaan FY2025",
+    "url": "https://www.unilever.co.id/investor/lihat-hasil-dan-presentasi-perusahaan/ikhtisar-perusahaan-fy-2025/",
+    "checked": "2026-11-05",
+    "verified_fact": "FY2025consolidatedgrossmargin46.9%.",
+    "appropriate_use": "Broadreasonablenesscontextforhypotheticalmanufacturingmarginbridgeonly.",
+    "not_supported": "PepsodentSKUmargin, manufacturerrealizationorprogramnetcontribution.",
+    "web_ref": "turn2view2"
+  }
+]
